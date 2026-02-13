@@ -1,16 +1,16 @@
-# Data Scientist II at FirstRand
+# Senior Data Scientist, GeminiApp at DeepMind
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [DeepMind](https://scoutify.ai/companies/deepmind?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-II_R45687) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/deepmind/jobs/7590093) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-01-30.
+This data scientist position at DeepMind was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

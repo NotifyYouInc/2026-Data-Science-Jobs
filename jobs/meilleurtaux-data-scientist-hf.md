@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist H/F  at Meilleurtaux
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Machine Learning Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67694) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000107578019-data-scientist-hf) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-01-30.
+This machine learning engineer position at Meilleurtaux was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

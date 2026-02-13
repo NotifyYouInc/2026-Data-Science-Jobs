@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Analyst |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011422329-biostatistician-i) |
+| Category | Data Scientist |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011509576-biostatistician-i) |
 
 ## About This Role
 
-This data analyst position at Harvard University was posted on 2026-01-29.
+This data scientist position at Harvard University was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

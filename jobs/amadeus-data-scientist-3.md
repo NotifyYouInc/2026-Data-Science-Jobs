@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist 3 at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67694) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Data-Scientist-3_R32919) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-01-30.
+This machine learning engineer position at Amadeus was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

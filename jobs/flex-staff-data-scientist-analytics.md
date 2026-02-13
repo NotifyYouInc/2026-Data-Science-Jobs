@@ -1,16 +1,16 @@
-# Data Scientist II at FirstRand
+# Staff Data Scientist & Analytics  at Flex
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Flex](https://scoutify.ai/companies/flex?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-II_R45687) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flex/jobs/4658283005) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-01-30.
+This data scientist position at Flex was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

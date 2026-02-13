@@ -6,7 +6,7 @@
 | Location | Minneapolis, Minnesota, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000106427635-data-scientist-decision-support-analytics-and-automation) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000106596026-data-scientist-decision-support-analytics-and-automation) |
 
 ## About This Role
 

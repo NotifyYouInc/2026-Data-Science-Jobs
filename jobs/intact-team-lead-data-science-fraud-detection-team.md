@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Team Lead,  Data Science - Fraud Detection Team at Intact
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0233169) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Chef-d-quipe--Science-de-donnes---Dtection-des-fraudes_R151417) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-01-30.
+This data scientist position at Intact was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

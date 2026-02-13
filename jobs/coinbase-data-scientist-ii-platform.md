@@ -1,16 +1,16 @@
-# Data Scientist II at FirstRand
+# Data Scientist II - Platform at Coinbase
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-II_R45687) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-01-30.
+This data scientist position at Coinbase was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

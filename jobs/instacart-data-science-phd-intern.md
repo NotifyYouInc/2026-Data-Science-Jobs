@@ -1,16 +1,16 @@
-# Data Scientist II at FirstRand
+# Data Science PhD Intern at Instacart
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Alberta, CA |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-II_R45687) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7592471) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-01-30.
+This data scientist position at Instacart was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

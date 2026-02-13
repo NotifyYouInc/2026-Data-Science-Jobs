@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Panama |
-| Category | Machine Learning Engineer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Data-Scientist_R000144650) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Scientist |
+| Posted | 2026-02-02 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/Data-Scientist_R000144419) |
 
 ## About This Role
 
-This machine learning engineer position at Procter & Gamble was posted on 2026-01-29.
+This data scientist position at Procter & Gamble was posted on 2026-02-02.
 
 ## Get Real-Time Alerts
 

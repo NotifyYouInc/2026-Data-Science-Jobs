@@ -1,16 +1,16 @@
-# Data Scientist II at FirstRand
+# Clinical Research Statistician at Cadence Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Cadence Solutions](https://scoutify.ai/companies/cadencesolutions?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-II_R45687) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cadencesolutions/jobs/4651070006) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-01-30.
+This data scientist position at Cadence Solutions was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
