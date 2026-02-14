@@ -1,16 +1,16 @@
-# Quantitative Researcher at Fidelity
+# Data Scientist II, Product Analytics at Expedia
 
 | Field | Details |
 |-------|---------|
-| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Karnataka, IN |
 | Category | Data Scientist |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Quantitative-Researcher_2122520) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Scientist-II--Product-Analytics_R-100520) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-02-06.
+This data scientist position at Expedia was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Quantitative Researcher at Fidelity
+# Senior Data Scientist, Strategic Pricing at Realtor.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Quantitative-Researcher_2122520) |
+| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7621901003?gh_jid=7621901003) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-02-06.
+This data scientist position at Realtor.com was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Rome, Lazio, Italy |
 | Category | Machine Learning Engineer |
-| Posted | 2026-01-31 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88734) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011562656-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-01-31.
+This machine learning engineer position at AbbVie was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

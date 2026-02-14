@@ -1,4 +1,4 @@
-# (USA) Senior, Data Scientist at Walmart
+# Staff, Data Scientist – Conversational AI at Walmart
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bentonville, Arkansas, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Senior--Data-Scientist_R-2408174-1) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist---Conversational-AI_R-2101437-1) |
 
 ## About This Role
 

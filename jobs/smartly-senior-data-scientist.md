@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Senior Data Scientist at Smartly
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [Smartly](https://scoutify.ai/companies/smartly?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-01-31 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88734) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartlyio/jobs/5796036004) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-01-31.
+This machine learning engineer position at Smartly was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

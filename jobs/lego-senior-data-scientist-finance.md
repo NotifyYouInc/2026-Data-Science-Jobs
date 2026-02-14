@@ -1,16 +1,16 @@
-# Quantitative Researcher at Fidelity
+# Senior Data Scientist, Finance at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Scientist |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Quantitative-Researcher_2122520) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Copenhagen-Lvstrde/Sr-Data-Scientist--Finance_0000031471) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-02-06.
+This data scientist position at LEGO was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

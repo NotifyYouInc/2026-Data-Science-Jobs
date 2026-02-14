@@ -1,16 +1,16 @@
-# Quantitative Researcher at Fidelity
+# Statistician at Genentech
 
 | Field | Details |
 |-------|---------|
-| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | South San Francisco, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Quantitative-Researcher_2122520) |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Statistician_202509-124617-1) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-02-06.
+This data scientist position at Genentech was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

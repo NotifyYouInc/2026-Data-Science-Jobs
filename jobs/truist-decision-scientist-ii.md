@@ -1,16 +1,16 @@
-# Quantitative Researcher at Fidelity
+# Decision Scientist II at Truist
 
 | Field | Details |
 |-------|---------|
-| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 4 locations |
 | Category | Data Scientist |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Quantitative-Researcher_2122520) |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Winston-Salem-NC---101-North-Cherry-Street/Decision-Scientist-II_R0110814) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-02-06.
+This data scientist position at Truist was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

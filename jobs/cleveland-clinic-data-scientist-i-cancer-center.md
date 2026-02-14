@@ -1,16 +1,16 @@
-# Senior Data Scientist at ICF
+# Data Scientist I - Cancer Center at Cleveland Clinic
 
 | Field | Details |
 |-------|---------|
-| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Senior-Data-Scientist_R2600359) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1) |
 
 ## About This Role
 
-This data scientist position at ICF was posted on 2026-02-04.
+This data scientist position at Cleveland Clinic was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

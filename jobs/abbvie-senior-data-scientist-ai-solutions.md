@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011440877-senior-data-scientist-ai-solutions) |
+| Posted | 2026-02-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011462126-senior-data-scientist-ai-solutions) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-01-30.
+This data scientist position at AbbVie was posted on 2026-02-02.
 
 ## Get Real-Time Alerts
 

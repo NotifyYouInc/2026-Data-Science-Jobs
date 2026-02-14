@@ -1,16 +1,16 @@
-# Senior Data Scientist at ICF
+# AI Research Scientist, Robotics at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
-| Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Senior-Data-Scientist_R2600359) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1331758117918513) |
 
 ## About This Role
 
-This data scientist position at ICF was posted on 2026-02-04.
+This machine learning engineer position at Meta was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

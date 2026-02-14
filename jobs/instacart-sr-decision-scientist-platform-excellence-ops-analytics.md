@@ -1,16 +1,16 @@
-# Senior Data Scientist at ICF
+# Sr. Decision Scientist, Platform Excellence Ops Analytics at Instacart
 
 | Field | Details |
 |-------|---------|
-| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
-| Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Senior-Data-Scientist_R2600359) |
+| Category | Data Engineer |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7597008) |
 
 ## About This Role
 
-This data scientist position at ICF was posted on 2026-02-04.
+This data engineer position at Instacart was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

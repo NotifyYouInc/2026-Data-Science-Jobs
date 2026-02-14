@@ -1,16 +1,16 @@
-# Senior Data Scientist at ICF
+# Data Scientist - Decisions, Lyft Urban Solutions at Lyft
 
 | Field | Details |
 |-------|---------|
-| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Senior-Data-Scientist_R2600359) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8402782002?gh_jid=8402782002) |
 
 ## About This Role
 
-This data scientist position at ICF was posted on 2026-02-04.
+This data scientist position at Lyft was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4653074005?gh_jid=4653074005) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4655669005?gh_jid=4655669005) |
 
 ## About This Role
 
-This data scientist position at Inter Carreiras was posted on 2026-01-30.
+This data scientist position at Inter Carreiras was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

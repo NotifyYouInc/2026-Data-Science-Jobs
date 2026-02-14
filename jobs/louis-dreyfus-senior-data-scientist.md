@@ -1,16 +1,16 @@
-# Quantitative Researcher at Fidelity
+# Senior Data Scientist at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
-| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Quantitative-Researcher_2122520) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000107813533-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-02-06.
+This data scientist position at Louis Dreyfus was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

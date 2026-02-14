@@ -1,16 +1,16 @@
-# Senior Data Scientist at ICF
+# Data Scientist (Hybrid) at Enova
 
 | Field | Details |
 |-------|---------|
-| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Company | [Enova](https://scoutify.ai/companies/enova?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Senior-Data-Scientist_R2600359) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enova/jobs/7594427) |
 
 ## About This Role
 
-This data scientist position at ICF was posted on 2026-02-04.
+This data scientist position at Enova was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

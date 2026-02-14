@@ -1,16 +1,16 @@
-# Senior Data Scientist at ICF
+# Senior Data Scientist, Platform (Integrity) at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/London-GB80/Senior-Data-Scientist_R2600359) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7594971?gh_jid=7594971) |
 
 ## About This Role
 
-This data scientist position at ICF was posted on 2026-02-04.
+This data scientist position at Airbnb was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
