@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Data Scientist at T-Mobile
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0233209-1) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Data-Scientist_REQ326422-2) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-01-30.
+This data scientist position at T-Mobile was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

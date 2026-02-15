@@ -6,7 +6,7 @@
 | Location | Chicago, Illinois, United States |
 | Category | Venture Capital |
 | Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011448056-principal-laboratory-data-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011448386-principal-laboratory-data-manager) |
 
 ## About This Role
 

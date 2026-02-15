@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Staff Data Scientist - AML at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0233209-1) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000107925111-staff-data-scientist-aml) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-01-30.
+This data scientist position at WISE was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 
