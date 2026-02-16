@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist - Price at trivago
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [trivago](https://scoutify.ai/companies/trivago?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Germany |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=86289) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://careers.trivago.com/job/r8401443002?gh_jid=8401443002) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-03.
+This machine learning engineer position at trivago was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

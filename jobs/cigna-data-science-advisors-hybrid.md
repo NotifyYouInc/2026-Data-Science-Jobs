@@ -1,16 +1,16 @@
-# Senior- Data Scientist Consultant at Experian
+# Data Science Advisors- Hybrid at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108178815-senior-data-scientist-consultant) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Data-Science-Advisors--Hybrid_26001388) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-02-09.
+This data scientist position at Cigna was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

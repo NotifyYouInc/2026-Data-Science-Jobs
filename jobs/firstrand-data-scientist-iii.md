@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-III_R45462) |
+| Location | Randburg, Gauteng, South Africa |
+| Category | Marketing |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Data-Scientist-III_R45867) |
 
 ## About This Role
 
-This machine learning engineer position at FirstRand was posted on 2026-02-02.
+This marketing position at FirstRand was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

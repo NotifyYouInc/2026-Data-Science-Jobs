@@ -1,16 +1,16 @@
-# Research Scientist, Calibration and Control Schemes, Quantum AI at Google
+# Business Data Scientist, Google Cloud Security Strategy at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Software Engineer |
+| Location | Sunnyvale, California, United States |
+| Category | Data Scientist |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/114765110789972678-research-scientist-calibration-and-control-schemes-quantum-ai?sort_by=date&page=1) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/123232312396522182-business-data-scientist-google-cloud-security-strategy?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-09.
+This data scientist position at Google was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

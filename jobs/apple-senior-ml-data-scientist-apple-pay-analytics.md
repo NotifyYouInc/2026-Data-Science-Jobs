@@ -1,16 +1,16 @@
-# Senior- Data Scientist Consultant at Experian
+# Senior ML Data Scientist,  Apple Pay Analytics at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Cupertino, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108178815-senior-data-scientist-consultant) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645693-0836/senior-ml-data-scientist-apple-pay-analytics?team=SFTWR) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-02-09.
+This data scientist position at Apple was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Venture Capital |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011448386-principal-laboratory-data-manager) |
+| Posted | 2026-02-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011461746-principal-laboratory-data-manager) |
 
 ## About This Role
 
-This venture capital position at AbbVie was posted on 2026-01-30.
+This venture capital position at AbbVie was posted on 2026-02-02.
 
 ## Get Real-Time Alerts
 

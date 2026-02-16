@@ -1,16 +1,16 @@
-# Senior- Data Scientist Consultant at Experian
+# Data Scientist at Hunter Douglas
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108178815-senior-data-scientist-consultant) |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7624016003?gh_jid=7624016003) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-02-09.
+This data scientist position at Hunter Douglas was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

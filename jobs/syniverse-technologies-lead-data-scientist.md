@@ -1,16 +1,16 @@
-# Data Scientist at Entain
+# Lead Data Scientist at Syniverse Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Syniverse Technologies](https://scoutify.ai/companies/syniverse-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107488935-data-scientist) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/India-Bangalore/Lead-Data-Scientist_R0007271) |
 
 ## About This Role
 
-This data scientist position at Entain was posted on 2026-02-05.
+This data scientist position at Syniverse Technologies was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

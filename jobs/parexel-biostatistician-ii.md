@@ -1,16 +1,16 @@
-# Senior- Data Scientist Consultant at Experian
+# Biostatistician II at Parexel
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Guangzhou, Guangdong, China |
 | Category | Data Scientist |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108178815-senior-data-scientist-consultant) |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/China-Guangzhou/Biostatistician-II_R0000038308) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-02-09.
+This data scientist position at Parexel was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

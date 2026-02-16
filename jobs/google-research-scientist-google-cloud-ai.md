@@ -1,12 +1,12 @@
-# Research Scientist, Calibration and Control Schemes, Quantum AI at Google
+# Research Scientist, Google Cloud AI at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/114765110789972678-research-scientist-calibration-and-control-schemes-quantum-ai?sort_by=date&page=1) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/139287381185307334-research-scientist-google-cloud-ai?sort_by=date&page=1) |
 
 ## About This Role
 

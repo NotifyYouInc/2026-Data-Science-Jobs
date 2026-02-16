@@ -1,16 +1,16 @@
-# Data Scientist II at FirstRand
+# Data Scientist - Senior at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Maryland, US |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-II_R45313) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Data-Scientist---Senior_R-00175305) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-03.
+This data scientist position at Leidos was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

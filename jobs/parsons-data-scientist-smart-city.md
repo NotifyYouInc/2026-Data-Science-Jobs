@@ -1,16 +1,16 @@
-# Senior- Data Scientist Consultant at Experian
+# Data Scientist - Smart City at Parsons
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Data Scientist |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108178815-senior-data-scientist-consultant) |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/QA---Doha/Data-Scientist---Smart-City_R177166-2) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-02-09.
+This data scientist position at Parsons was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
