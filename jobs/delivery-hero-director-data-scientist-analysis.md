@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107481724-director-data-scientist-analysis) |
 
 ## About This Role
 
-This strategy and operations position at Delivery Hero was posted on 2026-02-05.
+This strategy & operations position at Delivery Hero was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

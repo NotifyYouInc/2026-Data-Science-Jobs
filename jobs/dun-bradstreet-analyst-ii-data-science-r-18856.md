@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Dun & Bradstreet](https://scoutify.ai/companies/dnb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.lever.co/dnb/19044ab0-7181-434a-a2a0-8b2ff807b579) |
 

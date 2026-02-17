@@ -1,16 +1,16 @@
-# Senior Engineer, Customer Quality Engineering at Western Digital
+# Senior Data Scientist at Edwards Lifesciences
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Irvine, California, United States |
-| Category | QA Engineer |
+| Category | Data Scientist |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000108246358-senior-engineer-customer-quality-engineering) |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Data-Scientist_Req-45547) |
 
 ## About This Role
 
-This qa engineer position at Western Digital was posted on 2026-02-09.
+This data scientist position at Edwards Lifesciences was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

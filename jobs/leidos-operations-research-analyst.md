@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Operations-Research-Analyst_R-00175342) |
 
 ## About This Role
 
-This strategy and operations position at Leidos was posted on 2026-02-05.
+This strategy & operations position at Leidos was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

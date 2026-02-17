@@ -1,16 +1,16 @@
-# Senior Data Scientist, Data valorization at Desjardins
+# Senior Data Scientist, Data Valorization at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Stratgie-et-Mise-en-uvre-de-l-intelligence-artificielle_R2601115) |
+| Posted | 2026-02-03 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Stratgie-d-IA-et-cas-d-usage_R2601517-2) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-02-02.
+This data scientist position at Desjardins was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

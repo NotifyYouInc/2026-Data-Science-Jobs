@@ -1,16 +1,16 @@
-# Staff Design Researcher - Quantitative  at WISE
+# Research Scientist, AI for Extreme Weather Forecasting at DeepMind
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [DeepMind](https://scoutify.ai/companies/deepmind?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | UX Researcher |
+| Category | Software Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000108211815-staff-design-researcher-quantitative) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/deepmind/jobs/7597360) |
 
 ## About This Role
 
-This ux researcher position at WISE was posted on 2026-02-09.
+This software engineer position at DeepMind was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
