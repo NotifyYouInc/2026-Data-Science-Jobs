@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Senior Data Scientist - Cards and Credit at Mercury
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Mercury](https://scoutify.ai/companies/mercury?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Data Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/5799320004) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data engineer position at Mercury was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

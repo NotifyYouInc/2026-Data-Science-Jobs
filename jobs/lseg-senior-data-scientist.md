@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Data-Scientist_R0116109-1) |
+| Location | Bucharest, București, Romania |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Senior-Data-Scientist_R0115263-1) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-02-02.
+This machine learning engineer position at LSEG was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

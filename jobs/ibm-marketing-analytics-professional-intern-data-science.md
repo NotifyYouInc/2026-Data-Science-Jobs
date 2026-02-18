@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Marketing Analytics Professional Intern - Data science at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67730) |
+| Location | India |
+| Category | Data Scientist |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=76290) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-04.
+This data scientist position at IBM was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

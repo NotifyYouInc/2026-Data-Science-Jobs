@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# AI & Data Scientist at Red Bull
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
+| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
+| Category | Data Scientist |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000108439985-ai-data-scientist) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data scientist position at Red Bull was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

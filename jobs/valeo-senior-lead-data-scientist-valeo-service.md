@@ -1,16 +1,16 @@
-# Staff, Data Scientist at Walmart
+# Senior Lead Data Scientist, Valeo Service at Valeo
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist_R-2402288) |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Cairo/Senior-Lead-Data-Scientist--Valeo-Service_REQ2026070239) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-02-10.
+This machine learning engineer position at Valeo was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

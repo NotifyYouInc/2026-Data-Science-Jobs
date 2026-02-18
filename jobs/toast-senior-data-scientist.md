@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Senior Data Scientist at Toast
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=67730) |
+| Category | Software Engineer |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7605916) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-04.
+This software engineer position at Toast was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

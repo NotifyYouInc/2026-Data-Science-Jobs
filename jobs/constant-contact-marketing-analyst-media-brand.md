@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Marketing Analyst, Media & Brand at Constant Contact
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
+| Company | [Constant Contact](https://scoutify.ai/companies/constantcontact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
+| Category | Data Analyst |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/constantcontact/jobs/7521173) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data analyst position at Constant Contact was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

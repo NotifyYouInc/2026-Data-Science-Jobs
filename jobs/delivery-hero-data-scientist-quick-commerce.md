@@ -1,16 +1,16 @@
-# Staff, Data Scientist at Walmart
+# Data Scientist - Quick Commerce at Delivery Hero
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist_R-2402288) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000108612025-data-scientist-quick-commerce) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-02-10.
+This machine learning engineer position at Delivery Hero was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Loss Forecasting) at Achieve
+# Data Scientist (m/f/d) at Redcare Pharmacy
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Germany |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011526617-sr-data-scientist-loss-forecasting) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000108549448-data-scientist-mfd) |
 
 ## About This Role
 
-This data scientist position at Achieve was posted on 2026-02-04.
+This data scientist position at Redcare Pharmacy was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

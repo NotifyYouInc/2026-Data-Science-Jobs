@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Data Engineer / Data Scientist at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108426690-data-engineer-data-scientist) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data engineer position at Inetum was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

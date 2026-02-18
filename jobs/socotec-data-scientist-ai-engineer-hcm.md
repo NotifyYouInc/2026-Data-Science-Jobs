@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Data Scientist - AI Engineer - HCM at SOCOTEC
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
+| Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Vietnam |
+| Category | Software Engineer |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000108454255-data-scientist-ai-engineer-hcm) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This software engineer position at SOCOTEC was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

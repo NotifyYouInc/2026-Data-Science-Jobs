@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Data Scientist - Model Governance (Hybrid) at Enova
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
+| Company | [Enova](https://scoutify.ai/companies/enova?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Chicago, Illinois, United States |
+| Category | Data Scientist |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enova/jobs/7602878) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data scientist position at Enova was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

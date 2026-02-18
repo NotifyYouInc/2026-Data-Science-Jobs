@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Data Scientist, PAR at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Menlo Park, California, United States |
+| Category | Data Scientist |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/929537276206543) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data scientist position at Meta was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Biostatistician I at Covance
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
+| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Leeds, England, United Kingdom |
+| Category | Data Scientist |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Leeds/Biostatistician-I_26445) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data scientist position at Covance was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

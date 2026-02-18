@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Credit Risk) at Achieve
+# Lead Data Scientist at Plume
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Data Engineer |
+| Company | [Plume](https://scoutify.ai/companies/plume?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
+| Category | Data Scientist |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607676-sr-data-scientist-credit-risk) |
+| Apply | [View on company site](https://www.plume.com/career-opportunities/?gh_jid=8403805002) |
 
 ## About This Role
 
-This data engineer position at Achieve was posted on 2026-02-10.
+This data scientist position at Plume was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
