@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Junior Data Scientist - intern at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Data Scientist |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Milan/Junior-Data-Scientist---intern_R1115116-1) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This data scientist position at Dentsu was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

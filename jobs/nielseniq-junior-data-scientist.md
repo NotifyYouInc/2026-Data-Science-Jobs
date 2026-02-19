@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Junior Data Scientist at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Scientist |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Analyst |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108752005-junior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This data analyst position at NielsenIQ was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

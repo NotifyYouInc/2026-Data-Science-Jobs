@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Advanced Analytics - Data Scientist at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91821) |
+| Location | London, England, United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=54453) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-02-05.
+This machine learning engineer position at IBM was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

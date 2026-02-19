@@ -1,16 +1,16 @@
-# Data Scientist III at FirstRand
+# Senior Data Scientist, Ads at Reddit
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-III_R45980) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7607121) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-05.
+This data scientist position at Reddit was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

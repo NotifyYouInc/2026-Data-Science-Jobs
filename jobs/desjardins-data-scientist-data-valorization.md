@@ -1,16 +1,16 @@
-# Data Scientist Lead at Auto Club Enterprises
+# Data Scientist, Data valorization at Desjardins
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA--Remote/Data-Scientist-Lead_JR202633999-1) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-intelligence-artificielle-responsable_R2602036) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-05.
+This data scientist position at Desjardins was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

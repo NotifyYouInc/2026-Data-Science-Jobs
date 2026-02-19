@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Manager and Senior Data Scientist at Travelers
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hartford, Connecticut, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Manager-and-Senior-Data-Scientist_R-49031) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This data scientist position at Travelers was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

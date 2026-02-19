@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist-Advanced Analytics at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91821) |
+| Location | 2 locations |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93038) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-02-05.
+This technical & solutions architect position at IBM was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

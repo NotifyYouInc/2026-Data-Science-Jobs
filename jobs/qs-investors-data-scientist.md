@@ -5,12 +5,12 @@
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTISC-Hyderabad-F3328/Data-Scientist_866547) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Data-Scientist_866560) |
 
 ## About This Role
 
-This data scientist position at QS Investors was posted on 2026-02-04.
+This data scientist position at QS Investors was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

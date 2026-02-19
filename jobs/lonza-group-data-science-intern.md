@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Data Science Intern at Lonza Group
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Vacaville, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Vacaville-CA/Data-Science-Intern_R73540) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This data scientist position at Lonza Group was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

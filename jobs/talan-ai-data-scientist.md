@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# AI Data Scientist at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Scientist |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Machine Learning Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108828685-ai-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This machine learning engineer position at Talan was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

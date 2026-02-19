@@ -1,16 +1,16 @@
-# Data Scientist Lead at Auto Club Enterprises
+# Senior Data Scientist at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA--Remote/Data-Scientist-Lead_JR202633999-1) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Senior-Data-Scientist_R4036031-1) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-05.
+This data scientist position at GE HealthCare was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

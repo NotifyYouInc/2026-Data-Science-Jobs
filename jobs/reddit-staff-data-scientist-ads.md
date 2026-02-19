@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Staff Data Scientist, Ads at Reddit
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Scientist |
+| Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Machine Learning Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7607119) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This machine learning engineer position at Reddit was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

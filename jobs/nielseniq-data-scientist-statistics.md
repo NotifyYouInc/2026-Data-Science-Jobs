@@ -1,16 +1,16 @@
-# Data Scientist III at FirstRand
+# Data Scientist (Statistics) at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist-III_R45980) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108810895-data-scientist-statistics) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-05.
+This data scientist position at NielsenIQ was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

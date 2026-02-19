@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Senior Data Scientist (Full Stack) at Zynga
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Scientist |
+| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Software Engineer |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5533622004) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This software engineer position at Zynga was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Data Scientist Intern at Spscommerce
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000108824526-lead-data-scientist) |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/US-MN-Minneapolis-Office/Data-Scientist-Intern_R-000266) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-11.
+This data scientist position at Spscommerce was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
