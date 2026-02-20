@@ -1,16 +1,16 @@
-# Data Scientist at FirstRand
+# Senior Statistician (m/f/d) at Viatris
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Viatris](https://scoutify.ai/companies/viatris?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | England, GB |
 | Category | Data Scientist |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist_R46311) |
+| Apply | [View on company site](https://viatris.wd5.myworkdayjobs.com/external/job/Sandwich-England-United-Kingdom/Senior-Statistician--m-f-d-_R5666573) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-12.
+This data scientist position at Viatris was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

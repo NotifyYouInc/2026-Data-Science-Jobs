@@ -1,16 +1,16 @@
-# Data Scientist at FirstRand
+# Research Scientist Intern, AI Research - Multimodal Pretraining (PhD) at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Menlo Park, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist_R46311) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/722866007537094) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-12.
+This data scientist position at Meta was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

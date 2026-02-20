@@ -1,16 +1,16 @@
-# Data Scientist at FirstRand
+# Junior Data Scientist at GlobalFoundries
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist_R46311) |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Junior-Data-Scientist_JR-2600594) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-12.
+This data scientist position at GlobalFoundries was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

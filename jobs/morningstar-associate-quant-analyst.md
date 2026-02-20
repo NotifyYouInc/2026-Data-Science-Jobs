@@ -1,16 +1,16 @@
-# Data Scientist at FirstRand
+# Associate Quant Analyst at Morningstar
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist_R46311) |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Associate-Quant-Analyst_REQ-054219) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-12.
+This data scientist position at Morningstar was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

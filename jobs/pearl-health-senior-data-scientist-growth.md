@@ -1,16 +1,16 @@
-# Data Scientist at Waystar
+# Senior Data Scientist, Growth at Pearl Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Pearl Health](https://scoutify.ai/companies/pearl-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Data-Scientist_R2991) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pearlhealth/328b241d-b837-49cc-a333-de7e827f66ce) |
 
 ## About This Role
 
-This data scientist position at Waystar was posted on 2026-02-05.
+This data scientist position at Pearl Health was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Senior Quantitative Risk Analyst - AML Modeling at USAA
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 7 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Senior-Quantitative-Risk-Analyst---AML-Modeling_R0115137) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at USAA was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

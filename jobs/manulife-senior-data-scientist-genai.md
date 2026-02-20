@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Senior Data Scientist - GenAI at Manulife
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Senior-Data-Scientist---GenAI_JR26011314) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at Manulife was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

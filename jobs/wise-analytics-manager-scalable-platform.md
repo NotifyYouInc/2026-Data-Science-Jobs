@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Analytics Manager - Scalable Platform at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | Data Analyst |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109010265-analytics-manager-scalable-platform) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This data analyst position at WISE was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

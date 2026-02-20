@@ -1,16 +1,16 @@
-# Data Scientist at Waystar
+# Data Scientist - Experimentation at SEEK
 
 | Field | Details |
 |-------|---------|
-| Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Australia |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Data-Scientist_R2991) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000109140645-data-scientist-experimentation) |
 
 ## About This Role
 
-This data scientist position at Waystar was posted on 2026-02-05.
+This data scientist position at SEEK was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

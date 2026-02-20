@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Data Scientist at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Texas, US |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Lackland-AFB/Data-Scientist_322060) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at CACI was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

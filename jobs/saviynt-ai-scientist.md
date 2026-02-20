@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# AI Scientist at Saviynt
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://jobs.lever.co/saviynt/b619d56a-70ad-4523-b2d2-df1dec69b78f) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at Saviynt was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Research Scientist - CV / ML at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1976742843242612) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at Meta was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

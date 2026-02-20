@@ -1,4 +1,4 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Data Scientist - AI - Senior Managing Consultant at IBM
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90950) |
 
 ## About This Role
 

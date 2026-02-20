@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Data Scientist, Consumer Markets at McKesson
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Richmond, Virginia, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Data-Scientist--Consumer-Markets_JR0140640) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at McKesson was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

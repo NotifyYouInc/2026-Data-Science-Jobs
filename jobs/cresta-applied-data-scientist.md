@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Applied Data Scientist  at Cresta
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5119706008) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at Cresta was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

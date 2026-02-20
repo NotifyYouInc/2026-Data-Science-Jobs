@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Staff Data Scientist, Marketing at Asana
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/7612064?gh_jid=7612064) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at Asana was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

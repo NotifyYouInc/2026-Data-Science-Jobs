@@ -1,16 +1,16 @@
-# Sr. Data Scientist (Loss Forecasting) at Achieve
+# Data Science Intern, Summer 2026 at WhatNot
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011607336-sr-data-scientist-loss-forecasting) |
+| Category | Data Engineer |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/1928d988-efe2-4868-89b8-4c3f3e26dc44) |
 
 ## About This Role
 
-This data scientist position at Achieve was posted on 2026-02-10.
+This data engineer position at WhatNot was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

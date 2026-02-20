@@ -1,16 +1,16 @@
-# Senior, Data Scientist at Walmart
+# Senior, Data Scientist – Walmart+ Core Ops & Strategy Enablement at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2350434-1) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Senior--Data-Scientist---Walmart--Core-Ops---Strategy-Enablement_R-2413891) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-02-05.
+This data scientist position at Walmart was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

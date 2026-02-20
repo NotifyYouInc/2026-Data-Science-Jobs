@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Program Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107442425-sr-data-scientist-risk) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108119058-sr-data-scientist-risk) |
 
 ## About This Role
 
-This program manager position at Visa International Service Association was posted on 2026-02-05.
+This machine learning engineer position at Visa International Service Association was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

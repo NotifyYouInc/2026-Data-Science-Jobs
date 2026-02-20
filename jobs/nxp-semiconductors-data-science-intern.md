@@ -1,16 +1,16 @@
-# Data Scientist at FirstRand
+# Data Science Intern at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist_R46311) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Data-Science-Intern_R-10061817) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-02-12.
+This data scientist position at NXP Semiconductors was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

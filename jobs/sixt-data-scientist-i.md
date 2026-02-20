@@ -1,16 +1,16 @@
-# Data Scientist at Waystar
+# Data Scientist I at Sixt
 
 | Field | Details |
 |-------|---------|
-| Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Data-Scientist_R2991) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000108947876-data-scientist-i) |
 
 ## About This Role
 
-This data scientist position at Waystar was posted on 2026-02-05.
+This data scientist position at Sixt was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

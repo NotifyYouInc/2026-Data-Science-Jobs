@@ -1,16 +1,16 @@
-# Data Scientist - AI - Managing Consultant at IBM
+# Senior Data Scientist at Absa
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Main-Point-Pankrac/Senior-Data-Scientist_R-15983783) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This machine learning engineer position at Absa was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
