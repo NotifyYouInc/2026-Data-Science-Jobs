@@ -1,16 +1,16 @@
-# Data Scientist Lead at Auto Club Enterprises
+# Data Scientist I / II - Poland - FSP at Parexel
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Independence, Missouri, United States |
+| Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Poland |
 | Category | Data Scientist |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH/Data-Scientist-Lead_JR202526613-1) |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Poland-Remote/Data-Scientist-I---II---Poland---FSP_R0000038808) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-13.
+This data scientist position at Parexel was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

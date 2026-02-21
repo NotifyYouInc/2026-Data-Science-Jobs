@@ -5,12 +5,12 @@
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000107557895-biostatistician-i) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000107827025-biostatistician-i) |
 
 ## About This Role
 
-This data scientist position at University Health Network was posted on 2026-02-05.
+This data scientist position at University Health Network was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

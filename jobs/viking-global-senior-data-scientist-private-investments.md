@@ -1,16 +1,16 @@
-# Data Scientist Lead at Auto Club Enterprises
+# Senior Data Scientist, Private Investments at Viking Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Independence, Missouri, United States |
+| Company | [Viking Global](https://scoutify.ai/companies/vikingglobalinvestors?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH/Data-Scientist-Lead_JR202526613-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/5802200004) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-13.
+This data scientist position at Viking Global was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

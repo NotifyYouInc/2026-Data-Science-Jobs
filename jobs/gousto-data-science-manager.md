@@ -1,16 +1,16 @@
-# Data Scientist Lead at Auto Club Enterprises
+# Data Science Manager at Gousto
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Independence, Missouri, United States |
+| Company | [Gousto](https://scoutify.ai/companies/gousto?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH/Data-Scientist-Lead_JR202526613-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000109241900-data-science-manager) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-13.
+This data scientist position at Gousto was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

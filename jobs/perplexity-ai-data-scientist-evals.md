@@ -1,16 +1,16 @@
-# Data Scientist Lead at Auto Club Enterprises
+# Data Scientist, Evals  at Perplexity AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Independence, Missouri, United States |
+| Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH/Data-Scientist-Lead_JR202526613-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/4615ca06-bea7-47e3-9e57-f5cee52b75e6) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-13.
+This data scientist position at Perplexity AI was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

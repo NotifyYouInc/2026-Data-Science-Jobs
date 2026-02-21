@@ -1,16 +1,16 @@
-# Data Scientist Lead at Auto Club Enterprises
+# Data Scientist at David Yurman
 
 | Field | Details |
 |-------|---------|
-| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Independence, Missouri, United States |
+| Company | [David Yurman](https://scoutify.ai/companies/davidyurman?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Independence-OH/Data-Scientist-Lead_JR202526613-1) |
+| Apply | [View on company site](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Data-Scientist_R-100716-1) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-13.
+This data scientist position at David Yurman was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

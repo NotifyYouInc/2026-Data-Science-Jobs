@@ -1,12 +1,12 @@
-# (IND) SENIOR, DATA SCIENTIST at Walmart
+# (USA) Senior Manager, Data Science - Walmart+ Engagement & Retention at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Hoboken, New Jersey, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--SENIOR--DATA-SCIENTIST_R-2413163) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/XMLNAME--USA--Senior-Manager--Data-Science---Walmart--Engagement---Retention_R-2415809) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Operations Research Analyst at Leidos
+# AI Data Science & DEVSECOPS Intern at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Odenton, Maryland, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Operations-Research-Analyst_R-00175994) |
+| Location | Orlando, Florida, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science---DEVSECOPS-Intern_R-00175966) |
 
 ## About This Role
 
-This strategy & operations position at Leidos was posted on 2026-02-12.
+This devops engineer position at Leidos was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# (IND) SENIOR, DATA SCIENTIST at Walmart
+# Senior AI Scientist - Data & AI Office at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--SENIOR--DATA-SCIENTIST_R-2413163) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/AI-Scientist---Data---AI-Office_Req1470706) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-02-13.
+This machine learning engineer position at Santander was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# (IND) SENIOR, DATA SCIENTIST at Walmart
+# Data Scientist till Business Retail Banking | SEB, Solna at SEB bankas
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--SENIOR--DATA-SCIENTIST_R-2413163) |
+| Apply | [View on company site](https://jobs.eu.lever.co/seb/cd4cae94-dedd-4bea-9068-87ae6a5d3716) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-02-13.
+This machine learning engineer position at SEB bankas was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
