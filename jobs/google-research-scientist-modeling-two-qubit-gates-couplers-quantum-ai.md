@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Goleta, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92993975253639878-research-scientist-modeling-twoqubit-gates-couplers-quantum-ai?sort_by=date&page=1) |
+| Category | Software Engineer |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90640983862977222-research-scientist-modeling-twoqubit-gates-couplers-quantum-ai?sort_by=date&page=1) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-02-06.
+This software engineer position at Google was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
