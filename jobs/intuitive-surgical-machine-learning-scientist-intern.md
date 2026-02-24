@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Peachtree Corners, Georgia, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107776335-machine-learning-scientist-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107834945-machine-learning-scientist-intern) |
 
 ## About This Role
 

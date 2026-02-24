@@ -1,16 +1,16 @@
-# Senior Research Scientist, Optical System Simulation, Quantum AI at Google
+# Senior Data Scientist, Research, Cloud Supply Chain Operations at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Goleta, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/74597109906449094-senior-research-scientist-optical-system-simulation-quantum-ai?sort_by=date&page=1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Operations |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92564549391000262-senior-data-scientist-research-cloud-supply-chain-operations?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-09.
+This operations position at Google was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
