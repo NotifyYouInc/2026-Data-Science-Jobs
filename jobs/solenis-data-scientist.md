@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist at Solenis
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Hyderabad-India/Data-Scientist_R0027563-1) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This machine learning engineer position at Solenis was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist at bet365
+# Senior Applied Scientist - CRM (All Genders) at Zalando
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000109756075-senior-data-scientist) |
+| Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Senior-Applied-Scientist---CRM--All-Genders-_2723255) |
 
 ## About This Role
 
-This machine learning engineer position at bet365 was posted on 2026-02-17.
+This machine learning engineer position at Zalando was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

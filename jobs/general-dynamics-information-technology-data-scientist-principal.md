@@ -1,16 +1,16 @@
-# Senior Data Scientist at General Dynamics Information Technology
+# Data Scientist Principal at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Data-Scientist_RQ214329-2) |
+| Category | Data Scientist |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Scientist-Principal_RQ212439) |
 
 ## About This Role
 
-This data engineer position at General Dynamics Information Technology was posted on 2026-02-13.
+This data scientist position at General Dynamics Information Technology was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

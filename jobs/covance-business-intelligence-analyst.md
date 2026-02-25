@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Business Intelligence Analyst at Covance
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Category | Data Analyst |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Business-Intelligence-Analyst_256247) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This data analyst position at Covance was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

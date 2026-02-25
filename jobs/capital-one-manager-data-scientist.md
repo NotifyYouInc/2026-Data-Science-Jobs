@@ -1,16 +1,16 @@
-# Senior Data Scientist at bet365
+# Manager Data Scientist at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | McLean, Virginia, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000109756075-senior-data-scientist) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager-Data-Scientist_R235921-1) |
 
 ## About This Role
 
-This machine learning engineer position at bet365 was posted on 2026-02-17.
+This machine learning engineer position at Capital One was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

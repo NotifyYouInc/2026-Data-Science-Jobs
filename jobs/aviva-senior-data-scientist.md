@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Senior Data Scientist at Aviva
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Aviva](https://scoutify.ai/companies/aviva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://aviva.wd1.myworkdayjobs.com/External/job/Toronto/Senior-Data-Scientist_R-165346) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This machine learning engineer position at Aviva was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

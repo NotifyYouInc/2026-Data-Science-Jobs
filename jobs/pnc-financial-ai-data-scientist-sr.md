@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# AI Data Scientist Sr at PNC Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 6 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist-Sr_R193236) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This machine learning engineer position at PNC Financial was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

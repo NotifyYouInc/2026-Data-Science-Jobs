@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Lead AI Data Scientist at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Colorado, US |
-| Category | AI / ML Research |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
+| Category | AI / LLM Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000109678620-lead-ai-data-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-02-17.
+This ai / llm engineer position at WISE was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

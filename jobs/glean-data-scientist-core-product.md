@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist, Core Product at Glean
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Glean](https://scoutify.ai/companies/gleanwork?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Category | Data Scientist |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4521356005) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This data scientist position at Glean was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | China |
-| Category | Data Scientist |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Analyst--Data-Science_JR-63841-1) |
+| Location | Chengdu, Sichuan, China |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-64213-2) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-02-09.
+This machine learning engineer position at AIA Group was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

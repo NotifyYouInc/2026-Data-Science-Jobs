@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Principal Data Scientist at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011704766-principal-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This machine learning engineer position at The Nielsen Company was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

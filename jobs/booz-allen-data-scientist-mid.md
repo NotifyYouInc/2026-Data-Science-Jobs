@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Data Scientist, Mid at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Colorado, US |
-| Category | AI / ML Research |
+| Location | McLean, Virginia, United States |
+| Category | Data Scientist |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234101) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist--Mid_R0228089) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-02-17.
+This data scientist position at Booz Allen was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

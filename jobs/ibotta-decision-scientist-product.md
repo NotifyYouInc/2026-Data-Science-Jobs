@@ -1,16 +1,16 @@
-# Senior Data Scientist at bet365
+# Decision Scientist, Product at Ibotta
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Ibotta](https://scoutify.ai/companies/ibotta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000109756075-senior-data-scientist) |
+| Apply | [View on company site](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Decision-Scientist--Product_R-102339) |
 
 ## About This Role
 
-This machine learning engineer position at bet365 was posted on 2026-02-17.
+This data scientist position at Ibotta was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

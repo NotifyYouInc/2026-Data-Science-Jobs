@@ -1,16 +1,16 @@
-# Senior Data Scientist at bet365
+# Medior Data Scientist / ML Engineer at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Groningen, Groningen, The Netherlands |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000109756075-senior-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000109655896-medior-data-scientist-ml-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at bet365 was posted on 2026-02-17.
+This machine learning engineer position at Sopra Steria was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

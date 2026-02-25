@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Marketing Data Analyst at Truewerk
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Colorado, US |
-| Category | AI / ML Research |
+| Company | [Truewerk](https://scoutify.ai/companies/truewerk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Denver, Colorado, United States |
+| Category | Data Analyst |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Truewerk/744000109820845-marketing-data-analyst) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-02-17.
+This data analyst position at Truewerk was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

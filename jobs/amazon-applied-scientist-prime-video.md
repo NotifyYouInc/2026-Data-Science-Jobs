@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Applied Scientist, Prime Video at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3182367/applied-scientist-prime-video) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This machine learning engineer position at Amazon was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

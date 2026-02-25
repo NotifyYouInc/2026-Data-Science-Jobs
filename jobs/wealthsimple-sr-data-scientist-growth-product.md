@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Sr Data Scientist, Growth Product at Wealthsimple
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Colorado, US |
-| Category | AI / ML Research |
+| Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
+| Category | Data Scientist |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Buckley-AFB-CO/Data-Scientist_R0234101) |
+| Apply | [View on company site](https://jobs.lever.co/wealthsimple/57982afb-b480-4196-86e5-fbc47cbdf62c) |
 
 ## About This Role
 
-This ai / ml research position at Booz Allen was posted on 2026-02-17.
+This data scientist position at Wealthsimple was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

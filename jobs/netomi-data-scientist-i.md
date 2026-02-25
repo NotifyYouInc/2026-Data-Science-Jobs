@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist - I at Netomi
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Netomi](https://scoutify.ai/companies/netomi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.lever.co/netomi/1d5f4e16-0918-4f6e-b764-3484e1731982) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This machine learning engineer position at Netomi was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

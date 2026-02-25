@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Analyst 2 at Zynga
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=92394) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5805690004) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-10.
+This machine learning engineer position at Zynga was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
