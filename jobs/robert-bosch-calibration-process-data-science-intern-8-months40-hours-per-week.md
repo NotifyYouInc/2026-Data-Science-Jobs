@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Farmington Hills, Michigan, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108822412-calibration-process-data-science-intern-8-months40-hours-per-week) |
+| Category | Data Scientist |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109812009-calibration-process-data-science-intern-8-months40-hours-per-week) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-02-11.
+This data scientist position at Robert Bosch was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

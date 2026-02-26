@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108841120-manager-vca-intelligence-data-solutions-ids-data-science) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108998796-manager-vca-intelligence-data-solutions-ids-data-science) |
 
 ## About This Role
 
-This data engineer position at Visa International Service Association was posted on 2026-02-11.
+This machine learning engineer position at Visa International Service Association was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

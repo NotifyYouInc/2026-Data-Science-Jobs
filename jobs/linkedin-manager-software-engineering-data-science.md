@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108824404-manager-software-engineering-data-science) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108931986-manager-software-engineering-data-science) |
 
 ## About This Role
 
-This software engineer position at LinkedIn was posted on 2026-02-11.
+This software engineer position at LinkedIn was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

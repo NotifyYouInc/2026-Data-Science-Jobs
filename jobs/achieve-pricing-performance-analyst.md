@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011487586-pricing-performance-analyst) |
+| Category | Data Scientist |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011739747-pricing-performance-analyst) |
 
 ## About This Role
 
-This data analyst position at Achieve was posted on 2026-02-03.
+This data scientist position at Achieve was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
