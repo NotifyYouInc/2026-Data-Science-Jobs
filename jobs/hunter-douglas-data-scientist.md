@@ -5,12 +5,12 @@
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7624016003?gh_jid=7624016003) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7637600003?gh_jid=7637600003) |
 
 ## About This Role
 
-This data scientist position at Hunter Douglas was posted on 2026-02-09.
+This data scientist position at Hunter Douglas was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

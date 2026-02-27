@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Switzerland |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Data Scientist |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/GENEVA-BUSINESS-CENTER/Data-Science-Internship_R000145540) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Brussels/Data-Science-Internship_R000145698) |
 
 ## About This Role
 
-This data scientist position at Procter & Gamble was posted on 2026-02-11.
+This data scientist position at Procter & Gamble was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

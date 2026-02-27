@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000107127925-stage-de-fin-detude-consultante-data-science-marketing-strategie) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000110176335-stage-de-fin-detude-consultante-data-science-marketing-strategie) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-02-03.
+This strategy / management consulting position at SIA was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

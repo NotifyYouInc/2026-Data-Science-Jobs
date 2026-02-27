@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000108947876-data-scientist-i) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000110103624-data-scientist-i) |
 
 ## About This Role
 
-This data scientist position at Sixt was posted on 2026-02-12.
+This machine learning engineer position at Sixt was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

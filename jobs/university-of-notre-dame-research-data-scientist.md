@@ -5,12 +5,12 @@
 | Company | [University of Notre Dame](https://scoutify.ai/companies/universityofnotredame?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990011619457-research-data-scientist) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990011766326-research-data-scientist) |
 
 ## About This Role
 
-This data scientist position at University of Notre Dame was posted on 2026-02-10.
+This data scientist position at University of Notre Dame was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

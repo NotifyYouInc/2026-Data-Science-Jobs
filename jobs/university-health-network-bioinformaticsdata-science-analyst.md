@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000106916504-bioinformaticsdata-science-analyst) |
+| Category | AI / ML Research |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000110175896-bioinformaticsdata-science-analyst) |
 
 ## About This Role
 
-This software engineer position at University Health Network was posted on 2026-02-02.
+This ai / ml research position at University Health Network was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
