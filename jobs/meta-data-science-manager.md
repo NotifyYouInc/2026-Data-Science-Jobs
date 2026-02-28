@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2364246323996771) |
+| Location | New York City, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/936558162120494) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-02-05.
+This data analyst position at Meta was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

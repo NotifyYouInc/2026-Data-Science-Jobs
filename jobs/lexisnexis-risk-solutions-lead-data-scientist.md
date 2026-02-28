@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Lead-Data-Scientist_R108141-1) |
+| Location | Raleigh, North Carolina, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Lead-Data-Scientist_R107154) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-02-04.
+This ai / llm engineer position at LexisNexis Risk Solutions was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
-| Category | Data Scientist |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000106811770-internship-data-scientist-jr-wm-demand-planning-salomon) |
+| Category | Data Analyst |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000110329837-internship-data-scientist-jr-wm-demand-planning-salomon) |
 
 ## About This Role
 
-This data scientist position at Salomon was posted on 2026-02-02.
+This data analyst position at Salomon was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
