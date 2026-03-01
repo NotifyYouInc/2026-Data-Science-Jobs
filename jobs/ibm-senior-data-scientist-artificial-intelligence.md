@@ -1,16 +1,16 @@
-# Senior Data Scientist at AECOM
+# Senior Data Scientist - Artificial Intelligence at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000109775711-senior-data-scientist) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=78616) |
 
 ## About This Role
 
-This machine learning engineer position at AECOM was posted on 2026-02-17.
+This machine learning engineer position at IBM was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 
