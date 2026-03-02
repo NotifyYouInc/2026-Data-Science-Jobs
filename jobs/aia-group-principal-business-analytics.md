@@ -1,16 +1,16 @@
-# Senior Data Scientist (GrabMaps) at Grab
+# Principal, Business Analytics at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore |
-| Category | AI / LLM Engineer |
+| Category | Data Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000110663919-senior-data-scientist-grabmaps) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/SG-Tampines-Agency-Building/Principal--Business-Analytics_JR-64401) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-02-23.
+This data analyst position at AIA Group was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

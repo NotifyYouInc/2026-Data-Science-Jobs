@@ -1,16 +1,16 @@
-# Manager Data Scientist at Capital One
+# Manager, Data Scientist at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Machine Learning Engineer |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager-Data-Scientist_R235921-1) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist_R235812) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-02-17.
+This ai / llm engineer position at Capital One was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
