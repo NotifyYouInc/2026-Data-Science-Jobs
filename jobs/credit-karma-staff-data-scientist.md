@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Staff Data Scientist at Credit Karma
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [Credit Karma](https://scoutify.ai/companies/creditkarma?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93505) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/creditkarma/jobs/7627100003) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-20.
+This machine learning engineer position at Credit Karma was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

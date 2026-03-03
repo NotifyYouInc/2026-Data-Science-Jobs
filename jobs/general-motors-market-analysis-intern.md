@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Market Analysis Intern at General Motors
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Market-Analysis-Intern_JR-202603013) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This data analyst position at General Motors was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Data Scientist at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Data Analyst |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Israel |
+| Category | AI / ML Research |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4786612101?gh_jid=4786612101) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This ai / ml research position at NiCE was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

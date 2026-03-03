@@ -1,16 +1,16 @@
-# Senior Data Scientist at Just Eat Takeaway.com
+# Data Scientist at Corewell Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alberta, CA |
+| Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Canada-ON-Remote/Senior-Data-Scientist_R_050352) |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Data-Scientist_R205334) |
 
 ## About This Role
 
-This machine learning engineer position at Just Eat Takeaway.com was posted on 2026-02-23.
+This machine learning engineer position at Corewell Health was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

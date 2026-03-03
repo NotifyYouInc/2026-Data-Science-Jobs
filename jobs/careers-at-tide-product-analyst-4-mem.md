@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Product Analyst - 4 (MEM) at Careers at Tide
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7639846003) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This data analyst position at Careers at Tide was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

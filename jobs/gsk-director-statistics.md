@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Director- Statistics at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Data Analyst |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Director--Statistics_418365) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This data scientist position at GSK was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

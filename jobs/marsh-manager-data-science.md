@@ -1,16 +1,16 @@
-# Senior Data Scientist at Just Eat Takeaway.com
+# Manager - Data Science at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alberta, CA |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Canada-ON-Remote/Senior-Data-Scientist_R_050352) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Mumbai---Hiranandani/Senior-Principal-Engineer---Data-Science_R_323884) |
 
 ## About This Role
 
-This machine learning engineer position at Just Eat Takeaway.com was posted on 2026-02-23.
+This machine learning engineer position at Marsh was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

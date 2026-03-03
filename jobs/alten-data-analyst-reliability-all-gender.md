@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Data Analyst - Reliability (all gender) at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Aalen, Baden-Wurttemberg, Germany |
 | Category | Data Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110691285-data-analyst-reliability-all-gender) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This data analyst position at ALTEN was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

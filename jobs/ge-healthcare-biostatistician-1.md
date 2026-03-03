@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Biostatistician 1 at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110325666-lead-data-scientist) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Biostatistician-1_R4036486-2) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-20.
+This data scientist position at GE HealthCare was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

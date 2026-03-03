@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# SR DATA SCIENTIST at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93505) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Data-Scientist_JR80959) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-20.
+This machine learning engineer position at Micron was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

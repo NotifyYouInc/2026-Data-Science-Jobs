@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Data Scientist I, HK at Intact
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110325666-lead-data-scientist) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK_R151864-1) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-20.
+This data scientist position at Intact was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

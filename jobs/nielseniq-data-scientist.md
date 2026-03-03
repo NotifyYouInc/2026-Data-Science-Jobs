@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109998596-data-scientist) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110099610-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-18.
+This data scientist position at NielsenIQ was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

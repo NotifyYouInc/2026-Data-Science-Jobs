@@ -1,16 +1,16 @@
-# (USA) Senior Manager, Data Science at Walmart
+# Senior Data Scientist(Gen AI) at Careers at Tide
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | AI / LLM Engineer |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Data-Science_R-2362148-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/6567710003) |
 
 ## About This Role
 
-This ai / llm engineer position at Walmart was posted on 2026-02-24.
+This ai / llm engineer position at Careers at Tide was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

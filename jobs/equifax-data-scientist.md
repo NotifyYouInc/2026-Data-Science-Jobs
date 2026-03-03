@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Data Scientist at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110325666-lead-data-scientist) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Data-Scientist_J00174203) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-20.
+This data scientist position at Equifax was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist at Just Eat Takeaway.com
+# Manager - Lead Data Scientist at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alberta, CA |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Philippines |
 | Category | Machine Learning Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Canada-ON-Remote/Senior-Data-Scientist_R_050352) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Manager---Lead-Data-Scientist_51573336) |
 
 ## About This Role
 
-This machine learning engineer position at Just Eat Takeaway.com was posted on 2026-02-23.
+This machine learning engineer position at DXC Technology was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

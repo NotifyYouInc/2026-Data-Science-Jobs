@@ -1,16 +1,16 @@
-# (USA) Senior Manager, Data Science at Walmart
+# Data Scientist, Generative AI Engineer at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Eindhoven, North Brabant, The Netherlands |
 | Category | AI / LLM Engineer |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Data-Science_R-2362148-1) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Scientist--Generative-AI-Engineer_559002-2) |
 
 ## About This Role
 
-This ai / llm engineer position at Walmart was posted on 2026-02-24.
+This ai / llm engineer position at Philips was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

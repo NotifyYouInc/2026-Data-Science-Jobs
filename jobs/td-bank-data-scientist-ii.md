@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Data Scientist II at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Data Analyst |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Data Scientist |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-II_R_1473578) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This data scientist position at TD Bank was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

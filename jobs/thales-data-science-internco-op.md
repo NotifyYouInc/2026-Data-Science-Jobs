@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Data Science Intern/Co-op at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Ottawa, Ontario, Canada |
 | Category | Data Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Ottawa/Data-Science-Intern-Co-op_R0316248-1) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This data analyst position at Thales was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Data Scientist at Achievers
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [Achievers](https://scoutify.ai/companies/achievers?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93505) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.lever.co/achievers/0703cb90-a28f-463a-8af6-e5ba84c7756b) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-20.
+This machine learning engineer position at Achievers was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

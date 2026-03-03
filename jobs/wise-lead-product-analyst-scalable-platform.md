@@ -1,12 +1,12 @@
-# Analytics Lead - Talent Analytics at WISE
+# Lead Product Analyst - Scalable Platform at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110739415-lead-product-analyst-scalable-platform) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Analytics Lead - Talent Analytics at WISE
+# Data Scientist Summer Intern at Sprinklr
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Data Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110706432-analytics-lead-talent-analytics) |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Austin/Data-Scientist-Summer-Intern_112786-JOB) |
 
 ## About This Role
 
-This data analyst position at WISE was posted on 2026-02-23.
+This data analyst position at Sprinklr was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
