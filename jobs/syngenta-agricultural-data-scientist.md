@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110149820-agricultural-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110804248-agricultural-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Syngenta was posted on 2026-02-19.
+This data scientist position at Syngenta was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

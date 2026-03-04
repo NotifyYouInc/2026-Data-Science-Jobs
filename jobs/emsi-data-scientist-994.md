@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Emsi](https://scoutify.ai/companies/economicmodeling?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Moscow, Idaho, United States |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.lever.co/economicmodeling/69e227aa-7c17-4d94-9375-8b2a1e33b5da) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.lever.co/economicmodeling/9d13ebb3-586f-43d6-b7fd-85c8abc8c16e) |
 
 ## About This Role
 
-This data scientist position at Emsi was posted on 2026-01-29.
+This data scientist position at Emsi was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

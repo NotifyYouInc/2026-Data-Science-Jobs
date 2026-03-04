@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Scientist--AI-ML-Focus-_35324-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Scientist--AI-ML-Focus-_35323) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-02-10.
+This machine learning engineer position at Guidehouse was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

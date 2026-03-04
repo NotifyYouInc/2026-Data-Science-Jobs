@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-III_R_1472318) |
+| Category | Data Analyst |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-III_R_1459670) |
 
 ## About This Role
 
-This data scientist position at TD Bank was posted on 2026-02-18.
+This data analyst position at TD Bank was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

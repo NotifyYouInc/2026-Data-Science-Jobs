@@ -1,16 +1,16 @@
-# Data Scientist - Game Analytics at Rockstar Games
+# Data Scientist, Game Analytics at Rockstar Games
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockstar Games](https://scoutify.ai/companies/rockstar-games?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Leeds, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7621613003) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rockstargames/jobs/7638026003) |
 
 ## About This Role
 
-This data scientist position at Rockstar Games was posted on 2026-02-06.
+This machine learning engineer position at Rockstar Games was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

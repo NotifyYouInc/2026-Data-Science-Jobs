@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | San Diego, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Bioinformatics-Scientist_R26-12466) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Bioinformatics-Scientist_R26-12613) |
 
 ## About This Role
 
-This data scientist position at Exact Sciences was posted on 2026-02-07.
+This data scientist position at Exact Sciences was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

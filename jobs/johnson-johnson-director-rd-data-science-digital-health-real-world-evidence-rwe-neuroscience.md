@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Director--R-D-Data-Science---Digital-Health--Real-World-Evidence--RWE---Neuroscience_R-058827-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Director--R-D-Data-Science---Digital-Health--Real-World-Evidence--RWE---Neuroscience_R-060582-2) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-02-19.
+This data scientist position at Johnson & Johnson was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
