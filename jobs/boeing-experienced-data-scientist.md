@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Experienced-Data-Scientist_JR2026494992-1) |
+| Location | 3 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Data-Scientist_JR2026498172-1) |
 
 ## About This Role
 
-This data scientist position at Boeing was posted on 2026-02-09.
+This machine learning engineer position at Boeing was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

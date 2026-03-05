@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000106742444-senior-machine-learning-engineer-deliveries-ace) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111330900-senior-machine-learning-engineer-deliveries-ace) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-02-02.
+This machine learning engineer position at Grab was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

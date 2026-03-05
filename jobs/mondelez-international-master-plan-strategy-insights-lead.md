@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New Jersey, US |
 | Category | Strategy & Operations |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Toronto-Canada/Master-Plan-Strategy---Insights-Lead_R-160323) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/East-Hanover-New-Jersey-United-States/Master-Plan-Strategy---Insights-Lead_R-160245) |
 
 ## About This Role
 
-This strategy & operations position at Mondelez International was posted on 2026-02-20.
+This strategy & operations position at Mondelez International was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
