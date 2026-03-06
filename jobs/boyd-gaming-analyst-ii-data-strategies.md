@@ -6,7 +6,7 @@
 | Location | Las Vegas, Nevada, United States |
 | Category | Data Analyst |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990011824989-analyst-ii-data-strategies) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990011835286-analyst-ii-data-strategies) |
 
 ## About This Role
 

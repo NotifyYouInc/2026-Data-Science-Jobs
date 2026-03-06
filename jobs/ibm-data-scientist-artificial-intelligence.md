@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=87959) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71465) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-02-23.
+This data scientist position at IBM was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

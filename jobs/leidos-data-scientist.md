@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Maryland, US |
 | Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00175713) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-02-10.
+This data scientist position at Leidos was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

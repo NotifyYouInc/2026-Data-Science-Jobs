@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | United States |
 | Category | AI / ML Research |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556761673) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556756300) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Scientist_JR-0000089457) |
+| Location | 3 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Scientist_JR-0000097407) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-02-18.
+This ai / llm engineer position at Barclays was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

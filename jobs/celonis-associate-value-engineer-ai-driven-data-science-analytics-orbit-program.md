@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7495735003?gh_jid=7495735003) |
+| Category | Customer Success |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003) |
 
 ## About This Role
 
-This technology / it consulting position at Celonis was posted on 2026-02-18.
+This customer success position at Celonis was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

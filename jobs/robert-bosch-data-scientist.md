@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
-| Category | Data Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000106431985-data-scientist) |
+| Location | Bayan Lepas, Penang, Malaysia |
+| Category | Machine Learning Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111765575-data-scientist) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-01-30.
+This machine learning engineer position at Robert Bosch was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
