@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York, US |
-| Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1407193757528157) |
+| Location | New York City, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082033789247908) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-02-20.
+This data analyst position at Meta was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

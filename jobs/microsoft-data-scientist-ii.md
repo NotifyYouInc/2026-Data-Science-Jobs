@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556768552) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556769178) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-02-24.
+This data scientist position at Microsoft was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

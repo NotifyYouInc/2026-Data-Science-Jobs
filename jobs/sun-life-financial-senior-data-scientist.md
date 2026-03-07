@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 6 locations |
-| Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/US-Employees-Remote/Senior-Data-Scientist_JR00116273) |
+| Location | 2 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-Data-Scientist_JR00120695) |
 
 ## About This Role
 
-This data scientist position at Sun Life Financial was posted on 2026-01-30.
+This ai / llm engineer position at Sun Life Financial was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

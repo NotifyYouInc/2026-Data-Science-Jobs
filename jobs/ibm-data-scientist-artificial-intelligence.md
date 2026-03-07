@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Scientist |
+| Location | Hyderabad, Telangana, India |
+| Category | AI / LLM Engineer |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71465) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97130) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-02-25.
+This ai / llm engineer position at IBM was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

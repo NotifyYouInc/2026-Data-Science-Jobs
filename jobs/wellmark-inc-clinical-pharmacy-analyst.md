@@ -5,12 +5,12 @@
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000110034516-clinical-pharmacy-analyst) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000111874045-clinical-pharmacy-analyst) |
 
 ## About This Role
 
-This data scientist position at Wellmark, Inc. was posted on 2026-02-18.
+This data scientist position at Wellmark, Inc. was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

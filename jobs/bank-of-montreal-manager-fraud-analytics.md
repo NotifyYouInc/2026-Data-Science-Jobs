@@ -1,16 +1,16 @@
-# Manager, Fraud Analytics at Bank of Montreal
+# Manager Fraud Analytics at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager--Fraud-Analytics_R260005208) |
+| Category | Data Scientist |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Manager-Fraud-Analytics_R250030166) |
 
 ## About This Role
 
-This machine learning engineer position at Bank of Montreal was posted on 2026-02-24.
+This data scientist position at Bank of Montreal was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
