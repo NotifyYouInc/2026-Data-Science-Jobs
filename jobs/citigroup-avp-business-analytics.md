@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# AVP - Business Analytics at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94672) |
+| Category | Data Scientist |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/AVP---Business-Analytics_26942027) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-02-26.
+This data scientist position at Citigroup was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

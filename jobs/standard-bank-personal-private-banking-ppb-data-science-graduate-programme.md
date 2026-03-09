@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Data Scientist |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000106845958-personal-private-banking-ppb-data-science-graduate-programme) |
+| Category | Leadership Development Program |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000112086779-personal-private-banking-ppb-data-science-graduate-programme) |
 
 ## About This Role
 
-This data scientist position at Standard Bank was posted on 2026-02-02.
+This leadership development program position at Standard Bank was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

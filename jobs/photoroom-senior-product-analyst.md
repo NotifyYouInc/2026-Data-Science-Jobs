@@ -1,16 +1,16 @@
-# Senior Product Analyst at StepStone
+# Senior Product Analyst at Photoroom
 
 | Field | Details |
 |-------|---------|
-| Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Photoroom](https://scoutify.ai/companies/photoroom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Data Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000111640558-senior-product-analyst) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/651fd35a-eb3f-499d-b9ef-41772b9a73ab) |
 
 ## About This Role
 
-This data analyst position at StepStone was posted on 2026-02-26.
+This data analyst position at Photoroom was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

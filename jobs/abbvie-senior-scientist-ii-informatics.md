@@ -6,7 +6,7 @@
 | Location | Worcester, Massachusetts, United States |
 | Category | Data Scientist |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011843346-senior-scientist-ii-informatics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011861937-senior-scientist-ii-informatics) |
 
 ## About This Role
 
