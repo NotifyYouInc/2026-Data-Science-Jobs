@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556649480) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556813691) |
 
 ## About This Role
 
-This ai / llm engineer position at Microsoft was posted on 2026-02-25.
+This ai / llm engineer position at Microsoft was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

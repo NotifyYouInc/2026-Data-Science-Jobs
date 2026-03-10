@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111400994-senior-data-scientist) |
+| Location | Foster City, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112183876-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Visa International Service Association was posted on 2026-02-25.
+This data scientist position at Visa International Service Association was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

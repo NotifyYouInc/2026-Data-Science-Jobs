@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011665536-data-scientist-ii) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011916919-data-scientist-ii) |
 
 ## About This Role
 
-This data engineer position at The Nielsen Company was posted on 2026-02-12.
+This machine learning engineer position at The Nielsen Company was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

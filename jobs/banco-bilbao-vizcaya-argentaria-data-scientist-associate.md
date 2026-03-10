@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lima, Lima Province, Peru |
-| Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE_JR00095130) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DATA-SCIENTIST-ASSOCIATE_JR00089429) |
 
 ## About This Role
 
-This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-04.
+This machine learning engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
