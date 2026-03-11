@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Singapore/Senior-Data-Scientist_R5028170) |
+| Location | Not specified |
+| Category | Data Scientist |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Eastleigh/Senior-Data-Scientist_R5029565-1) |
 
 ## About This Role
 
-This machine learning engineer position at GE Aerospace was posted on 2026-02-25.
+This data scientist position at GE Aerospace was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

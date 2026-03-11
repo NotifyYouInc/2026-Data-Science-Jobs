@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Data-Scientist_R5029460-1) |
+| Location | Not specified |
+| Category | Data Scientist |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Eastleigh/Data-Scientist_R5029563-1) |
 
 ## About This Role
 
-This ai / llm engineer position at GE Aerospace was posted on 2026-02-26.
+This data scientist position at GE Aerospace was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

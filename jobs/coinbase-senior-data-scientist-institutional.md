@@ -5,12 +5,12 @@
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7583638?gh_jid=7583638) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7583642?gh_jid=7583642) |
 
 ## About This Role
 
-This data scientist position at Coinbase was posted on 2026-02-05.
+This data scientist position at Coinbase was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pennsylvania, US |
 | Category | AI / ML Research |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Data-Science---Multi-Omics-intern_R-059835) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Data-Science---Multi-Omics-intern_R-059961) |
 
 ## About This Role
 
-This ai / ml research position at Johnson & Johnson was posted on 2026-02-26.
+This ai / ml research position at Johnson & Johnson was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

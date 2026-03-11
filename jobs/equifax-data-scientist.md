@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chile |
 | Category | Data Scientist |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Scientist_J00174910) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Scientist_J00174995) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-02-26.
+This data scientist position at Equifax was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
