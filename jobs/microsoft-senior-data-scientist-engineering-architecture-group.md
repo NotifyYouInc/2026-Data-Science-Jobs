@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United Kingdom |
+| Location | United Arab Emirates |
 | Category | Data Scientist |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556802500) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556802504) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-02-27.
+This data scientist position at Microsoft was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

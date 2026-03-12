@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000112047312-data-scientist-analytics) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Data Scientist |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000112337837-data-scientist-analytics) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-03-01.
+This data scientist position at Grab was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556812194) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556756283) |
 
 ## About This Role
 

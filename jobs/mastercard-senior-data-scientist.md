@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Data-Scientist_R-270962) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Data-Scientist_R-270615) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-02-13.
+This data scientist position at Mastercard was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

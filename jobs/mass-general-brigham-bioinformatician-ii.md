@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Bioinformatician-II_RQ4050256) |
+| Category | Data Scientist |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Bioinformatician-II_RQ4054322) |
 
 ## About This Role
 
-This machine learning engineer position at Mass General Brigham was posted on 2026-02-19.
+This data scientist position at Mass General Brigham was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

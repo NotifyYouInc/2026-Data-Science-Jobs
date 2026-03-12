@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7543900003) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7653360003) |
 
 ## About This Role
 
-This machine learning engineer position at Careers at Tide was posted on 2026-02-25.
+This data scientist position at Careers at Tide was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

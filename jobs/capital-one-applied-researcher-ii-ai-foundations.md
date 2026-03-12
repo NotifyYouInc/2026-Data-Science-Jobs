@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations-_R236908-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations-_R237207) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-02-27.
+This data scientist position at Capital One was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
