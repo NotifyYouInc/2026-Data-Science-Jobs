@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Maryland, US |
-| Category | Data Scientist |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051) |
+| Location | Houston, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Houston-TX/Data-Scientist_R-00177577) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-02-26.
+This data analyst position at Leidos was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

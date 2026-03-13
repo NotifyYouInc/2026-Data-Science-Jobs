@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | San Diego, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist--Mid_R0228089) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Mid_R0235234) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-02-17.
+This data scientist position at Booz Allen was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

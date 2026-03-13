@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000107813533-senior-data-scientist) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000112890072-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Louis Dreyfus was posted on 2026-02-06.
+This data scientist position at Louis Dreyfus was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

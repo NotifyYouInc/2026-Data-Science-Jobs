@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111309481-data-scientist) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113090437-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-25.
+This data scientist position at NielsenIQ was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

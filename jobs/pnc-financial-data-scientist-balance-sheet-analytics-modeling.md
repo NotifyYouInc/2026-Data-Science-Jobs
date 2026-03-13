@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 6 locations |
-| Category | Data Scientist |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist---Balance-Sheet-Analytics---Modeling_R210287-1) |
+| Location | 5 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist---Balance-Sheet-Analytics---Modeling_R210291-1) |
 
 ## About This Role
 
-This data scientist position at PNC Financial was posted on 2026-02-27.
+This ai / llm engineer position at PNC Financial was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
