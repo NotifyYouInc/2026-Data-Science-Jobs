@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Central-Singapore-Singapore/Data-Scientist_R0134782-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Data-Scientist_R0131264-1) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-03-03.
+This data scientist position at PayPal was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

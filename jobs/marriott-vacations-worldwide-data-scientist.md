@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marriott Vacations Worldwide](https://scoutify.ai/companies/mymvw?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Florida, US |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Vacation-Club-at-Los-Suenos/Data-Scientist_JR87533) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://mymvw.wd5.myworkdayjobs.com/mvw/job/Marriotts-Vacation-Club-at-Los-Suenos/Data-Scientist_JR88402) |
 
 ## About This Role
 
-This data scientist position at Marriott Vacations Worldwide was posted on 2026-02-03.
+This data scientist position at Marriott Vacations Worldwide was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

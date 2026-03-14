@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112382167-data-scientist-python-sql-ml-models-3-5-years) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112840187-data-scientist-python-sql-ml-models-3-5-years) |
 
 ## About This Role
 
-This data scientist position at Visa International Service Association was posted on 2026-03-03.
+This data scientist position at Visa International Service Association was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

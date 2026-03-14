@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Program Manager |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Senior-Manager--Data-Science---Analytics_R560769) |
+| Location | Not specified |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Dublin/Senior-Manager--Data-Science---Analytics_R569411-1) |
 
 ## About This Role
 
-This program manager position at Alimentation Couche-Tard was posted on 2026-01-30.
+This machine learning engineer position at Alimentation Couche-Tard was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

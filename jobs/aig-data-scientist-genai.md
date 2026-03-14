@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Dublin/Data-Scientist--GenAI_JR2600577) |
+| Location | Atlanta, Georgia, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/Data-Scientist--GenAI_JR2601035) |
 
 ## About This Role
 
-This data scientist position at AIG was posted on 2026-02-03.
+This ai / llm engineer position at AIG was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

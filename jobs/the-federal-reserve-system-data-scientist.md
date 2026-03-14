@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/St-Louis-MO/Data-Scientist_R-0000031383-2) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Boston-MA/Data-Scientist_R-0000031600) |
 
 ## About This Role
 
-This data scientist position at The Federal Reserve System was posted on 2026-02-09.
+This data scientist position at The Federal Reserve System was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

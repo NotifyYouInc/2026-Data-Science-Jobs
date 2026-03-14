@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556755023) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556752654) |
 
 ## About This Role
 

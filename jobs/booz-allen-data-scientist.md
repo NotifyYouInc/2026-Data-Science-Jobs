@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Norfolk, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0235012) |
+| Location | Tampa, Florida, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0235033) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-03-02.
+This data scientist position at Booz Allen was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

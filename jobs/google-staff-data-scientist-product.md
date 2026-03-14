@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kirkland, Washington, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/102173172916200134-staff-data-scientist-product?sort_by=date&page=1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/139072505045230278-staff-data-scientist-product?sort_by=date&page=1) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-02-13.
+This data scientist position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
