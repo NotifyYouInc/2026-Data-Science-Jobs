@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Denver, Colorado, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000112475151-machine-learning-data-science-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000112479717-machine-learning-data-science-engineer) |
 
 ## About This Role
 
