@@ -1,16 +1,16 @@
-# Data scientist at IBM
+# Data Scientist at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Shenzhen, Guangdong, China |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99211) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99852) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-03.
+This data scientist position at IBM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

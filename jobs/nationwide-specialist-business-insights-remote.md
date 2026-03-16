@@ -1,16 +1,16 @@
-# Data Analyst 2 at Comcast
+# Specialist, Business Insights - REMOTE at Nationwide
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Data-Analyst-2_R427552) |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/United-States---Remote/Specialist--Business-Insights---REMOTE_097016) |
 
 ## About This Role
 
-This data analyst position at Comcast was posted on 2026-03-09.
+This data analyst position at Nationwide was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

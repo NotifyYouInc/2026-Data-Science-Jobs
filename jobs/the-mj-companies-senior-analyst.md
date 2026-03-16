@@ -1,16 +1,16 @@
-# Data Scientist-Advanced Analytics at IBM
+# Senior Analyst at The MJ Companies
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [The MJ Companies](https://scoutify.ai/companies/themjcos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Carmel, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100594) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/themjcos/jobs/5146794008) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-09.
+This data scientist position at The MJ Companies was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

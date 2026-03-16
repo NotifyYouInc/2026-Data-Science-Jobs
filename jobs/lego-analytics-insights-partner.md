@@ -1,16 +1,16 @@
-# Data Scientist-Advanced Analytics at IBM
+# Analytics & Insights Partner at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100594) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Istanbul/Analytics---Insights-Partner_0000031980) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-09.
+This data scientist position at LEGO was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

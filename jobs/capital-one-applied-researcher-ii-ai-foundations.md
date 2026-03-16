@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
-| Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations-_R237207) |
+| Location | 5 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-II--AI-Foundations-_R236847-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-03-03.
+This ai / llm engineer position at Capital One was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

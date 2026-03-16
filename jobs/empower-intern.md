@@ -1,16 +1,16 @@
-# Data Scientist-Advanced Analytics at IBM
+# Intern at Empower
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100594) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Intern_R0057105) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-09.
+This data scientist position at Empower was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

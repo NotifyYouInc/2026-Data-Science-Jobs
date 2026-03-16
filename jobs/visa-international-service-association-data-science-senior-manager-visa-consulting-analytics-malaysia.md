@@ -1,16 +1,16 @@
-# Manager, Data Science at Visa International Service Association
+# Data Science Senior Manager - Visa Consulting & Analytics, Malaysia at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113357763-manager-data-science) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113397547-data-science-senior-manager-visa-consulting-analytics-malaysia) |
 
 ## About This Role
 
-This machine learning engineer position at Visa International Service Association was posted on 2026-03-08.
+This machine learning engineer position at Visa International Service Association was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
