@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/140651264156279494-data-scientist-manager-research-app-ecosystem-and-trust?sort_by=date&page=1) |
+| Category | Data Scientist |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/129099341875815110-data-scientist-manager-research-app-ecosystem-and-trust?sort_by=date&page=1) |
 
 ## About This Role
 
-This machine learning engineer position at Google was posted on 2026-02-20.
+This data scientist position at Google was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

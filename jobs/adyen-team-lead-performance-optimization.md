@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7486450) |
+| Location | London, England, United Kingdom |
+| Category | Data Analyst |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7681566) |
 
 ## About This Role
 
-This data scientist position at Adyen was posted on 2026-03-04.
+This data analyst position at Adyen was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

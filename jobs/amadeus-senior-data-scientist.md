@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sarajevo, Federation of B&H, Bosnia and Herzegovina |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Sarajevo/Senior-Data-Scientist_R33399) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Shanghai/Senior-Data-Scientist_R33210) |
 
 ## About This Role
 
-This data scientist position at Amadeus was posted on 2026-03-03.
+This data scientist position at Amadeus was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

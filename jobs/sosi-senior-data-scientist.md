@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990011714426-senior-data-scientist) |
+| Location | Huntsville, Alabama, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012044576-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at SOSi was posted on 2026-02-17.
+This machine learning engineer position at SOSi was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

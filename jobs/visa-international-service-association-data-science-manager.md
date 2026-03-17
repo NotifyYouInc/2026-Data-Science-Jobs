@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000109182875-data-science-manager) |
+| Location | Madrid, Madrid, Spain |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113565367-data-science-manager) |
 
 ## About This Role
 
-This data engineer position at Visa International Service Association was posted on 2026-02-13.
+This machine learning engineer position at Visa International Service Association was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

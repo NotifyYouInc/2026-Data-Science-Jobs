@@ -5,12 +5,12 @@
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011713637-sr-data-scientist-credit-risk) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990012046356-sr-data-scientist-credit-risk) |
 
 ## About This Role
 
-This data scientist position at Achieve was posted on 2026-02-17.
+This data scientist position at Achieve was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
