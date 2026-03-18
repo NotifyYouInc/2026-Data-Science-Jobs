@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94670) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99799) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-04.
+This data scientist position at IBM was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

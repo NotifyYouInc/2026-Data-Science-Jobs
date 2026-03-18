@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Irvine, California, United States |
+| Location | South San Francisco, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011992596-senior-data-scientist-ai-solutions) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011992496-senior-data-scientist-ai-solutions) |
 
 ## About This Role
 

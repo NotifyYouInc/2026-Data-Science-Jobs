@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Scientist_R2119184-1) |
+| Location | Aurora, Colorado, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Aurora-Colorado/Data-Scientist_R2120235) |
 
 ## About This Role
 
-This machine learning engineer position at KBR was posted on 2026-02-18.
+This data scientist position at KBR was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
