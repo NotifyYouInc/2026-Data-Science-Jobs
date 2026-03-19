@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Reston, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Data-Scientist--Senior_R0234423) |
+| Location | Charlottesville, Virginia, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Data-Scientist--Senior_R0234678) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-02-20.
+This data scientist position at Booz Allen was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
