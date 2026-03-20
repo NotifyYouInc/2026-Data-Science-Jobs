@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Operations |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011979204-senior-director-rd-quality-transformation-and-data-science) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012105242-senior-director-rd-quality-transformation-and-data-science) |
 
 ## About This Role
 
-This operations position at AbbVie was posted on 2026-03-04.
+This operations position at AbbVie was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

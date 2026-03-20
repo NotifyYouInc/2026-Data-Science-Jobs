@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Scientist |
+| Location | Mumbai, Maharashtra, India |
+| Category | Machine Learning Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113467937-lead-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113474793-lead-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-03-09.
+This machine learning engineer position at NielsenIQ was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

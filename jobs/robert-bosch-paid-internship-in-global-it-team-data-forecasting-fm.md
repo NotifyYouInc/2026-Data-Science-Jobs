@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Poland |
-| Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113185167-paid-internship-in-global-it-team-data-forecasting-fm) |
+| Category | Data Scientist |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114039846-paid-internship-in-global-it-team-data-forecasting-fm) |
 
 ## About This Role
 
-This data analyst position at Robert Bosch was posted on 2026-03-06.
+This data scientist position at Robert Bosch was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

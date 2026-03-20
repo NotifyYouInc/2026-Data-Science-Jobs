@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113392577-data-scientist-analytics) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113715462-data-scientist-analytics) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-03-09.
+This data scientist position at Grab was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Scientist_R0235317) |
+| Location | San Antonio, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0233287) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-03-06.
+This data scientist position at Booz Allen was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

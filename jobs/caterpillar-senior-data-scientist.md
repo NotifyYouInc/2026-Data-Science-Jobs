@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Košice, Košice Region, Slovakia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-Data-Scientist_R0000352891) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Scientist |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Data-Scientist_R0000356836-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Caterpillar was posted on 2026-02-23.
+This data scientist position at Caterpillar was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

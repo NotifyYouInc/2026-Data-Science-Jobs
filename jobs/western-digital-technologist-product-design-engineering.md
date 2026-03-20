@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | Data Scientist |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000113125937-technologist-product-design-engineering) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000114341057-technologist-product-design-engineering) |
 
 ## About This Role
 
-This data scientist position at Western Digital was posted on 2026-03-06.
+This data scientist position at Western Digital was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

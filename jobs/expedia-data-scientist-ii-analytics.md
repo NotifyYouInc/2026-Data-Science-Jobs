@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Scientist-II--Analytics_R-101108-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-II--Analytics_R-103426) |
 
 ## About This Role
 
-This data scientist position at Expedia was posted on 2026-01-30.
+This data scientist position at Expedia was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

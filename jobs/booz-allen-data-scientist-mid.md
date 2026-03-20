@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0235353) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0235541) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-03-06.
+This data scientist position at Booz Allen was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
