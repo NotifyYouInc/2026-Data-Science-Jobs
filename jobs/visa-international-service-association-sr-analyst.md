@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113423868-sr-analyst) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114561828-sr-analyst) |
 
 ## About This Role
 
-This data scientist position at Visa International Service Association was posted on 2026-03-09.
+This data scientist position at Visa International Service Association was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

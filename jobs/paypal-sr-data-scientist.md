@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Jose, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0134453-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0135708) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-03-09.
+This machine learning engineer position at PayPal was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Senior-data-scientist_REQ-10106663-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Senior-Data-Scientist_REQ-10111392) |
 
 ## About This Role
 
-This data scientist position at ING was posted on 2026-02-20.
+This data scientist position at ING was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

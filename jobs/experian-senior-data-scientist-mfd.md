@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
-| Category | Data Scientist |
+| Location | Germany |
+| Category | Machine Learning Engineer |
 | Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113674257-senior-data-scientist-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113673068-senior-data-scientist-mfd) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-03-10.
+This machine learning engineer position at Experian was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

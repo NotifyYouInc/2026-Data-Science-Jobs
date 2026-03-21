@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samba TV](https://scoutify.ai/companies/sambatv?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.lever.co/sambatv/24ff7e8b-bec7-453e-9356-3e5ff843431a) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.lever.co/sambatv/7810c712-4c27-4161-9c1b-96353a210421) |
 
 ## About This Role
 
-This data scientist position at Samba TV was posted on 2026-03-09.
+This machine learning engineer position at Samba TV was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

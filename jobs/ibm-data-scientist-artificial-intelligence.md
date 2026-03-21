@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Haryana, IN |
+| Location | Kolkata, West Bengal, India |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99745) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101746) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-03-09.
+This ai / llm engineer position at IBM was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

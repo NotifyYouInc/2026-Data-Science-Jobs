@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Enkhuizen, North Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000113476628-applied-genetics-scientist-pipeline-data-science) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000113727968-applied-genetics-scientist-pipeline-data-science) |
 
 ## About This Role
 
-This data scientist position at Syngenta was posted on 2026-03-09.
+This data scientist position at Syngenta was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
