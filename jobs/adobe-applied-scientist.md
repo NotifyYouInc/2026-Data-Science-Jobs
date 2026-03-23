@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Applied Scientist at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Jose, California, United States |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99761) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R165818) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-03-11.
+This ai / llm engineer position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
