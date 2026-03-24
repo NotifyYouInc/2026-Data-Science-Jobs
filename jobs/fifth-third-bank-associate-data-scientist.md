@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Associate Data Scientist at Fifth Third Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Cincinnati, Ohio, United States |
 | Category | Data Scientist |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Data-Scientist_R66349) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This data scientist position at Fifth Third Bank was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

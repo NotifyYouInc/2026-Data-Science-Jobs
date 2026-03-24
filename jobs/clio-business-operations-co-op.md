@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Business Operations Co-op at Clio
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Vancouver/Business-Operations-Co-op_REQ-4496) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This data scientist position at Clio was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

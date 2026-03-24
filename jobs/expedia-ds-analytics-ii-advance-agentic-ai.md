@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST, SMAI OI at Micron
+# DS Analytics II - Advance Agentic AI at Expedia
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boise, Idaho, United States |
+| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93894) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/DS-Analytics-II---Advance-Agentic-AI_R-101305) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-03-16.
+This data scientist position at Expedia was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

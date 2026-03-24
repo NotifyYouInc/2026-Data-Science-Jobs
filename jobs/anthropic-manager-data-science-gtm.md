@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Manager, Data Science, GTM at Anthropic
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Product Marketing |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5149911008) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This product marketing position at Anthropic was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

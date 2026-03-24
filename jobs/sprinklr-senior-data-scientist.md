@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST, SMAI OI at Micron
+# Senior Data Scientist at Sprinklr
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boise, Idaho, United States |
+| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93894) |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---North-Carolina---Remote/Senior-Data-Scientist_112866-JOB) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-03-16.
+This data scientist position at Sprinklr was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

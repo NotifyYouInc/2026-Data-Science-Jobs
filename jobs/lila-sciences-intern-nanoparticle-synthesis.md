@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST, SMAI OI at Micron
+# Intern, Nanoparticle Synthesis at Lila Sciences
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boise, Idaho, United States |
+| Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93894) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4184471009) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-03-16.
+This data scientist position at Lila Sciences was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

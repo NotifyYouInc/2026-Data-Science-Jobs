@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Data Scientist, Safety Systems at OpenAI
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/1906c058-7610-4cf2-b5ed-ae7f4b6a16ca) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This data scientist position at OpenAI was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

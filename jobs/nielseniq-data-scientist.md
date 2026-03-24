@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113712402-data-scientist) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Data Scientist |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113984497-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at NielsenIQ was posted on 2026-03-10.
+This data scientist position at NielsenIQ was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

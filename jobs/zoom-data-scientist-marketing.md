@@ -1,16 +1,16 @@
-# Data Scientist at Micron
+# Data Scientist Marketing at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Jose, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Data-Scientist_JR91902) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Scientist-Marketing_R18793-1) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-03-17.
+This machine learning engineer position at Zoom was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

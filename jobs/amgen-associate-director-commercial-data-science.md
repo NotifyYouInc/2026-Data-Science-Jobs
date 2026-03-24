@@ -1,16 +1,16 @@
-# Cientista de Dados at IBM
+# Associate Director, Commercial Data Science at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101561) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Associate-Director--Commercial-Data-Science_R-239736) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-03-16.
+This machine learning engineer position at Amgen was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

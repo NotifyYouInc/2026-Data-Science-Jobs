@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST, SMAI OI at Micron
+# Senior Psychometrician at Cambium Learning
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boise, Idaho, United States |
+| Company | [Cambium Learning](https://scoutify.ai/companies/cambiumlearning?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93894) |
+| Apply | [View on company site](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Senior-Psychometrician_REQ-4413) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-03-16.
+This data scientist position at Cambium Learning was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

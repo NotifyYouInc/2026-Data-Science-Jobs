@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST, SMAI OI at Micron
+# SFC Data Scientist II at Truist
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boise, Idaho, United States |
+| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Greenville, North Carolina, United States |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93894) |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Greenville-SC/SFC-Data-Scientist-II_R0112452) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-03-16.
+This data scientist position at Truist was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

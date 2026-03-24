@@ -1,4 +1,4 @@
-# SR DATA SCIENTIST, SMAI OI at Micron
+# Intern - GQ Reliability Methods at Micron
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Boise, Idaho, United States |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93894) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/GQ-Reliability-Methods-Summer-Intern_JR94278) |
 
 ## About This Role
 

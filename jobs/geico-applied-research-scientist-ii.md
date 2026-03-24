@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Applied Research Scientist II at Geico
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Applied-Research-Scientist-II_R0062786) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This ai / llm engineer position at Geico was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

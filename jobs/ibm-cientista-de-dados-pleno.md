@@ -1,16 +1,16 @@
-# Data Scientist at Micron
+# Cientista de Dados Pleno at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Brazil |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Data-Scientist_JR91902) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101564) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-03-17.
+This machine learning engineer position at IBM was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

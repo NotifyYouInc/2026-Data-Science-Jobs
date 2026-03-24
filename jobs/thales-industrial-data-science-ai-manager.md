@@ -1,16 +1,16 @@
-# Data Scientist at Micron
+# Industrial Data Science & AI Manager at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Data-Scientist_JR91902) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Industrial-Data-Science---AI-Manager_R0320533-2) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-03-17.
+This machine learning engineer position at Thales was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

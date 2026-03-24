@@ -1,16 +1,16 @@
-# Data Scientist at Micron
+# Engineering-Applied Science/Machine Learning/Data Science -RTI at Tekion
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
-| Category | Machine Learning Engineer |
+| Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | India |
+| Category | AI / LLM Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Data-Scientist_JR91902) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7651936003) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-03-17.
+This ai / llm engineer position at Tekion was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

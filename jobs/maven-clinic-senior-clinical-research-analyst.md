@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Senior Clinical Research Analyst at Maven Clinic
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Maven Clinic](https://scoutify.ai/companies/maven-clinic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mavenclinic/jobs/8464692002) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This data scientist position at Maven Clinic was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

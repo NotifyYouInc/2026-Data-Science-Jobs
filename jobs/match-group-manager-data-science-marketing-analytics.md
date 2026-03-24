@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Manager, Data Science, Marketing Analytics at Match Group
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Match Group](https://scoutify.ai/companies/matchgroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Marketing Operations |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Apply | [View on company site](https://jobs.lever.co/matchgroup/1120fcd7-1e09-48b4-9fe4-44adbb0a5dc4) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This marketing operations position at Match Group was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

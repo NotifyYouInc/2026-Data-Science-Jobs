@@ -1,16 +1,16 @@
-# Staff Data Scientist, Ads at Reddit
+# Operations Analyst, Reliability (Starship) at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
-| Category | Data Scientist |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Texas, US |
+| Category | AI / LLM Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7721787) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8463192002?gh_jid=8463192002) |
 
 ## About This Role
 
-This data scientist position at Reddit was posted on 2026-03-16.
+This ai / llm engineer position at SpaceX was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

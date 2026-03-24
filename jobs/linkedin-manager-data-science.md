@@ -1,16 +1,16 @@
-# Analyst, Global R&D at S&P Global
+# Manager, Data Science at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Mumbai-Maharastra/Analyst--Global-R-D_323535-2) |
+| Category | Engineering Manager |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115087426-manager-data-science) |
 
 ## About This Role
 
-This data scientist position at S&P Global was posted on 2026-03-17.
+This engineering manager position at LinkedIn was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
