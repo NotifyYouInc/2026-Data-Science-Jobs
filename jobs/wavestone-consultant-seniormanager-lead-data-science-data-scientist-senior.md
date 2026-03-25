@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000107124510-consultant-seniormanager-lead-data-science-data-scientist-senior) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000115159257-consultant-seniormanager-lead-data-science-data-scientist-senior) |
 
 ## About This Role
 
-This machine learning engineer position at Wavestone was posted on 2026-02-03.
+This strategy / management consulting position at Wavestone was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

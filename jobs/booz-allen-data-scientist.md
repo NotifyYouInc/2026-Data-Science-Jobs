@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Monterey, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Monterey-CA/Data-Scientist_R0235523) |
+| Location | Arlington, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0236135) |
 
 ## About This Role
 
-This data analyst position at Booz Allen was posted on 2026-03-11.
+This data scientist position at Booz Allen was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | United States |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113779088-pharmaceutical-computational-scientist) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000115291247-pharmaceutical-computational-scientist) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-03-10.
+This software engineer position at Eurofins Scientific was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

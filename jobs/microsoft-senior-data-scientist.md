@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Redmond, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556637352) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843602) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-03-11.
+This data scientist position at Microsoft was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charlottesville, Virginia, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Data-Scientist--Senior_R0234678) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Data-Scientist--Senior_R0235840) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-03-11.
+This data scientist position at Booz Allen was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

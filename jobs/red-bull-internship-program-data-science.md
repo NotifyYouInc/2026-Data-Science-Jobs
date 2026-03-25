@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114072406-internship-program-data-science) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114876862-internship-program-data-science) |
 
 ## About This Role
 
-This data scientist position at Red Bull was posted on 2026-03-11.
+This data scientist position at Red Bull was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
