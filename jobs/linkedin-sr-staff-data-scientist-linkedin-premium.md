@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108270154-sr-staff-data-scientist-linkedin-premium) |
+| Category | Data Scientist |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115524677-sr-staff-data-scientist-linkedin-premium) |
 
 ## About This Role
 
-This machine learning engineer position at LinkedIn was posted on 2026-02-09.
+This data scientist position at LinkedIn was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114398867-senior-data-scientist) |
+| Location | Almaty, Almaty, Kazakhstan |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115400437-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Visa International Service Association was posted on 2026-03-12.
+This ai / llm engineer position at Visa International Service Association was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

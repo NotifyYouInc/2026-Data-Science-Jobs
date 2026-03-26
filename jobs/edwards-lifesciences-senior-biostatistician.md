@@ -5,12 +5,12 @@
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Irvine, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Biostatistician_Req-46604) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Senior-Biostatistician_Req-46641) |
 
 ## About This Role
 
-This data scientist position at Edwards Lifesciences was posted on 2026-03-12.
+This data scientist position at Edwards Lifesciences was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

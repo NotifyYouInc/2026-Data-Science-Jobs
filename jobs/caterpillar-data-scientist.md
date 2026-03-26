@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Victoria, AU |
-| Category | Data Scientist |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tullamarine-Victoria/Data-Scientist_R0000353813) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Data-Scientist_R0000358080) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-02-25.
+This machine learning engineer position at Caterpillar was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

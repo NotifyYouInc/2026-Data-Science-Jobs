@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Texas, US |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Lackland-AFB/Data-Scientist_322060) |
+| Location | Charlottesville, Virginia, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Charlottesville/Data-Scientist_323484) |
 
 ## About This Role
 
-This machine learning engineer position at CACI was posted on 2026-02-12.
+This data scientist position at CACI was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
