@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSL](https://scoutify.ai/companies/csl?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | King of Prussia, Pennsylvania, United States |
-| Category | Venture Capital |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Principal-Biostatistician_R-267458) |
+| Location | Switzerland |
+| Category | Data Scientist |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Schlieren-CSL-Behring/Principal-Biostatistician_R-263586-1) |
 
 ## About This Role
 
-This venture capital position at CSL was posted on 2026-02-04.
+This data scientist position at CSL was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

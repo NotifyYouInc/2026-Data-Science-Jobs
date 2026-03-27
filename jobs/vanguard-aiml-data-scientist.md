@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/AI-ML-Data-Scientist_175363) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/AI-ML-Data-Scientist_175365) |
 
 ## About This Role
 
-This data scientist position at Vanguard was posted on 2026-03-02.
+This data scientist position at Vanguard was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

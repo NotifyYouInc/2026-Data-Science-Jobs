@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Senior-Data-Scientist_JR0143780) |
+| Location | Cork, Munster, Ireland |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Senior-Data-Scientist_JR0143902) |
 
 ## About This Role
 
-This data scientist position at McKesson was posted on 2026-03-02.
+This machine learning engineer position at McKesson was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

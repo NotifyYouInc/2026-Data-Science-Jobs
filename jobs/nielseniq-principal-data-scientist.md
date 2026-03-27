@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Scientist |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113191037-principal-data-scientist) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115754822-principal-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-03-06.
+This data scientist position at NielsenIQ was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

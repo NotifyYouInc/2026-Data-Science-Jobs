@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/67dd9e74-ad36-42a1-b5f9-3de855caa275) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/e7bdf02f-1b4b-4e1e-8800-63f636c5fcfc) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-03-13.
+This data scientist position at Jerry.ai was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

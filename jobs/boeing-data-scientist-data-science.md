@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Everett, Washington, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Data-Scientist--Data-Science-_JR2026496611) |
+| Location | Dallas, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Data-Scientist--Data-Science-_JR2026499934-1) |
 
 ## About This Role
 
-This machine learning engineer position at Boeing was posted on 2026-03-05.
+This data scientist position at Boeing was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
