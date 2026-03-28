@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dortmund, North Rhine-Westphalia, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000113682169-masterand-wmd-abschlussarbeit-intelligente-energiesysteme) |
+| Location | Germany |
+| Category | Data Scientist |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000115887596-masterand-wmd-abschlussarbeit-intelligente-energiesysteme) |
 
 ## About This Role
 
-This ai / ml research position at Drees & Sommer was posted on 2026-03-10.
+This data scientist position at Drees & Sommer was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

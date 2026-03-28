@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 8 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556849580) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556833962) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-03-16.
+This data scientist position at Microsoft was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

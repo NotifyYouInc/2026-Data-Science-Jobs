@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Data-Analytics_R0133128-1) |
+| Location | Austin, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Analyst--Data-Analytics_R0135917) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-03-04.
+This data analyst position at PayPal was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

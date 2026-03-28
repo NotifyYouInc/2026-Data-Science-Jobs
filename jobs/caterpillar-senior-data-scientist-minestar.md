@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mesa-Arizona/Senior-Data-Scientist---MineStar_R0000357637) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Belo-Horizonte-Minas-Gerais/Senior-Data-Scientist---MineStar_R0000357639) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-03-16.
+This data scientist position at Caterpillar was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

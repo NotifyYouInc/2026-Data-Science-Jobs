@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Charlestown, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Bioinformatician-I_RQ4055621) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Bioinformatician-I_RQ4056769) |
 
 ## About This Role
 
-This data scientist position at Mass General Brigham was posted on 2026-03-13.
+This data scientist position at Mass General Brigham was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

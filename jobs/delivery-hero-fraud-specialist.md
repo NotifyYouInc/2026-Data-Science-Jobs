@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Trust & Safety |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110733047-fraud-specialist) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000115870505-fraud-specialist) |
 
 ## About This Role
 
-This trust & safety position at Delivery Hero was posted on 2026-02-23.
+This trust & safety position at Delivery Hero was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

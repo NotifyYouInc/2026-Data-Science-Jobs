@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000113728850-geospatial-data-scientist-intern) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000115968184-geospatial-data-scientist-intern) |
 
 ## About This Role
 
-This data scientist position at AECOM was posted on 2026-03-10.
+This data scientist position at AECOM was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

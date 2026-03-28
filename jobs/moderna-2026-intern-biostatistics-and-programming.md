@@ -5,12 +5,12 @@
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2026-Intern--Biostatistics-and-Programming_R18338) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/XMLNAME-2026-Intern--Biostatistics-and-Programming_R18336) |
 
 ## About This Role
 
-This data scientist position at Moderna was posted on 2026-03-16.
+This data scientist position at Moderna was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Data Scientist |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/1054-Retiro-Capital-Federal/DATA-SCIENTIST-CONTROL-ASSOCIATE-I_JR00096714) |
+| Location | Colombia |
+| Category | Data Analyst |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/01010-SAN-BERNARDINO-Distrito-Capital/DATA-SCIENTIST-CONTROL-ASSOCIATE-I_JR00098978) |
 
 ## About This Role
 
-This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-05.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
