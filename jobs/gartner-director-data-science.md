@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Director, Data Science at Gartner
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-235897) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Director--Data-Science_108588) |
 
 ## About This Role
 
-This ai / llm engineer position at Amgen was posted on 2026-03-21.
+This ai / llm engineer position at Gartner was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

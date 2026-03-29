@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Young Graduates - ML Engineer/ Data Scientist at Devoteam
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Belgium |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-21 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-235897) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116014497-young-graduates-ml-engineer-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Amgen was posted on 2026-03-21.
+This ai / llm engineer position at Devoteam was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 
