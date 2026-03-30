@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# AI & Data Scientist at Logitech
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
+| Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Shanghai, Shanghai, China |
+| Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Shanghai-China/AI---Data-Scientist_145798) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This data analyst position at Logitech was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

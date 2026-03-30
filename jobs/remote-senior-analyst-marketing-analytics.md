@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# Senior Analyst, Marketing Analytics at Remote
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
+| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
+| Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7675020003) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This data analyst position at Remote was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

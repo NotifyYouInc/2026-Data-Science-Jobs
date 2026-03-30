@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Reston, Virginia, United States |
 | Category | AI / LLM Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115233497-machine-learning-data-science-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115230052-machine-learning-data-science-engineer) |
 
 ## About This Role
 

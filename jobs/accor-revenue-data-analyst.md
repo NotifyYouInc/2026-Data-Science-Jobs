@@ -1,16 +1,16 @@
-# Senior Data Scientist (Integrity) at Grab
+# Revenue Data Analyst at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Phu Quoc, An Giang, Vietnam |
+| Category | Data Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116099167-senior-data-scientist-integrity) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000116105442-revenue-data-analyst) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-23.
+This data analyst position at ACCOR was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

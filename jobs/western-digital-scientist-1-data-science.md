@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000114301357-scientist-1-data-science) |
+| Location | Thailand |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000116096377-scientist-1-data-science) |
 
 ## About This Role
 
-This ai / llm engineer position at Western Digital was posted on 2026-03-12.
+This machine learning engineer position at Western Digital was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
