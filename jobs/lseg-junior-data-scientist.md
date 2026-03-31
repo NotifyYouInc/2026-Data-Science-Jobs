@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/EGY--Cairo-Oilibya-Building-Plot-187--90th-North-St/Junior-Data-Scientist_R0112515-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Junior-Data-Scientist_R0117831-1) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-02-02.
+This data scientist position at LSEG was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

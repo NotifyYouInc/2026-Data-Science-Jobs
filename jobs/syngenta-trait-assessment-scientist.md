@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | El Ejido, Andalusia, Spain |
 | Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000112165405-trait-assessment-scientist) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000116224355-trait-assessment-scientist) |
 
 ## About This Role
 
-This data scientist position at Syngenta was posted on 2026-03-02.
+This data scientist position at Syngenta was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

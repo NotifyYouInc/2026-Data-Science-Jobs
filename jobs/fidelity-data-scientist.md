@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Bangalore-Karnataka/Data-Scientist_2122352-4) |
+| Location | Boston, Massachusetts, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Data-Scientist_2123807-2) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-02-03.
+This machine learning engineer position at Fidelity was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

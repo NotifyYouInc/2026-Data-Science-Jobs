@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Data-Scientist_REQ326422-2) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Data-Scientist_REQ349200) |
 
 ## About This Role
 
-This data scientist position at T-Mobile was posted on 2026-02-08.
+This data scientist position at T-Mobile was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

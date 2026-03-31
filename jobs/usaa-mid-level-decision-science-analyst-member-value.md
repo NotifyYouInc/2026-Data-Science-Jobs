@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 7 locations |
-| Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Mid-Level-Decision-Science-Analyst---Member-Value_R0114398) |
+| Location | San Antonio, Texas, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Mid-Level-Decision-Science-Analyst---Member-Value_R0116386) |
 
 ## About This Role
 
-This data scientist position at USAA was posted on 2026-03-10.
+This data analyst position at USAA was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

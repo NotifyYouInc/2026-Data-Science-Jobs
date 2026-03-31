@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000113422127-stage-de-fin-detudes-consultante-data-science-marketing-strategie) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116121497-stage-de-fin-detudes-consultante-data-science-marketing-strategie) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-03-09.
+This data scientist position at SIA was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

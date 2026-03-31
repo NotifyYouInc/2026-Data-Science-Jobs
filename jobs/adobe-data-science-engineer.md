@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Science-Engineer_R166747) |
+| Location | Lehi, Utah, United States |
+| Category | Software Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Science-Engineer_R166648) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-03-17.
+This software engineer position at Adobe was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

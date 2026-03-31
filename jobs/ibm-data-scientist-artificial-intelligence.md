@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Haryana, IN |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103321) |
+| Location | Kochi, Kerala, India |
+| Category | Data Scientist |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=71450) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-03-17.
+This data scientist position at IBM was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

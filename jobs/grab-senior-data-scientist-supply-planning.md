@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000112454626-senior-data-scientist-supply-planning) |
+| Location | Singapore |
+| Category | Data Analyst |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116238933-senior-data-scientist-supply-planning) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-03-03.
+This data analyst position at Grab was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
