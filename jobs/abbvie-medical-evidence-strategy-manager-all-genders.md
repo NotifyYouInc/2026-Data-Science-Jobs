@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Strategy & Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012221726-medical-evidence-strategy-manager-all-genders) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012281426-medical-evidence-strategy-manager-all-genders) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-03-19.
+This strategy & operations position at AbbVie was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

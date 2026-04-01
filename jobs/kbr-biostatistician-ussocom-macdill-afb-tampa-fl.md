@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Tampa-Florida/Biostatistician--USSOCOM--MacDill-AFB--Tampa--FL-_R2119632) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Tampa-Florida/Biostatistician--USSOCOM--MacDill-AFB--Tampa--FL-_R2120881) |
 
 ## About This Role
 
-This data scientist position at KBR was posted on 2026-02-25.
+This data scientist position at KBR was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

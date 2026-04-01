@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115599299-manager-software-engineering-data-science) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116326767-manager-software-engineering-data-science) |
 
 ## About This Role
 
-This engineering manager position at LinkedIn was posted on 2026-03-19.
+This engineering manager position at LinkedIn was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R106915) |
+| Category | Data Analyst |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R107184) |
 
 ## About This Role
 
-This data scientist position at Tencent was posted on 2026-02-18.
+This data analyst position at Tencent was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

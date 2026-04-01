@@ -1,16 +1,16 @@
-# Associate Analyst, Modelling at NielsenIQ
+# Associate Analyst - Modelling at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115472457-associate-analyst-modelling) |
+| Location | Vadodara, Gujarat, India |
+| Category | Data Analyst |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116330257-associate-analyst-modelling) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-03-18.
+This data analyst position at NielsenIQ was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

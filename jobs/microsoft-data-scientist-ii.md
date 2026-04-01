@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556833725) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556851357) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-03-11.
+This data scientist position at Microsoft was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
