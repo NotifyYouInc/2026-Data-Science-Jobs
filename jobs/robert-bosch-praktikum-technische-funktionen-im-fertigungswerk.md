@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lohr am Main, Bavaria, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115848267-praktikum-technische-funktionen-im-fertigungswerk) |
+| Category | Data Analyst |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116872637-praktikum-technische-funktionen-im-fertigungswerk) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-03-20.
+This data analyst position at Robert Bosch was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Data-Scientist_R0000358080) |
+| Location | Coahuila, MX |
+| Category | Data Analyst |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Acuna-Coahuila/Data-Scientist_R0000357971) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar was posted on 2026-03-18.
+This data analyst position at Caterpillar was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

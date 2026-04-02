@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SciPlay](https://scoutify.ai/companies/lnw?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cedar Falls, Iowa, United States |
-| Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Gameplay-Analyst_R321622) |
+| Location | Austin, Texas, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Austin-Texas/Gameplay-Analyst_R321658) |
 
 ## About This Role
 
-This data scientist position at SciPlay was posted on 2026-02-17.
+This machine learning engineer position at SciPlay was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

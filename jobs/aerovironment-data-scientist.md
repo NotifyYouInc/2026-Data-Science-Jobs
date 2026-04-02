@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Maryland, US |
 | Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/WPAFB/Data-Scientist_6805) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/308-Sentinel-Drive-Annapolis-Junction-MD/Data-Scientist_7339) |
 
 ## About This Role
 
-This data scientist position at AeroVironment was posted on 2026-02-17.
+This data scientist position at AeroVironment was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

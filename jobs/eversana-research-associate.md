@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000110400750-research-associate) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000116705141-research-associate) |
 
 ## About This Role
 
-This data scientist position at EVERSANA was posted on 2026-02-20.
+This data scientist position at EVERSANA was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

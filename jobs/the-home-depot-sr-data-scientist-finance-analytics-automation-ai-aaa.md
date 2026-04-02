@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Georgia, US |
-| Category | Data Scientist |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Sr-Data-Scientist---Finance-Analytics--Automation---AI--AAA-_Req166562-1) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Sr-Data-Scientist---Finance-Analytics--Automation---AI--AAA-_Req174165) |
 
 ## About This Role
 
-This data scientist position at The Home Depot was posted on 2026-02-06.
+This machine learning engineer position at The Home Depot was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

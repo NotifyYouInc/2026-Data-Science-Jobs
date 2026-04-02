@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Medical-Analytics--Care-Gaps---Customer-Segmentation-Team--Senior-Data-Scientist_4935081) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Medical-Analytics--Care-Gaps---Customer-Segmentation-Team--Senior-Data-Scientist_4954355-1) |
 
 ## About This Role
 
-This data scientist position at Pfizer was posted on 2026-02-10.
+This data scientist position at Pfizer was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
