@@ -1,16 +1,16 @@
-# CDM Programmer-II ( Python, R, and SAS Programming ) at Thermo Fisher Scientific
+# CDM Programmer-II (Python, R, and SAS Programming) at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/CDM-Programmer-II---Python--R--and-SAS-Programming--_R-01343044) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/CDM-Programmer-II--Python--R--and-SAS-Programming-_R-01346763) |
 
 ## About This Role
 
-This software engineer position at Thermo Fisher Scientific was posted on 2026-03-06.
+This software engineer position at Thermo Fisher Scientific was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

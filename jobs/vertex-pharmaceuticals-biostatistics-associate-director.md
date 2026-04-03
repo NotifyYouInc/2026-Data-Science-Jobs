@@ -5,12 +5,12 @@
 | Company | [Vertex Pharmaceuticals](https://scoutify.ai/companies/vrtx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Biostatistics-Associate-Director_REQ-28235) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Biostatistics-Associate-Director_REQ-28236) |
 
 ## About This Role
 
-This data scientist position at Vertex Pharmaceuticals was posted on 2026-03-06.
+This data scientist position at Vertex Pharmaceuticals was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

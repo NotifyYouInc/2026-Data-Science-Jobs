@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
-| Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7388224?gh_jid=7388224) |
+| Location | Santiago, Santiago Metropolitan, Chile |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7378858?gh_jid=7378858) |
 
 ## About This Role
 
-This data scientist position at Thoughtworks was posted on 2026-01-30.
+This machine learning engineer position at Thoughtworks was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

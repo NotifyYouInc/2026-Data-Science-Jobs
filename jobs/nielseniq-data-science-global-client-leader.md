@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111703600-data-science-global-client-leader) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116909648-data-science-global-client-leader) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-02-26.
+This business analyst position at NielsenIQ was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

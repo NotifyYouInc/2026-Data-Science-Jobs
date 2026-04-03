@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vertex Pharmaceuticals](https://scoutify.ai/companies/vrtx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Diego, California, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Computational-Genomics_REQ-28442-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Computational-Genomics_REQ-28516-1) |
 
 ## About This Role
 
-This data scientist position at Vertex Pharmaceuticals was posted on 2026-03-18.
+This data scientist position at Vertex Pharmaceuticals was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

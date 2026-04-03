@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Sr-Data-Scientist_REQ348459-1) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Data-Scientist_REQ347224-2) |
 
 ## About This Role
 
-This machine learning engineer position at T-Mobile was posted on 2026-03-18.
+This data scientist position at T-Mobile was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

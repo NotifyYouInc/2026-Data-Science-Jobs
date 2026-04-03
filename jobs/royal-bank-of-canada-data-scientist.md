@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Scientist_R-0000162817-1) |
+| Location | London, England, United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Data-Scientist_R-0000148057-3) |
 
 ## About This Role
 
-This data scientist position at Royal Bank of Canada was posted on 2026-03-16.
+This machine learning engineer position at Royal Bank of Canada was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

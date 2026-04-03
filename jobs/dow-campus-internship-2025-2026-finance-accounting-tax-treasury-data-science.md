@@ -5,12 +5,12 @@
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Terneuzen, Zeeland, The Netherlands |
 | Category | Corporate Finance |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Terneuzen-NLD/Campus-Internship-2025-2026---Finance--Accounting--Tax--Treasury--Data-Science-_R2066061) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Terneuzen-NLD/Campus-Internship-2025-2026---Finance--Accounting--Tax--Treasury--Data-Science-_R2066082) |
 
 ## About This Role
 
-This corporate finance position at Dow was posted on 2026-03-23.
+This corporate finance position at Dow was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

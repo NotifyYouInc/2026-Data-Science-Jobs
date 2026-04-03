@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cambridge, England, United Kingdom |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116235617-senior-data-scientist) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116376194-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at AECOM was posted on 2026-03-23.
+This machine learning engineer position at AECOM was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
