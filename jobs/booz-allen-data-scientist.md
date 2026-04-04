@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Wiesbaden, Hesse, Germany |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Data-Scientist_R0236578) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist_R0236701) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-03-23.
+This data scientist position at Booz Allen was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

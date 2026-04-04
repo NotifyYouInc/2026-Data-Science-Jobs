@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/00e1b9ac-da36-4439-b406-ff04a1202cdb) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a4d36869-6c95-4836-8418-a0a56272c3c3) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-03-23.
+This data scientist position at Jerry.ai was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

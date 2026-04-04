@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/a95830ad-c11f-49da-85a7-04ce47ce532c) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3) |
 
 ## About This Role
 
-This data scientist position at Spotify was posted on 2026-03-17.
+This data scientist position at Spotify was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

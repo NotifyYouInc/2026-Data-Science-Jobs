@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115472138-analyst-subscriber-forecasting-strategy) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000117362022-analyst-subscriber-forecasting-strategy) |
 
 ## About This Role
 
-This strategy & operations position at NBCUniversal was posted on 2026-03-18.
+This strategy & operations position at NBCUniversal was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/c7eff7e7-ac05-4846-8e96-f13c1640e91e) |
+| Category | Data Scientist |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/0476f26f-c596-498b-bd52-338e45ff5de5) |
 
 ## About This Role
 
-This machine learning engineer position at Jerry.ai was posted on 2026-03-23.
+This data scientist position at Jerry.ai was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
