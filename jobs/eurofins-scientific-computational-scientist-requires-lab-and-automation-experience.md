@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Connecticut, US |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000116400447-computational-scientist-requires-lab-and-automation-experience) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000116619457-computational-scientist-requires-lab-and-automation-experience) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Eurofins Scientific was posted on 2026-03-24.
+This electrical / hardware engineer position at Eurofins Scientific was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Analyst, Data Science and Analytics at TransUnion
+# Manager, Data Science and Analytics at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
+| Location | Pune, Maharashtra, India |
+| Category | AI / LLM Engineer |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Sr-Analyst--Data-Science-and-Analytics_19039735) |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Manager--Data-Science-and-Analytics_19039734) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-03-29.
+This ai / llm engineer position at TransUnion was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

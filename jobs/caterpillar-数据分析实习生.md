@@ -1,16 +1,16 @@
-# Scientist 3, Data Science at Western Digital
+# 数据分析实习生 at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Wuxi, Jiangsu, China |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117544436-scientist-3-data-science) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/_R0000358902) |
 
 ## About This Role
 
-This machine learning engineer position at Western Digital was posted on 2026-03-30.
+This machine learning engineer position at Caterpillar was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Intern SDS at Johnson & Johnson
+# Analytics Practitioner at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hyderabad-Andhra-Pradesh-India/Intern-SDS_R-061096) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Analytics-Practitioner_ATCI-5346863-S1952776-1) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-03-30.
+This data scientist position at Accenture was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Intern SDS at Johnson & Johnson
+# Analyst, Data Modeling at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Scientist |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hyderabad-Andhra-Pradesh-India/Intern-SDS_R-061096) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117547075-analyst-data-modeling) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-03-30.
+This data scientist position at NielsenIQ was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

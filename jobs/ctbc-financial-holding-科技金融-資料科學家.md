@@ -1,16 +1,16 @@
-# Scientist 3, Data Science at Western Digital
+# 科技金融_資料科學家 at CTBC Financial Holding
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117544436-scientist-3-data-science) |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7068) |
 
 ## About This Role
 
-This machine learning engineer position at Western Digital was posted on 2026-03-30.
+This machine learning engineer position at CTBC Financial Holding was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

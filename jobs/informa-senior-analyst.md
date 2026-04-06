@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000112124217-senior-analyst) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000117554018-senior-analyst) |
 
 ## About This Role
 
-This data scientist position at Informa was posted on 2026-03-02.
+This data scientist position at Informa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

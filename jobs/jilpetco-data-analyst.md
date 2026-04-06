@@ -1,16 +1,16 @@
-# Sr. Analyst, Data Science and Analytics at TransUnion
+# Data Analyst at Jilpetco
 
 | Field | Details |
 |-------|---------|
-| Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Sr-Analyst--Data-Science-and-Analytics_19039735) |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/NSC/Data-Analyst_R350651) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-03-29.
+This data analyst position at Jilpetco was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Data Scientist |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116433077-junior-data-scientist-statistics) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116557082-junior-data-scientist-statistics) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-03-24.
+This data scientist position at NielsenIQ was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
