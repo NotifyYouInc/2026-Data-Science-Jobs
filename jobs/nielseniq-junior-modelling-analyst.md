@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116466741-junior-modelling-analyst) |
+| Category | Data Scientist |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000117020967-junior-modelling-analyst) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-03-24.
+This data scientist position at NielsenIQ was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

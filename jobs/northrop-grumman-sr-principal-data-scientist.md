@@ -1,16 +1,16 @@
-# Sr. Principal Data Scientist at Northrop Grumman
+# Sr Principal Data Scientist at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Florida, US |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Unknown-City/Sr-Principal-Data-Scientist_R10223148) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/Sr-Principal-Data-Scientist_R10227079) |
 
 ## About This Role
 
-This machine learning engineer position at Northrop Grumman was posted on 2026-02-17.
+This data scientist position at Northrop Grumman was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

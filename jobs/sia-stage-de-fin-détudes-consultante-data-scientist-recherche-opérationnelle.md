@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116120233-stage-de-fin-detudes-consultante-data-scientist-recherche-operationnelle) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000117668552-stage-de-fin-detudes-consultante-data-scientist-recherche-operationnelle) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-03-23.
+This data scientist position at SIA was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

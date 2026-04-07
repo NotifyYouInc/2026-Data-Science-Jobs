@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Data-Scientist_JR00024712) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Data-Scientist_JR00027932-1) |
 
 ## About This Role
 
-This data scientist position at ABB was posted on 2026-02-10.
+This data scientist position at ABB was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

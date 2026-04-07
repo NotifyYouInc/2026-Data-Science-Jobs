@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Data-Scientist_REQ-10111157) |
+| Location | Madrid, Madrid, Spain |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Hubs-Spain/Data-Scientist_REQ-10112448) |
 
 ## About This Role
 
-This machine learning engineer position at ING was posted on 2026-03-10.
+This soc & incident response position at ING was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

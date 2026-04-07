@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Germany |
-| Category | Data Scientist |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000107760386-senior-data-scientist-mfd) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000117612537-senior-data-scientist-mfd) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-02-06.
+This machine learning engineer position at Redcare Pharmacy was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

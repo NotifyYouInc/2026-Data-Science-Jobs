@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pasadena, Texas, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3193702/applied-scientist-quantum-device-packaging-environment-r-d-device-team-aws-center-for-quantum-computing-device-team) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10379765/applied-scientist-quantum-device-packaging-environment-r-d-device-team-aws-center-for-quantum-computing-device-team) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Amazon was posted on 2026-03-03.
+This electrical / hardware engineer position at Amazon was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

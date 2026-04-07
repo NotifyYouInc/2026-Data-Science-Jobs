@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/26330364016595429) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4371397246432160) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-03-24.
+This machine learning engineer position at Meta was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

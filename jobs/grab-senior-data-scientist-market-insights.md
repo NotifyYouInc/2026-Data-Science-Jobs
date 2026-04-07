@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Data Scientist |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000114900367-senior-data-scientist-market-insights) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Machine Learning Engineer |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000117591287-senior-data-scientist-market-insights) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-03-16.
+This machine learning engineer position at Grab was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
