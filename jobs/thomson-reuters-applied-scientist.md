@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Applied-Scientist_JREQ199336) |
+| Location | 12 locations |
+| Category | AI / LLM Engineer |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Applied-Scientist_JREQ198506-1) |
 
 ## About This Role
 
-This data scientist position at Thomson Reuters was posted on 2026-03-18.
+This ai / llm engineer position at Thomson Reuters was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

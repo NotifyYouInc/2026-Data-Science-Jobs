@@ -1,16 +1,16 @@
-# Staff Data Scientist at SoFi
+# Senior Graph Data Scientist – Identity Analytics at USAA
 
 | Field | Details |
 |-------|---------|
-| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 5 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://sofi.com/careers/job/7682540003?gh_jid=7682540003) |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Senior-Graph-Data-Scientist---Identity-Analytics_R0116699) |
 
 ## About This Role
 
-This machine learning engineer position at SoFi was posted on 2026-03-31.
+This machine learning engineer position at USAA was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

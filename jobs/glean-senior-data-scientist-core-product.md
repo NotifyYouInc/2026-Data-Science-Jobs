@@ -1,16 +1,16 @@
-# Senior Data Scientist, Core Product  at Glean
+# Senior Data Scientist, Core Product at Glean
 
 | Field | Details |
 |-------|---------|
 | Company | [Glean](https://scoutify.ai/companies/gleanwork?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4677513005) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4678146005) |
 
 ## About This Role
 
-This data scientist position at Glean was posted on 2026-03-25.
+This data scientist position at Glean was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

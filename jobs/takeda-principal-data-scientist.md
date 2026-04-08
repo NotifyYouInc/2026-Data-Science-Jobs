@@ -1,16 +1,16 @@
-# Staff Data Scientist at SoFi
+# Principal Data Scientist at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://sofi.com/careers/job/7682540003?gh_jid=7682540003) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Principal-Data-Scientist_R0176255) |
 
 ## About This Role
 
-This machine learning engineer position at SoFi was posted on 2026-03-31.
+This machine learning engineer position at Takeda was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

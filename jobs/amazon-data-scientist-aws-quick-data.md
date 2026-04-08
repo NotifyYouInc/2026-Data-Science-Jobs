@@ -1,16 +1,16 @@
-# Data Scientist at SoFi
+# Data Scientist, AWS Quick Data at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://sofi.com/careers/job/7679146003?gh_jid=7679146003) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10380934/data-scientist-aws-quick-data) |
 
 ## About This Role
 
-This data scientist position at SoFi was posted on 2026-03-27.
+This data scientist position at Amazon was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist at SoFi
+# Data Scientist at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Data Scientist |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://sofi.com/careers/job/7679146003?gh_jid=7679146003) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Data-Scientist_R00318196) |
 
 ## About This Role
 
-This data scientist position at SoFi was posted on 2026-03-27.
+This data scientist position at Accenture was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

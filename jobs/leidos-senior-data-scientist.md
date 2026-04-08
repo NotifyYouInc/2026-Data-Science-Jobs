@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Data-Scientist_R-00179204) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Data-Scientist_R-00179269) |
 
 ## About This Role
 
-This machine learning engineer position at Leidos was posted on 2026-03-25.
+This machine learning engineer position at Leidos was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

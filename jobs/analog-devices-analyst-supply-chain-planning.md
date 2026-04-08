@@ -1,16 +1,16 @@
-# Senior Data Scientist at Adobe
+# Analyst, Supply Chain Planning at Analog Devices
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Gandhinagar, Gujarat, India |
 | Category | Data Analyst |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Scientist_R166274) |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Gandhinagar/Analyst--Supply-Chain-Planning_R261377) |
 
 ## About This Role
 
-This data analyst position at Adobe was posted on 2026-03-31.
+This data analyst position at Analog Devices was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

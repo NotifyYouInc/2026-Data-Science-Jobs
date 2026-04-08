@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Data-Scientist_1200572) |
+| Location | Spring, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Data-Scientist_1205332) |
 
 ## About This Role
 
-This machine learning engineer position at Hewlett Packard Enterprise was posted on 2026-01-29.
+This data scientist position at Hewlett Packard Enterprise was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

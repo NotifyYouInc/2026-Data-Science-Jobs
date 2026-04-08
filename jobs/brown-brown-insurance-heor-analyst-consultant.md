@@ -1,16 +1,16 @@
-# Senior Data Scientist at Adobe
+# HEOR Analyst Consultant at Brown & Brown Insurance
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Analyst |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Scientist_R166274) |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---USA/HEOR-Analyst-Consultant_R26_0000001226) |
 
 ## About This Role
 
-This data analyst position at Adobe was posted on 2026-03-31.
+This data analyst position at Brown & Brown Insurance was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

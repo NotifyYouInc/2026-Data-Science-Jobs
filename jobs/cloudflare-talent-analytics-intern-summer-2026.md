@@ -1,16 +1,16 @@
-# Data Scientist at SoFi
+# Talent Analytics Intern (Summer 2026) at Cloudflare
 
 | Field | Details |
 |-------|---------|
-| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://sofi.com/careers/job/7679146003?gh_jid=7679146003) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7566017?gh_jid=7566017) |
 
 ## About This Role
 
-This data scientist position at SoFi was posted on 2026-03-27.
+This data scientist position at Cloudflare was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

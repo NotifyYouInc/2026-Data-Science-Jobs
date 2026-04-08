@@ -1,16 +1,16 @@
-# Senior Data Scientist at Adobe
+# Associate Clinical Data Scientist at Novartis
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Analyst |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Scientist_R166274) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Clinical-Data-Scientist_REQ-10072831) |
 
 ## About This Role
 
-This data analyst position at Adobe was posted on 2026-03-31.
+This data analyst position at Novartis was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Data Scientist at SoFi
+# Head of Data at ClassDojo
 
 | Field | Details |
 |-------|---------|
-| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Company | [ClassDojo](https://scoutify.ai/companies/classdojo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
+| Category | Data Scientist |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://sofi.com/careers/job/7682540003?gh_jid=7682540003) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/classdojo/0095edcd-edb9-42d3-8bf5-c4db9883ad37) |
 
 ## About This Role
 
-This machine learning engineer position at SoFi was posted on 2026-03-31.
+This data scientist position at ClassDojo was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

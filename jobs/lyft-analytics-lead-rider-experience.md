@@ -1,16 +1,16 @@
-# Staff Data Scientist at SoFi
+# Analytics Lead, Rider Experience at Lyft
 
 | Field | Details |
 |-------|---------|
-| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Data Analyst |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://sofi.com/careers/job/7682540003?gh_jid=7682540003) |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8488019002?gh_jid=8488019002) |
 
 ## About This Role
 
-This machine learning engineer position at SoFi was posted on 2026-03-31.
+This data analyst position at Lyft was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

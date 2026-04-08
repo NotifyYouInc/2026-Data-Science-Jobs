@@ -1,16 +1,16 @@
-# Senior Data Scientist at Adobe
+# Data Analytics, Fund Finance - Assistant Vice President at iCapital Network
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Data Analyst |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Scientist_R166274) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8483965002) |
 
 ## About This Role
 
-This data analyst position at Adobe was posted on 2026-03-31.
+This data analyst position at iCapital Network was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
