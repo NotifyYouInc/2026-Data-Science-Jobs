@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Data-Scientist---Enterprise-Functions_R568351-5) |
+| Category | Data Scientist |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Data-Scientist---Enterprise-Functions_R572791-7) |
 
 ## About This Role
 
-This machine learning engineer position at Alimentation Couche-Tard was posted on 2026-03-03.
+This data scientist position at Alimentation Couche-Tard was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

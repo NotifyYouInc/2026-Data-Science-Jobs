@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Lexington, Kentucky, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5070667007) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5093065007) |
 
 ## About This Role
 
-This data scientist position at Clarity Innovations was posted on 2026-03-10.
+This data scientist position at Clarity Innovations was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

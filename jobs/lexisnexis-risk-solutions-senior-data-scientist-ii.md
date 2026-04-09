@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Reforma, Chiapas, Mexico |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Mexico/Senior-Data-Scientist-II_R111151) |
+| Location | Shanghai, Shanghai, China |
+| Category | Data Scientist |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Senior-Data-Scientist-II_R109099-2) |
 
 ## About This Role
 
-This ai / llm engineer position at LexisNexis Risk Solutions was posted on 2026-03-25.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

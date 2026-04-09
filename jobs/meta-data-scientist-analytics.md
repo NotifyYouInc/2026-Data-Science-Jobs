@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Data Scientist |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1255029792640539) |
+| Location | Menlo Park, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/825203213221900) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-03-26.
+This data analyst position at Meta was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

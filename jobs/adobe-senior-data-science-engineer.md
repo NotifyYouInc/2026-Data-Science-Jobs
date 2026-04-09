@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Software Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Data-Science-Engineer_R165830-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Data-Science-Engineer_R165829) |
 
 ## About This Role
 
-This software engineer position at Adobe was posted on 2026-02-23.
+This software engineer position at Adobe was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

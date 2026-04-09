@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000112412337-senior-data-scientist-mfd) |
+| Category | Data Analyst |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000118120763-senior-data-scientist-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Sportradar was posted on 2026-03-03.
+This data analyst position at Sportradar was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
