@@ -1,16 +1,16 @@
-# Sr Data Scientist at GE HealthCare
+# Sr. Data Scientist at GE HealthCare
 
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Sr-Data-Scientist_R4038506-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Sr-Data-Scientist_R4038845-1) |
 
 ## About This Role
 
-This ai / llm engineer position at GE HealthCare was posted on 2026-03-25.
+This data scientist position at GE HealthCare was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

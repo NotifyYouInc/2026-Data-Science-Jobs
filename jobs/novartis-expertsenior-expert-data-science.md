@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Durham/Expert-Senior-Expert-Data-Science_REQ-10074542-2) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Expert-Senior-Expert-Data-Science_REQ-10074553-2) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-03-27.
+This data scientist position at Novartis was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

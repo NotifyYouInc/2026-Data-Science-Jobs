@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Venture Capital |
-| Posted | 2026-01-31 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science_R234999-2) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science_R239653-1) |
 
 ## About This Role
 
-This venture capital position at Capital One was posted on 2026-01-31.
+This machine learning engineer position at Capital One was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000117210848-data-science-consultant) |
+| Location | New York City, New York, United States |
+| Category | Data Analyst |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000118503497-data-science-consultant) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-03-27.
+This data analyst position at SIA was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

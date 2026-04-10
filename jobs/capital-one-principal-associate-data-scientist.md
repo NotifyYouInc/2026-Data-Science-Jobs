@@ -1,16 +1,16 @@
-# Principal Associate Data Scientist at Capital One
+# Principal Associate, Data Scientist at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Principal-Associate-Data-Scientist_R239235) |
+| Location | McLean, Virginia, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist_R239650) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-03-27.
+This data scientist position at Capital One was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

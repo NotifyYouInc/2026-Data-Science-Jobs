@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000106423876-data-scientist-risk-platform) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000118462693-data-scientist-risk-platform) |
 
 ## About This Role
 
-This data scientist position at Cermati was posted on 2026-01-30.
+This machine learning engineer position at Cermati was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Data Scientist at Ecolab
+# Sr Data Scientist at Ecolab
 
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Data Scientist |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Sr-Data-Scientist_R00286319-1) |
+| Location | Naperville, Illinois, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Sr-Data-Scientist_R00288280) |
 
 ## About This Role
 
-This data scientist position at Ecolab was posted on 2026-03-13.
+This ai / llm engineer position at Ecolab was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
