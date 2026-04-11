@@ -1,16 +1,16 @@
-# Analyst, Data Science at AIA Group
+# Senior Advanced Analyst at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | India |
 | Category | Data Scientist |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-65451) |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7777653?gh_jid=7777653) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-03.
+This data scientist position at Airbnb was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Data Scientist at PayPal
+# Social Science Statistical Analyst at SOSi
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Tampa, Florida, United States |
 | Category | Data Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Data-Scientist_R0133955-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990012457096-social-science-statistical-analyst) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-04-03.
+This data analyst position at SOSi was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

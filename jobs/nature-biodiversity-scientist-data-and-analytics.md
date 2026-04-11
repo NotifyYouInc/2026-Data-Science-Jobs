@@ -1,16 +1,16 @@
-# Analyst, Data Science at AIA Group
+# Biodiversity Scientist-Data and Analytics at Nature
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [Nature](https://scoutify.ai/companies/nature?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-65451) |
+| Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Global/Biodiversity-Scientist-Data-and-Analytics_JR102428-1) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-03.
+This data scientist position at Nature was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

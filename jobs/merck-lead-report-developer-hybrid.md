@@ -1,16 +1,16 @@
-# Staff Data Scientist at PayPal
+# Lead Report Developer - Hybrid at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Rahway, New Jersey, United States |
 | Category | Data Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Data-Scientist_R0133955-1) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Lead-Report-Developer---Hybrid_R391640-1) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-04-03.
+This data analyst position at Merck was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

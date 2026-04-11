@@ -1,16 +1,16 @@
-# Principal Data Scientist at Capital One
+# Senior Associate, Data Scientist - Financial Services at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | Plano, Texas, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Data-Scientist_R238360-2) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Associate--Data-Scientist---Financial-Services_R239822-1) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-04-01.
+This machine learning engineer position at Capital One was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist at Booz Allen
+# Corporate AI and Machine Learning Engineer at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Data Scientist |
+| Location | McLean, Virginia, United States |
+| Category | Machine Learning Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0237137) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Corporate-AI-and-Machine-Learning-Engineer_R0237111) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-04-03.
+This machine learning engineer position at Booz Allen was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

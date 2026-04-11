@@ -1,16 +1,16 @@
-# Analyst, Data Science at AIA Group
+# Data Scientist III, Customer Analytics at Expedia
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-65451) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-III--Customer-Analytics_R-102338-1) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-03.
+This data scientist position at Expedia was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

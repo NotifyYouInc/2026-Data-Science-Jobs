@@ -1,16 +1,16 @@
-# Analyst, Data Science at AIA Group
+# Research Scientist at The Ohio State University
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-65451) |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Remote-Location/Research-Scientist_R148289) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-03.
+This data scientist position at The Ohio State University was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst, Data Science at AIA Group
+# Senior Data Scientist at Parsons
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Scientist |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-65451) |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Senior-Data-Scientist_R179226-1) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-03.
+This data scientist position at Parsons was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

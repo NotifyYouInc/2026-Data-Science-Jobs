@@ -1,16 +1,16 @@
-# Staff Data Scientist at PayPal
+# Digital Insights Analyst at U.S. Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 4 locations |
 | Category | Data Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Data-Scientist_R0133955-1) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Digital-Insights-Analyst_2026-0003904-1) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-04-03.
+This data analyst position at U.S. Bank was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

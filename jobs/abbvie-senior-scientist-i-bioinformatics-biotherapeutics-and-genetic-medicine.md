@@ -1,16 +1,16 @@
-# Data Science Program Lead I at AbbVie
+# Senior Scientist I - Bioinformatics, Biotherapeutics and Genetic Medicine at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Chicago, Illinois, United States |
-| Category | Program Manager |
+| Location | Worcester, Massachusetts, United States |
+| Category | Data Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012454387-data-science-program-lead-i) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012451296-senior-scientist-i-bioinformatics-biotherapeutics-and-genetic-medicine) |
 
 ## About This Role
 
-This program manager position at AbbVie was posted on 2026-04-03.
+This data analyst position at AbbVie was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

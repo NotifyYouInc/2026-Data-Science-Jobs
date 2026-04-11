@@ -1,16 +1,16 @@
-# Analyst, Data Science at AIA Group
+# Associate Data Modeller  at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Scientist |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-65451) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118575843-associate-data-modeller) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-03.
+This data scientist position at Experian was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

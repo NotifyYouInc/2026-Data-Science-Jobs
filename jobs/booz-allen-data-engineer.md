@@ -1,16 +1,16 @@
-# Associate Applied Data Scientist at Jerry.ai
+# Data Engineer at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Data Scientist |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Beavercreek, Ohio, United States |
+| Category | Data Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a204b924-8ba3-44af-a4f1-794e226a6483) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Data-Engineer_R0237099) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-04-03.
+This data engineer position at Booz Allen was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

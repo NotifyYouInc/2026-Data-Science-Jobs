@@ -1,16 +1,16 @@
-# Staff Data Scientist at PayPal
+# Acheteur – STAGIAIRES  H/F at Renault Group
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Morocco |
 | Category | Data Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Data-Scientist_R0133955-1) |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Tanger/Acheteur---STAGIAIRES--H-F_JOBREQ_50260083) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-04-03.
+This data analyst position at Renault Group was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

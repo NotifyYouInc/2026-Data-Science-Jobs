@@ -1,16 +1,16 @@
-# Staff Data Scientist at PayPal
+# Data Scientist at Vizient
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | Data Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Data-Scientist_R0133955-1) |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Data-Scientist_32967R) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-04-03.
+This data analyst position at Vizient was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

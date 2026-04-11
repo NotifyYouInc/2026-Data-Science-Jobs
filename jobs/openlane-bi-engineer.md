@@ -1,16 +1,16 @@
-# Staff Data Scientist at PayPal
+# BI Engineer at Openlane
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Openlane](https://scoutify.ai/companies/kar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Carmel, Indiana, United States |
 | Category | Data Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Staff-Data-Scientist_R0133955-1) |
+| Apply | [View on company site](https://kar.wd1.myworkdayjobs.com/OPENLANE_Careers/job/US---IN---Carmel-OPENLANE/BI-Engineer_R-253866) |
 
 ## About This Role
 
-This data analyst position at PayPal was posted on 2026-04-03.
+This data analyst position at Openlane was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

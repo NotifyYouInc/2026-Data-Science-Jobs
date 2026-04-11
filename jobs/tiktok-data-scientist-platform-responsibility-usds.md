@@ -1,16 +1,16 @@
-# Associate Applied Data Scientist at Jerry.ai
+# Data Scientist, Platform Responsibility - USDS at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Jose, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a204b924-8ba3-44af-a4f1-794e226a6483) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7624662952213219589/detail) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-04-03.
+This data scientist position at TikTok was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

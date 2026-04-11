@@ -1,16 +1,16 @@
-# Associate Applied Data Scientist at Jerry.ai
+# Data Scientist at Temus
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Data Scientist |
+| Company | [Temus](https://scoutify.ai/companies/temus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
+| Category | Machine Learning Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a204b924-8ba3-44af-a4f1-794e226a6483) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5175866008) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-04-03.
+This machine learning engineer position at Temus was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

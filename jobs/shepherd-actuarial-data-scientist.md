@@ -1,16 +1,16 @@
-# Applied Scientist (Marketing & Customer) at ASOS
+# Actuarial Data Scientist at Shepherd
 
 | Field | Details |
 |-------|---------|
-| Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Shepherd](https://scoutify.ai/companies/shepherd?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000118431087-applied-scientist-marketing-customer) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/shepherd/c47ddfda-187d-4271-9d23-79a2cee10a59) |
 
 ## About This Role
 
-This machine learning engineer position at ASOS was posted on 2026-04-02.
+This machine learning engineer position at Shepherd was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

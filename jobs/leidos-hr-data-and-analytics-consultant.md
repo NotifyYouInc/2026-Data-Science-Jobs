@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/HR-Data-and-Analytics-Consultant_R-00176444) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/HR-Data-and-Analytics-Consultant_R-00179983) |
 
 ## About This Role
 
-This technology / it consulting position at Leidos was posted on 2026-02-20.
+This technology / it consulting position at Leidos was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
