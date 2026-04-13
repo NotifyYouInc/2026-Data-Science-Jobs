@@ -1,16 +1,16 @@
-# Data Scientist, Actimize at NiCE
+# Senior Analyst at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4830425101?gh_jid=4830425101) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Senior-Analyst_R1114910-1) |
 
 ## About This Role
 
-This data scientist position at NiCE was posted on 2026-04-06.
+This data scientist position at Dentsu was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

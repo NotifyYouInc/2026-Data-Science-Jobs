@@ -1,16 +1,16 @@
-# Data Scientist, Actimize at NiCE
+# Senior Data Scientist at Labcorp
 
 | Field | Details |
 |-------|---------|
-| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4830425101?gh_jid=4830425101) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Senior-Data-Scientist_2611713) |
 
 ## About This Role
 
-This data scientist position at NiCE was posted on 2026-04-06.
+This data scientist position at Labcorp was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 
