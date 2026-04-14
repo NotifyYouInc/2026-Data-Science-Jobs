@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bentonville, Arkansas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Moon-Pie-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Senior--Data-Scientist_R-2462531) |
+| Category | Data Scientist |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Moon-Pie-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Senior--Data-Scientist_R-2467887) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-03-31.
+This data scientist position at Walmart was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

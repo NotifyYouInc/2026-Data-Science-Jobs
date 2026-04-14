@@ -1,16 +1,16 @@
-# Data Scientist, Product at Meta
+# #EG Data Scientist at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/964359736569837) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000976488-eg-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-04-06.
+This data scientist position at NCS was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

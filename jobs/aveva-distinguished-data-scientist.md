@@ -1,16 +1,16 @@
-# Data Scientist, Product at Meta
+# Distinguished Data Scientist at AVEVA
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/964359736569837) |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Distinguished-Data-Scientist_R013971) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-04-06.
+This data scientist position at AVEVA was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

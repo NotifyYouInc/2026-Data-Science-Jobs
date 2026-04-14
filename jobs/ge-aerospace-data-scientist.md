@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Eastleigh/Data-Scientist_R5029563-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Data-Scientist_R5032263-1) |
 
 ## About This Role
 
-This data scientist position at GE Aerospace was posted on 2026-03-03.
+This data scientist position at GE Aerospace was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

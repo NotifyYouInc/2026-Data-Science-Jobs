@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107888482-analyst-visa-consulting-and-analytics-vca-intelligence-data-solutions-ids-data-science) |
+| Category | Data Analyst |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118867634-analyst-visa-consulting-and-analytics-vca-intelligence-data-solutions-ids-data-science) |
 
 ## About This Role
 
-This data engineer position at Visa International Service Association was posted on 2026-02-07.
+This data analyst position at Visa International Service Association was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

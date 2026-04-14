@@ -1,16 +1,16 @@
-# Statistician III at Sutter Health
+# Lead Analyst, Analytics at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Maryland, US |
 | Category | Data Analyst |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Walnut-Creek/Statistician-III_R-126880) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---Maryland/Lead-Analyst--Analytics_R1119716) |
 
 ## About This Role
 
-This data analyst position at Sutter Health was posted on 2026-04-06.
+This data analyst position at Dentsu was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

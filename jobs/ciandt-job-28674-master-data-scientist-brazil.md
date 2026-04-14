@@ -1,16 +1,16 @@
-# Data Scientist, Product at Meta
+# [Job -  28674] Master Data Scientist, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Brazil |
 | Category | Data Scientist |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/964359736569837) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/ae0ed3c5-e030-4c13-991f-9dfa25fe0520) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-04-06.
+This data scientist position at Ciandt was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

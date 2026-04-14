@@ -1,16 +1,16 @@
-# Lead Data Scientist at Caterpillar
+# Principle Data Scientist at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Scientist |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Data-Scientist_R0000360212) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Principle-Data-Scientist_1204242-3) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-04-06.
+This data scientist position at Hewlett Packard Enterprise was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

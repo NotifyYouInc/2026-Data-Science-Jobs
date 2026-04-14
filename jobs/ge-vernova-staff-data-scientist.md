@@ -1,16 +1,16 @@
-# Data Scientist, Product at Meta
+# Staff Data Scientist at GE Vernova
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/964359736569837) |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Staff-Data-Scientist_R5037542) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-04-06.
+This data scientist position at GE Vernova was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

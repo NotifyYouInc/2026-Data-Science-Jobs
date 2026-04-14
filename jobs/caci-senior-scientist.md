@@ -1,16 +1,16 @@
-# Data Scientist, Product at Meta
+# Senior Scientist at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/964359736569837) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Senior-Scientist_324530-1) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-04-06.
+This data scientist position at CACI was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

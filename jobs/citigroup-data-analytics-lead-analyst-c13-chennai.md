@@ -1,16 +1,16 @@
-# Statistician III at Sutter Health
+# Data Analytics Lead Analyst - C13 - CHENNAI at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Analyst |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Walnut-Creek/Statistician-III_R-126880) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Data-Analytics-Lead-Analyst---C13---CHENNAI_26948408) |
 
 ## About This Role
 
-This data analyst position at Sutter Health was posted on 2026-04-06.
+This data analyst position at Citigroup was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

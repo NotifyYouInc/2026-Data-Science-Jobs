@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7719735?gh_jid=7719735) |
+| Category | Data Scientist |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7772951?gh_jid=7772951) |
 
 ## About This Role
 
-This machine learning engineer position at Braze was posted on 2026-03-17.
+This data scientist position at Braze was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

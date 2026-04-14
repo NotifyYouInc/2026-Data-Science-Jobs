@@ -1,16 +1,16 @@
-# DATA SCIENTIST at Inetum
+# Data Scientist at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115161949-data-scientist) |
+| Location | Bucharest, București, Romania |
+| Category | Data Scientist |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000118858832-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Inetum was posted on 2026-03-17.
+This data scientist position at Inetum was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

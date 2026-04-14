@@ -1,16 +1,16 @@
-# Data Scientist, Product at Meta
+# Data Science Sr Lead Analyst - C14 - PUNE at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/964359736569837) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Data-Science-Sr-Lead-Analyst---C14---PUNE_26946961) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-04-06.
+This data scientist position at Citigroup was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
