@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Senior-Data-Scientist_J00175105) |
+| Location | Atlanta, Georgia, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Atlanta---Midtown-30309/Senior-Data-Scientist_J00176360) |
 
 ## About This Role
 
-This machine learning engineer position at Equifax was posted on 2026-03-06.
+This data scientist position at Equifax was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

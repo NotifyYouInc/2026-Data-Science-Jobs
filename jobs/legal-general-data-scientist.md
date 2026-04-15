@@ -1,16 +1,16 @@
-# Sr Data Scientist at Disney
+# Data Scientist  at Legal & General
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Cardiff, Wales, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Scientist_10147055) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000119154307-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-04-07.
+This data scientist position at Legal & General was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

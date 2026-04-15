@@ -1,16 +1,16 @@
-# Data Scientist Dataiku H/F at Nexton
+# Final year internship - Data Scientist & AI Consultant at SIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000119171573-data-scientist-dataiku-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000119161622-final-year-internship-data-scientist-ai-consultant) |
 
 ## About This Role
 
-This data scientist position at Nexton was posted on 2026-04-07.
+This ai / ml research position at SIA was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

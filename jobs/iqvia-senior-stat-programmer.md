@@ -1,16 +1,16 @@
-# Data Scientist Dataiku H/F at Nexton
+# Senior Stat Programmer at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
+| Category | Software Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000119171573-data-scientist-dataiku-hf) |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Ahmedabad-India/Senior-Stat-Programmer_R1535506) |
 
 ## About This Role
 
-This data scientist position at Nexton was posted on 2026-04-07.
+This software engineer position at IQVIA was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

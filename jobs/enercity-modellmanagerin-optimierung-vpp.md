@@ -1,16 +1,16 @@
-# Sr Data Scientist at Disney
+# Modellmanager:in Optimierung & VPP at enercity
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [enercity](https://scoutify.ai/companies/enercity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hannover, Lower Saxony, Germany |
 | Category | Data Scientist |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Scientist_10147055) |
+| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Modellmanager-in-Optimierung---VPP_J2026162-1) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-04-07.
+This data scientist position at enercity was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

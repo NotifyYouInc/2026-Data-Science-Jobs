@@ -1,16 +1,16 @@
-# Sr Data Scientist at Disney
+# Data Scientist - Operations Research at Goodyear
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Scientist_10147055) |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CN-Shanghai/Data-Scientist---Operations-Research_JR-40107469) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-04-07.
+This data scientist position at Goodyear was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

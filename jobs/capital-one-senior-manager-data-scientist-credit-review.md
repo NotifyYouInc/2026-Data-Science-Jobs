@@ -1,16 +1,16 @@
-# Sr Data Scientist at Disney
+# Senior Manager, Data Scientist - Credit Review at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 4 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Scientist_10147055) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Scientist---Credit-Review_R239953-1) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-04-07.
+This data scientist position at Capital One was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

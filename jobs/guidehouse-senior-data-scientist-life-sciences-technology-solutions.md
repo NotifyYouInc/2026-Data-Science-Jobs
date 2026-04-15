@@ -1,16 +1,16 @@
-# Data Scientist at Guidehouse
+# Senior Data Scientist, Life Sciences Technology Solutions at Guidehouse
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Baltimore/Data-Scientist_38032) |
+| Location | United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Senior-Data-Scientist--Life-Sciences-Technology-Solutions_37879) |
 
 ## About This Role
 
-This ai / ml research position at Guidehouse was posted on 2026-04-03.
+This machine learning engineer position at Guidehouse was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

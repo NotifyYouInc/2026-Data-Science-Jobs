@@ -1,16 +1,16 @@
-# Sr Data Scientist at Disney
+# Data Scientist  People Data Analytics & Insights at Syngenta
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Scientist_10147055) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000119107583-data-scientist-people-data-analytics-insights) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-04-07.
+This data scientist position at Syngenta was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

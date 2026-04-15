@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Scientist---Investment-Analytics_R-240652) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Scientist---Investment-Analytics_R-241381) |
 
 ## About This Role
 

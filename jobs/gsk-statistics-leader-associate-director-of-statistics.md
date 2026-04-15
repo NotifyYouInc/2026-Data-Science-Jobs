@@ -1,16 +1,16 @@
-# Sr Data Scientist at Disney
+# Statistics Leader / Associate Director of Statistics at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Monica, California, United States |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Sr-Data-Scientist_10147055) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/USA---Pennsylvania---Upper-Providence/Statistics-Leader---Associate-Director-of-Statistics_438637) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-04-07.
+This data scientist position at GSK was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
