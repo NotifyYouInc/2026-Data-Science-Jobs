@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Data-Scientist_R0131264-1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0136256) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-03-05.
+This data scientist position at PayPal was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

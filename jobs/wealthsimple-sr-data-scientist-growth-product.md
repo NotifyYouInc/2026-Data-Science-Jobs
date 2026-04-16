@@ -1,16 +1,16 @@
-# Sr Data Scientist, Growth Product at Wealthsimple
+# Sr Data Scientist, Growth Product at wealthsimple
 
 | Field | Details |
 |-------|---------|
-| Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Company | [wealthsimple](https://scoutify.ai/companies/wealthsimple-wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Canada |
 | Category | Data Scientist |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.lever.co/wealthsimple/57982afb-b480-4196-86e5-fbc47cbdf62c) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/5a0e34e8-63ed-42b5-bccf-10cb1310f2e5) |
 
 ## About This Role
 
-This data scientist position at Wealthsimple was posted on 2026-02-17.
+This data scientist position at wealthsimple was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

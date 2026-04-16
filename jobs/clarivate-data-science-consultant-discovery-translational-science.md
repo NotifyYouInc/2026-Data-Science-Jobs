@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Spain---Barcelona/Data-Science-Consultant--Discovery---Translational-Science_JREQ134732-1) |
+| Category | Data Scientist |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Spain---Barcelona/Data-Science-Consultant--Discovery---Translational-Science_JREQ135291) |
 
 ## About This Role
 
-This technology / it consulting position at Clarivate was posted on 2026-03-02.
+This data scientist position at Clarivate was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

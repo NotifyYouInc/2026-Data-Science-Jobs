@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Data-Science-Intern_R-063927) |
+| Location | Beijing, Beijing, China |
+| Category | Data Scientist |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beijing-China/Data-Science-Intern_R-065123) |
 
 ## About This Role
 
-This ai / ml research position at Johnson & Johnson was posted on 2026-03-18.
+This data scientist position at Johnson & Johnson was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

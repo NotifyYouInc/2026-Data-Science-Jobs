@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7641475003?gh_jid=7641475003) |
+| Location | Broomfield, Colorado, United States |
+| Category | AI / ML Research |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7694009003?gh_jid=7694009003) |
 
 ## About This Role
 
-This data analyst position at Hunter Douglas was posted on 2026-03-10.
+This ai / ml research position at Hunter Douglas was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

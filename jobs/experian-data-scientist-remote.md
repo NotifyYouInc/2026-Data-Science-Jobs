@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118214787-data-scientist-remote) |
+| Category | Data Scientist |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119429717-data-scientist-remote) |
 
 ## About This Role
 
-This machine learning engineer position at Experian was posted on 2026-04-01.
+This data scientist position at Experian was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

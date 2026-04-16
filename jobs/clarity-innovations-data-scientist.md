@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tampa, Florida, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5038901007) |
+| Category | Data Scientist |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5102302007) |
 
 ## About This Role
 
-This machine learning engineer position at Clarity Innovations was posted on 2026-02-02.
+This data scientist position at Clarity Innovations was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
