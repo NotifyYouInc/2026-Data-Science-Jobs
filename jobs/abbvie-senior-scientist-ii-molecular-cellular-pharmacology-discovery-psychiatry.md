@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012512176-senior-scientist-ii-molecular-cellular-pharmacology-discovery-psychiatry) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012538659-senior-scientist-ii-molecular-cellular-pharmacology-discovery-psychiatry) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-04-08.
+This data scientist position at AbbVie was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

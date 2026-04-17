@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Data-Scientist_R166274) |
+| Category | Data Scientist |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Data-Scientist_R167598) |
 
 ## About This Role
 
-This data analyst position at Adobe was posted on 2026-03-31.
+This data scientist position at Adobe was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

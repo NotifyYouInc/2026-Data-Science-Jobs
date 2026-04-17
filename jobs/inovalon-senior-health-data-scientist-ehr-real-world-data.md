@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bowie, Maryland, United States |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7671799003) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7695737003) |
 
 ## About This Role
 
-This data scientist position at Inovalon was posted on 2026-03-19.
+This data scientist position at Inovalon was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000107832205-vp-decision-science-consumer-insights) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000119694587-vp-decision-science-consumer-insights) |
 
 ## About This Role
 
-This data scientist position at Domino's was posted on 2026-02-06.
+This data scientist position at Domino's was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

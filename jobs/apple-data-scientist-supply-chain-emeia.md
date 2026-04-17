@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200647540-1418/data-scientist-supply-chain-emeia?team=CORSV) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200652378/data-scientist-supply-chain-emeia) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-02-23.
+This data scientist position at Apple was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

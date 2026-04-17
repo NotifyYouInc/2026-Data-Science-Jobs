@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/7729764?gh_jid=7729764) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/7789386?gh_jid=7789386) |
 
 ## About This Role
 
-This data scientist position at Dropbox was posted on 2026-03-19.
+This data scientist position at Dropbox was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
