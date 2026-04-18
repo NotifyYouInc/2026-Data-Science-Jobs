@@ -1,0 +1,22 @@
+# Staff Data Scientist, Research, Search Health at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeT3sKB_Zx0ey8Y2gZHtJMw1IkB-q0qgU2gBfQsr6rd-EjoACxwdTO63BTN5T2v_MEQMYZRao63SRXs8f4-XQ3WX1XW2-fHfalG-AzotILRWbwd5gvfNATfxzOib_V2&loc=US&title=Staff+Data+Scientist) |
+
+## About This Role
+
+This data scientist position at Google was posted on 2026-04-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

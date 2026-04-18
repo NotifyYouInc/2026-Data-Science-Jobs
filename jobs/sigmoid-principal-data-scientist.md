@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigmoid](https://scoutify.ai/companies/sigmoid?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Newark, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmoid/jobs/5083649002) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmoid/jobs/8502021002) |
 
 ## About This Role
 
-This data scientist position at Sigmoid was posted on 2026-03-31.
+This data scientist position at Sigmoid was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

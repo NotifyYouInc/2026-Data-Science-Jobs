@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Codat](https://scoutify.ai/companies/codat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2025-12-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/codat/48471c31-9c90-4de7-8c87-0fc1f5515db7) |
+| Posted | 2026-01-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/codat/da412cdf-817c-4a35-a90d-402fb46d5877) |
 
 ## About This Role
 
-This data scientist position at Codat was posted on 2025-12-22.
+This data scientist position at Codat was posted on 2026-01-22.
 
 ## Get Real-Time Alerts
 

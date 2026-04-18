@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist_R239650) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist_R240328-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-04-01.
+This data scientist position at Capital One was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

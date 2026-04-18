@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Scientist_2005433-1) |
+| Location | Austin, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Data-Scientist_2011311-1) |
 
 ## About This Role
 
-This machine learning engineer position at Cisco was posted on 2026-03-26.
+This data scientist position at Cisco was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

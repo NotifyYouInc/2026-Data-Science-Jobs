@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Scientist |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Data-Science-Analyst_26946221) |
+| Location | Karnataka, IN |
+| Category | Data Analyst |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Science-Analyst_26954427) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-03-12.
+This data analyst position at Citigroup was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

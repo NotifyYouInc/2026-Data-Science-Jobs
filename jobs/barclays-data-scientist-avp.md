@@ -1,16 +1,16 @@
-# Data Scientist - AVP at Barclays
+# Data Scientist AVP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | New York, US |
 | Category | Data Scientist |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-Block-4-DLF-Downtown/Data-Scientist---AVP_JR-0000097265) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Data-Scientist-AVP_JR-0000106329) |
 
 ## About This Role
 
-This data scientist position at Barclays was posted on 2026-03-09.
+This data scientist position at Barclays was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
