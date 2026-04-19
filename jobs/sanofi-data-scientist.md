@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-Scientist_R2848635-1) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Data Scientist |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Data-Scientist_R2849451) |
 
 ## About This Role
 
-This ai / llm engineer position at Sanofi was posted on 2026-03-30.
+This data scientist position at Sanofi was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 
