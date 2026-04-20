@@ -1,16 +1,16 @@
-# Senior Manager, Data Science at NielsenIQ
+# Senior Analyst, Economics & Data Science at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120316847-senior-manager-data-science) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Senior-Analyst--Economics---Data-Science_R-275361) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-04-13.
+This data scientist position at Mastercard was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Manager, Data Science at NielsenIQ
+# Data Scientist (Dynamic Pricing) at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Scientist |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120316847-senior-manager-data-science) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000120300877-data-scientist-dynamic-pricing) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-04-13.
+This data scientist position at Grab was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

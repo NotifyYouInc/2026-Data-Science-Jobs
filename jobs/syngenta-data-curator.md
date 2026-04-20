@@ -1,16 +1,16 @@
-# Senior Manager, Data Science at NielsenIQ
+# Data Curator at Syngenta
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bracknell, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120316847-senior-manager-data-science) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000120260777-data-curator) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-04-13.
+This data scientist position at Syngenta was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

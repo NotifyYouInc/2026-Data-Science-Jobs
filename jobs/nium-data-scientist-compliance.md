@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Data Scientist - Compliance at Nium
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
-| Category | AI / ML Research |
+| Company | [Nium](https://scoutify.ai/companies/nium?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | India |
+| Category | Compliance & Risk Management |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120304954-lead-data-scientist) |
+| Apply | [View on company site](https://jobs.lever.co/nium/bfb2c097-38a4-4cf1-8275-7b28f099faaf) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-04-13.
+This compliance & risk management position at Nium was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

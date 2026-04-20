@@ -1,16 +1,16 @@
-# Senior Data Scientist Engineer at GSK
+# Multidisciplinary Manager, Data Science at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Engineering Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Data-Scientist-Engineer_433691-1) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858601) |
 
 ## About This Role
 
-This data scientist position at GSK was posted on 2026-04-13.
+This engineering manager position at Microsoft was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

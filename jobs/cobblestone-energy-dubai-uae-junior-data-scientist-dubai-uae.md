@@ -6,7 +6,7 @@
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7665482003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7665530003) |
 
 ## About This Role
 
