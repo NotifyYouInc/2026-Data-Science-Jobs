@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AXIS Capital](https://scoutify.ai/companies/axis-capital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Halifax, Nova Scotia, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Data-Scientist_REQ06440) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://axiscapital.wd1.myworkdayjobs.com/axiscareers/job/Halifax-NS/Data-Scientist_REQ06498) |
 
 ## About This Role
 
-This machine learning engineer position at AXIS Capital was posted on 2026-03-06.
+This data scientist position at AXIS Capital was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

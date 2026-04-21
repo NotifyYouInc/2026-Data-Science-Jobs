@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist--Senior_R0237464) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist--Senior_R0237463) |
 
 ## About This Role
 

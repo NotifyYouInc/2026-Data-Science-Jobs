@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Germany |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111417320-junior-consultant-data-science-ai-mwd) |
+| Category | Data Scientist |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120349617-junior-consultant-data-science-ai-mwd) |
 
 ## About This Role
 
-This technology / it consulting position at Sopra Steria was posted on 2026-02-25.
+This data scientist position at Sopra Steria was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

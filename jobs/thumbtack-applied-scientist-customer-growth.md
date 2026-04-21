@@ -1,16 +1,16 @@
-# Applied Scientist, Customer Growth at Thumbtack
+# Applied Scientist, Customer Growth at thumbtack
 
 | Field | Details |
 |-------|---------|
-| Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ontario, CA |
+| Company | [thumbtack](https://scoutify.ai/companies/thumbtack-thumbtack?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thumbtack/jobs/7775757) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/db420402-6cda-4a9e-8375-bcb123d2ee23) |
 
 ## About This Role
 
-This data scientist position at Thumbtack was posted on 2026-04-02.
+This data scientist position at thumbtack was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

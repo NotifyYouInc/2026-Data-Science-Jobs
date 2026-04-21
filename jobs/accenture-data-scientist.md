@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Data-Scientist_R00318196) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/Data-Scientist_13018664) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-03-31.
+This data scientist position at Accenture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Datalabusa](https://scoutify.ai/companies/datalabusa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Westminster, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.lever.co/datalabusa/268f94c0-684a-4540-9376-f487a1ede7fc) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.lever.co/datalabusa/7384f5c0-825f-4c34-a78d-b298458c896a) |
 
 ## About This Role
 
-This data scientist position at Datalabusa was posted on 2026-03-10.
+This data scientist position at Datalabusa was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

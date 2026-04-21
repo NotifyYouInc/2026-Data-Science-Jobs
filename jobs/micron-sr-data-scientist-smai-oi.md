@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Boise, Idaho, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-DATA-SCIENTIST--SMAI-OI_JR93255) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93895-1) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-03-19.
+This data scientist position at Micron was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

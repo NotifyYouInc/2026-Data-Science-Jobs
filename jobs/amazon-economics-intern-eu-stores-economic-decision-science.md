@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3185791/economics-intern-eu-stores-economic-decision-science) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389449/economics-intern-eu-stores-economic-decision-science) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-02-20.
+This data scientist position at Amazon was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

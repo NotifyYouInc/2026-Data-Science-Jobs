@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Human Resources / People Ops |
 | Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/16821a37-0128-4abd-89de-45e8283dbea2) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/2a9be0a1-4523-48b2-b56b-6ac38fb6f7df) |
 
 ## About This Role
 

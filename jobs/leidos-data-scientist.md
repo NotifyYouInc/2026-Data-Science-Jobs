@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bristol-Gloucestershire-UK/Data-Scientist_R-00179051) |
+| Location | McLean, Virginia, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00180637) |
 
 ## About This Role
 
-This machine learning engineer position at Leidos was posted on 2026-03-23.
+This data scientist position at Leidos was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
