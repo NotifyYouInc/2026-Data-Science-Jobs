@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000116965686-junior-data-scientist-mwd-ai-forge) |
+| Location | Germany |
+| Category | Data Scientist |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000120605526-junior-data-scientist-mwd-ai-forge) |
 
 ## About This Role
 
-This ai / llm engineer position at CHECK24 was posted on 2026-03-26.
+This data scientist position at CHECK24 was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

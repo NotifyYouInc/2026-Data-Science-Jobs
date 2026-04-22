@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115369445-data-scientist-ai) |
+| Category | Data Scientist |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120685307-data-scientist-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at NielsenIQ was posted on 2026-03-18.
+This data scientist position at NielsenIQ was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

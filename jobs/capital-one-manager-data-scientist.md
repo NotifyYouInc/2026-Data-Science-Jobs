@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist_R238265-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist_R230706-2) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-03-17.
+This data scientist position at Capital One was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

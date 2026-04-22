@@ -1,0 +1,22 @@
+# Head of Data & AI & Insights - Servus Media  at Red Bull
+
+| Field | Details |
+|-------|---------|
+| Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Salzburg, Salzburg, Austria |
+| Category | Data Scientist |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000120767349-head-of-data-ai-insights-servus-media) |
+
+## About This Role
+
+This data scientist position at Red Bull was posted on 2026-04-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

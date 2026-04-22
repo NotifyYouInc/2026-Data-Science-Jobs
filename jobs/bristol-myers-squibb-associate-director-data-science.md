@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Uxbridge, England, United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Uxbridge---GB/Associate-Director--Data-Science_R1600843) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Warsaw---PL/Associate-Director--Data-Science_R1598669) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-04-09.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

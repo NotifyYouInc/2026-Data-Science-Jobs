@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | India |
 | Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96274) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109102) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-02.
+This data scientist position at IBM was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

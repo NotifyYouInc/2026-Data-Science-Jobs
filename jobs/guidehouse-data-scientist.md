@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Baltimore, Maryland, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Baltimore/Data-Scientist_38032) |
+| Location | Arlington, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Scientist_38181) |
 
 ## About This Role
 
-This ai / ml research position at Guidehouse was posted on 2026-04-03.
+This data scientist position at Guidehouse was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
