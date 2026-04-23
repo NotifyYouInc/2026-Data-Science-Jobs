@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0134494-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Data-Scientist_R0135996-1) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-04-09.
+This data scientist position at PayPal was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

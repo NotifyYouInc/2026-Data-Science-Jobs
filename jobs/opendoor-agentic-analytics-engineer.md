@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Opendoor](https://scoutify.ai/companies/opendoor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.opendoor.com/careers/open-positions?gh_jid=4653291006) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.opendoor.com/careers/open-positions?gh_jid=4671754006) |
 
 ## About This Role
 
-This data engineer position at Opendoor was posted on 2026-04-10.
+This data engineer position at Opendoor was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

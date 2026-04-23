@@ -1,16 +1,16 @@
-# DATA SCIENTIST III at Walmart
+# Data Scientist III at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Location | Sunnyvale, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/DATA-SCIENTIST-III_R-2430381-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Data-Scientist-III_R-2455616) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-10.
+This data scientist position at Walmart was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

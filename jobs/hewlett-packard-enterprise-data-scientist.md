@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Spring, Texas, United States |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Data-Scientist_1205332) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Singapore-Central-Singapore-Singapore/Data-Scientist_1197792-1) |
 
 ## About This Role
 
-This data scientist position at Hewlett Packard Enterprise was posted on 2026-04-01.
+This data scientist position at Hewlett Packard Enterprise was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

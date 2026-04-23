@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118114927-ingenieure-data-scientist-confirmee-industrie-toulouse) |
+| Category | Data Scientist |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120880272-ingenieure-data-scientist-confirmee-industrie-toulouse) |
 
 ## About This Role
 
-This machine learning engineer position at Sopra Steria was posted on 2026-04-01.
+This data scientist position at Sopra Steria was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7695572003) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7702289003) |
 
 ## About This Role
 
-This data scientist position at dunnhumby was posted on 2026-04-10.
+This data scientist position at dunnhumby was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

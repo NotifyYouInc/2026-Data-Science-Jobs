@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Scientist_R0237605) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bethesda-MD/Data-Scientist_R0237614) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-04-10.
+This data scientist position at Booz Allen was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

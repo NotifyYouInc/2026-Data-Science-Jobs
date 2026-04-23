@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SENIOR--DATA-SCIENTIST_R-2430378-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/SENIOR--DATA-SCIENTIST_R-2364706) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-10.
+This data scientist position at Walmart was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

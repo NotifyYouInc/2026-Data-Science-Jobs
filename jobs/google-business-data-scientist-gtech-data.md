@@ -1,0 +1,22 @@
+# Business Data Scientist, gTech Data at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Data Scientist |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSgoTIHi9g5dQchnRvkGQGwAbL0eq6W1EdmRb0V8fpQwEjoACxwdTJgIO4GNH6RlHzvOntaBxAaQf2v0kB70PGJ-ogxu1fgzeJI5SyBBS3eh77PjsP5TAEwHgxY5_V2&loc=IE&title=Business+Data+Scientist) |
+
+## About This Role
+
+This data scientist position at Google was posted on 2026-04-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

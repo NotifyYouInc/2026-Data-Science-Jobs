@@ -1,16 +1,16 @@
-# Data Scientist - Search Squad at METRO/MAKRO
+# Data Scientist – Search squad  at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000118548098-data-scientist-search-squad) |
+| Location | Romania |
+| Category | Data Scientist |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000120938167-data-scientist-search-squad) |
 
 ## About This Role
 
-This machine learning engineer position at METRO/MAKRO was posted on 2026-04-03.
+This data scientist position at METRO/MAKRO was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

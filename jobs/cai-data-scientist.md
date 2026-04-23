@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Data-Scientist_R7505) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Scientist_R7503) |
 
 ## About This Role
 
-This data scientist position at CAI was posted on 2026-04-10.
+This data scientist position at CAI was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

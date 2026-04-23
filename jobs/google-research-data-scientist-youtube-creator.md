@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/123667619143131846-research-data-scientist-youtube-creator?sort_by=date&page=1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaVRi6JVZsEOuEzCW78n7v0C9HUkhbxLGLlghpVlKthyEjsACxwdTDpr3Om9yE0KQuhz9t5SEr4qzwX2A-YfqQFvEl3hzvSucl_LARlFmxVPpno1OFsrb2QxcvOVcA%3D%3D_V2&loc=US&title=Research+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-03-02.
+This data scientist position at Google was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

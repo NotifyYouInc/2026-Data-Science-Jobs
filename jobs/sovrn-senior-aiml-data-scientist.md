@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sovrn](https://scoutify.ai/companies/sovrn?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | New York, US |
 | Category | Data Scientist |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sovrn/jobs/7776565) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sovrn/jobs/7819437) |
 
 ## About This Role
 
-This data scientist position at Sovrn was posted on 2026-04-03.
+This data scientist position at Sovrn was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

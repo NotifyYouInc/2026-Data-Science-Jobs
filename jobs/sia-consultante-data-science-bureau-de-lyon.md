@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116557087-consultante-data-science-bureau-de-lyon) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000120990206-consultante-data-science-bureau-de-lyon) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-03-25.
+This data scientist position at SIA was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

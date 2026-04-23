@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Canada |
 | Category | Data Scientist |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/1-Complexe-Desjardins-Montral/Scientifique-de-donnes--Validation-des-modles_R2602342-2) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Scientifique-de-donnes-snior--Conception-de-modles-de-risque-de-march_R2605103) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-02-19.
+This data scientist position at Desjardins was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
