@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000116554728-consultante-data-science-ia) |
+| Category | Data Scientist |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000121156478-consultante-data-science-ia) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-03-25.
+This data scientist position at SIA was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Vadodara, Gujarat, India |
-| Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120304954-lead-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120699507-lead-data-scientist) |
 
 ## About This Role
 
-This ai / ml research position at NielsenIQ was posted on 2026-04-13.
+This data scientist position at NielsenIQ was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

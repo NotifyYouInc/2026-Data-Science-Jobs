@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000119931797-sr-analyst-data-science) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000121341400-sr-analyst-data-science) |
 
 ## About This Role
 
-This data scientist position at Blend360 was posted on 2026-04-10.
+This data scientist position at Blend360 was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

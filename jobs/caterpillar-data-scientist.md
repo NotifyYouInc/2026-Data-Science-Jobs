@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Data-Scientist_R0000361224) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Data-Scientist_R0000362962) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-04-08.
+This data scientist position at Caterpillar was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

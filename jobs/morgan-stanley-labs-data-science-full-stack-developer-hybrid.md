@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Software Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Labs-Data-Science-Full-Stack-Developer--Hybrid-_PT-JR030031) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Labs-Data-Science-Full-Stack-Developer--Hybrid-_PT-JR034174) |
 
 ## About This Role
 
-This software engineer position at Morgan Stanley was posted on 2026-02-25.
+This software engineer position at Morgan Stanley was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

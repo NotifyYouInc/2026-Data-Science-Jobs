@@ -1,16 +1,16 @@
-# Senior Data Scientist  at Unity Technologies
+# Senior Data Scientist at Unity Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ontario, CA |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://unity.com/careers/positions/7792586?gh_jid=7792586) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://unity.com/careers/positions/7649727?gh_jid=7649727) |
 
 ## About This Role
 
-This data scientist position at Unity Technologies was posted on 2026-04-13.
+This data scientist position at Unity Technologies was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Foster City, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120526297-data-scientist) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120758602-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Visa International Service Association was posted on 2026-04-13.
+This data scientist position at Visa International Service Association was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

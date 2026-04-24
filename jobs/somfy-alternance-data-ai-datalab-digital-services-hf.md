@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Somfy](https://scoutify.ai/companies/somfy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
-| Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000120468610-alternance-data-ai-datalab-digital-services-hf) |
+| Category | Data Analyst |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000120985927-alternance-data-ai-datalab-digital-services-hf) |
 
 ## About This Role
 
-This data scientist position at Somfy was posted on 2026-04-13.
+This data analyst position at Somfy was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

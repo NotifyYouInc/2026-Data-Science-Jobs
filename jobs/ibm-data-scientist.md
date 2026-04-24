@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103359) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110568) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-03-24.
+This data scientist position at IBM was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cernusco sul Naviglio, Lombardy, Italy |
-| Category | Data Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---MI---CERNUSCO-SUL-NAVIGLIO/Sr-Analyst-II-Data-Science_51577941) |
+| Location | Rome, Lazio, Italy |
+| Category | Data Scientist |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Sr-Analyst-II-Data-Science_51577955) |
 
 ## About This Role
 
-This data analyst position at DXC Technology was posted on 2026-04-13.
+This data scientist position at DXC Technology was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

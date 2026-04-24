@@ -1,16 +1,16 @@
-# Data Scientist, Subscriptions at Spotify
+# Data Scientist - Subscriptions at Spotify
 
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York, US |
 | Category | Data Scientist |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/1bd333fe-a039-4aa7-9a84-941296bbe86b) |
 
 ## About This Role
 
-This data scientist position at Spotify was posted on 2026-03-27.
+This data scientist position at Spotify was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
