@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | McLean, Virginia, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Chantilly/Data-Scientist-Senior-Consultant_37324) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Scientist-Senior-Consultant_38644) |
 
 ## About This Role
 
-This strategy / management consulting position at Guidehouse was posted on 2026-03-17.
+This strategy / management consulting position at Guidehouse was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

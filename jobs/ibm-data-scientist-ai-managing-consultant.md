@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=90948) |
+| Category | Data Scientist |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107952) |
 
 ## About This Role
 
-This machine learning engineer position at IBM was posted on 2026-02-12.
+This data scientist position at IBM was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

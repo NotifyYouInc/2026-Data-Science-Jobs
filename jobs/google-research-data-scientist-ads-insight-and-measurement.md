@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mountain View, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/95065979683250886-research-data-scientist-ads-insight-and-measurement?sort_by=date&page=1) |
+| Category | Data Scientist |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb5Jw9-uqSVrehG20V_Ekn7ZTKm9Lm4J7EpmhPnSAVcCEjsACxwdTMRnrxWTypKKzw1AZ-Gb5XOtCteiwIIAb7_aXMamd5SR1OIHV6cZVNQNEkDNXG3YC5GwB-fhVg%3D%3D_V2&loc=US&title=Research+Data+Scientist) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-03-30.
+This data scientist position at Google was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

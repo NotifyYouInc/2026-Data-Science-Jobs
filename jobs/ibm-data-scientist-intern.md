@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109102) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=73875) |
 
 ## About This Role
 

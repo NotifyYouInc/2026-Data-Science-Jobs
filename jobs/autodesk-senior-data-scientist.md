@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Scientist_26WD96378-1) |
+| Location | Toronto, Ontario, Canada |
+| Category | Data Scientist |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Scientist_26WD97276-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Autodesk was posted on 2026-03-12.
+This data scientist position at Autodesk was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

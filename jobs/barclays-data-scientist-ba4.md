@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-Block-4-DLF-Downtown/Data-Scientist---BA4_JR-0000095752-4) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Scientist |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Scientist---BA4_JR-0000082710) |
 
 ## About This Role
 
-This machine learning engineer position at Barclays was posted on 2026-03-12.
+This data scientist position at Barclays was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

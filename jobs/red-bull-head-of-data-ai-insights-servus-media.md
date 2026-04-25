@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Salzburg, Salzburg, Austria |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000120767349-head-of-data-ai-insights-servus-media) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000120906273-head-of-data-ai-insights-servus-media) |
 
 ## About This Role
 
-This data scientist position at Red Bull was posted on 2026-04-14.
+This data scientist position at Red Bull was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

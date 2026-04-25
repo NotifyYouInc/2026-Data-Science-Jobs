@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai/Data-Scientist_13018664) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Santos-37/Data-Scientist_R00325344) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-04-14.
+This data scientist position at Accenture was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

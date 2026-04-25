@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Lead-Data-Scientist---Supply-Chain_JR0143224) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Data Scientist |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Lead-Data-Scientist---Supply-Chain_JR0144465) |
 
 ## About This Role
 
-This machine learning engineer position at McKesson was posted on 2026-02-19.
+This data scientist position at McKesson was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

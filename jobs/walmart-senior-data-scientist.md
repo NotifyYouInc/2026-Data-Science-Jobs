@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior--Data-Scientist_R-2457368) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-SEATTLE-WA-Seattle-Home-Office/Senior--Data-Scientist_R-2466357) |
 
 ## About This Role
 

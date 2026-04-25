@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000119958090-senior-computer-vision-consultant) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000121460799-senior-computer-vision-consultant) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-04-10.
+This data scientist position at SIA was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
