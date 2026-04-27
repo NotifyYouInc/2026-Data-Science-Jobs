@@ -1,16 +1,16 @@
-# (IND) STAFF, DATA SCIENTIST at Walmart
+# Principal Data Scientist, Operations at Mission Lane
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Company | [Mission Lane](https://scoutify.ai/companies/mission-lane?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--STAFF--DATA-SCIENTIST_R-2450378) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/missionlane/jobs/8513679002) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-19.
+This data scientist position at Mission Lane was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

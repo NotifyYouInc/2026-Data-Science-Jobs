@@ -1,16 +1,16 @@
-# (IND) STAFF, DATA SCIENTIST at Walmart
+# SENIOR, DATA SCIENTIST (CV-MLE) at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--STAFF--DATA-SCIENTIST_R-2450378) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SENIOR--DATA-SCIENTIST--CV-MLE-_R-2467208) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-19.
+This data scientist position at Walmart was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

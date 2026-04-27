@@ -1,16 +1,16 @@
-# Senior data scientist at Micron
+# Intern - Global Histology Scientific at Labcorp
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-data-scientist_JR88782-2) |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Singapore/Intern---Global-Histology-Scientific_2613405) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-04-20.
+This data scientist position at Labcorp was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
