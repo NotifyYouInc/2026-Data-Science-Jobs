@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Science-Practitioner_ATCI-5327639-S1961736-1) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | Data Scientist |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Data-Science-Practitioner_ATCI-5532261-S2016479-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-04-03.
+This data scientist position at Accenture was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [hinge-health](https://scoutify.ai/companies/hinge-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hinge-health/d686db55-9932-4ecd-aa05-51d5d7bc3be9) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hinge-health/a2ff546f-48b3-470a-b3ad-e9cbe6216346) |
 
 ## About This Role
 
-This data scientist position at hinge-health was posted on 2026-03-03.
+This data scientist position at hinge-health was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

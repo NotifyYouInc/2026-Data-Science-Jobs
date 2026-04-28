@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Stavanger, Rogaland, Norway |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113659642-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121700797-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Sopra Steria was posted on 2026-03-10.
+This data scientist position at Sopra Steria was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

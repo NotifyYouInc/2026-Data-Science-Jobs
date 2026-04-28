@@ -5,12 +5,12 @@
 | Company | [Etsy](https://scoutify.ai/companies/etsy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR5390-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Data-Scientist--Product-Analytics_JR5547-1) |
 
 ## About This Role
 
-This data scientist position at Etsy was posted on 2026-02-17.
+This data scientist position at Etsy was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

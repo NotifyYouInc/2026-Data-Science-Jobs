@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Senior-Data-Scientist_151885) |
+| Location | 4 locations |
+| Category | Data Scientist |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Senior-Data-Scientist_155165-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Lloyds Bank was posted on 2026-03-19.
+This data scientist position at Lloyds Bank was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

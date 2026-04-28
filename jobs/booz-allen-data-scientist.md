@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | North Carolina, US |
 | Category | Data Scientist |
 | Posted | 2026-04-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229008) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Data-Scientist_R0237867) |
 
 ## About This Role
 

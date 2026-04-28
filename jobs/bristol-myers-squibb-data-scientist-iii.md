@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Scientist |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Data-Scientist-III_R1600893-1) |
+| Category | AI / ML Research |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Data-Scientist-III_R1601437) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-04-11.
+This ai / ml research position at Bristol-Myers Squibb was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

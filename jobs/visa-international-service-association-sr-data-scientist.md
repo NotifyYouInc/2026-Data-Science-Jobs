@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114667382-sr-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121881816-sr-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Visa International Service Association was posted on 2026-03-13.
+This data scientist position at Visa International Service Association was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

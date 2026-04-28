@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000115733603-data-engineering-analyst-leadscientist) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121877587-data-engineering-analyst-leadscientist) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-03-19.
+This data engineer position at Experian was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
