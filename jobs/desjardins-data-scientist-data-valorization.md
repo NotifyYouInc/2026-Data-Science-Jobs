@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Scientifique-de-donnes-snior--Conception-de-modles-de-risque-de-march_R2605103) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Scientifique-de-donnes--Risque-de-crdit_R2605538) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-04-15.
+This data scientist position at Desjardins was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

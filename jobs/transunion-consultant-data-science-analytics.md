@@ -1,16 +1,16 @@
-# Consultant Data Science & Analytics at TransUnion
+# Consultant, Data Science & Analytics at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Consultant-Data-Science---Analytics_19038383) |
+| Location | United States |
+| Category | Data Analyst |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Remote---US/Consultant--Data-Science---Analytics_19040336) |
 
 ## About This Role
 
-This machine learning engineer position at TransUnion was posted on 2026-02-12.
+This data analyst position at TransUnion was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

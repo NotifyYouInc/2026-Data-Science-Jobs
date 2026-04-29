@@ -6,7 +6,7 @@
 | Location | Campinas, São Paulo, Brazil |
 | Category | Data Scientist |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8509485002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8510684002) |
 
 ## About This Role
 

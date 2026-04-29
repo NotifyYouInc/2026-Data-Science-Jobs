@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Boston-MA/Data-Scientist_R-0000031776) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/Data-Scientist_R-0000031965-1) |
 
 ## About This Role
 
-This data scientist position at The Federal Reserve System was posted on 2026-03-20.
+This data scientist position at The Federal Reserve System was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

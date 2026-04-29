@@ -1,16 +1,16 @@
-# Lead Data Scientist  at Referrals Only
+# Lead Data Scientist at Referrals Only
 
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/6389251) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7837197) |
 
 ## About This Role
 
-This data scientist position at Referrals Only was posted on 2026-02-04.
+This data scientist position at Referrals Only was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

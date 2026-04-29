@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Carolina, US |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Lejeune-NC/Data-Scientist_R0237867) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0238161) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-04-15.
+This data scientist position at Booz Allen was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

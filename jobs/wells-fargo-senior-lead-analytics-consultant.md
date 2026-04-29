@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 5 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Analytics-Consultant_R-525766-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/141753-NC-Three-Wells-Fargo-Center-Charlotte/Senior-Lead-Analytics-Consultant_R-530219-1) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-04-07.
+This technology / it consulting position at Wells Fargo was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
