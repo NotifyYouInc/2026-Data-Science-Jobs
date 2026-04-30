@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107545495-statistician) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122190037-statistician) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-02-05.
+This data scientist position at NielsenIQ was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

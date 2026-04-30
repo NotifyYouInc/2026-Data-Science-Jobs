@@ -1,16 +1,16 @@
-# Staff Data Scientist at Walmart
+# Staff, Data Scientist at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Hoboken, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff-Data-Scientist_R-2470508-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Hoboken-NJ/Staff--Data-Scientist_R-2467283-1) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-17.
+This data scientist position at Walmart was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

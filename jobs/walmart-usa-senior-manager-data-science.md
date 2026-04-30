@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Bellevue, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Data-Science_R-2480227) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bellevue-WA/XMLNAME--USA--Senior-Manager--Data-Science_R-2474917) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-17.
+This data scientist position at Walmart was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

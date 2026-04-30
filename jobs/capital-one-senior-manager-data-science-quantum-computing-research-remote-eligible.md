@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | AI / ML Research |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Science---Quantum-Computing-Research--Remote-Eligible-_R236937-2) |
+| Category | Data Scientist |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Science---Quantum-Computing-Research--Remote-Eligible-_R241094-2) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-03-02.
+This data scientist position at Capital One was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

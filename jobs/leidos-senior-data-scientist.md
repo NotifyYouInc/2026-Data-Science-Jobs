@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Houston, Texas, United States |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Houston-TX/Biostatistician_R-00180468) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Data-Scientist_R-00181354) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-04-10.
+This data scientist position at Leidos was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

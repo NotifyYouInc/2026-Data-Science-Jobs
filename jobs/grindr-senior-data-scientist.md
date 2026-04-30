@@ -5,12 +5,12 @@
 | Company | [Grindr](https://scoutify.ai/companies/grindr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Data Scientist |
-| Posted | 2025-07-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/grindr%20llc/dbef48e7-1d2c-4d3c-ae7e-decc022859b6) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/grindr%20llc/4323c5ff-6e60-4c50-9e9c-22debb67bc89) |
 
 ## About This Role
 
-This data scientist position at Grindr was posted on 2025-07-16.
+This data scientist position at Grindr was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

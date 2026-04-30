@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Jakarta-ID-AIA-Indonesia/Data-Scientist_JR-64569-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Data-Scientist_JR-66071) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-03-04.
+This data scientist position at AIA Group was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

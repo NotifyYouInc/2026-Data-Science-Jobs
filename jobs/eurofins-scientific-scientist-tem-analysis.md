@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000121467927-scientist-tem-analysis) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122115957-scientist-tem-analysis) |
 
 ## About This Role
 
-This data scientist position at Eurofins Scientific was posted on 2026-04-17.
+This data scientist position at Eurofins Scientific was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

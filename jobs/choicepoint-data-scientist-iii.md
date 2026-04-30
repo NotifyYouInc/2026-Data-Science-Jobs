@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Dublin/Data-Scientist-III_R112040-1) |
+| Location | United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Farringdon/Data-Scientist-III_R112246) |
 
 ## About This Role
 
-This data scientist position at ChoicePoint was posted on 2026-04-16.
+This machine learning engineer position at ChoicePoint was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

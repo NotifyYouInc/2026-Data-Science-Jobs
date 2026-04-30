@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pennsylvania, US |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Scientist--Pharmacokinetics_R392976-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Scientist--Pharmacokinetics_R394180-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-04-10.
+This data scientist position at Merck was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

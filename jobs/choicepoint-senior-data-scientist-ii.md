@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Senior-Data-Scientist-II_R110788-1) |
+| Location | United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Farringdon/Senior-Data-Scientist-II_R112250-1) |
 
 ## About This Role
 
-This machine learning engineer position at ChoicePoint was posted on 2026-03-30.
+This data scientist position at ChoicePoint was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

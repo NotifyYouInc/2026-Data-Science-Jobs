@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000115580857-senior-data-scientist) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000122275718-senior-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-03-19.
+This data scientist position at Grab was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

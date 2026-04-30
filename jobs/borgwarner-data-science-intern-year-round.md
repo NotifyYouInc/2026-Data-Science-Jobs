@@ -5,12 +5,12 @@
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Auburn Hills, Michigan, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2026-0699) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2026-1423) |
 
 ## About This Role
 
-This data scientist position at BorgWarner was posted on 2026-03-05.
+This data scientist position at BorgWarner was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

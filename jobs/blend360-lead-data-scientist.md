@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000120723218-lead-data-scientist) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000122213368-lead-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Blend360 was posted on 2026-04-14.
+This data scientist position at Blend360 was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

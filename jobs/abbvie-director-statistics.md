@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | South San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011834406-director-statistics) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012770556-director-statistics) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-02-24.
+This data scientist position at AbbVie was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
