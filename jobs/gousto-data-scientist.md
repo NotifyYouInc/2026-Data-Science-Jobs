@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gousto](https://scoutify.ai/companies/gousto?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000117686809-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000122400499-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Gousto was posted on 2026-03-30.
+This data scientist position at Gousto was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

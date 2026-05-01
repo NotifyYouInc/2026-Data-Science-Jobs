@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist_R260008744) |
+| Category | Data Scientist |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist_R260012088) |
 
 ## About This Role
 
-This machine learning engineer position at Bank of Montreal was posted on 2026-03-19.
+This data scientist position at Bank of Montreal was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

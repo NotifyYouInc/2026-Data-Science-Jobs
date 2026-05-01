@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | São Carlos, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000120032909-analista-de-modelagem-ii) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122547889-analista-de-modelagem-ii) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-04-10.
+This data scientist position at Experian was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

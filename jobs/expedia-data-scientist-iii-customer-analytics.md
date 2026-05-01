@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-III--Customer-Analytics_R-102338-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Scientist-III--Customer-Analytics_R-102336-2) |
 
 ## About This Role
 
-This data scientist position at Expedia was posted on 2026-04-03.
+This data scientist position at Expedia was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
