@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Data Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/AI---Data-Science-Analyst--all-genders-_R00309678) |
+| Category | Data Scientist |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vienna/AI---Data-Science-Analyst--all-genders-_R00326579) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-04-21.
+This data scientist position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

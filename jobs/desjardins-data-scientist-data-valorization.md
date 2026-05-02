@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Scientifique-de-donnes--Risque-de-crdit_R2605538) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Scientifique-de-donnes-senior--Dtection-de-la-fraude--l-octroi_R2605446) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-04-21.
+This data scientist position at Desjardins was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

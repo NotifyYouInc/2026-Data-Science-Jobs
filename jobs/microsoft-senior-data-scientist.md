@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Ontario, CA |
 | Category | Data Scientist |
 | Posted | 2026-04-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556860559) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856463) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Distinguished-Data-Scientist--Associate-AI-Experience_R-2486182) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Distinguished-Data-Scientist--Associate-AI-Experience_R-2488479) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-21.
+This data scientist position at Walmart was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

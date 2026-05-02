@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Wilmington, North Carolina, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/AVP---Data-Scientist--Quantitative-Analytics-_JR-0000083141) |
+| Category | Data Scientist |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/AVP---Data-Scientist--Quantitative-Analytics-_JR-0000108972) |
 
 ## About This Role
 
-This machine learning engineer position at Barclays was posted on 2026-04-02.
+This data scientist position at Barclays was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

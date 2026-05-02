@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lucas do Rio Verde, Mato Grosso, Brazil |
-| Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000118469528-cientista-associado-ii) |
+| Category | Data Scientist |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000122690705-cientista-associado-ii) |
 
 ## About This Role
 
-This data analyst position at Syngenta was posted on 2026-04-02.
+This data scientist position at Syngenta was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

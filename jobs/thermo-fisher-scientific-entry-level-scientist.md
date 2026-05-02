@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Middleton, Wisconsin, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Entry-Level-Scientist--Scientist-I-_R-01338314-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Indianapolis-Indiana-USA/Entry-Level-Scientist_R-01351116) |
 
 ## About This Role
 
-This data scientist position at Thermo Fisher Scientific was posted on 2026-04-15.
+This data scientist position at Thermo Fisher Scientific was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

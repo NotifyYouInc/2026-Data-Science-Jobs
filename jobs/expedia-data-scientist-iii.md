@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-III_R-103877-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Data-Scientist-III_R-105433) |
 
 ## About This Role
 
-This data scientist position at Expedia was posted on 2026-03-18.
+This data scientist position at Expedia was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

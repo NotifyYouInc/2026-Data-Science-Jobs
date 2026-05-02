@@ -1,16 +1,16 @@
-# AI Data Scientist at Hunter Douglas
+# AI Data Scientist  at Hunter Douglas
 
 | Field | Details |
 |-------|---------|
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Broomfield, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7701250003?gh_jid=7701250003) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7713936003?gh_jid=7713936003) |
 
 ## About This Role
 
-This data scientist position at Hunter Douglas was posted on 2026-04-14.
+This data scientist position at Hunter Douglas was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
