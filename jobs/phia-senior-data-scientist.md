@@ -1,16 +1,16 @@
-# Data Scientist - Risk Platform at Cermati
+# Senior Data Scientist  at Phia
 
 | Field | Details |
 |-------|---------|
-| Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Company | [Phia](https://scoutify.ai/companies/phia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000122917149-data-scientist-risk-platform) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/phia/b3f1584e-4015-4ba3-be67-37c910aa7505) |
 
 ## About This Role
 
-This data scientist position at Cermati was posted on 2026-04-25.
+This data scientist position at Phia was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
