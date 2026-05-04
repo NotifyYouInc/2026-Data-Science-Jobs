@@ -1,16 +1,16 @@
-# #EG Data Scientist at NCS
+# Associated Director, Biostatisticis, Japan at CSL
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [CSL](https://scoutify.ai/companies/csl?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Scientist |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001026195-eg-data-scientist) |
+| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/APAC-JP-Tokyo-CSL-Behring/Associated-Director--Biostatisticis--Japan_R-275675-7) |
 
 ## About This Role
 
-This data scientist position at NCS was posted on 2026-04-27.
+This data scientist position at CSL was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

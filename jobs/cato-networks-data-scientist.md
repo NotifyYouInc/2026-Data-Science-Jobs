@@ -1,16 +1,16 @@
-# #EG Data Scientist at NCS
+# Data Scientist at Cato Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Israel |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001026195-eg-data-scientist) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4848229101?gh_jid=4848229101) |
 
 ## About This Role
 
-This data scientist position at NCS was posted on 2026-04-27.
+This data scientist position at Cato Networks was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

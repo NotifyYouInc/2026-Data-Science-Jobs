@@ -1,16 +1,16 @@
-# #EG Data Scientist at NCS
+# Senior Analyst for Digital Manufacturing at GlobalFoundries
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001026195-eg-data-scientist) |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/Senior-Analyst-for-Digital-Manufacturing_JR-2601709) |
 
 ## About This Role
 
-This data scientist position at NCS was posted on 2026-04-27.
+This data scientist position at GlobalFoundries was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

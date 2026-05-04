@@ -1,16 +1,16 @@
-# #EG Data Scientist at NCS
+# Data Scientist (m/f) at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001026195-eg-data-scientist) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bratislava/Data-Scientist--m-f-_724487WD) |
 
 ## About This Role
 
-This data scientist position at NCS was posted on 2026-04-27.
+This data scientist position at PwC was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
