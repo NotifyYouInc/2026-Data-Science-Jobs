@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Texas, US |
+| Location | Missouri, US |
 | Category | Machine Learning Engineer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Senior-IT-Data-Scientist_1629504) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-IT-Data-Scientist_1638147) |
 
 ## About This Role
 
-This machine learning engineer position at Centene was posted on 2026-01-29.
+This machine learning engineer position at Centene was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

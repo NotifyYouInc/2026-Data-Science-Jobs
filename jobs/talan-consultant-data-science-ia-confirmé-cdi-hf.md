@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000114679540-consultant-data-science-ia-confirme-cdi-hf) |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000123358869-consultant-data-science-ia-confirme-cdi-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Talan was posted on 2026-03-13.
+This data scientist position at Talan was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

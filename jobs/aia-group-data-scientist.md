@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Philippines |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Data-Scientist_JR-66071) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-MPI/Data-Scientist_JR-65065) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-22.
+This data scientist position at AIA Group was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

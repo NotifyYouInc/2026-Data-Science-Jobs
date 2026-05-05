@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Lead-Advanced-Analytics_R-107016) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Lead-Advanced-Analytics_R-96634-1) |
 
 ## About This Role
 
-This data scientist position at AT&T was posted on 2026-04-22.
+This data scientist position at AT&T was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

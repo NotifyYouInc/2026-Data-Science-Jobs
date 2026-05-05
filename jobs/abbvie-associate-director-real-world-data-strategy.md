@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012222246-associate-director-real-world-data-strategy) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012834925-associate-director-real-world-data-strategy) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-03-19.
+This strategy & operations position at AbbVie was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

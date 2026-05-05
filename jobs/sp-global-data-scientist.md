@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Data-Intelligence-Engineer_324266) |
+| Location | New York City, New York, United States |
+| Category | Data Scientist |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Data-Scientist_328267-1) |
 
 ## About This Role
 
-This ai / llm engineer position at S&P Global was posted on 2026-03-25.
+This data scientist position at S&P Global was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

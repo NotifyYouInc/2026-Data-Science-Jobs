@@ -1,16 +1,16 @@
-# Intermediate Data-Scientist at FirstRand
+# Intermediate Data Scientist at FirstRand
 
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Randburg, Gauteng, South Africa |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Intermediate-Data-Scientist_R48533) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Intermediate-Data-Scientist_R49108) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-04-22.
+This data scientist position at FirstRand was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

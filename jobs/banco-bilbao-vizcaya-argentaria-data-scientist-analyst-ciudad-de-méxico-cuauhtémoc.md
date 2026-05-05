@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist-Analyst--Ciudad-de-Mxico--Cuauhtmoc-_JR00094071) |
+| Category | Data Analyst |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist-Analyst--Ciudad-de-Mxico--Cuauhtmoc-_JR00102381) |
 
 ## About This Role
 
-This machine learning engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-09.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

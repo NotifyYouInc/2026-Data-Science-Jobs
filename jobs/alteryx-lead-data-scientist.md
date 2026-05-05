@@ -5,12 +5,12 @@
 | Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Lead-Data-Scientist_R12086) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Sr-Data-Scientist_R11972) |
 
 ## About This Role
 
-This data scientist position at Alteryx was posted on 2026-04-22.
+This data scientist position at Alteryx was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

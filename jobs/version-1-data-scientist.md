@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000121429637-data-scientist) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000123150246-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Version 1 was posted on 2026-04-17.
+This data scientist position at Version 1 was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

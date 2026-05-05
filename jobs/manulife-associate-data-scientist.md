@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26020696) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Associate-Data-Scientist_JR26030161-3) |
 
 ## About This Role
 
-This ai / llm engineer position at Manulife was posted on 2026-02-27.
+This data scientist position at Manulife was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

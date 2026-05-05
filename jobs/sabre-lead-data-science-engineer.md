@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Data-Science-Engineer_JR107474-1) |
+| Category | Data Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Data-Science-Engineer_JR107641-1) |
 
 ## About This Role
 
-This engineering manager position at Sabre was posted on 2026-03-25.
+This data engineer position at Sabre was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

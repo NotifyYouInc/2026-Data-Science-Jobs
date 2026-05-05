@@ -5,12 +5,12 @@
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Woburn, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4665852006) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4676205006) |
 
 ## About This Role
 
-This data scientist position at STR was posted on 2026-03-24.
+This data scientist position at STR was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist---US-Card--Generative-AI-Systems-_R232256-1) |
+| Category | Data Scientist |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist---US-Card--Generative-AI-Systems-_R240609) |
 
 ## About This Role
 
-This ai / llm engineer position at Capital One was posted on 2026-03-10.
+This data scientist position at Capital One was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
