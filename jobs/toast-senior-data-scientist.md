@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7605916) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7850758) |
 
 ## About This Role
 
-This software engineer position at Toast was posted on 2026-02-11.
+This data scientist position at Toast was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

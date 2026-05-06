@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Durban/Data-Scientist-III_R107817) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/Data-Scientist-III_R112246-3) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-02-05.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

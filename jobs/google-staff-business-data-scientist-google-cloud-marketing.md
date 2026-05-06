@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/94771761538572998-staff-business-data-scientist-google-cloud-marketing?sort_by=date&page=1) |
+| Location | 4 locations |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbg-kuE3cVxr5H72ukxNxEp0E3-nNxcDVlF7UMU4WG1sEjsACxwdTC1WrMyr2b2632efKUc75TgQTq88LaR1ALLTco7FsLmKbwQwIN5Runw9TbwV5N-iHY6B3o4-mg%3D%3D_V2&loc=US&title=Staff+Business+Data+Scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-03-26.
+This data scientist position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

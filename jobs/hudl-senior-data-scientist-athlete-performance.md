@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hudl](https://scoutify.ai/companies/hudl?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hudl/jobs/6880937) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hudl/jobs/7860897) |
 
 ## About This Role
 
-This machine learning engineer position at Hudl was posted on 2026-03-04.
+This data scientist position at Hudl was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

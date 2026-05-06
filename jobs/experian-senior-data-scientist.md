@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | AI / ML Research |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119105413-senior-data-scientist) |
+| Location | Granada, Andalusia, Spain |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123471269-senior-data-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Experian was posted on 2026-04-07.
+This data scientist position at Experian was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

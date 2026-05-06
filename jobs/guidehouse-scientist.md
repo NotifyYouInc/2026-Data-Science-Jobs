@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Scientist_38609-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Baltimore/Scientist_38930) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-04-17.
+This data scientist position at Guidehouse was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

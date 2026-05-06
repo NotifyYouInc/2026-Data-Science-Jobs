@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Columbus, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Remote-Location/Research-Scientist_R148289) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Research-Scientist_R150011-2) |
 
 ## About This Role
 
-This data scientist position at The Ohio State University was posted on 2026-04-03.
+This data scientist position at The Ohio State University was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

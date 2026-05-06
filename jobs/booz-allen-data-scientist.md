@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Edgewood, Maryland, United States |
+| Location | United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Edgewood-MD/Data-Scientist_R0238506-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Cambridgeshire/Data-Scientist_R0238577) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-04-23.
+This data scientist position at Booz Allen was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

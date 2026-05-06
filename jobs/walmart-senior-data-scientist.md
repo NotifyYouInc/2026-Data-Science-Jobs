@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Sams-Home-Office-AR-Bentonville-Home-Office/Senior--Data-Scientist_R-2467093-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior--Data-Scientist_R-2489097) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-23.
+This data scientist position at Walmart was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000122502849-data-scientist) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000122742919-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Endava was posted on 2026-04-23.
+This data scientist position at Endava was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Model Development Team Lead for Name List Screening (NLS) & Transaction Screening (TS) - Model Strats at Deutsche Bank
+
+| Field | Details |
+|-------|---------|
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-21-Moorfields/Model-Development-Team-Lead-for-Name-List-Screening--NLS----Transaction-Screening--TS----Model-Strats_R0431766) |
+
+## About This Role
+
+This data scientist position at Deutsche Bank was posted on 2026-04-28.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Va-de-los-Poblados/Senior-Data-Scientist_REQ-10113539) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Senior-Data-Scientist_REQ-10111748-3) |
 
 ## About This Role
 
-This data scientist position at ING was posted on 2026-04-23.
+This machine learning engineer position at ING was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

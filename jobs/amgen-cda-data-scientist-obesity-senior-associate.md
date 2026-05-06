@@ -6,7 +6,7 @@
 | Location | Thousand Oaks, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Senior-Associate_R-242772) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Senior-Associate_R-242773-1) |
 
 ## About This Role
 

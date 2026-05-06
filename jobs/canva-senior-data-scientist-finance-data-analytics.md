@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000916561-senior-data-scientist-finance-data-analytics) |
+| Category | Data Scientist |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001032039-senior-data-scientist-finance-data-analytics) |
 
 ## About This Role
 
-This data analyst position at Canva was posted on 2026-03-06.
+This data scientist position at Canva was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
