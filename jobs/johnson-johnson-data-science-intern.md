@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beijing-China/Data-Science-Intern_R-065123) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Data-Science-Intern_R-071492) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-04-09.
+This data scientist position at Johnson & Johnson was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

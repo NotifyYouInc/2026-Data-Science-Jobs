@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/Associate-Data-Scientist_R194524) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/Associate-Data-Scientist_R201489-1) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-02-03.
+This data scientist position at Shell was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

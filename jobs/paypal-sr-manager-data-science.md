@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Manager--Data-Science_R0134829) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Berlin-Berlin-Germany/Sr-Manager--Data-Science_R0136384-1) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-02-18.
+This data scientist position at PayPal was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

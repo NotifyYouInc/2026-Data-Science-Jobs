@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cleveland, Ohio, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Data-Scientist-III---Brain-Research_333132) |
+| Category | Data Scientist |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Data-Scientist-III---Brain-Research_339678) |
 
 ## About This Role
 
-This ai / ml research position at Cleveland Clinic was posted on 2026-04-01.
+This data scientist position at Cleveland Clinic was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

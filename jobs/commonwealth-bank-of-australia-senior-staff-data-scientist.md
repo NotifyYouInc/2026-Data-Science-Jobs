@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Staff-Data-Scientist_REQ254342) |
+| Category | Data Scientist |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Staff-Data-Scientist_REQ255890) |
 
 ## About This Role
 
-This ai / llm engineer position at Commonwealth Bank of Australia was posted on 2026-03-03.
+This data scientist position at Commonwealth Bank of Australia was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

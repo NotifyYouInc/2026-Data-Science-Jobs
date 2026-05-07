@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Venture Capital |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138252861002654406-strategy-and-operations-principal-data-science?sort_by=date&page=1) |
+| Location | 3 locations |
+| Category | Operations |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbnpF-ZyM29s3xKRmg64znCtEj-gVxZnYpQeRI5SM7FNEjsACxwdTPc7LiZGzyhmJgR0ZCrhzYFKaFiPw9MJanYv3DygWIYREb_GnQn9yNu_xjUIjlXBNTJvfp5rtQ%3D%3D_V2&loc=US&title=Strategy+and+Operations+Principal) |
 
 ## About This Role
 
-This venture capital position at Google was posted on 2026-02-11.
+This operations position at Google was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

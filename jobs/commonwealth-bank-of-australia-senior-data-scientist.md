@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Data-Scientist_REQ253130-1) |
+| Category | Data Scientist |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Data-Scientist_REQ256244) |
 
 ## About This Role
 
-This machine learning engineer position at Commonwealth Bank of Australia was posted on 2026-02-17.
+This data scientist position at Commonwealth Bank of Australia was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

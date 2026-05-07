@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Malaysia |
+| Location | India |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Data-Scientist_J2447705) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Data-Scientist_J2448524) |
 
 ## About This Role
 
-This data scientist position at Jabil was posted on 2026-04-23.
+This data scientist position at Jabil was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

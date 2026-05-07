@@ -5,12 +5,12 @@
 | Company | [applike group](https://scoutify.ai/companies/applike-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.lever.co/applike/44212eca-c937-4bd7-99e8-7371c30837fc) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.lever.co/applike/4189535a-ab1c-499f-bc0f-c2d0d8e45090) |
 
 ## About This Role
 
-This data scientist position at applike group was posted on 2026-04-15.
+This data scientist position at applike group was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

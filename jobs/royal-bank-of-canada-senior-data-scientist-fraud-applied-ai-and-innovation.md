@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Data-Scientist--Fraud-Applied-AI-and-Innovation_R-0000158478-1) |
+| Category | Data Scientist |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Data-Scientist--Fraud-Applied-AI-and-Innovation_R-0000170372-1) |
 
 ## About This Role
 
-This machine learning engineer position at Royal Bank of Canada was posted on 2026-02-04.
+This data scientist position at Royal Bank of Canada was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
