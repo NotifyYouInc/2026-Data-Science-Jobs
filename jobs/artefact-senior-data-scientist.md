@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Abidjan, Abidjan Autonomous District, Ivory Coast |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8508592002) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8531486002) |
 
 ## About This Role
 
-This data scientist position at Artefact was posted on 2026-04-15.
+This data scientist position at Artefact was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Worcester, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012816496-scientist-i-complex-in-vitro-models) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012919210-scientist-i-complex-in-vitro-models) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-04-24.
+This data scientist position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

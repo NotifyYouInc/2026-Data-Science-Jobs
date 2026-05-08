@@ -5,12 +5,12 @@
 | Company | [Abzena](https://scoutify.ai/companies/abzena?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Diego, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.eu.lever.co/abzena/22945d6e-82cc-439c-a848-ae69ad313209) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.eu.lever.co/abzena/2469f721-fc95-4824-bca2-86130fcaad33) |
 
 ## About This Role
 
-This data scientist position at Abzena was posted on 2026-04-16.
+This data scientist position at Abzena was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000113499741-senior-data-scientist) |
+| Location | Levallois-Perret, Île-de-France, France |
+| Category | Data Scientist |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000123875129-senior-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Devoteam was posted on 2026-03-09.
+This data scientist position at Devoteam was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Advanced Analytics at AT&T
+# Principal, Advanced Analytics at AT&T
 
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Dallas, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/El-Segundo-California/Principal-Advanced-Analytics_R-101104-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal--Advanced-Analytics_R-101693-1) |
 
 ## About This Role
 
-This data scientist position at AT&T was posted on 2026-04-14.
+This data scientist position at AT&T was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

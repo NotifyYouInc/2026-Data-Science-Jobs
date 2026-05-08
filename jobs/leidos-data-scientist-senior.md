@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Maryland, US |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Data-Scientist---Senior_R-00175305) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Data-Scientist---Senior_R-00182161) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-02-09.
+This data scientist position at Leidos was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

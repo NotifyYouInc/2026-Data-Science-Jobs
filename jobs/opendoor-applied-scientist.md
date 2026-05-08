@@ -1,16 +1,16 @@
-# Applied Scientist  at Opendoor
+# Applied Scientist at Opendoor
 
 | Field | Details |
 |-------|---------|
 | Company | [Opendoor](https://scoutify.ai/companies/opendoor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.opendoor.com/careers/open-positions?gh_jid=4674716006) |
+| Location | Toronto, Ontario, Canada |
+| Category | Data Scientist |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.opendoor.com/careers/open-positions?gh_jid=4678170006) |
 
 ## About This Role
 
-This machine learning engineer position at Opendoor was posted on 2026-04-20.
+This data scientist position at Opendoor was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

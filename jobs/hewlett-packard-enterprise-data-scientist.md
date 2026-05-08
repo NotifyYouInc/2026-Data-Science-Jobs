@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Singapore-Central-Singapore-Singapore/Data-Scientist_1197792-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Data-Scientist_1201228) |
 
 ## About This Role
 
-This data scientist position at Hewlett Packard Enterprise was posted on 2026-04-15.
+This data scientist position at Hewlett Packard Enterprise was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

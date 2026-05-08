@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000114560652-ai-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000123936163-ai-data-scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Talan was posted on 2026-03-13.
+This data scientist position at Talan was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

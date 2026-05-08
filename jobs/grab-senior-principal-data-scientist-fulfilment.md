@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111304165-senior-principal-data-scientist-fulfilment) |
+| Category | Data Scientist |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000123867849-senior-principal-data-scientist-fulfilment) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-02-25.
+This data scientist position at Grab was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

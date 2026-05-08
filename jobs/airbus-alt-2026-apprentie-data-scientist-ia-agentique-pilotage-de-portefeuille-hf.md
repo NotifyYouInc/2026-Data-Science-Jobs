@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ALT-2026---Apprenti-e--Data-Scientist---IA-Agentique---Pilotage-de-Portefeuille--h-f-_JR10393262) |
+| Category | Data Scientist |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/ALT-2026---Apprenti-e--Data-Scientist---IA-Agentique---Pilotage-de-Portefeuille--h-f-_JR10402562) |
 
 ## About This Role
 
-This ai / llm engineer position at Airbus was posted on 2026-03-19.
+This data scientist position at Airbus was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

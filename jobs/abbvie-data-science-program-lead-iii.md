@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Program Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012186716-data-science-program-lead-iii) |
+| Location | North Chicago, Illinois, United States |
+| Category | Data Scientist |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012920690-data-science-program-lead-iii) |
 
 ## About This Role
 
-This program manager position at AbbVie was posted on 2026-03-17.
+This data scientist position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

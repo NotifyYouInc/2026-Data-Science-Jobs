@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Ohio---New-Albany/Data-Scientist_R-225146) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist_R-223894) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-02-04.
+This data scientist position at Amgen was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

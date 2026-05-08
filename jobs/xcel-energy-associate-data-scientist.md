@@ -5,12 +5,12 @@
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Associate-Data-Scientist_JR113721-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Associate-Data-Scientist_JR114018-2) |
 
 ## About This Role
 
-This data scientist position at Xcel Energy was posted on 2026-04-27.
+This data scientist position at Xcel Energy was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
