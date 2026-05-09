@@ -1,16 +1,16 @@
-# Data Scientist at Shell
+# Data Scientist, Product Analytics | Scientifique de données en analyse de produits at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Canada |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Data-Scientist_R200930-1) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1763838641254489) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-04-30.
+This data scientist position at Meta was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

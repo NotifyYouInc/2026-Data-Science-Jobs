@@ -1,16 +1,16 @@
-# Data Scientist at Shell
+# 2026 NCG - Data Scientist (Masters) at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Data-Scientist_R200930-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Data-Scientist--Masters-_R2618394) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-04-30.
+This data scientist position at Applied Materials was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

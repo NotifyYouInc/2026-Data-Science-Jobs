@@ -1,16 +1,16 @@
-# Data Scientist at Shell
+# Observability, Data Scientist at Graphcore
 
 | Field | Details |
 |-------|---------|
-| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Data-Scientist_R200930-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8533046002) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-04-30.
+This data scientist position at Graphcore was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

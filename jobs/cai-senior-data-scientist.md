@@ -1,16 +1,16 @@
-# Data Scientist at Shell
+# Senior Data Scientist at CAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Pennsylvania, US |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Data-Scientist_R200930-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Senior-Data-Scientist_R7619) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-04-30.
+This data scientist position at CAI was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Associate, Data Scientist at Capital One
+# Senior Associate, Data Scientist - Corporate Strategy at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Location | 2 locations |
+| Category | Strategy & Operations |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Data-Scientist_R241644-2) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---Corporate-Strategy_R241690-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-05-01.
+This strategy & operations position at Capital One was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

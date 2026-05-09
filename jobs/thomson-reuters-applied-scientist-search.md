@@ -1,16 +1,16 @@
-# Applied Scientist at Zillow
+# Applied Scientist, Search at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
-| Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | AI / ML Research |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Applied-Scientist_P750046-1) |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Switzerland-Zug-Zug/Applied-Scientist--NLP-GenAI_JREQ198983) |
 
 ## About This Role
 
-This ai / ml research position at Zillow was posted on 2026-05-01.
+This ai / ml research position at Thomson Reuters was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Grand Rapids, Michigan, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Data-Scientist_R205334) |
+| Category | Data Scientist |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Data-Scientist_R211270) |
 
 ## About This Role
 
-This machine learning engineer position at Corewell Health was posted on 2026-02-23.
+This data scientist position at Corewell Health was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

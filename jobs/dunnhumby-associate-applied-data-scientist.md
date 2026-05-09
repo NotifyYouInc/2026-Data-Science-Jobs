@@ -1,16 +1,16 @@
-# Data Scientist at Shell
+# Associate Applied Data Scientist at dunnhumby
 
 | Field | Details |
 |-------|---------|
-| Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Data-Scientist_R200930-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7647804003) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-04-30.
+This data scientist position at dunnhumby was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

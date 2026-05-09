@@ -1,16 +1,16 @@
-# PhD Data Scientist, Intern at Stripe
+# Data Scientist I or II (MAD-BS-OR) at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hillsboro, Oregon, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7874965) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HTA-NCP-Hillsboro-OR/Data-Scientist-I-or-II--MAD-BS-OR-_R0128931) |
 
 ## About This Role
 
-This data scientist position at Stripe was posted on 2026-05-01.
+This data scientist position at Hitachi was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

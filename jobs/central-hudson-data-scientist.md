@@ -1,16 +1,16 @@
-# PhD Data Scientist, Intern at Stripe
+# Data Scientist at Central Hudson
 
 | Field | Details |
 |-------|---------|
-| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
+| Company | [Central Hudson](https://scoutify.ai/companies/cenhud?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Poughkeepsie, New York, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7874965) |
+| Apply | [View on company site](https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Poughkeepsie/Data-Scientist_R1942) |
 
 ## About This Role
 
-This data scientist position at Stripe was posted on 2026-05-01.
+This data scientist position at Central Hudson was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

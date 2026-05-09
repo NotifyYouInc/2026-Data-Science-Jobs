@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SENIOR--DATA-SCIENTIST_R-2472746) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SENIOR--DATA-SCIENTIST_R-2430377-1) |
 
 ## About This Role
 

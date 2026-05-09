@@ -1,16 +1,16 @@
-# PhD Data Scientist, Intern at Stripe
+# DATA SCIENCE MANAGER at The Home Depot
 
 | Field | Details |
 |-------|---------|
-| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
+| Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7874965) |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/DATA-SCIENCE-MANAGER_Req178574) |
 
 ## About This Role
 
-This data scientist position at Stripe was posted on 2026-05-01.
+This data scientist position at The Home Depot was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# PhD Data Scientist, Intern at Stripe
+# Senior Data Scientist-Data & Personalization Platform (Hybrid) at Rewards Network
 
 | Field | Details |
 |-------|---------|
-| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
+| Company | [Rewards Network](https://scoutify.ai/companies/rewards-network?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7874965) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rewardsnetwork/jobs/5124565007) |
 
 ## About This Role
 
-This data scientist position at Stripe was posted on 2026-05-01.
+This data scientist position at Rewards Network was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
