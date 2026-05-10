@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Financial Crimes & AML |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123451700-senior-ai-data-scientist-aml-handling) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123452324-senior-ai-data-scientist-aml-handling) |
 
 ## About This Role
 
