@@ -1,16 +1,16 @@
-# Scientist at Guidehouse
+# Manager, Statistics at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | North Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Scientist_38961) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012955686-manager-statistics) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-04-28.
+This data scientist position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

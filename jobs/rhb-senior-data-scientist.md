@@ -1,16 +1,16 @@
-# Scientist at Guidehouse
+# Senior Data Scientist at RHB
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [RHB](https://scoutify.ai/companies/rhb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Scientist_38961) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://rhb.wd102.myworkdayjobs.com/rhbexternalcareersite/job/Kuala-Lumpur/Senior-Data-Scientist_JR005807) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-04-28.
+This data scientist position at RHB was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

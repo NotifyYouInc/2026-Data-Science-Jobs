@@ -1,16 +1,16 @@
-# Scientist at Guidehouse
+# Data Scientist (f/m/div.) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Portugal |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Scientist_38961) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124434191-data-scientist-fmdiv) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-04-28.
+This data scientist position at Robert Bosch was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

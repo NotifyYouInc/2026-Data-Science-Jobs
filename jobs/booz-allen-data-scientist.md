@@ -6,7 +6,7 @@
 | Location | Washington, District of Columbia, United States |
 | Category | Data Scientist |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0238826) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0238992) |
 
 ## About This Role
 

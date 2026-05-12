@@ -1,16 +1,16 @@
-# Data Scientist 2 at Microsoft
+# Senior Staff Engineer - AI Engineer at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Scientist |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556863621) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124520650-senior-staff-engineer-ai-engineer) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-05-04.
+This data scientist position at Nagarro was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

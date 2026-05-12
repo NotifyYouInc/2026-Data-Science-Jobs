@@ -1,16 +1,16 @@
-# Data Science Practitioner at Accenture
+# Strategic Programs Senior Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Location | Mumbai, Maharashtra, India |
+| Category | Strategy & Operations |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Science-Practitioner_ATCI-5315477-S1937278-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Strategic-Programs-Senior-Analyst_R00327600) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-05-05.
+This strategy & operations position at Accenture was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

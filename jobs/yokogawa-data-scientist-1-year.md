@@ -1,16 +1,16 @@
-# Scientist at Guidehouse
+# Data Scientist (1 Year) at Yokogawa
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Scientist_38961) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Bedok/Researcher_R-9555) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-04-28.
+This data scientist position at Yokogawa was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

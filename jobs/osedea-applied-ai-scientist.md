@@ -1,16 +1,16 @@
-# Principal Applied Scientist at Microsoft
+# Applied AI Scientist at Osedea
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Osedea](https://scoutify.ai/companies/osedea?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | AI / ML Research |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556861123) |
+| Posted | 2026-01-23 |
+| Apply | [View on company site](https://jobs.lever.co/osedea/e1f4a229-cb21-48db-8290-2bf27271b7dc) |
 
 ## About This Role
 
-This ai / ml research position at Microsoft was posted on 2026-04-29.
+This ai / ml research position at Osedea was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

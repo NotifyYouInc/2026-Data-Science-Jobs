@@ -1,16 +1,16 @@
-# Data Scientist 2 at Microsoft
+# Sr. Scientist I, Complex In Vitro Models at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Worcester, Massachusetts, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556863621) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012959596-sr-scientist-i-complex-in-vitro-models) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-05-04.
+This data scientist position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

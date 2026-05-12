@@ -1,16 +1,16 @@
-# Principal Data Scientist at Johnson & Johnson
+# Senior Data Scientist  at VideoAmp Careers Website
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [VideoAmp Careers Website](https://scoutify.ai/companies/videoamp-careers-website?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Principal-Data-Scientist_R-073340-1) |
+| Apply | [View on company site](http://videoamp.com/job?gh_jid=8500770002) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-05-05.
+This data scientist position at VideoAmp Careers Website was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

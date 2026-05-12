@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Irvine, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5082777007) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5127530007) |
 
 ## About This Role
 
-This data scientist position at The Trade Desk was posted on 2026-03-18.
+This data scientist position at The Trade Desk was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

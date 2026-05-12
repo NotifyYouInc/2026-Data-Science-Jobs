@@ -1,16 +1,16 @@
-# Principal Data Scientist at Johnson & Johnson
+# Data Science - Forecasting & Lab, SCOT Forecasting & Lab at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Principal-Data-Scientist_R-073340-1) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410759/data-science-forecasting-lab-scot-forecasting-lab) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-05-05.
+This data scientist position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
