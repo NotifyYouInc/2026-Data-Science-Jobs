@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Senior-Data-Scientist_R0054611) |
+| Category | Data Scientist |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Data-Scientist_R0055159) |
 
 ## About This Role
 
-This data analyst position at Wolters Kluwer was posted on 2026-03-25.
+This data scientist position at Wolters Kluwer was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

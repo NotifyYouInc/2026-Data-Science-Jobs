@@ -1,16 +1,16 @@
-# Data Scientist (m/f/d) at Redcare Pharmacy
+# Data Scientist (m/f/d)  at Redcare Pharmacy
 
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Germany |
 | Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000108549448-data-scientist-mfd) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000124665914-data-scientist-mfd) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-02-10.
+This data scientist position at Redcare Pharmacy was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

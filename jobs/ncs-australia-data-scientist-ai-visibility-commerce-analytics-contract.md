@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001032548-data-scientist-ai-visibility-commerce-analytics-contract) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001045661-data-scientist-ai-visibility-commerce-analytics-contract) |
 
 ## About This Role
 
-This data scientist position at NCS Australia was posted on 2026-04-29.
+This data scientist position at NCS Australia was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

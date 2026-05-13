@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Data Scientist |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/POL-Warsaw-Hybrid/Senior-Clinical-Data-Scientist--Data-Management-Lead----Poland--Hungary--Romania---hybrid-role_25105401) |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/POL-Warsaw-Hybrid/Senior-Clinical-Data-Scientist--Data-Management-Lead----Poland--Hungary--Romania---hybrid-role_25105400) |
 
 ## About This Role
 

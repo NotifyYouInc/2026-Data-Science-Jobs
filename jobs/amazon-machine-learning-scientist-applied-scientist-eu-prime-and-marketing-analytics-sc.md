@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Marketing Operations |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3206362/machine-learning-scientist-applied-scientist-eu-prime-and-marketing-analytics-science-primas) |
+| Category | AI / ML Research |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411029/machine-learning-scientist-applied-scientist-eu-prime-and-marketing-analytics-science-primas) |
 
 ## About This Role
 
-This marketing operations position at Amazon was posted on 2026-03-17.
+This ai / ml research position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

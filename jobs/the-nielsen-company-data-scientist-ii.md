@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | AI / ML Research |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012304108-data-scientist-ii) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012971326-data-scientist-ii) |
 
 ## About This Role
 
-This ai / ml research position at The Nielsen Company was posted on 2026-03-25.
+This data scientist position at The Nielsen Company was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

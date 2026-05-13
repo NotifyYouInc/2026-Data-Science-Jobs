@@ -5,12 +5,12 @@
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7728865) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7871499) |
 
 ## About This Role
 
-This data scientist position at Reddit was posted on 2026-03-18.
+This data scientist position at Reddit was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

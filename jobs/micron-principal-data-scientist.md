@@ -1,16 +1,16 @@
-# Principal data scientist at Micron
+# PRINCIPAL DATA SCIENTIST at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Principal-data-scientist_JR94177-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/PRINCIPAL-DATA-SCIENTIST_JR100234) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-04-10.
+This data scientist position at Micron was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000121463457-final-year-internship-operations-research-consultant) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000124575029-final-year-internship-operations-research-consultant) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-04-17.
+This data scientist position at SIA was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

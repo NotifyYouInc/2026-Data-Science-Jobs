@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ARG---Buenos-Aires---Alem/Data-Scientist-Senior---Argentina_J00175574-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ARG---Buenos-Aires---Alem/Data-Scientist-Senior---Argentina_J00176597) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-04-14.
+This data scientist position at Equifax was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
