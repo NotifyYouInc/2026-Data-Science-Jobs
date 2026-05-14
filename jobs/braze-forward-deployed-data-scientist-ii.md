@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7871575?gh_jid=7871575) |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7871576?gh_jid=7871576) |
 
 ## About This Role
 

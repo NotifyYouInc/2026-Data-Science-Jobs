@@ -1,16 +1,16 @@
-# SENIOR, DATA SCIENTIST at Walmart
+# Senior, Data Scientist at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/SENIOR--DATA-SCIENTIST_R-2430377-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist_R-2492706) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-28.
+This data scientist position at Walmart was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

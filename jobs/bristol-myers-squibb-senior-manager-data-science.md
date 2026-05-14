@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Manager--Data-Science_R1601748) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Manager--Data-Science_R1601747-1) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-04-30.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

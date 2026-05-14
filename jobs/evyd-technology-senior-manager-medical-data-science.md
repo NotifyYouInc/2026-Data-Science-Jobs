@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [EVYD Technology](https://scoutify.ai/companies/evyd-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Brunei |
 | Category | Data Scientist |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/evydtech/jobs/5828869004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/evydtech/jobs/5828863004) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8531486002) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8537703002) |
 
 ## About This Role
 
-This data scientist position at Artefact was posted on 2026-04-30.
+This data scientist position at Artefact was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

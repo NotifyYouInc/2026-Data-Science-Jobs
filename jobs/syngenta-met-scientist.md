@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000122630250-met-scientist) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000124823524-met-scientist) |
 
 ## About This Role
 
-This data scientist position at Syngenta was posted on 2026-04-24.
+This data scientist position at Syngenta was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

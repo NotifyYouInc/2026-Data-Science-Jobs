@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axle Informatics](https://scoutify.ai/companies/axle-informatics?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axle/jobs/5114472007) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axle/jobs/5130629007) |
 
 ## About This Role
 
-This data scientist position at Axle Informatics was posted on 2026-04-22.
+This data scientist position at Axle Informatics was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

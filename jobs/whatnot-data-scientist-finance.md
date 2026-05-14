@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/b23331c6-4df4-49a1-94d7-698db88260a3) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/43855b81-43ad-4b85-965d-b974f32fc76e) |
 
 ## About This Role
 
-This data scientist position at WhatNot was posted on 2026-04-30.
+This data scientist position at WhatNot was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

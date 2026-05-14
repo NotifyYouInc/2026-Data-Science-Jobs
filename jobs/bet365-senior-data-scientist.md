@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000123142289-senior-data-scientist) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000124905049-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at bet365 was posted on 2026-04-27.
+This data scientist position at bet365 was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

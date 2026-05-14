@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Data-Scientist-II_JR0031965) |
+| Category | Data Scientist |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/KL-Sentral---Redstation/Data-Scientist-II_JR0034615) |
 
 ## About This Role
 
-This machine learning engineer position at Airasia was posted on 2026-03-27.
+This data scientist position at Airasia was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

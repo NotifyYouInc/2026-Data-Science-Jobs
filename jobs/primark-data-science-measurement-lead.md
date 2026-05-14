@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000121117527-data-science-measurement-lead) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000124922354-data-science-measurement-lead) |
 
 ## About This Role
 
-This data scientist position at Primark was posted on 2026-04-16.
+This data scientist position at Primark was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

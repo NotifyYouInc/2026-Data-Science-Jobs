@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Opendoor](https://scoutify.ai/companies/opendoor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Miami, Florida, United States |
 | Category | Data Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.opendoor.com/careers/open-positions?gh_jid=4671754006) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.opendoor.com/careers/open-positions?gh_jid=4653309006) |
 
 ## About This Role
 
-This data engineer position at Opendoor was posted on 2026-04-15.
+This data engineer position at Opendoor was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

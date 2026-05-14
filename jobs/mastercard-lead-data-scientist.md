@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Israel |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Lead-Data-Scientist_R-275362) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Ramat-Gan-Israel/Lead-Data-Scientist_R-276238) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-04-29.
+This data scientist position at Mastercard was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

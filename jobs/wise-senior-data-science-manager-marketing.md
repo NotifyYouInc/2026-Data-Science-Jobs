@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000117243367-senior-data-science-manager-marketing) |
+| Category | Data Scientist |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124886514-senior-data-science-manager-marketing) |
 
 ## About This Role
 
-This machine learning engineer position at WISE was posted on 2026-03-27.
+This data scientist position at WISE was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

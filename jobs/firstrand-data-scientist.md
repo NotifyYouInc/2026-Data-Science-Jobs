@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Randburg, Gauteng, South Africa |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Data-Scientist_R49365) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Data-Scientist_R49483) |
 
 ## About This Role
 
-This data scientist position at FirstRand was posted on 2026-04-30.
+This data scientist position at FirstRand was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

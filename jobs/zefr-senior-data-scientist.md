@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zefr](https://scoutify.ai/companies/zefr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | California, US |
+| Location | Marina del Rey, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zefr/7913fd99-24cd-4a20-bcc0-0c20df198c59) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zefr/a0a47563-6ea7-44ff-8c47-25958d75cc88) |
 
 ## About This Role
 
-This data scientist position at Zefr was posted on 2026-03-25.
+This data scientist position at Zefr was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

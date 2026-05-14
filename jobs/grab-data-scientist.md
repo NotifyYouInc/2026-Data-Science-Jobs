@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000109176651-data-scientist) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000125027489-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Grab was posted on 2026-02-13.
+This data scientist position at Grab was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

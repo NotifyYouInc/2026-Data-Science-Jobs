@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Scientist--Senior-Manager_R0234733-1) |
+| Category | Data Scientist |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Data-Scientist--Senior-Manager_R0239404) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-03.
+This data scientist position at Booz Allen was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

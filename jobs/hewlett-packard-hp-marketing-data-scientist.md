@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Reading, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Reading-Berkshire-United-Kingdom/Marketing-Data-Scientist_3159695-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Marketing-Data-Scientist--Contract--_3159693-1) |
 
 ## About This Role
 
-This data scientist position at Hewlett Packard (HP) was posted on 2026-02-25.
+This data scientist position at Hewlett Packard (HP) was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

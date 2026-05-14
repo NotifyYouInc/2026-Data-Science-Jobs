@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Alpharetta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Senior-Data-Scientist-I_R111817) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Senior-Data-Scientist-I_R112516) |
 
 ## About This Role
 
-This data scientist position at ChoicePoint was posted on 2026-04-21.
+This data scientist position at ChoicePoint was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

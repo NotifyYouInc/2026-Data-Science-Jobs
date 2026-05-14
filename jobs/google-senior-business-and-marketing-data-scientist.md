@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTHNvxm0K6WNNT-jYw7NaDq6Mnkp81NnpftLJSvkgUn7EjsACxwdTA4_C53ayhoXlHpL0BOH-VH8XOyI9L3HFr-_j0L3lZ6guB7vvIgCFyj1AUwnJH7n2oSe61bA6w%3D%3D_V2&loc=IN&title=Senior+Business+and+Marketing+Data+Scientist) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbR6EvVIJCsH6PAnPKmD9ejlExvVUl5XeHagfhKI3qB3EjsACxwdTCnAN_XU9v2LBWctgFV__wOItr5jprvpMEHwrrXsahJ4rtBOBpRc7a6vRkwRBKJmXm-n8bWlYw%3D%3D_V2&loc=IE&title=Senior+Business+and+Marketing+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-04-29.
+This data scientist position at Google was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

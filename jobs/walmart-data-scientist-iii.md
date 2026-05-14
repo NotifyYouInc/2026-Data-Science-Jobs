@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Data-Scientist-III_R-2455616) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Data-Scientist-III_R-2478690) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-14.
+This data scientist position at Walmart was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
