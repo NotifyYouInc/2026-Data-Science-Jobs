@@ -1,16 +1,16 @@
-# Data Scientist at Jabil
+# data scientist at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Data-Scientist_J2448524) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/data-scientist_J2447396) |
 
 ## About This Role
 
-This data scientist position at Jabil was posted on 2026-04-29.
+This data scientist position at Jabil was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

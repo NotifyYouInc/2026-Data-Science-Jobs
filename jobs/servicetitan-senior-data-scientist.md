@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Canada-Remote/Senior-Data-Scientist_JR114577) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Data-Scientist_JR114777) |
 
 ## About This Role
 
-This data scientist position at ServiceTitan was posted on 2026-04-15.
+This data scientist position at ServiceTitan was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

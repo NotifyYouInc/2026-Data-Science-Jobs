@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Data-Scientist_R0113916-1) |
+| Location | Philippines |
+| Category | Data Scientist |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Data-Scientist_R0119359-1) |
 
 ## About This Role
 
-This machine learning engineer position at LSEG was posted on 2026-02-27.
+This data scientist position at LSEG was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

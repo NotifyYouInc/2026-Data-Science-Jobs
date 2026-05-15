@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Data Scientist |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000118858832-data-scientist) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000125115859-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Inetum was posted on 2026-04-06.
+This data scientist position at Inetum was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
