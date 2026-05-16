@@ -5,12 +5,12 @@
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Broomfield, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7713936003?gh_jid=7713936003) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7728967003?gh_jid=7728967003) |
 
 ## About This Role
 
-This data scientist position at Hunter Douglas was posted on 2026-04-24.
+This data scientist position at Hunter Douglas was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

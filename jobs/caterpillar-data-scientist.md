@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Piracicaba, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Data-Scientist_R0000362692) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Data-Scientist_R0000368464-1) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-04-30.
+This data scientist position at Caterpillar was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

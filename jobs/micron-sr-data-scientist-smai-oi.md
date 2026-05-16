@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/SR-DATA-SCIENTIST--SMAI-OI_JR93895-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SR-DATA-SCIENTIST--SMAI-OI_JR93514) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-04-13.
+This data scientist position at Micron was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

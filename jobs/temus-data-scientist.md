@@ -1,16 +1,16 @@
-# Data Scientist at Temus
+# Data Scientist  at Temus
 
 | Field | Details |
 |-------|---------|
 | Company | [Temus](https://scoutify.ai/companies/temus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5175866008) |
+| Category | Data Scientist |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5174149008) |
 
 ## About This Role
 
-This machine learning engineer position at Temus was posted on 2026-04-03.
+This data scientist position at Temus was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

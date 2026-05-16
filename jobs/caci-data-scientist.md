@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
+| Location | Denver, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Fort-Belvoir/Data-Scientist_325577) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Data-Scientist_325754) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-05-01.
+This data scientist position at CACI was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

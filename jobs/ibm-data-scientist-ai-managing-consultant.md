@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111327) |
+| Category | Data Scientist |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113659) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-05-05.
+This data scientist position at IBM was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
