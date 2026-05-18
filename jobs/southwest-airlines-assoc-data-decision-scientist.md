@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Assoc Data & Decision Scientist at Southwest Airlines
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-230753) |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Assoc-Data---Decision-Scientist_R-2026-67660) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-05-11.
+This data scientist position at Southwest Airlines was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

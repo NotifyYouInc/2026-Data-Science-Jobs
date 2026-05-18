@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Senior Decision Scientist, Product Analytics at GetYourGuide
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [GetYourGuide](https://scoutify.ai/companies/getyourguide?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-230753) |
+| Apply | [View on company site](https://getyourguide.careers/jobs/7903241?gh_jid=7903241) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-05-11.
+This data scientist position at GetYourGuide was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

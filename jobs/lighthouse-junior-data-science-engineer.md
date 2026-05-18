@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Junior Data Science Engineer at Lighthouse
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Lighthouse](https://scoutify.ai/companies/lighthouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Scientist |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-230753) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/lighthouse/jobs/4796265101) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-05-11.
+This data scientist position at Lighthouse was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

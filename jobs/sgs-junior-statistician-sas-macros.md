@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Junior Statistician (SAS Macros) at SGS
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Data Scientist |
+| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Muntinlupa, Calabarzon, Philippines |
+| Category | Data Analyst |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-230753) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000125747239-junior-statistician-sas-macros) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-05-11.
+This data analyst position at SGS was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

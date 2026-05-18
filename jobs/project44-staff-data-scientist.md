@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Staff Data Scientist at project44
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-230753) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/7757162) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-05-11.
+This data scientist position at project44 was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

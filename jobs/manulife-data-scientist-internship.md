@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Data Scientist_Internship at Manulife
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Scientist |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-230753) |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Tokyo/Data-Scientist-Internship_JR26041840) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-05-11.
+This data scientist position at Manulife was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

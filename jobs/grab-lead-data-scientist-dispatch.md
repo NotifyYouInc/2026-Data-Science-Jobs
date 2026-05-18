@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Lead Data Scientist (Dispatch) at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-230753) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000125606149-lead-data-scientist-dispatch) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-05-11.
+This data scientist position at Grab was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 
