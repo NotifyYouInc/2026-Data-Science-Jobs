@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000123484639-ai-data-traineeship) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000125775233-ai-data-traineeship) |
 
 ## About This Role
 
-This data analyst position at FCTB (nu: Deloitte Consulting) was posted on 2026-04-28.
+This data analyst position at FCTB (nu: Deloitte Consulting) was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

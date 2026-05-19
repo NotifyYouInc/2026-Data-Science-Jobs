@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000113121335-duales-studium-data-science-in-kooperation-mit-der-dhbw-stuttgart) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000125841579-duales-studium-data-science-in-kooperation-mit-der-dhbw-stuttgart) |
 
 ## About This Role
 
-This machine learning engineer position at Sixt was posted on 2026-03-06.
+This data scientist position at Sixt was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

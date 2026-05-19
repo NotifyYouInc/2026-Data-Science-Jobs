@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000119408397-ai-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000125798585-ai-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at IFS was posted on 2026-04-08.
+This data scientist position at IFS was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

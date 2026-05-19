@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Expert-AI-Engineer---Agentic-AI_REQ-10109507) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Expert-AI-LLM-Data-Scientist-in-Agentic-AI_REQ-10114612) |
 
 ## About This Role
 
-This data scientist position at ING was posted on 2026-04-14.
+This data scientist position at ING was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

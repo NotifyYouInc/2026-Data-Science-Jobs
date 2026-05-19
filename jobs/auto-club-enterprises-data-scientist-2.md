@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Costa Mesa, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA--Remote/Data-Scientist-2_JR202634595) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data-Scientist-2_JR202636484) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-02-05.
+This data scientist position at Auto Club Enterprises was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000118448060-senior-data-science-manager-customer-support) |
+| Location | London, England, United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125805069-senior-data-science-manager-customer-support) |
 
 ## About This Role
 
-This ai / llm engineer position at WISE was posted on 2026-04-02.
+This data scientist position at WISE was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Senior-Data-Scientist_RQ105874-2) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/BR-Sao-Paulo---BTC-Technology/Senior-Data-Scientist_RQ104648) |
 
 ## About This Role
 
-This machine learning engineer position at BP was posted on 2026-02-27.
+This data scientist position at BP was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

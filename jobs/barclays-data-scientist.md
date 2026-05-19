@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Scientist_JR-0000097407) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Data-Scientist_JR-0000103019) |
 
 ## About This Role
 
-This ai / llm engineer position at Barclays was posted on 2026-02-26.
+This data scientist position at Barclays was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

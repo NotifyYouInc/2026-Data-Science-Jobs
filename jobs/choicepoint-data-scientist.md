@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/London/Data-Scientist_R112701) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Remote---USA---Nationwide/Data-Scientist_R111919) |
 
 ## About This Role
 
-This data scientist position at ChoicePoint was posted on 2026-05-06.
+This data scientist position at ChoicePoint was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

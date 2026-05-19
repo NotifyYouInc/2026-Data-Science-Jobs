@@ -1,16 +1,16 @@
-# Manager, Data Science & Analytics at TransUnion
+# Manager - Data Science Analytics at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Program Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Manager--Data-Science---Analytics_19039042) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Mumbai---One-World-Center/Manager---Data-Science-Analytics_19040478) |
 
 ## About This Role
 
-This program manager position at TransUnion was posted on 2026-02-03.
+This data scientist position at TransUnion was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

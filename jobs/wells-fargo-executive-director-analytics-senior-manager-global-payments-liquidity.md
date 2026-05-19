@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Executive-Director--Analytics-Senior-Manager--Global-Payments---Liquidity-_R-534374-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Executive-Director--Analytics-Senior-Manager--Global-Payments---Liquidity-_R-544318) |
 
 ## About This Role
 
-This data scientist position at Wells Fargo was posted on 2026-04-13.
+This data scientist position at Wells Fargo was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

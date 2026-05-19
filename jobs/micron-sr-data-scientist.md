@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-DATA-SCIENTIST_JR100231) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SR-DATA-SCIENTIST_JR94030) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-05-06.
+This data scientist position at Micron was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

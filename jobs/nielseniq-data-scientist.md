@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124878389-data-scientist) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125735603-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-05-06.
+This data scientist position at NielsenIQ was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

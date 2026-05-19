@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113492601-principal-data-scientist-vendor-recommendations-ai) |
+| Category | Data Scientist |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000125898409-principal-data-scientist-vendor-recommendations-ai) |
 
 ## About This Role
 
-This machine learning engineer position at Delivery Hero was posted on 2026-03-09.
+This data scientist position at Delivery Hero was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

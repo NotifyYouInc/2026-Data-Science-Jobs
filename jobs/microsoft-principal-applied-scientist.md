@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Redmond, Washington, United States |
 | Category | AI / ML Research |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556620724) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556864031) |
 
 ## About This Role
 
