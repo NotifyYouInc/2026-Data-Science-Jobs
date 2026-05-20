@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118363567-sr-data-scientist-ai-ml) |
+| Category | Data Scientist |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126079699-sr-data-scientist-ai-ml) |
 
 ## About This Role
 
-This ai / llm engineer position at Delivery Hero was posted on 2026-04-02.
+This data scientist position at Delivery Hero was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

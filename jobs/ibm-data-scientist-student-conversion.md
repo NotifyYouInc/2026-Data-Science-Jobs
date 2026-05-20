@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hortolândia, São Paulo, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112365) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114615) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-04-28.
+This data scientist position at IBM was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Okinawa, Okinawa, Japan |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0239427) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Okinawa/Data-Scientist_R0239510) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-05-06.
+This data scientist position at Booz Allen was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

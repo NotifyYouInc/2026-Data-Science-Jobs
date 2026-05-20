@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000112598207-data-scientist) |
+| Location | London, England, United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000126104674-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at Entain was posted on 2026-03-04.
+This data scientist position at Entain was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

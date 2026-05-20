@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warner Robins, Georgia, United States |
+| Location | Fort Belvoir, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-GA-Warner-Robins/Data-Scientist_325771) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Fort-Belvoir/Data-Scientist_325870) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-05-06.
+This data scientist position at CACI was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

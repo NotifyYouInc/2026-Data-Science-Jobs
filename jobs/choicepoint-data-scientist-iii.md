@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United Kingdom |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Farringdon/Data-Scientist-III_R112246) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Data Scientist |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Minneapolis-MN/Data-Scientist-III_R112906) |
 
 ## About This Role
 
-This machine learning engineer position at ChoicePoint was posted on 2026-04-22.
+This data scientist position at ChoicePoint was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

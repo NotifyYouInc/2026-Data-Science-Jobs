@@ -1,16 +1,16 @@
-#  Senior Director RM Data Science Offer Intelligence and Online Marketing Optimization (m/f/d) at Sixt
+# Senior Director RM Data Science Offer Intelligence and Online Marketing Optimization (m/f/d) at Sixt
 
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000113571307-senior-director-rm-data-science-offer-intelligence-and-online-marketing-optimization-mfd) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Data Scientist |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126048039-senior-director-rm-data-science-offer-intelligence-and-online-marketing-optimization-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Sixt was posted on 2026-03-09.
+This data scientist position at Sixt was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

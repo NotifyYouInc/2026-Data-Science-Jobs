@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Science-Practitioner_ATCI-5315477-S1937278-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Data-Science-Practitioner_14129035) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-05-05.
+This data scientist position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

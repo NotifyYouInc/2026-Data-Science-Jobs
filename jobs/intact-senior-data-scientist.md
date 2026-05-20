@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Senior-Data-Scientist_R153281-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Vancouver-British-Columbia-CAN/Scientifique-de-donne-principal_R152628) |
 
 ## About This Role
 
-This data scientist position at Intact was posted on 2026-04-24.
+This data scientist position at Intact was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Israel |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Ramat-Gan-Israel/Lead-Data-Scientist_R-276238) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Lead-Data-Scientist_R-269254-1) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-05-07.
+This data scientist position at Mastercard was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

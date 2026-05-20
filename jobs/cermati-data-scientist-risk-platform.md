@@ -6,7 +6,7 @@
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Scientist |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000125108063-data-scientist-risk-platform) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000125182319-data-scientist-risk-platform) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000123453130-tech-data-young-talent-program) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000126033650-tech-data-young-talent-program) |
 
 ## About This Role
 
-This data scientist position at KPN was posted on 2026-04-28.
+This data scientist position at KPN was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Data-Scientist-Engineer_434114) |
+| Category | Data Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Data-Scientist-Engineer_441329) |
 
 ## About This Role
 
-This machine learning engineer position at GSK was posted on 2026-04-22.
+This data engineer position at GSK was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

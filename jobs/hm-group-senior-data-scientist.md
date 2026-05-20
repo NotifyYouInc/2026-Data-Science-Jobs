@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000112611080-senior-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000126058055-senior-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at H&M Group was posted on 2026-03-04.
+This data scientist position at H&M Group was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

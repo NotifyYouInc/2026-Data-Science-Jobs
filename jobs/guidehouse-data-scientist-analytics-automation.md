@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Data-Scientist--Analytics---Automation-_38733) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Data-Scientist--Analytics---Automation-_39196) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-04-27.
+This data scientist position at Guidehouse was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

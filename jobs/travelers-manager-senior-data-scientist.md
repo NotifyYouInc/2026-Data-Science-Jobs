@@ -5,12 +5,12 @@
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hartford, Connecticut, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Manager---Senior-Data-Scientist_R-49510) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Manager---Senior-Data-Scientist_R-50601) |
 
 ## About This Role
 
-This data scientist position at Travelers was posted on 2026-03-04.
+This data scientist position at Travelers was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
