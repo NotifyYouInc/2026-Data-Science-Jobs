@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist_JR0280682) |
+| Category | Data Scientist |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787) |
 
 ## About This Role
 
-This software engineer position at Intel was posted on 2026-02-11.
+This data scientist position at Intel was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

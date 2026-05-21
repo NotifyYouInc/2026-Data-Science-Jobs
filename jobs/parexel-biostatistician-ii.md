@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Guangzhou, Guangdong, China |
-| Category | Data Scientist |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/China-Guangzhou/Biostatistician-II_R0000038308) |
+| Location | Newton, Massachusetts, United States |
+| Category | Data Analyst |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Newton---Massachusetts/Biostatistician-II_R0000041671) |
 
 ## About This Role
 
-This data scientist position at Parexel was posted on 2026-02-09.
+This data analyst position at Parexel was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

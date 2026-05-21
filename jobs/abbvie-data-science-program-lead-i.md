@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Florham Park, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012905810-data-science-program-lead-i) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013118667-data-science-program-lead-i) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-04-30.
+This data scientist position at AbbVie was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

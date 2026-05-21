@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Schaumburg, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Richardson-TX-TX145/Data-Scientist_R62829) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Scientist_R64936) |
 
 ## About This Role
 
-This data scientist position at Motorola Solutions was posted on 2026-04-06.
+This data scientist position at Motorola Solutions was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

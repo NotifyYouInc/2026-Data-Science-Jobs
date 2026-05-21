@@ -5,12 +5,12 @@
 | Company | [Thrive Market](https://scoutify.ai/companies/thrive-market?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | California, US |
 | Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://thrivemarketjobs.com/job_posting.html?id=4091138009&gh_jid=4091138009) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://thrivemarketjobs.com/job_posting.html?id=4247801009&gh_jid=4247801009) |
 
 ## About This Role
 
-This data scientist position at Thrive Market was posted on 2026-03-10.
+This data scientist position at Thrive Market was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

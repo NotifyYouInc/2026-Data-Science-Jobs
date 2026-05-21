@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7747358?gh_jid=7747358) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7916461?gh_jid=7916461) |
 
 ## About This Role
 
-This data scientist position at Thoughtworks was posted on 2026-04-16.
+This data scientist position at Thoughtworks was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

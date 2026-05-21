@@ -1,16 +1,16 @@
-# Associate Data Scientist-Artificial Intelligence at IBM
+# Associate Data Scientist – Artificial Intelligence at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | AI / ML Research |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114100) |
+| Location | Philippines |
+| Category | Data Scientist |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114171) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-05-08.
+This data scientist position at IBM was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

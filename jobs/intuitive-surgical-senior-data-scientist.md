@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000106392715-senior-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126405240-senior-data-scientist) |
 
 ## About This Role
 
-This software engineer position at Intuitive Surgical was posted on 2026-01-29.
+This data scientist position at Intuitive Surgical was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

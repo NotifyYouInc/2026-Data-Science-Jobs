@@ -5,12 +5,12 @@
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Staff-Decision-Scientist_R11646) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Staff-Decision-Scientist_R11791) |
 
 ## About This Role
 
-This data scientist position at Workiva was posted on 2026-04-13.
+This data scientist position at Workiva was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

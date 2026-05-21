@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Associate--Data-Scientist---US-Card-DFS-Acquisitions_R240954) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---US-Card-DFS-Acquisitions_R242518-2) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-04-21.
+This data scientist position at Capital One was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

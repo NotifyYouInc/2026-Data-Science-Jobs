@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Des Moines, Iowa, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Des-Moines-Iowa-United-States/Research-Investigator_246728W) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Indianapolis-Indiana-United-States/Research-Investigator_246769W-1) |
 
 ## About This Role
 
-This data scientist position at Corteva was posted on 2026-05-07.
+This data scientist position at Corteva was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

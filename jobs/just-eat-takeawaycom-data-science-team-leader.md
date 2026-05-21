@@ -5,12 +5,12 @@
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Senior-Team-Leader---Operations-Research_R_047916) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Data-Science-Team-Leader_R_051033-1) |
 
 ## About This Role
 
-This data scientist position at Just Eat Takeaway.com was posted on 2026-03-10.
+This data scientist position at Just Eat Takeaway.com was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

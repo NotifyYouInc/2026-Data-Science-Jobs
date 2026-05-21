@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000107089595-senior-data-scientist-operations-mfn) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000126241209-senior-data-scientist-operations-mfn) |
 
 ## About This Role
 
-This data scientist position at INPOST was posted on 2026-02-03.
+This data scientist position at INPOST was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
