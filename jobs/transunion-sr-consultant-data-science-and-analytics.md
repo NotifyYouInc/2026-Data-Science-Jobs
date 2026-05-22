@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Sr-Consultant--Data-Science-and-Analytics_19039061) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Sr-Consultant--Data-Science-and-Analytics_19040366) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-02-03.
+This data scientist position at TransUnion was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

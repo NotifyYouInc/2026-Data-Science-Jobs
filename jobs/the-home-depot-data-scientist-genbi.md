@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Scientist---GenBI_Req174594) |
+| Category | Data Scientist |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Scientist---GenBI_Req180553) |
 
 ## About This Role
 
-This data analyst position at The Home Depot was posted on 2026-03-27.
+This data scientist position at The Home Depot was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

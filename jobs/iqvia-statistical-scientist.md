@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Thāne, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Copenhagen-Denmark/Statistical-Scientist_R1529389) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Statistical-Scientist_R1533390) |
 
 ## About This Role
 
-This data scientist position at IQVIA was posted on 2026-02-17.
+This data scientist position at IQVIA was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

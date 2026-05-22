@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Data-Scientist---HR-Data-Analytics_JR-2600960) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Data-Scientist---HR-Data-Analytics_JR-2600952) |
 
 ## About This Role
 
-This data scientist position at GlobalFoundries was posted on 2026-03-17.
+This data scientist position at GlobalFoundries was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

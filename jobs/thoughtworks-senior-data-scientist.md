@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Porto Alegre, Rio Grande do Sul, Brazil |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7264551?gh_jid=7264551) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7920276?gh_jid=7920276) |
 
 ## About This Role
 
-This machine learning engineer position at Thoughtworks was posted on 2026-03-30.
+This data scientist position at Thoughtworks was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

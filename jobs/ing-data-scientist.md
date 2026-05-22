@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | SOC & Incident Response |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Hubs-Spain/Data-Scientist_REQ-10112448) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Data Scientist |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Data-Scientist_REQ-10113087) |
 
 ## About This Role
 
-This soc & incident response position at ING was posted on 2026-03-30.
+This data scientist position at ING was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

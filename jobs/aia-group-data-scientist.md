@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Philippines |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-MPI/Data-Scientist_JR-65065) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-MPI/Data-Scientist_JR-64450) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-04-23.
+This data scientist position at AIA Group was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

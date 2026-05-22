@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clutch Technologies Inc.](https://scoutify.ai/companies/clutch-technologies-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clutch/jobs/5846509004) |
+| Category | Data Scientist |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clutch/jobs/5996255004) |
 
 ## About This Role
 
-This machine learning engineer position at Clutch Technologies Inc. was posted on 2026-04-02.
+This data scientist position at Clutch Technologies Inc. was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Graphite](https://scoutify.ai/companies/graphite?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/graphite/13ce49fe-1255-4490-8192-bd7a8d3f8a48) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/graphite/08f08596-0bb0-48a4-bc4d-4ffe8ab8acec) |
 
 ## About This Role
 
-This data scientist position at Graphite was posted on 2026-03-07.
+This data scientist position at Graphite was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
