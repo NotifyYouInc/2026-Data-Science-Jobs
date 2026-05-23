@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Campbell's Company](https://scoutify.ai/companies/campbellsoup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Camden, New Jersey, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Scientist_Req-64490) |
+| Category | Data Scientist |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Scientist_Req-64488-1) |
 
 ## About This Role
 
-This machine learning engineer position at The Campbell's Company was posted on 2026-04-01.
+This data scientist position at The Campbell's Company was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist-Advanced Analytics at IBM
+# DATA SCIENTIST-ADVANCED ANALYTICS at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100703) |
+| Location | Bengaluru, Karnataka, India |
+| Category | AI / ML Research |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114807) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-05-07.
+This ai / ml research position at IBM was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

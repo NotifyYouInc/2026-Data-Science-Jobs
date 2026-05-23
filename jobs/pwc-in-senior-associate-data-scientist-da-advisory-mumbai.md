@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Manager-Data-Scientist-D-A-Advisory-Mumbai_703032WD) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Manager-Data-Scientist-D-A-Advisory-Mumbai_703029WD-1) |
 
 ## About This Role
 
-This data scientist position at PwC was posted on 2026-04-27.
+This data scientist position at PwC was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist AVP at Barclays
+# Data Scientist, AVP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Data-Scientist-AVP_JR-0000106329) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Data-Scientist--AVP_JR-0000110758) |
 
 ## About This Role
 
-This data scientist position at Barclays was posted on 2026-04-10.
+This data scientist position at Barclays was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

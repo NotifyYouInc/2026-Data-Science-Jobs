@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000123690021-data-scientist-sales-marketing-focus) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000126655735-data-scientist-sales-marketing-focus) |
 
 ## About This Role
 
-This data scientist position at Red Bull was posted on 2026-04-29.
+This data scientist position at Red Bull was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

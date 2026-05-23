@@ -1,16 +1,16 @@
-# Senior Data Scientist - Credit at plaid
+# Senior Data Scientist - Credit at Plaid
 
 | Field | Details |
 |-------|---------|
-| Company | [plaid](https://scoutify.ai/companies/plaid-plaid?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/71863a81-af60-4fec-b5b7-ce532104e807) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/97bebd5a-2cdf-4663-922e-ef23108a33a0) |
 
 ## About This Role
 
-This data scientist position at plaid was posted on 2026-04-30.
+This data scientist position at Plaid was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

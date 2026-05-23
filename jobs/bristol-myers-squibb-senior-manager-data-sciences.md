@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Uxbridge, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Uxbridge---GB/Senior-Manager--Data-Sciences_R1600844) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Uxbridge---GB/Senior-Manager--Data-Sciences_R1600845) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-04-09.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

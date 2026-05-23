@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/BR-Sao-Paulo---BTC-Technology/Senior-Data-Scientist_RQ104648) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/Senior-Data-Scientist_RQ109833-1) |
 
 ## About This Role
 
-This data scientist position at BP was posted on 2026-05-11.
+This data scientist position at BP was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

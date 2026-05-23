@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Senior-Data-Scientist_R4036031-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Data-Scientist_R4041233-1) |
 
 ## About This Role
 
-This data scientist position at GE HealthCare was posted on 2026-02-11.
+This data scientist position at GE HealthCare was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
