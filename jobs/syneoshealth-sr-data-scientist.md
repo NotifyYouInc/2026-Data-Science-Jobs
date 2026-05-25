@@ -1,16 +1,16 @@
-# Lead Data Scientist at Referrals Only
+# Sr Data Scientist at Syneoshealth
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7916769) |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Hyderabad-Hybrid/Sr-Data-Scientist_25104063) |
 
 ## About This Role
 
-This data scientist position at Referrals Only was posted on 2026-05-18.
+This data scientist position at Syneoshealth was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

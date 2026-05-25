@@ -1,16 +1,16 @@
-# Senior Data Scientist at Referrals Only
+# Unilever Post Doctoral Fellowship Program at Unilever
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7928612) |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Mumbai-HURC/Unilever-Post-Doctoral-Fellowship-Program_R-1181426-1) |
 
 ## About This Role
 
-This data scientist position at Referrals Only was posted on 2026-05-18.
+This data scientist position at Unilever was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

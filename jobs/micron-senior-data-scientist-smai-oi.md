@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SENIOR-DATA-SCIENTIST--SMAI-OI_JR93424) |
+| Category | Data Scientist |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SENIOR-DATA-SCIENTIST--SMAI-OI_JR93539) |
 
 ## About This Role
 
-This data analyst position at Micron was posted on 2026-03-23.
+This data scientist position at Micron was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

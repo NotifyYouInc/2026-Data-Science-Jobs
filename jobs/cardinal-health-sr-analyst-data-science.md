@@ -1,16 +1,16 @@
-# Applied Scientist, Central Machine Learning at Amazon
+# Sr Analyst - Data Science at Cardinal Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Dublin, California, United States |
 | Category | Machine Learning Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422061/applied-scientist-central-machine-learning) |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Sr-Analyst---Data-Science_20180558) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-05-18.
+This machine learning engineer position at Cardinal Health was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist at JLL
+# Sustainable Investment Data Scientist at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/TEL-AVIV-ISR/Senior-Data-Scientist_REQ506682) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Sustainable-Investment-Data-Scientist_R0112028-1) |
 
 ## About This Role
 
-This data scientist position at JLL was posted on 2026-05-17.
+This data scientist position at LSEG was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

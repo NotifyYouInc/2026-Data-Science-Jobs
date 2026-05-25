@@ -1,16 +1,16 @@
-# Lead Data Scientist at Referrals Only
+# Senior Data Scientist at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Vietnam |
 | Category | Data Scientist |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7916769) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000126909839-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Referrals Only was posted on 2026-05-18.
+This data scientist position at Renesas Electronics was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist at Unity Technologies
+# Data science Team Lead  at Transmit Security
 
 | Field | Details |
 |-------|---------|
-| Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Transmit Security](https://scoutify.ai/companies/transmit-security?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Israel |
 | Category | Machine Learning Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://unity.com/careers/positions/7721485?gh_jid=7721485) |
+| Apply | [View on company site](https://www.transmitsecurity.com/about/careers/job?gh_jid=8539030002) |
 
 ## About This Role
 
-This machine learning engineer position at Unity Technologies was posted on 2026-05-17.
+This machine learning engineer position at Transmit Security was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

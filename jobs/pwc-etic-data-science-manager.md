@@ -1,16 +1,16 @@
-# ETIC, Data Science - Manager at PwC
+# ETIC, Data Science Manager at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Data-Science---Manager_667843WD) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Data-Science-Manager_659884WD) |
 
 ## About This Role
 
-This data scientist position at PwC was posted on 2026-04-29.
+This machine learning engineer position at PwC was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

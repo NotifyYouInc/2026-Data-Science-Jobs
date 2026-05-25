@@ -1,16 +1,16 @@
-# Lead Data Scientist at Referrals Only
+# Data Scientist (Fraud) at Kasada
 
 | Field | Details |
 |-------|---------|
-| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Kasada](https://scoutify.ai/companies/kasada?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7916769) |
+| Apply | [View on company site](https://jobs.lever.co/kasada/644f2a25-d295-4432-9ca9-44b847a0453d) |
 
 ## About This Role
 
-This data scientist position at Referrals Only was posted on 2026-05-18.
+This data scientist position at Kasada was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
