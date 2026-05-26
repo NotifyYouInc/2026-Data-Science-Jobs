@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Manager--Data-Science_174025-1) |
+| Category | Engineering Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Manager--Data-Science_176930-1) |
 
 ## About This Role
 
-This data scientist position at Vanguard was posted on 2026-02-24.
+This engineering manager position at Vanguard was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

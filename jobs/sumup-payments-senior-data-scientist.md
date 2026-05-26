@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8459126002?gh_jid=8459126002) |
+| Category | Data Scientist |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://sumup.com/careers/positions/8554459002?gh_jid=8554459002) |
 
 ## About This Role
 
-This machine learning engineer position at SumUp Payments was posted on 2026-04-14.
+This data scientist position at SumUp Payments was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

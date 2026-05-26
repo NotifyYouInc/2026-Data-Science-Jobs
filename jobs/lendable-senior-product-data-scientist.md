@@ -5,12 +5,12 @@
 | Company | [Lendable](https://scoutify.ai/companies/lendable?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lendable/09eedc0b-88c0-4b3c-8d51-65e0f05b721a) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lendable/04aa8a51-e78b-4048-b85e-67b739fa3e54) |
 
 ## About This Role
 
-This data scientist position at Lendable was posted on 2026-04-10.
+This data scientist position at Lendable was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist_R-2496955) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist_R-2491867) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-05-11.
+This data scientist position at Walmart was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

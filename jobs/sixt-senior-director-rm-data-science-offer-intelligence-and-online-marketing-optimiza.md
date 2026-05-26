@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126048039-senior-director-rm-data-science-offer-intelligence-and-online-marketing-optimization-mfd) |
+| Category | Leadership Development Program |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126995076-senior-director-rm-data-science-offer-intelligence-and-online-marketing-optimization-mfd) |
 
 ## About This Role
 
-This data scientist position at Sixt was posted on 2026-05-12.
+This leadership development program position at Sixt was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

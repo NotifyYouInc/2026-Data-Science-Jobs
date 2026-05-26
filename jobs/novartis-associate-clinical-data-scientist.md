@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Clinical-Data-Scientist_REQ-10075064) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Clinical-Data-Scientist_REQ-10078087) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-04-17.
+This data scientist position at Novartis was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

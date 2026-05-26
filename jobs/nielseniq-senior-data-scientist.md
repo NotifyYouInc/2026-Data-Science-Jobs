@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126217879-senior-data-scientist) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126750189-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-05-13.
+This data scientist position at NielsenIQ was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

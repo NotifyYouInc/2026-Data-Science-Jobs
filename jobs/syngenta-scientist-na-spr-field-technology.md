@@ -6,7 +6,7 @@
 | Location | Waterloo, Iowa, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126310590-scientist-na-spr-field-technology) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126312346-scientist-na-spr-field-technology) |
 
 ## About This Role
 

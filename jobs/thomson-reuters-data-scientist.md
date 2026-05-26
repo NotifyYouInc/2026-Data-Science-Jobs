@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ199289) |
+| Category | Data Scientist |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ200795) |
 
 ## About This Role
 
-This machine learning engineer position at Thomson Reuters was posted on 2026-03-17.
+This data scientist position at Thomson Reuters was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
