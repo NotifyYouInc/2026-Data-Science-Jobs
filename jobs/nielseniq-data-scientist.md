@@ -6,7 +6,7 @@
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126592739-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126592879-data-scientist) |
 
 ## About This Role
 

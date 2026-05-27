@@ -5,12 +5,12 @@
 | Company | [Vir Biotechnology](https://scoutify.ai/companies/vir-biotechnology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/virbiotechnologyinc/jobs/4677797005) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/virbiotechnologyinc/jobs/4697014005) |
 
 ## About This Role
 
-This data scientist position at Vir Biotechnology was posted on 2026-04-02.
+This data scientist position at Vir Biotechnology was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

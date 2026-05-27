@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Mulhuddart, Leinster, Ireland |
 | Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110568) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115110) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-04-16.
+This data scientist position at IBM was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

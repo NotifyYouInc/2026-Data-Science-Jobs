@@ -5,12 +5,12 @@
 | Company | [DoorDash Australia](https://scoutify.ai/companies/doordash-australia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashaustralia/jobs/7255655) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashaustralia/jobs/7931025) |
 
 ## About This Role
 
-This data scientist position at DoorDash Australia was posted on 2026-03-26.
+This data scientist position at DoorDash Australia was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

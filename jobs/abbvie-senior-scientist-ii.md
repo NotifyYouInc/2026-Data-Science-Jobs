@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Irvine, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012575097-senior-scientist-ii) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013203126-senior-scientist-ii) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-04-13.
+This data scientist position at AbbVie was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

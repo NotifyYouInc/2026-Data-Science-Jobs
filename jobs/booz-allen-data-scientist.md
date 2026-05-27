@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Honolulu, Hawaii, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0240058) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0240066) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-05-13.
+This data scientist position at Booz Allen was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

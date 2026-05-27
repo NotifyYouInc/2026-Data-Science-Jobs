@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5215974008) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5222007008) |
 
 ## About This Role
 
-This data scientist position at WPP Media was posted on 2026-05-11.
+This data scientist position at WPP Media was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

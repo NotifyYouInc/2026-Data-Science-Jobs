@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Maryland, US |
-| Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/Data-Scientist--Senior--TS-SCI-w--Poly-_R180637) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/Data-Scientist--Senior--TS-SCI-w--Poly-_R180954) |
 
 ## About This Role
 
-This data scientist position at Parsons was posted on 2026-05-12.
+This devops engineer position at Parsons was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

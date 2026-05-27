@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 6 locations |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Scientist_R2624561) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Scientist_R2625408) |
 
 ## About This Role
 
-This data scientist position at Hartford Financial Services was posted on 2026-03-25.
+This data scientist position at Hartford Financial Services was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

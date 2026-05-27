@@ -1,16 +1,16 @@
-# Data Scientist at Accenture Federal Services
+# Data Scientist  at Accenture Federal Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4609464006?gh_jid=4609464006) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4651049006?gh_jid=4651049006) |
 
 ## About This Role
 
-This data scientist position at Accenture Federal Services was posted on 2026-04-24.
+This data scientist position at Accenture Federal Services was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

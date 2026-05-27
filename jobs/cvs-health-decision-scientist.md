@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Texas, US |
-| Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Decision-Scientist_R0909517) |
+| Location | Massachusetts, US |
+| Category | Data Analyst |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Work-from-home/Decision-Scientist_R0911402) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-05-13.
+This data analyst position at CVS Health was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
