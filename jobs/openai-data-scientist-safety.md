@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683) |
 
 ## About This Role
 

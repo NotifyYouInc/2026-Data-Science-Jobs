@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Yamagata, JP |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kulim-Kedah-Malaysia/Scientist-II--Analytics---Metrology_REQ-11935) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Yonezawa-shi-Yamagata-Japan/Scientist-II--Analytics---Metrology_REQ-11579) |
 
 ## About This Role
 
-This data scientist position at Entegris was posted on 2026-05-15.
+This data scientist position at Entegris was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

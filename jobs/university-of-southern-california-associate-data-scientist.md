@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Southern California](https://scoutify.ai/companies/university-of-southern-california?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---Health-Sciences-Campus/Associate-Data-Scientist_REQ20173421-1) |
+| Category | Data Scientist |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---University-Park-Campus/Associate-Data-Scientist_REQ20174846) |
 
 ## About This Role
 
-This ai / llm engineer position at University of Southern California was posted on 2026-03-25.
+This data scientist position at University of Southern California was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

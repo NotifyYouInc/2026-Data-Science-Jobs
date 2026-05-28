@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bentonville, Arkansas, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Principal--Data-Scientist_R-2442480) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Principal--Data-Scientist_R-2450779) |
 
 ## About This Role
 
-This technical & solutions architect position at Walmart was posted on 2026-05-15.
+This machine learning engineer position at Walmart was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

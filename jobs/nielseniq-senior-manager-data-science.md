@@ -1,16 +1,16 @@
-# Senior Manager Data Science at NielsenIQ
+# Senior Manager, Data Science at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120686997-senior-manager-data-science) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127566435-senior-manager-data-science) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-04-14.
+This data scientist position at NielsenIQ was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

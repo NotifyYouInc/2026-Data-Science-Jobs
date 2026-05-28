@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Data Scientist |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012012086-associate-scientist-data-ii) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013237577-associate-scientist-data-ii) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-03-06.
+This machine learning engineer position at AbbVie was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

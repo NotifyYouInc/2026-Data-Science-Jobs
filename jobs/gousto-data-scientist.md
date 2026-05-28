@@ -5,12 +5,12 @@
 | Company | [Gousto](https://scoutify.ai/companies/gousto?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000126718011-data-scientist) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000127296217-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Gousto was posted on 2026-05-15.
+This data scientist position at Gousto was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

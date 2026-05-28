@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Sunnyvale, California, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8552515002) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8552567002) |
 
 ## About This Role
 
-This ai / ml research position at Wayve was posted on 2026-05-15.
+This ai / ml research position at Wayve was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

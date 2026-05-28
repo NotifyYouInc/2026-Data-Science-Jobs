@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013078646-senior-data-scientistcomputational-biologist) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013228986-senior-data-scientistcomputational-biologist) |
 
 ## About This Role
 
-This data scientist position at Harvard University was posted on 2026-05-11.
+This data scientist position at Harvard University was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
