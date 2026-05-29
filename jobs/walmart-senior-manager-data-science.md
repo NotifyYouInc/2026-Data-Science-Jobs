@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Bruno, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Senior-Manager--Data-Science_R-2507429) |
+| Location | Sunnyvale, California, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Manager--Data-Science_R-2503874) |
 
 ## About This Role
 
-This machine learning engineer position at Walmart was posted on 2026-05-18.
+This engineering manager position at Walmart was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

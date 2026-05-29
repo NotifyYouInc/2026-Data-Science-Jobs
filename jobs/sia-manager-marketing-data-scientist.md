@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000118217937-manager-marketing-data-scientist) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000127673649-manager-marketing-data-scientist) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-04-01.
+This strategy / management consulting position at SIA was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

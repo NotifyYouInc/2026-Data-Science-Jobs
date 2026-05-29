@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113736857-developpeur-python-data-science-fh) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000127681462-developpeur-python-data-science-fh) |
 
 ## About This Role
 
-This software engineer position at Inetum was posted on 2026-03-10.
+This software engineer position at Inetum was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
