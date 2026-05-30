@@ -1,16 +1,16 @@
-# Data Scientist at NT Concepts
+# Data Scientist  at NT Concepts
 
 | Field | Details |
 |-------|---------|
 | Company | [NT Concepts](https://scoutify.ai/companies/ntconcepts?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ntconcepts/jobs/5978863004) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ntconcepts/jobs/6003585004) |
 
 ## About This Role
 
-This data scientist position at NT Concepts was posted on 2026-04-22.
+This data scientist position at NT Concepts was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

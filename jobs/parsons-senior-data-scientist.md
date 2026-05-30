@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Senior-Data-Scientist_R179226-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Springfield/Senior-Data-Scientist_R181231) |
 
 ## About This Role
 
-This data scientist position at Parsons was posted on 2026-04-03.
+This data scientist position at Parsons was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

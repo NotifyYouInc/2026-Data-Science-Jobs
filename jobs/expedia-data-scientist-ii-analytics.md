@@ -1,16 +1,16 @@
-# Data Scientist II,  Analytics at Expedia
+# Data Scientist II, Analytics at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Scientist-II---Analytics_R-105950) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Scientist-II--Analytics_R-105631-2) |
 
 ## About This Role
 
-This data scientist position at Expedia was posted on 2026-05-15.
+This data scientist position at Expedia was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

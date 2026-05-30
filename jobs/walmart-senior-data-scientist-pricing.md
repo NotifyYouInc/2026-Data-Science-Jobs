@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior--Data-Scientist--Pricing-_R-2441648-1) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/Senior--Data-Scientist--Pricing-_R-2474371) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-04-29.
+This data scientist position at Walmart was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

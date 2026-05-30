@@ -6,7 +6,7 @@
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Data Scientist |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000127185634-trading-meteorologist-renewables-forecasting-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/statkraft1/744000127211414-trading-meteorologist-renewables-forecasting-mfd) |
 
 ## About This Role
 

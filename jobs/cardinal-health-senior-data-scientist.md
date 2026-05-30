@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ohio, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Data-Scientist_20177365) |
+| Location | Dublin, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Data-Scientist_20181023) |
 
 ## About This Role
 
-This ai / llm engineer position at Cardinal Health was posted on 2026-03-18.
+This data scientist position at Cardinal Health was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

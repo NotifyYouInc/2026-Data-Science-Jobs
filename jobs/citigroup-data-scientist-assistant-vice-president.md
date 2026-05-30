@@ -1,16 +1,16 @@
-# Data Scientist - Assistant Vice President at Citigroup
+# Data Scientist Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Scientist---Assistant-Vice-President_26959977) |
+| Location | Tampa, Florida, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Data-Scientist-Assistant-Vice-President_26963090) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-05.
+This machine learning engineer position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
