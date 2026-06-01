@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001062229-staff-data-scientist-international-cjki) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001099853-staff-data-scientist-international-cjki) |
 
 ## About This Role
 
-This data scientist position at Canva was posted on 2026-05-11.
+This data scientist position at Canva was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
