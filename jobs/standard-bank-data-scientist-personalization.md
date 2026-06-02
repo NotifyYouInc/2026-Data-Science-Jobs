@@ -6,7 +6,7 @@
 | Location | Kampala, Central Region, Uganda |
 | Category | Data Scientist |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000127363123-data-scientist-personalization) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000127400079-data-scientist-personalization) |
 
 ## About This Role
 

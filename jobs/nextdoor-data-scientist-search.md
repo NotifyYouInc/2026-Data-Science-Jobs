@@ -5,12 +5,12 @@
 | Company | [Nextdoor](https://scoutify.ai/companies/nextdoor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://about.nextdoor.com/careers-list/?gh_jid=7944202) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://about.nextdoor.com/careers-list/?gh_jid=7948362) |
 
 ## About This Role
 
-This data scientist position at Nextdoor was posted on 2026-05-19.
+This data scientist position at Nextdoor was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
