@@ -1,16 +1,16 @@
-# Principal Data Scientist at Microsoft
+# Senior Product Data Scientist, Pickups & Dropoffs at Waymo
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868711) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7957094) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-05-21.
+This data scientist position at Waymo was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

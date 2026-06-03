@@ -1,16 +1,16 @@
-# Senior Data Scientist- Vice President at Citigroup
+# Manager, Data Science at Standard Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Accra, Greater Accra, Ghana |
 | Category | Data Scientist |
 | Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Senior-Data-Scientist--Vice-President_26965946) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000128447280-manager-data-science) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-26.
+This data scientist position at Standard Bank was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

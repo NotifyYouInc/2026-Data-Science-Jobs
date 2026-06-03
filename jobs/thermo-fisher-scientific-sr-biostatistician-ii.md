@@ -1,16 +1,16 @@
-# Senior Data Scientist- Vice President at Citigroup
+# Sr Biostatistician II at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Senior-Data-Scientist--Vice-President_26965946) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Sr-Biostatistician-II_R-01354677) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-26.
+This data scientist position at Thermo Fisher Scientific was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

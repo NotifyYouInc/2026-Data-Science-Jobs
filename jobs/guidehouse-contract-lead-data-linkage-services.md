@@ -1,16 +1,16 @@
-# Senior Data Scientist- Vice President at Citigroup
+# Contract Lead – Data Linkage Services at Guidehouse
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
 | Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Senior-Data-Scientist--Vice-President_26965946) |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Contract-Lead---Data-Linkage-Services_39566) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-26.
+This data scientist position at Guidehouse was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

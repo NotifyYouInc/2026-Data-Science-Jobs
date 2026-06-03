@@ -1,16 +1,16 @@
-# Principal Data Scientist at Microsoft
+# Data Scientist at AMEND Consulting
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [AMEND Consulting](https://scoutify.ai/companies/amend-consulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Cincinnati, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868711) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amendconsulting/jobs/4257698009) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-05-21.
+This data scientist position at AMEND Consulting was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

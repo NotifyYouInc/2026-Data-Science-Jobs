@@ -1,16 +1,16 @@
-# Principal Data Scientist at Microsoft
+# Junior Data Scientist at GIRO
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [GIRO](https://scoutify.ai/companies/giro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868711) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-junior--sciences-de-donnes_R-100000248) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-05-21.
+This data scientist position at GIRO was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

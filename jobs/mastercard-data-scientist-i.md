@@ -1,16 +1,16 @@
-# Senior Data Scientist- Vice President at Citigroup
+# Data Scientist I at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
 | Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Senior-Data-Scientist--Vice-President_26965946) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist-I_R-278127) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-26.
+This data scientist position at Mastercard was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff, Data Scientist at Walmart
+# STAFF, DATA SCIENTIST at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Staff--Data-Scientist_R-2491867) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/STAFF--DATA-SCIENTIST_R-2429098-1) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-05-18.
+This data scientist position at Walmart was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

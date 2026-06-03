@@ -1,16 +1,16 @@
-# Senior Data Scientist- Vice President at Citigroup
+# Data Science Manager at Arch Capital Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Arch Capital Group](https://scoutify.ai/companies/archgroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Senior-Data-Scientist--Vice-President_26965946) |
+| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/London-United-Kingdom/Data-Science-Manager_R26_518) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-26.
+This data scientist position at Arch Capital Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

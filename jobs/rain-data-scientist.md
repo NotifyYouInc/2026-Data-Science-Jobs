@@ -1,16 +1,16 @@
-# Principal Data Scientist at Microsoft
+# Data Scientist at Rain
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Rain](https://scoutify.ai/companies/rain?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868711) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/rain/0c405594-a104-4b64-9ec7-06b0172f7db9) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-05-21.
+This data scientist position at Rain was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Data Scientist at Microsoft
+# Senior Data Scientist at BSI Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [BSI Group](https://scoutify.ai/companies/bsi-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868711) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://bsigroup.wd3.myworkdayjobs.com/bsi_careers/job/Covent-Garden/Senior-Data-Scientist_JR0020256) |
 
 ## About This Role
 
-This data scientist position at Microsoft was posted on 2026-05-21.
+This data scientist position at BSI Group was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

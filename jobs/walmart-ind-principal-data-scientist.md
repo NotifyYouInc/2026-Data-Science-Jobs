@@ -1,16 +1,16 @@
-# Data Science Analyst at Citigroup
+# (IND) PRINCIPAL, DATA SCIENTIST at Walmart
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Science-Analyst_26966046) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/XMLNAME--IND--PRINCIPAL--DATA-SCIENTIST_R-2517434-2) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-05-27.
+This data scientist position at Walmart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
