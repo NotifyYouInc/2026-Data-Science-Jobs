@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_175791-1) |
+| Category | Data Scientist |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_178438-1) |
 
 ## About This Role
 
-This ai / ml research position at Vanguard was posted on 2026-05-19.
+This data scientist position at Vanguard was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

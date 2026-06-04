@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Data-Scientist-I_R0117435) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Data-Scientist-I_R0117834) |
 
 ## About This Role
 
-This data scientist position at USAA was posted on 2026-05-06.
+This data scientist position at USAA was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

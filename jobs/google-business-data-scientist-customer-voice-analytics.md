@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92419084217393862-business-data-scientist-customer-voice-analytics?sort_by=date&page=1) |
+| Location | 4 locations |
+| Category | Data Scientist |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYe0TsWgbDDDktestCgdeYUAh0t8BZvMvLPuWxLM947jEjsACxwdTLP3dqXCa3RhGOwUtegkPSRUPsqHqghngWi0evkhqwghnedlUggz-AOS0p4PExHjsGB4uHCe-g%3D%3D_V2&loc=US&title=Business+Data+Scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-03-09.
+This data scientist position at Google was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

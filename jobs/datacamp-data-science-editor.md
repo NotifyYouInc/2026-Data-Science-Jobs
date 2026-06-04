@@ -6,7 +6,7 @@
 | Location | Belgium |
 | Category | Technical Writer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/datacamp/jobs/7325833) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/datacamp/jobs/7627695) |
 
 ## About This Role
 

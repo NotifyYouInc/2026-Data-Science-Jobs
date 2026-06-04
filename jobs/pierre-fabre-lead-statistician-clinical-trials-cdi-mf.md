@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Toulouse, Occitanie, France |
 | Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/Haute-Garonne-31/Lead-Statistician-Clinical-Trials---CDI--M-F_JR111662) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/Haute-Garonne-31/Lead-Statistician-Clinical-Trials---CDI--M-F_JR112953) |
 
 ## About This Role
 
-This data scientist position at Pierre Fabre was posted on 2026-02-10.
+This data scientist position at Pierre Fabre was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

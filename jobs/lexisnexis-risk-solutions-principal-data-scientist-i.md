@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Principal-Data-Scientist-I_R113291) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Principal-Data-Scientist-I_R113851) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-05-19.
+This machine learning engineer position at LexisNexis Risk Solutions was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

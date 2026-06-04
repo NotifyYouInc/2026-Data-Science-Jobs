@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000127163815-junior-ai-data-consultant) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000128669989-junior-ai-data-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Talan was posted on 2026-05-19.
+This technology / it consulting position at Talan was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Data Scientist - Marketing at WISE
+# Lead Data Scientist - Marketing                         at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Growth Marketing |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127666009-lead-data-scientist-marketing) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127829227-lead-data-scientist-marketing) |
 
 ## About This Role
 
-This growth marketing position at WISE was posted on 2026-05-21.
+This growth marketing position at WISE was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

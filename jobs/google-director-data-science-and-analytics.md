@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSIEhGrP83mCohosGZglI20L3eqNjfzPPZ4NcSpCtvjNEjsACxwdTAR_Z17fw_2FPaYYE0UU0_E6gANqFqBH4shASnbwG8U_7GXb7JA0j5Rx4roWCvOb5tk5p5RLaQ%3D%3D_V2&loc=US&title=Director) |
+| Category | Leadership Development Program |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUXY18RoxBiGz5uCLknSKHeaq_MdooVteP9GLvVYSYk6EjsACxwdTBCQjhaaSfKxBYa8QJdfSgfPiF9wrjQYVBUeuMItNCOs0du8SO8w6PgH56uRdegyHxI6Q--3UA%3D%3D_V2&loc=US&title=Director) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-04-09.
+This leadership development program position at Google was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

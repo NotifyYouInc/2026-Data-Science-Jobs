@@ -6,7 +6,7 @@
 | Location | Belgium |
 | Category | Learning & Development |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/datacamp/jobs/7261637) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/datacamp/jobs/7067243) |
 
 ## About This Role
 

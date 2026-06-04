@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000125053361-senior-data-scientist) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128871859-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-05-07.
+This data scientist position at Grab was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
