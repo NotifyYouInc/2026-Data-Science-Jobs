@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Diego, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116675382-senior-data-scientist-innovation-lab-remote) |
+| Category | AI / ML Research |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129000039-senior-data-scientist-innovation-lab-remote) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-03-25.
+This ai / ml research position at Experian was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

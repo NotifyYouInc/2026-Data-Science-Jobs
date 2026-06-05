@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 5 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Principal-Data-Scientist_R-1092221) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Principal-Data-Scientist_R-1095420) |
 
 ## About This Role
 
-This ai / llm engineer position at Verizon was posted on 2026-03-26.
+This data scientist position at Verizon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

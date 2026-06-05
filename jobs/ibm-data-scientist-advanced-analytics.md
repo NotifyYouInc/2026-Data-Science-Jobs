@@ -6,7 +6,7 @@
 | Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100704) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100707) |
 
 ## About This Role
 

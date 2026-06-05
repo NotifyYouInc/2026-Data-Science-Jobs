@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397617/operations-research-scientist-row-sharp-research) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432692/operations-research-scientist-row-sharp-research) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-04-21.
+This data scientist position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

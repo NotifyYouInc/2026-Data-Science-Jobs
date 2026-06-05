@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Camp H.M. Smith, Hawaii, United States |
+| Location | Virginia, US |
 | Category | Data Scientist |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-HM-Smith-HI/Data-Scientist--Senior_R0240315) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Langley-AFB-VA/Data-Scientist--Senior_R0241047) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-05-18.
+This data scientist position at Booz Allen was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

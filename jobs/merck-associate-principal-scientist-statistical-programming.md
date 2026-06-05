@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Wales, Pennsylvania, United States |
+| Location | Rahway, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Principal-Scientist--Statistical-Programming_R395382) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Principal-Scientist--Statistical-Programming_R400978) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-04-30.
+This data scientist position at Merck was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

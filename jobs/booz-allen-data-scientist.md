@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0240432) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Data-Scientist_R0241019) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-05-20.
+This data scientist position at Booz Allen was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

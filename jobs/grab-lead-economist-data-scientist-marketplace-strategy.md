@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Strategy & Operations |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000127795334-lead-economist-data-scientist-marketplace-strategy) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128408059-lead-economist-data-scientist-marketplace-strategy) |
 
 ## About This Role
 
-This strategy & operations position at Grab was posted on 2026-05-22.
+This strategy & operations position at Grab was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

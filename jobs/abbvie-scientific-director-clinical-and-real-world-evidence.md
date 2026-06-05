@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013228626-scientific-director-clinical-and-real-world-evidence) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013354556-scientific-director-clinical-and-real-world-evidence) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-05-20.
+This data scientist position at AbbVie was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

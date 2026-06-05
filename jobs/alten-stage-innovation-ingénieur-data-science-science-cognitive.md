@@ -6,7 +6,7 @@
 | Location | Sèvres, Île-de-France, France |
 | Category | Data Scientist |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127828375-stage-innovation-ingenieur-data-science-science-cognitive) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127881028-stage-innovation-ingenieur-data-science-science-cognitive) |
 
 ## About This Role
 
