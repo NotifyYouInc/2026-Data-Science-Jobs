@@ -5,12 +5,12 @@
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Rensselaer, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---TEMPEL-LN/Staff-Analytical-Scientist_R45872) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/Staff-Analytical-Scientist_R45514) |
 
 ## About This Role
 
-This data scientist position at Regeneron was posted on 2026-05-22.
+This data scientist position at Regeneron was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

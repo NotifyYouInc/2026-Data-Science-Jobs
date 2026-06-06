@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/Data-Scientist_R_050515) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Data Scientist |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Data-Scientist_R_051204) |
 
 ## About This Role
 
-This ai / llm engineer position at Just Eat Takeaway.com was posted on 2026-02-27.
+This data scientist position at Just Eat Takeaway.com was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

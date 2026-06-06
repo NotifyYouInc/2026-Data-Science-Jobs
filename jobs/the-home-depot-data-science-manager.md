@@ -1,16 +1,16 @@
-# DATA SCIENCE MANAGER at The Home Depot
+# Data Science Manager at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/DATA-SCIENCE-MANAGER_Req178574) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Science-Manager_Req182226-1) |
 
 ## About This Role
 
-This data scientist position at The Home Depot was posted on 2026-05-01.
+This data scientist position at The Home Depot was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

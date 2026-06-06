@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Scientist |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Analyst--Data-Science-and-Analytics_19039247) |
+| Location | Costa Rica |
+| Category | Data Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Analyst--Data-Science-and-Analytics_19040645) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-02-13.
+This data analyst position at TransUnion was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

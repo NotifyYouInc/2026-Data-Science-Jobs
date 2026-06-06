@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Leeds, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Leeds/Biostatistician-I_26445) |
+| Location | San Jose, California, United States |
+| Category | Data Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/San-Jose/Biostatistician-I_262731) |
 
 ## About This Role
 
-This data scientist position at Covance was posted on 2026-02-10.
+This data analyst position at Covance was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

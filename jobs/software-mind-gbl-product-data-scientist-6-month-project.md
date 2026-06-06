@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000126696829-gbl-product-data-scientist-6-month-project) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000129133906-gbl-product-data-scientist-6-month-project) |
 
 ## About This Role
 
-This data scientist position at Software Mind was posted on 2026-05-15.
+This data scientist position at Software Mind was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

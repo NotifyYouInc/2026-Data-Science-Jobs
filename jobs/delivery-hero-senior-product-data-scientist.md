@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118367357-senior-product-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129111999-senior-product-data-scientist) |
 
 ## About This Role
 
-This data analyst position at Delivery Hero was posted on 2026-04-02.
+This data scientist position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Warrenville, Illinois, United States |
 | Category | Operations |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000127927949-revenue-ai-strategist) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000128601784-revenue-ai-strategist) |
 
 ## About This Role
 
-This operations position at R R Donnelley & Sons was posted on 2026-05-22.
+This operations position at R R Donnelley & Sons was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
