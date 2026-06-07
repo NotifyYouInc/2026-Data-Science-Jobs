@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | Dunboyne, Leinster, Ireland |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Sr-Scientist--Analytical-R-D_R399523-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IRL---Meath---Dunboyne/Sr-Scientist--Analytical-R-D_R398778-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-05-27.
+This data scientist position at Merck was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
