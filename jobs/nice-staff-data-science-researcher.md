@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Staff Data Science Researcher at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Israel |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99749) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4878979101?gh_jid=4878979101) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-05-29.
+This ai / ml research position at NiCE was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

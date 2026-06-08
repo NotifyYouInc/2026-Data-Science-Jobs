@@ -1,16 +1,16 @@
-# Analyst, Data Modeling at NielsenIQ
+# 助理副总裁，数据科学 (Data Scientist) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129377582-analyst-data-modeling) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Shanghai/---Data-Scientist-_JR00008312) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-01.
+This data scientist position at OCBC was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

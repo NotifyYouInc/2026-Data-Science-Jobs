@@ -1,16 +1,16 @@
-# Analyst, Data Modeling at NielsenIQ
+# RWE analyst/statistician II at Syneoshealth
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129377582-analyst-data-modeling) |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/RWE-analyst-statistician-II_25103940) |
 
 ## About This Role
 
-This data analyst position at NielsenIQ was posted on 2026-06-01.
+This data analyst position at Syneoshealth was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

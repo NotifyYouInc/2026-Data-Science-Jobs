@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Senior Data Scientist - GenAI at Artefact
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99749) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/7804830002) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-05-29.
+This ai / ml research position at Artefact was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

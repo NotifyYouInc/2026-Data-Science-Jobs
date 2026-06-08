@@ -1,16 +1,16 @@
-# Data Scientist at Micron
+# Associate Director, Biostatistics at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Scientist |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Data-Scientist_JR103250) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Japan---Tokyo---Akasaka/Associate-Director--Biostatistics_440606) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-05-31.
+This data scientist position at GSK was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

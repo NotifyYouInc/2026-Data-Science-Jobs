@@ -1,4 +1,4 @@
-# Analyst, Data Modeling at NielsenIQ
+# Senior Analyst, Data Modeling at NielsenIQ
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Shanghai, Shanghai, China |
 | Category | Data Analyst |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129377582-analyst-data-modeling) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129378649-senior-analyst-data-modeling) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Toronto/Senior-Data-Scientist-II_R112008-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Bengaluru/Senior-Data-Scientist-II_R104845) |
 
 ## About This Role
 
-This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-05-15.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

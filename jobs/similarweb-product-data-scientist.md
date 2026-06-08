@@ -1,16 +1,16 @@
-# Data Scientist at Micron
+# Product Data Scientist at Similarweb
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Similarweb](https://scoutify.ai/companies/similarweb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Israel |
 | Category | Data Scientist |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Data-Scientist_JR103250) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/similarweb/jobs/7971236) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-05-31.
+This data scientist position at Similarweb was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 
