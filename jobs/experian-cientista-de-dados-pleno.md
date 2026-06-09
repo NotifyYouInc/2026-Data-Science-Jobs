@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000110161203-cientista-de-dados-pleno) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129547790-cientista-de-dados-pleno) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-02-19.
+This data scientist position at Experian was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

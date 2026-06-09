@@ -5,12 +5,12 @@
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Data Scientist |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Barcelona-Spain/Data-Scientist_R0020977-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Barcelona-Spain/Data-Scientist_R0021446-1) |
 
 ## About This Role
 
-This data scientist position at Aristocrat Leisure was posted on 2026-03-26.
+This data scientist position at Aristocrat Leisure was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

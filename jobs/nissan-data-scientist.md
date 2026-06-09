@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Franklin, Tennessee, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Scientist_R00205203-1) |
+| Location | Smyrna, Georgia, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Scientist_R00210076-1) |
 
 ## About This Role
 
-This data analyst position at Nissan was posted on 2026-03-25.
+This data scientist position at Nissan was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

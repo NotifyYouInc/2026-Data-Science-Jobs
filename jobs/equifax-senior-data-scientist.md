@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Atlanta---Midtown-30309/Senior-Data-Scientist_J00176360) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Senior-Data-Scientist_J00177373) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-04-07.
+This data scientist position at Equifax was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

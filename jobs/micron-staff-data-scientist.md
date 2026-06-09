@@ -1,16 +1,16 @@
-# STAFF DATA SCIENTIST at Micron
+# Staff Data Scientist at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
-| Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/STAFF-DATA-SCIENTIST_JR100233) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Data-Scientist_JR103340-1) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-05-06.
+This machine learning engineer position at Micron was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

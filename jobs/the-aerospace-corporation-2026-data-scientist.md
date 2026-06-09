@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chantilly, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Data-Scientist_R014777) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Data-Scientist_R015536) |
 
 ## About This Role
 
-This machine learning engineer position at The Aerospace Corporation was posted on 2026-03-12.
+This data scientist position at The Aerospace Corporation was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

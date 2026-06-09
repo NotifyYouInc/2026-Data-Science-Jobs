@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Lead-Data-Scientist_R0000334138) |
+| Location | Košice, Košice Region, Slovakia |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Lead-Data-Scientist_R0000373439) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-05-12.
+This machine learning engineer position at Caterpillar was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

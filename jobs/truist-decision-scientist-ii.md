@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Winston-Salem-NC---101-North-Cherry-Street/Decision-Scientist-II_R0110814) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0115060) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-02-06.
+This data scientist position at Truist was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

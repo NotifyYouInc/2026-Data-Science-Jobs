@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ontario Teachers' Pension Plan](https://scoutify.ai/companies/otppb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Data-Scientist_6922) |
+| Category | Data Scientist |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Data-Scientist_7041-1) |
 
 ## About This Role
 
-This machine learning engineer position at Ontario Teachers' Pension Plan was posted on 2026-03-12.
+This data scientist position at Ontario Teachers' Pension Plan was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

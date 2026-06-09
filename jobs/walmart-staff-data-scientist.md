@@ -1,16 +1,16 @@
-# STAFF, DATA SCIENTIST at Walmart
+# Staff, Data Scientist at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sunnyvale, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/STAFF--DATA-SCIENTIST_R-2429098-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Staff--Data-Scientist_R-2515607) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-05-26.
+This data scientist position at Walmart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
