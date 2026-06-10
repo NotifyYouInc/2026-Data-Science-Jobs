@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Bruno, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Senior-Manager--Advanced-Analytics_R-2516293) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Manager--Advanced-Analytics_R-2506202) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-05-28.
+This data scientist position at Walmart was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

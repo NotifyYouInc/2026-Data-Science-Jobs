@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012473341-senior-scientist-i-pipeline-development-sar-optimization) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013422286-senior-scientist-i-pipeline-development-sar-optimization) |
 
 ## About This Role
 
-This financial crimes & aml position at AbbVie was posted on 2026-04-06.
+This financial crimes & aml position at AbbVie was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

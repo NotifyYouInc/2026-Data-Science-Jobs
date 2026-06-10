@@ -1,16 +1,16 @@
-# Data Science Manager at Micron
+# DATA SCIENCE MANAGER at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boise, Idaho, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Data-Science-Manager_JR89115) |
+| Location | Taoyuan, Taiwan, Taiwan |
+| Category | Engineering Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/DATA-SCIENCE-MANAGER_JR103303) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-02-18.
+This engineering manager position at Micron was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

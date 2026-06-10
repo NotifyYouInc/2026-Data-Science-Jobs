@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--NBA-Measurement---Analytics_R-0000164795) |
+| Category | Data Analyst |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--NBA-Measurement---Analytics_R-0000174756) |
 
 ## About This Role
 
-This data scientist position at Royal Bank of Canada was posted on 2026-03-23.
+This data analyst position at Royal Bank of Canada was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

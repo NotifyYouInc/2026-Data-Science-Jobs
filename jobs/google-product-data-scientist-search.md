@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRD1VuukoYd3Zv8XFnnRUyAT4f84mAhAPN25892lGl4QEjsACxwdTJdxNCp5Esgye5c9ZPv38A2QgCBlwsPPzA6Od3Z8_P15Ja5ZDQlEzBWFWE-kvzXWxnWownlgsA%3D%3D_V2&loc=US&title=Product+Data+Scientist) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRodCXD7n-pZJ7Liv5pQo25J7nKN31r3mNjeGAAMX7X2EjsACxwdTA1ygkxoo-6QKeR23IEL43RFKgWsmkrU4Y48Zp2SLr6fh0EbrzcEmjjgseAG_D27ogAbBGRSFg%3D%3D_V2&loc=US&title=Product+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-04-24.
+This data scientist position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

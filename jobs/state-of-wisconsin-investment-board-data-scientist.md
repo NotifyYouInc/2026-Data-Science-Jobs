@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State of Wisconsin Investment Board](https://scoutify.ai/companies/swib?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Madison, Wisconsin, United States |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Data-Scientist_R-001289) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Data-Scientist_R-001312) |
 
 ## About This Role
 
-This data scientist position at State of Wisconsin Investment Board was posted on 2026-01-30.
+This data scientist position at State of Wisconsin Investment Board was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

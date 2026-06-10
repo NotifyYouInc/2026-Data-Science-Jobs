@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | Corporate Finance |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Director-of-Data-Science--Actuarial-Modeling_R2624307) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Director-of-Data-Science--Actuarial-Modeling_R2625612) |
 
 ## About This Role
 
-This corporate finance position at The Hartford was posted on 2026-04-26.
+This corporate finance position at The Hartford was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

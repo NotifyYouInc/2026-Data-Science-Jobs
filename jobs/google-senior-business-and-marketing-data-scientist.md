@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbR6EvVIJCsH6PAnPKmD9ejlExvVUl5XeHagfhKI3qB3EjsACxwdTCnAN_XU9v2LBWctgFV__wOItr5jprvpMEHwrrXsahJ4rtBOBpRc7a6vRkwRBKJmXm-n8bWlYw%3D%3D_V2&loc=IE&title=Senior+Business+and+Marketing+Data+Scientist) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRRdeJfMa94hDkkcmckvFoJkPFBEjyG8RB0IjyvcqIcHEjsACxwdTHI0ynEy6f04W4TYKOTTj501sgnxXTXsE4qQvKkIG9Tl-hijLKPcDf0B2NDc8nqeF3VKzZdEbg%3D%3D_V2&loc=GB&title=Senior+Business+and+Marketing+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-05-06.
+This data scientist position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

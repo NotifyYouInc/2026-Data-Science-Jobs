@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Senior-Data-Scientist_2611713) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Senior-Data-Scientist_2614461) |
 
 ## About This Role
 
-This data scientist position at Labcorp was posted on 2026-04-05.
+This data scientist position at Labcorp was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

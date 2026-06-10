@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128871859-senior-data-scientist) |
+| Location | Singapore, Singapore |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129717959-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-05-28.
+This machine learning engineer position at Grab was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

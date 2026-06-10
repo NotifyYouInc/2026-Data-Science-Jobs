@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | East Hanover, New Jersey, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/Principal-Clinical-Data-Scientist_REQ-10078402-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Principal-Clinical-Data-Scientist_REQ-10079058) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-05-27.
+This data scientist position at Novartis was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

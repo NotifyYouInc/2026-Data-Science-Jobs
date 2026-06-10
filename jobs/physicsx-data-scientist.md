@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PhysicsX](https://scoutify.ai/companies/physicsx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/physicsx/jobs/4644833101) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/physicsx/jobs/4880922101) |
 
 ## About This Role
 
-This data scientist position at PhysicsX was posted on 2026-05-18.
+This data scientist position at PhysicsX was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

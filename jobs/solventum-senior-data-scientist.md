@@ -5,12 +5,12 @@
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pennsylvania, US |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Senior-Data-Scientist_R01129692) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Senior-Data-Scientist_R01131026-1) |
 
 ## About This Role
 
-This data scientist position at Solventum was posted on 2026-04-14.
+This data scientist position at Solventum was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
