@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Staff--Data-Scientist_R-2501261) |
+| Location | Sunnyvale, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Staff--Data-Scientist_R-2455853-1) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-05-15.
+This ai / ml research position at Walmart was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

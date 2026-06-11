@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Fort-George-G-Meade/Data-Scientist_R173715-1) |
+| Location | Maryland, US |
+| Category | Data Scientist |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Fort-George-G-Meade/Data-Scientist--TS-SCI-w--Poly-_R181549) |
 
 ## About This Role
 
-This machine learning engineer position at Parsons was posted on 2026-02-15.
+This data scientist position at Parsons was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

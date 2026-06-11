@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Poland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000118185127-senior-data-scientist-personalisation-mfn) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | Data Scientist |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000130006344-senior-data-scientist-personalisation-mfn) |
 
 ## About This Role
 
-This machine learning engineer position at INPOST was posted on 2026-04-01.
+This data scientist position at INPOST was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

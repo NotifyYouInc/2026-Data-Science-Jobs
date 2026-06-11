@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charlottesville, Virginia, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Data-Scientist--Senior_R0241149) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Senior_R0241385) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-05-29.
+This data scientist position at Booz Allen was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

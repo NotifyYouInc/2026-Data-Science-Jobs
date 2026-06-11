@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alexion](https://scoutify.ai/companies/astrazeneca?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ireland |
+| Location | Mississauga, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Ireland---Dublin-College-Park/Senior-Real-World-Data-Scientist_R-253292) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Senior-Real-World-Data-Scientist_R-253434) |
 
 ## About This Role
 
-This data scientist position at Alexion was posted on 2026-05-28.
+This data scientist position at Alexion was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

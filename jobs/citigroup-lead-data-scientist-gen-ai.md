@@ -1,16 +1,16 @@
-# Lead Data Scientist & Gen AI at Citigroup
+# Lead Data Scientist - Gen AI at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Lead-Data-Scientist---Gen-AI_26954816) |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Lead-Data-Scientist---Gen-AI_26966023) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-22.
+This ai / ml research position at Citigroup was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

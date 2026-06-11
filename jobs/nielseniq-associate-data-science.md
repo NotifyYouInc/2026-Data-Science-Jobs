@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Data Scientist |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000128398134-associate-data-science) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129946341-associate-data-science) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-05-26.
+This data scientist position at NielsenIQ was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

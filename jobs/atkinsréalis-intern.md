@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-153631-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-156603-1) |
 
 ## About This Role
 
-This data scientist position at AtkinsRéalis was posted on 2026-04-17.
+This data scientist position at AtkinsRéalis was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

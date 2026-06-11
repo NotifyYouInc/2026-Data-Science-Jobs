@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Operations |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbnpF-ZyM29s3xKRmg64znCtEj-gVxZnYpQeRI5SM7FNEjsACxwdTPc7LiZGzyhmJgR0ZCrhzYFKaFiPw9MJanYv3DygWIYREb_GnQn9yNu_xjUIjlXBNTJvfp5rtQ%3D%3D_V2&loc=US&title=Strategy+and+Operations+Principal) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaGcFHmdkSRheaL1aPld28qkzLBK7bfmmpk0zirjJBTyEjsACxwdTDmRk-jQ54ifI4U9_39eGOP6zjz7LHrdO7rWQc1IaYQYj2vxwHPZJqI0cH4yANRlnRUjUbDswQ%3D%3D_V2&loc=US&title=Strategy+and+Operations+Principal) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-04-29.
+This operations position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

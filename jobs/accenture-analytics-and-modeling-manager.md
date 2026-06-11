@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-and-Modeling-Manager_AIOC-S01642594-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Analytics-and-Modeling-Manager_AIOC-S01648827-1) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-04-30.
+This machine learning engineer position at Accenture was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

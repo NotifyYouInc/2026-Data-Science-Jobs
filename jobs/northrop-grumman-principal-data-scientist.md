@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | San Diego, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Data-Scientist_R10223215) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Data-Scientist_R10235203) |
 
 ## About This Role
 
-This data scientist position at Northrop Grumman was posted on 2026-02-18.
+This data scientist position at Northrop Grumman was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

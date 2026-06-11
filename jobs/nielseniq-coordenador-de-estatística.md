@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cotia, São Paulo, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129016749-coordenador-de-estatistica) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129839649-coordenador-de-estatistica) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-05-28.
+This data scientist position at NielsenIQ was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

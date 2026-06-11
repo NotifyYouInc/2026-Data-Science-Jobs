@@ -1,16 +1,16 @@
-# Applied Researcher II (AI Foundations) at Capital One
+# Applied Researcher II, AI Foundations at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
-| Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations-_R238291-1) |
+| Location | San Jose, California, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-II--AI-Foundations_R243786-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-03-17.
+This ai / ml research position at Capital One was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

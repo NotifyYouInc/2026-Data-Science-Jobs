@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
-| Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Data-Science-Practitioner_14129035) |
+| Location | Hyderabad, Telangana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Science-Practitioner_ATCI-5595287-S2027322-1) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-05-12.
+This machine learning engineer position at Accenture was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

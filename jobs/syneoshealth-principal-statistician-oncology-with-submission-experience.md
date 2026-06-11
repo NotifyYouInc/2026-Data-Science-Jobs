@@ -5,12 +5,12 @@
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/GBR-Remote/Principal-Statistician-Oncology-with-Submission-Experience_25109169) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/GBR-Remote/Principal-Statistician-Oncology-with-Submission-Experience_25108916) |
 
 ## About This Role
 
-This data scientist position at Syneoshealth was posted on 2026-06-01.
+This data scientist position at Syneoshealth was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

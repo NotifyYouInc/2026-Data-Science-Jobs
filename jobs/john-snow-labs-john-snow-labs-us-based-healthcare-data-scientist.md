@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [John Snow Labs](https://scoutify.ai/companies/john-snow-labs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Delaware, US |
-| Category | Data Scientist |
-| Posted | 2025-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/johnsnowlabs/744000061518486-john-snow-labs-us-based-healthcare-data-scientist) |
+| Location | United States |
+| Category | Data Analyst |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/johnsnowlabs/744000130020056-john-snow-labs-us-based-healthcare-data-scientist) |
 
 ## About This Role
 
-This data scientist position at John Snow Labs was posted on 2025-05-26.
+This data analyst position at John Snow Labs was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
