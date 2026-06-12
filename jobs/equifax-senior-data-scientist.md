@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Senior-Data-Scientist_J00177373) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Senior-Data-Scientist_J00176170) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-06-01.
+This data scientist position at Equifax was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

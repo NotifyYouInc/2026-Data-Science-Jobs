@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127881028-stage-innovation-ingenieur-data-science-science-cognitive) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130254031-stage-innovation-ingenieur-data-science-science-cognitive) |
 
 ## About This Role
 
-This data scientist position at ALTEN was posted on 2026-05-22.
+This data scientist position at ALTEN was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

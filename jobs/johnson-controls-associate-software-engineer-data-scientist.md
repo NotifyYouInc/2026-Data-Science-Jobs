@@ -1,16 +1,16 @@
-# Associate Software Engineer-Data Scientist at Johnson Controls
+# Associate Software Engineer - Data Scientist at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Associate-Software-Engineer-Data-Scientist_WD30262966-2) |
+| Category | Software Engineer |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Associate-Software-Engineer---Data-Scientist_WD30270418) |
 
 ## About This Role
 
-This frontend engineer position at Johnson Controls was posted on 2026-02-25.
+This software engineer position at Johnson Controls was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

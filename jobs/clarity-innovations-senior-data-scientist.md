@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Lexington, Kentucky, United States |
+| Location | Colorado, US |
 | Category | Data Scientist |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5075208007) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5154609007) |
 
 ## About This Role
 
-This data scientist position at Clarity Innovations was posted on 2026-04-06.
+This data scientist position at Clarity Innovations was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

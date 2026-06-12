@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/126077787285922502-senior-data-scientist-product-app-ecosystem-and-trust?sort_by=date&page=1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVgr1pz3N0-kGQRiFfXTEz_thJ-WBLqdmzoirlcQGHYXEjsACxwdTA8epHC52Aq61i9V1V6ZjigpMDlx_lFH410x26n4PJRNVCmPMbinLuRlUvrVw0nPtnMzM-LMcA%3D%3D_V2&loc=SG&title=Senior+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-02-20.
+This data scientist position at Google was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

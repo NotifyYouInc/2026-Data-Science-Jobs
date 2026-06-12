@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Sr-Engr-Cslt-Data-Science_R-1095839) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Sr-Engr-Cslt-Data-Science_R-1095554) |
 
 ## About This Role
 
-This machine learning engineer position at Verizon was posted on 2026-06-02.
+This data scientist position at Verizon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Senior-Data-Scientist-I_R112516) |
+| Location | London, England, United Kingdom |
+| Category | AI / ML Research |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/London/Senior-Data-Scientist-I_R113837-3) |
 
 ## About This Role
 
-This data scientist position at ChoicePoint was posted on 2026-05-06.
+This ai / ml research position at ChoicePoint was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

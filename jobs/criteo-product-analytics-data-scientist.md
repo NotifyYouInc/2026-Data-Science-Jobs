@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Criteo](https://scoutify.ai/companies/criteo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Limassol/Product-Analytics---Data-Scientist_r20594) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://criteo.wd3.myworkdayjobs.com/criteo_career_site/job/Paris/Product-Analytic---Data-Scientist_r13716) |
 
 ## About This Role
 
-This data scientist position at Criteo was posted on 2026-04-22.
+This data scientist position at Criteo was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

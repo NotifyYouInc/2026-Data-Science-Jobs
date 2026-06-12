@@ -1,16 +1,16 @@
-# PRINCIPAL, DATA SCIENTIST at Walmart
+# Principal, Data Scientist at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bellevue, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/PRINCIPAL--DATA-SCIENTIST_R-2418212) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bellevue-WA/Principal--Data-Scientist_R-2533460) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-06-01.
+This data scientist position at Walmart was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

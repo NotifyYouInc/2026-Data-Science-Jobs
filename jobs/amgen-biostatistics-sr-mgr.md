@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Biostatistics-Sr-Mgr_R-246267) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Biostatistics-Sr-Mgr_R-246474) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-06-01.
+This data scientist position at Amgen was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

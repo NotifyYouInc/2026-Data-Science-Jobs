@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000128802809-scientist-lcgc-data-interpretation-medical-device) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130283200-scientist-lcgc-data-interpretation-medical-device) |
 
 ## About This Role
 
-This data scientist position at Eurofins Scientific was posted on 2026-05-27.
+This data scientist position at Eurofins Scientific was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

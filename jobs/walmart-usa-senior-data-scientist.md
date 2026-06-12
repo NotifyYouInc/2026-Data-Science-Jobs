@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-San-Bruno---850-Cherry-CA-San-Bruno-Home-Office/XMLNAME--USA--Senior--Data-Scientist_R-2526360-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bellevue-WA/XMLNAME--USA--Senior--Data-Scientist_R-2533231) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-06-02.
+This data scientist position at Walmart was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

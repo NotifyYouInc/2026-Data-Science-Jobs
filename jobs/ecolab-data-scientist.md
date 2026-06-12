@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Data-Scientist_R00290942-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Data-Scientist_R00295199) |
 
 ## About This Role
 
-This data scientist position at Ecolab was posted on 2026-04-15.
+This data scientist position at Ecolab was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
