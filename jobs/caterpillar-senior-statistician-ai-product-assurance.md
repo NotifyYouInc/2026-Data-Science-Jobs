@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Statistician---AI-Product-Assurance_R0000362049-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Pittsburgh-Pennsylvania/Senior-Statistician---AI-Product-Assurance_R0000375085) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-04-10.
+This data scientist position at Caterpillar was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

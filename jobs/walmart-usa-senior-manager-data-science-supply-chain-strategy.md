@@ -1,16 +1,16 @@
-# (USA) Senior Manager, Data Science - Supply Chain Strategy at Walmart
+# (USA) Senior Manager, Data Science- Supply Chain Strategy at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bentonville, Arkansas, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Data-Science---Supply-Chain-Strategy_R-2463711) |
+| Category | Operations |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Senior-Manager--Data-Science--Supply-Chain-Strategy_R-2463719-1) |
 
 ## About This Role
 
-This strategy & operations position at Walmart was posted on 2026-04-10.
+This operations position at Walmart was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Associate-Data-Scientist_2124703-2) |
+| Location | Jersey City, New Jersey, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Associate-Data-Scientist_2128581-2) |
 
 ## About This Role
 
-This machine learning engineer position at Fidelity was posted on 2026-03-27.
+This data scientist position at Fidelity was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

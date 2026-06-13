@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
-| Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Cyberjaya-Wisma-Shell/Data-Science-Engagement-Lead_R202323-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Business Analyst |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Data-Science-Engagement-Lead_R202317-1) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-05-07.
+This business analyst position at Shell was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

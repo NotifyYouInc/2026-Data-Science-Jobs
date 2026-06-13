@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Ahmedabad-India/Biostatistician-2_R1544962) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Espoo-Finland/Biostatistician-2_R1540543) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-06-03.
+This data analyst position at IQVIA was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

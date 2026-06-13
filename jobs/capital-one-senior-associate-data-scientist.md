@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Data-Scientist_R241644-2) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Data-Scientist_R243982-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-05-01.
+This data scientist position at Capital One was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

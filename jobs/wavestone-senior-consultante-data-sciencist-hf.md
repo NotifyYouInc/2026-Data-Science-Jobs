@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Puteaux, Île-de-France, France |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000129946467-senior-consultante-data-sciencist-hf) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000130259019-senior-consultante-data-sciencist-hf) |
 
 ## About This Role
 
-This strategy / management consulting position at Wavestone was posted on 2026-06-03.
+This strategy / management consulting position at Wavestone was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Marketing |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/I-F-Decision-Sci-Practitioner-Assoc-Mgr_AIOC-S01646669-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Human Resources / People Ops |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/I-F-Decision-Sci-Practitioner-Assoc-Mgr_AIOC-S01649311-1) |
 
 ## About This Role
 
-This marketing position at Accenture was posted on 2026-05-21.
+This human resources / people ops position at Accenture was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

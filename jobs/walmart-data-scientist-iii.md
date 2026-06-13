@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Bruno, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Data-Scientist-III_R-2481100-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/Data-Scientist-III_R-2533564-1) |
 
 ## About This Role
 
-This data scientist position at Walmart was posted on 2026-05-21.
+This data scientist position at Walmart was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

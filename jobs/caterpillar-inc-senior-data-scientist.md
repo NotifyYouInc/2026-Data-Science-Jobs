@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-Data-Scientist_R0000370719) |
+| Location | Irving, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/USA---TX---Irving---Walnut-Hill/Senior-Data-Scientist_R0000371606) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar Inc. was posted on 2026-05-21.
+This data scientist position at Caterpillar Inc. was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
