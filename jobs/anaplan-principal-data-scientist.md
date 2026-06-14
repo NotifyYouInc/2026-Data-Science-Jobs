@@ -1,4 +1,4 @@
-# Principal AI Data Scientist at Anaplan
+# Principal Data Scientist at Anaplan
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Pennsylvania, US |
 | Category | AI / ML Research |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580719002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580733002) |
 
 ## About This Role
 

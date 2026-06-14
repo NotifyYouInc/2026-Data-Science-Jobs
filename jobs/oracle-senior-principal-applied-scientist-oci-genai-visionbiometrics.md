@@ -1,16 +1,16 @@
-# Principal AI Data Scientist at Anaplan
+# Senior Principal Applied Scientist (OCI- GenAI Vision/Biometrics) at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | AI / ML Research |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580719002) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333597) |
 
 ## About This Role
 
-This ai / ml research position at Anaplan was posted on 2026-06-06.
+This ai / ml research position at Oracle was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

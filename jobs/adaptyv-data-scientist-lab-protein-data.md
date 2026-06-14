@@ -1,16 +1,16 @@
-# Principal AI Data Scientist at Anaplan
+# Data Scientist, Lab & Protein Data at Adaptyv
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pennsylvania, US |
-| Category | AI / ML Research |
+| Company | [Adaptyv](https://scoutify.ai/companies/adaptyv?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Lausanne, Vaud, Switzerland |
+| Category | Data Scientist |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8580719002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/adaptyv/d15ab16a-2a89-43e5-b8c1-46e1badef5f2) |
 
 ## About This Role
 
-This ai / ml research position at Anaplan was posted on 2026-06-06.
+This data scientist position at Adaptyv was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 
