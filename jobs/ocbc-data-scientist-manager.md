@@ -1,16 +1,16 @@
-# Data Scientist - MLOps at Barclays
+# Data Scientist (Manager) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Data-Scientist---MLOps_JR-0000085752-1) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Scientist--Manager-_JR00008453) |
 
 ## About This Role
 
-This machine learning engineer position at Barclays was posted on 2026-06-08.
+This machine learning engineer position at OCBC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

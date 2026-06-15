@@ -1,16 +1,16 @@
-# Staff Data Scientist at Campus
+# BRAIN Researcher at WorldQuant
 
 | Field | Details |
 |-------|---------|
-| Company | [Campus](https://scoutify.ai/companies/campus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/campus/6081813a-bced-420a-afdc-ee7144b6a89e) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4250853006) |
 
 ## About This Role
 
-This data scientist position at Campus was posted on 2026-06-07.
+This data scientist position at WorldQuant was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

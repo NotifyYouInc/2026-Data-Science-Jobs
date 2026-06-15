@@ -1,16 +1,16 @@
-# Scientist I at Integrated Resources INC
+# Scientist - I at Integrated Resources INC
 
 | Field | Details |
 |-------|---------|
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Spring House, Pennsylvania, United States |
 | Category | Data Scientist |
-| Posted | 2017-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/110720736-scientist-i) |
+| Posted | 2015-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/84143549-scientist-i) |
 
 ## About This Role
 
-This data scientist position at Integrated Resources INC was posted on 2017-03-14.
+This data scientist position at Integrated Resources INC was posted on 2015-07-16.
 
 ## Get Real-Time Alerts
 

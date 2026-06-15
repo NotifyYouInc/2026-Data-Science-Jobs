@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000125841579-duales-studium-data-science-in-kooperation-mit-der-dhbw-stuttgart) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000130712149-duales-studium-data-science-in-kooperation-mit-der-dhbw-stuttgart) |
 
 ## About This Role
 
-This data scientist position at Sixt was posted on 2026-05-11.
+This data scientist position at Sixt was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

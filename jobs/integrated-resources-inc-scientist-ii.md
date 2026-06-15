@@ -1,16 +1,16 @@
-# Scientist-II at Integrated Resources INC
+# Scientist -II at Integrated Resources INC
 
 | Field | Details |
 |-------|---------|
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Spring House, Pennsylvania, United States |
 | Category | Data Scientist |
-| Posted | 2017-01-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/105179098-scientist-ii) |
+| Posted | 2015-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/83930557-scientist-ii) |
 
 ## About This Role
 
-This data scientist position at Integrated Resources INC was posted on 2017-01-06.
+This data scientist position at Integrated Resources INC was posted on 2015-07-06.
 
 ## Get Real-Time Alerts
 

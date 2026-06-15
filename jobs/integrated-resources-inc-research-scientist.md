@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Foster City, California, United States |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2017-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/112841763-research-scientist) |
+| Posted | 2015-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/85177324-research-scientist) |
 
 ## About This Role
 
-This data scientist position at Integrated Resources INC was posted on 2017-04-07.
+This data scientist position at Integrated Resources INC was posted on 2015-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Chesterfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2017-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/743999650859873-associate-scientist) |
+| Posted | 2015-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/84505490-associate-scientist) |
 
 ## About This Role
 
-This data scientist position at Integrated Resources INC was posted on 2017-05-22.
+This data scientist position at Integrated Resources INC was posted on 2015-08-05.
 
 ## Get Real-Time Alerts
 

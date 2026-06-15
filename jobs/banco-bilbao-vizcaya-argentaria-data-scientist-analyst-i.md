@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/1054-Retiro-Capital-Federal/DATA-SCIENTIST-ANALYST-I_JR00095846) |
+| Location | Lima, Lima Province, Peru |
+| Category | Data Analyst |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DATA-SCIENTIST-ANALYST-I_JR00106158) |
 
 ## About This Role
 
-This machine learning engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-18.
+This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

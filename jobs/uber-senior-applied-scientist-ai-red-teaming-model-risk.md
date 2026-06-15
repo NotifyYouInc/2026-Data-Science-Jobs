@@ -1,16 +1,16 @@
-# Staff Data Scientist at Campus
+# Senior Applied Scientist – AI Red Teaming & Model Risk at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Campus](https://scoutify.ai/companies/campus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/campus/6081813a-bced-420a-afdc-ee7144b6a89e) |
+| Category | AI / ML Research |
+| Posted | 2026-01-20 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/154043/) |
 
 ## About This Role
 
-This data scientist position at Campus was posted on 2026-06-07.
+This ai / ml research position at Uber was posted on 2026-01-20.
 
 ## Get Real-Time Alerts
 

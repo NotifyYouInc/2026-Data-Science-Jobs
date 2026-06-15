@@ -1,16 +1,16 @@
-# Staff Data Scientist at Campus
+# Data Scientist - 2322 at Medline
 
 | Field | Details |
 |-------|---------|
-| Company | [Campus](https://scoutify.ai/companies/campus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/campus/6081813a-bced-420a-afdc-ee7144b6a89e) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Data-Scientist---2322_R2609406-1) |
 
 ## About This Role
 
-This data scientist position at Campus was posted on 2026-06-07.
+This data scientist position at Medline was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

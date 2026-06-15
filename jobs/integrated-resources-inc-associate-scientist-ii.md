@@ -1,16 +1,16 @@
-# Associate Scientist-II at Integrated Resources INC
+# Associate Scientist II at Integrated Resources INC
 
 | Field | Details |
 |-------|---------|
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2017-08-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/743999658302589-associate-scientist-ii) |
+| Posted | 2015-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/81588216-associate-scientist-ii) |
 
 ## About This Role
 
-This data scientist position at Integrated Resources INC was posted on 2017-08-22.
+This data scientist position at Integrated Resources INC was posted on 2015-03-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Data Scientist at Campus
+# Principal Data Scientist - Agent Builder at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [Campus](https://scoutify.ai/companies/campus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United Kingdom |
+| Category | AI / ML Research |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/campus/6081813a-bced-420a-afdc-ee7144b6a89e) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356) |
 
 ## About This Role
 
-This data scientist position at Campus was posted on 2026-06-07.
+This ai / ml research position at Elastic was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

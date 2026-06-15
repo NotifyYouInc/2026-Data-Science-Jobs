@@ -5,12 +5,12 @@
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2015-12-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/88098236-computational-biologist) |
+| Posted | 2015-11-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/87227432-computational-biologist) |
 
 ## About This Role
 
-This data scientist position at Integrated Resources INC was posted on 2015-12-28.
+This data scientist position at Integrated Resources INC was posted on 2015-11-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Data Scientist at Campus
+# Advanced Analytics Specialist at UPM
 
 | Field | Details |
 |-------|---------|
-| Company | [Campus](https://scoutify.ai/companies/campus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Company | [UPM](https://scoutify.ai/companies/upm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Data Scientist |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/campus/6081813a-bced-420a-afdc-ee7144b6a89e) |
+| Apply | [View on company site](https://upm.wd103.myworkdayjobs.com/careers/job/Helsinki/Advanced-Analytics-Specialist_NB6026153) |
 
 ## About This Role
 
-This data scientist position at Campus was posted on 2026-06-07.
+This data scientist position at UPM was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Data Scientist at Campus
+# Staff Scientist, Marketplace (Multiple Teams) at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Campus](https://scoutify.ai/companies/campus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/campus/6081813a-bced-420a-afdc-ee7144b6a89e) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://www.uber.com/global/en/careers/list/155219/) |
 
 ## About This Role
 
-This data scientist position at Campus was posted on 2026-06-07.
+This data scientist position at Uber was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
