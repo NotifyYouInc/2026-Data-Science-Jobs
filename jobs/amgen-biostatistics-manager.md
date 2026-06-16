@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Scientist |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Biostatistics-Manager_R-241908) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Japan---Tokyo/Biostatistics-Manager_R-246631-7) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-04-20.
+This data scientist position at Amgen was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

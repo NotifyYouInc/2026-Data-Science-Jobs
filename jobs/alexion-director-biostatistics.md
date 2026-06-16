@@ -5,12 +5,12 @@
 | Company | [Alexion](https://scoutify.ai/companies/astrazeneca?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Director--Biostatistics_R-240796) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Director--Biostatistics_R-254030) |
 
 ## About This Role
 
-This data scientist position at Alexion was posted on 2026-04-07.
+This data scientist position at Alexion was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

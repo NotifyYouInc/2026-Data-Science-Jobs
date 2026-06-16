@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
-| Category | Data Scientist |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Remote/Sr-Biostatistician_25105442) |
+| Category | Data Analyst |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Remote/Sr-Biostatistician_25109187) |
 
 ## About This Role
 
-This data scientist position at Syneoshealth was posted on 2026-02-04.
+This data analyst position at Syneoshealth was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

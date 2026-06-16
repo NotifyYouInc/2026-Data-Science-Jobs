@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93500) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115985) |
 
 ## About This Role
 

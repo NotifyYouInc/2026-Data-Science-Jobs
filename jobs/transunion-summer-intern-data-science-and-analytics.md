@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hong-Kong/Summer-Intern---Data-Science-and-Analytics_19040341-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Hong-Kong/Summer-Intern---Data-Science-and-Analytics_19040490) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-05-19.
+This data scientist position at TransUnion was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Data-Scientist-Engineer_441964) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Data-Scientist-Engineer_442808) |
 
 ## About This Role
 
-This data engineer position at GSK was posted on 2026-05-25.
+This data engineer position at GSK was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Manager-Data-Science_R112195) |
+| Category | Engineering Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Manager-Data-Science_R114214) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-05-06.
+This engineering manager position at LexisNexis Risk Solutions was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
