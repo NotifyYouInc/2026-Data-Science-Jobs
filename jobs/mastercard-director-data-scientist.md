@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Data-Scientist_R-277395) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Director--Data-Scientist_R-278340) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-05-19.
+This data scientist position at Mastercard was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

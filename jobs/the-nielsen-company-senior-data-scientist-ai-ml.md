@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013470576-senior-data-scientist-ai-ml) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013484656-senior-data-scientist-ai-ml) |
 
 ## About This Role
 
-This ai / ml research position at The Nielsen Company was posted on 2026-06-04.
+This ai / ml research position at The Nielsen Company was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

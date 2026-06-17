@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pennsylvania, US |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Sr-Scientist--Statistical-Programming--Hybrid-_R383472-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Sr-Scientist--Statistical-Programming--Hybrid-_R401404-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-02-16.
+This data scientist position at Merck was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

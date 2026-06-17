@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Data-scientist-Business-Banking-NL_REQ-10111356-3) |
+| Category | Data Scientist |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Data-scientist-Business-Banking-NL_REQ-10112489-3) |
 
 ## About This Role
 
-This machine learning engineer position at ING was posted on 2026-04-03.
+This data scientist position at ING was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

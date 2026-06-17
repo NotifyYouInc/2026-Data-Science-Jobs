@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Fort Bragg, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Scientist-Senior_RQ221091-2) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Data-Scientist-Senior_RQ221658-2) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-06-02.
+This data scientist position at General Dynamics Information Technology was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

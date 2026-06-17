@@ -5,12 +5,12 @@
 | Company | [Horizonmedia](https://scoutify.ai/companies/horizonmedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Director--Client-Architects_R0017085) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Director--Client-Architects_R0017017) |
 
 ## About This Role
 
-This business analyst position at Horizonmedia was posted on 2026-06-04.
+This business analyst position at Horizonmedia was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

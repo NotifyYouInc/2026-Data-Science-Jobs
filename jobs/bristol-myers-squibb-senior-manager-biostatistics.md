@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Uxbridge, England, United Kingdom |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Uxbridge---GB/Senior-Manager--Biostatistics_R1601175) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Manager--Biostatistics_R1603123) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-06-03.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Florida, US |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Data-Scientist_RQ220801-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Senior-Data-Scientist_RQ221690-1) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-05-28.
+This data scientist position at General Dynamics Information Technology was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

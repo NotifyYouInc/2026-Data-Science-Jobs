@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Air-Quality-Modeler_RQ220220) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Air-Quality-Modeler_RQ221656) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-05-19.
+This data scientist position at General Dynamics Information Technology was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
