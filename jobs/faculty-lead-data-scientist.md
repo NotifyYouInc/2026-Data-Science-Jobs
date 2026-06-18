@@ -5,12 +5,12 @@
 | Company | [Faculty](https://scoutify.ai/companies/faculty?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/f9f3871f-f16a-43ef-a477-e2e5ba3ab9d7) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/76c7b295-da94-4e83-813b-25b1766f92a0) |
 
 ## About This Role
 
-This data scientist position at Faculty was posted on 2026-06-02.
+This data scientist position at Faculty was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

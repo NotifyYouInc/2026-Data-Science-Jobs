@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tianjin, Tianjin, China |
-| Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Tianjin-RD-Center/S-T-Cadet_JR2513886) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Tianjin-RD-Center/S-T-Cadet_JR2515287) |
 
 ## About This Role
 
-This data scientist position at PPG Industries was posted on 2026-05-06.
+This machine learning engineer position at PPG Industries was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

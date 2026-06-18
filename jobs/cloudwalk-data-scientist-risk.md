@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CloudWalk](https://scoutify.ai/companies/cloudwalk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.lever.co/cloudwalk/5099179c-0708-42ca-911a-4349f131680c) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Data Scientist |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.lever.co/cloudwalk/26136476-2f9d-45e4-a409-65155a8e1c8a) |
 
 ## About This Role
 
-This machine learning engineer position at CloudWalk was posted on 2026-02-27.
+This data scientist position at CloudWalk was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

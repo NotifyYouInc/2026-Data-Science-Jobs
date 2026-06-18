@@ -1,16 +1,16 @@
-# Sr. Data Scientist at NielsenIQ
+# Sr Data Scientist at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124806800-sr-data-scientist) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131473849-sr-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-05-06.
+This data scientist position at NielsenIQ was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

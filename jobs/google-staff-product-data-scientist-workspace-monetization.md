@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/89544005192164038-staff-product-data-scientist-workspace-monetization?sort_by=date&page=1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbhcmpQrVP4r7QzqrSnCX_u1FR-6ThoniRGoK7ixeqZ7EjsACxwdTNkmaNTZSfWuqmsyqb1yb6PMmWYDi37OTf394-FitA8ILqq4CeCuaRWpTIBkLlR7n9S--fUSCw%3D%3D_V2&loc=US&title=Staff+Product+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-02-20.
+This data scientist position at Google was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

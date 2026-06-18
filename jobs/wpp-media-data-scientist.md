@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5222007008) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5253364008) |
 
 ## About This Role
 
-This data scientist position at WPP Media was posted on 2026-05-19.
+This data scientist position at WPP Media was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/IMU---AI---Data-Manager_R00325331) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-Delhi/IMU---AI---Data-Manager_R00325334-25) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-04-16.
+This technology / it consulting position at Accenture was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

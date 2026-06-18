@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Florham Park, New Jersey, United States |
-| Category | Project Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013495326-data-science-program-lead-i) |
+| Location | Irvine, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013565336-data-science-program-lead-i) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-06-05.
+This data scientist position at AbbVie was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

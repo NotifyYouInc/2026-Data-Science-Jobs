@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000112422642-uae-data-science-ai-uae-national) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000131436299-uae-data-science-ai-uae-national) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-03-03.
+This strategy / management consulting position at SIA was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
