@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Port Washington, New York, United States |
+| Location | Cardiff, Wales, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Port-Washington-New-York-United-States/Senior-Scientist_R1305457) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Cardiff-United-Kingdom/Senior-Scientist_R1312561) |
 
 ## About This Role
 
-This data scientist position at Danaher was posted on 2026-05-27.
+This data scientist position at Danaher was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

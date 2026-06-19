@@ -5,12 +5,12 @@
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Data-Scientist_JR2026001229-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Data-Scientist_JR2026001265) |
 
 ## About This Role
 
-This data scientist position at Appliedis was posted on 2026-05-22.
+This data scientist position at Appliedis was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

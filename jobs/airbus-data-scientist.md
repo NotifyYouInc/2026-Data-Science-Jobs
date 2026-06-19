@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Scientist_JR10400192) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Scientist_JR10420661) |
 
 ## About This Role
 
-This ai / llm engineer position at Airbus was posted on 2026-03-20.
+This data scientist position at Airbus was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chile |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Data-Scientist_J00174995) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Data-Scientist_J00176004) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-03-03.
+This data scientist position at Equifax was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

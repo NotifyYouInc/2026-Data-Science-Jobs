@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_178438-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Data-Scientist--Specialist_178033) |
 
 ## About This Role
 
-This data scientist position at Vanguard was posted on 2026-05-27.
+This data scientist position at Vanguard was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Santa Monica, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406304/software-development-engineer-measurement-ad-tech-and-data-science-mads) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419276/software-development-engineer-measurement-ad-tech-and-data-science-mads) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-04-29.
+This software engineer position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

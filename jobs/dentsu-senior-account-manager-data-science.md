@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Account Manager |
 | Posted | 2026-06-09 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Senior-Account-Manager---Data-Science_R1123764-1) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Senior-Account-Manager---Data-Science_R1123762-1) |
 
 ## About This Role
 

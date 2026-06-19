@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012006972-data-scientist) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013588996-data-scientist) |
 
 ## About This Role
 
-This machine learning engineer position at The Nielsen Company was posted on 2026-03-06.
+This data scientist position at The Nielsen Company was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

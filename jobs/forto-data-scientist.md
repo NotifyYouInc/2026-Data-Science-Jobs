@@ -5,12 +5,12 @@
 | Company | [forto](https://scoutify.ai/companies/forto?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/forto/6a9d27c1-6e2f-4a9c-b925-7177b91a3b8d) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/forto/47bf9a57-6cc7-4327-ba92-cca33f631d7f) |
 
 ## About This Role
 
-This data scientist position at forto was posted on 2026-04-15.
+This data scientist position at forto was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

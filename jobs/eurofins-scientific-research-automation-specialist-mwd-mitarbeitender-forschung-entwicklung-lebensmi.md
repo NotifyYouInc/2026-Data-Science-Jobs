@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131125339-research-automation-specialist-mwd-mitarbeitender-forschung-entwicklung-lebensmittelanalytik-mwd) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131401879-research-automation-specialist-mwd-mitarbeitender-forschung-entwicklung-lebensmittelanalytik-mwd) |
 
 ## About This Role
 
-This data scientist position at Eurofins Scientific was posted on 2026-06-09.
+This data scientist position at Eurofins Scientific was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

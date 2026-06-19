@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Valparaiso, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Scientist_R-00184566) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Valparaiso-FL/Data-Scientist_R-00185232) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-06-02.
+This data scientist position at Leidos was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
