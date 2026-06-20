@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000123703494-data-science-manager) |
+| Location | Columbia, South Carolina, United States |
+| Category | Engineering Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000131907109-data-science-manager) |
 
 ## About This Role
 
-This data scientist position at Blend360 was posted on 2026-04-29.
+This engineering manager position at Blend360 was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

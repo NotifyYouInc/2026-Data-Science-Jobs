@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Data-Scientist-II_26004913-2) |
+| Category | Data Scientist |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Data-Scientist-II_26020552-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Bank of America was posted on 2026-02-18.
+This data scientist position at Bank of America was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

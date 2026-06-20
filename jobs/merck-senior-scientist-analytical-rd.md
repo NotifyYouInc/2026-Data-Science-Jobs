@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Rahway, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Senior-Scientist--Analytical-R-D_R396090-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Scientist--Analytical-R-D_R402823-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-04-30.
+This data scientist position at Merck was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

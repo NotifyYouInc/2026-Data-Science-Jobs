@@ -6,7 +6,7 @@
 | Location | Colombia |
 | Category | Data Scientist |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131243089-statistics-coordinator) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131512492-statistics-coordinator) |
 
 ## About This Role
 

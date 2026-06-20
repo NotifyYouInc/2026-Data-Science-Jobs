@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Piracicaba, São Paulo, Brazil |
+| Location | Morton, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Data-Scientist_R0000368464-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Data-Scientist_R0000376527) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-05-08.
+This data scientist position at Caterpillar was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

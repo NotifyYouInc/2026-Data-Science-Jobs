@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Portugal |
 | Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000126104840-senior-data-scientist) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000131860859-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Continental was posted on 2026-05-12.
+This data scientist position at Continental was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

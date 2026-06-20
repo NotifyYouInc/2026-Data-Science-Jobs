@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Data Scientist |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131422939-senior-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131467489-senior-data-scientist) |
 
 ## About This Role
 
