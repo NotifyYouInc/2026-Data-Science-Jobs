@@ -1,16 +1,16 @@
-# Data Scientist at Hewlett Packard (HP)
+# Sr Data Scientist at Proofpoint
 
 | Field | Details |
 |-------|---------|
-| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | India |
 | Category | Data Scientist |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Data-Scientist_3163848-1) |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/India/Sr-Data-Scientist_R14340) |
 
 ## About This Role
 
-This data scientist position at Hewlett Packard (HP) was posted on 2026-06-15.
+This data scientist position at Proofpoint was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

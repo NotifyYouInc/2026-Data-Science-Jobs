@@ -1,16 +1,16 @@
-# Applied Scientist, Prime Video - Content Localization, Understanding & Enrichment at Amazon
+# Senior Applied Scientist at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431448/applied-scientist-prime-video-content-localization-understanding-enrichment) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408900/senior-applied-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-05-27.
+This ai / ml research position at Amazon was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

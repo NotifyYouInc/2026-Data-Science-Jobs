@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/USA---TX---Irving---Walnut-Hill/Senior-Data-Scientist_R0000371606) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Data-Scientist_R0000376653) |
 
 ## About This Role
 
-This data scientist position at Caterpillar Inc. was posted on 2026-06-05.
+This data scientist position at Caterpillar Inc. was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

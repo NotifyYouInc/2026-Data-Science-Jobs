@@ -1,16 +1,16 @@
-# Data Scientist at Hewlett Packard (HP)
+# Senior Dashboard Developer & Data Scientist at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Data-Scientist_3163848-1) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Dashboard-Developer---Data-Scientist_R0117476-1) |
 
 ## About This Role
 
-This data scientist position at Hewlett Packard (HP) was posted on 2026-06-15.
+This data engineer position at LSEG was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

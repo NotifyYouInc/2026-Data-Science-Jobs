@@ -1,16 +1,16 @@
-# Data Scientist (Active Secret Clearance) at Striveworks
+# Data Science and AI Engineer, SEAA at Chanel
 
 | Field | Details |
 |-------|---------|
-| Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tacoma, Washington, United States |
+| Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7772314003) |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Singapore/Data-Science-and-AI-Engineer--SEAA_JOBREQ00113838) |
 
 ## About This Role
 
-This machine learning engineer position at Striveworks was posted on 2026-06-15.
+This machine learning engineer position at Chanel was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
