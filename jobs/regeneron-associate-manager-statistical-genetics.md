@@ -5,12 +5,12 @@
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tarrytown, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Associate-Manager--Statistical-Genetics_R44858) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Associate-Manager--Statistical-Genetics_R48436) |
 
 ## About This Role
 
-This data scientist position at Regeneron was posted on 2026-05-16.
+This data scientist position at Regeneron was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

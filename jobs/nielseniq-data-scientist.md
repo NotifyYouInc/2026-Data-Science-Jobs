@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130704339-data-scientist) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132165329-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-06-08.
+This data scientist position at NielsenIQ was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

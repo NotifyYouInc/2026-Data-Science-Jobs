@@ -1,16 +1,16 @@
-# Sr. Manager, Data Science - Logistics Modeling at CarMax
+# Sr. Manager Data Science, Logistics Modeling at CarMax
 
 | Field | Details |
 |-------|---------|
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Manager--Data-Science---Logistics-Modeling_JR-172862) |
+| Category | Engineering Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Sr-Manager-Data-Science--Logistics-Modeling---Hybrid_JR-167041) |
 
 ## About This Role
 
-This machine learning engineer position at CarMax was posted on 2026-02-25.
+This engineering manager position at CarMax was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

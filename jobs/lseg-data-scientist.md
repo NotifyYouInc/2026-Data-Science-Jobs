@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Philippines |
+| Location | Gdynia, Pomerania, Poland |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Data-Scientist_R0119359-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Data-Scientist_R0120764) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-05-07.
+This data scientist position at LSEG was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

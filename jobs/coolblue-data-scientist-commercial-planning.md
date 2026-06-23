@@ -5,12 +5,12 @@
 | Company | [Coolblue](https://scoutify.ai/companies/coolblue?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000131113179-data-scientist-commercial-planning) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000132197160-data-scientist-commercial-planning) |
 
 ## About This Role
 
-This data scientist position at Coolblue was posted on 2026-06-09.
+This data scientist position at Coolblue was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

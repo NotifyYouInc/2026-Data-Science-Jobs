@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Sterling/Data-Scientist_40003-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---NY-New-York/Data-Scientist_40546) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-05-28.
+This data scientist position at Guidehouse was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

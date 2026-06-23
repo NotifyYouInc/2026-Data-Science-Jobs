@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Scientist |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/So-Paulo-Brazil/Data-Scientist_R1535568) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Data-Scientist_R1551628) |
 
 ## About This Role
 
-This data scientist position at IQVIA was posted on 2026-04-01.
+This data scientist position at IQVIA was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Gdynia, Pomerania, Poland |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Senior-Data-Scientist_R0120572) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Senior-Data-Scientist_R0120772) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-06-09.
+This data scientist position at LSEG was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

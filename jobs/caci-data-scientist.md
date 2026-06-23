@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Texas, US |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Lackland-AFB-TX-US/Data-Scientist_326616) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Data-Scientist_327753) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-05-15.
+This data scientist position at CACI was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

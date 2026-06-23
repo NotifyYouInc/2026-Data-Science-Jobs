@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Senior-Data-Scientist_R-055977-1) |
+| Location | Brazil |
+| Category | Data Scientist |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Brazil/Senior-Data-Scientist_R-057587-2) |
 
 ## About This Role
 
-This machine learning engineer position at Red Hat was posted on 2026-03-17.
+This data scientist position at Red Hat was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

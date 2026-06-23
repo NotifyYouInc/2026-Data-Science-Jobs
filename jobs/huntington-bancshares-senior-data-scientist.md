@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Scientist_R0070287) |
+| Category | Data Scientist |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Data-Scientist_R0073004) |
 
 ## About This Role
 
-This machine learning engineer position at Huntington Bancshares was posted on 2026-03-09.
+This data scientist position at Huntington Bancshares was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

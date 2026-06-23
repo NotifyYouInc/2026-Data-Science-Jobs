@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Grand Rapids, Michigan, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Advanced-Analyst-II_R000649294) |
+| Category | Data Analyst |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Advanced-Analyst-II_R000672325) |
 
 ## About This Role
 
-This machine learning engineer position at Meijer was posted on 2026-03-06.
+This data analyst position at Meijer was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
-| Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bratislava/Senior-Data-Scientist_REQ-10114740-1) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Data Scientist |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Senior-Data-Scientist_REQ-10113926-2) |
 
 ## About This Role
 
-This ai / ml research position at ING was posted on 2026-06-04.
+This data scientist position at ING was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

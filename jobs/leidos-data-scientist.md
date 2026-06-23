@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Valparaiso, Indiana, United States |
+| Location | Herndon, Virginia, United States |
 | Category | Data Scientist |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Valparaiso-FL/Data-Scientist_R-00185232) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Herndon-VA/Data-Scientist_R-00185210) |
 
 ## About This Role
 

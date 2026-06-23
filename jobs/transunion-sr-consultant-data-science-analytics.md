@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Sr-Consultant--Data-Science---Analytics_19039213) |
+| Location | 2 locations |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Sr-Consultant--Data-Science---Analytics_19040928) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-02-24.
+This machine learning engineer position at TransUnion was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

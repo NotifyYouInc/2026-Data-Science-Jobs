@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Costa Mesa, California, United States |
+| Location | Coppell, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Data-Scientist-Lead_JR202636868) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell---0760/Data-Scientist-Lead_JR202637234) |
 
 ## About This Role
 
-This data scientist position at Auto Club Enterprises was posted on 2026-05-27.
+This data scientist position at Auto Club Enterprises was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

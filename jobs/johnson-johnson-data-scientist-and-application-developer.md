@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Latina, Lazio, Italy |
 | Category | Software Engineer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Data-Scientist-and-Application-Developer_R-079813) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Latina-Italy/Data-Scientist-and-Application-Developer_R-082162-1) |
 
 ## About This Role
 

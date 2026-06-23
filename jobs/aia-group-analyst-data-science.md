@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | China |
-| Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Analyst--Data-Science_JR-66797-1) |
+| Location | Beijing, Beijing, China |
+| Category | AI / ML Research |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Beijing-CN-AIA-Shared-Services-China/Analyst--Data-Science_JR-67483-1) |
 
 ## About This Role
 
-This data analyst position at AIA Group was posted on 2026-05-27.
+This ai / ml research position at AIA Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
