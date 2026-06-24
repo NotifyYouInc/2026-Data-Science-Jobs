@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Florida, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/Sr-Principal-Data-Scientist_R10227079) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Data-Scientist_R10236640) |
 
 ## About This Role
 
-This data scientist position at Northrop Grumman was posted on 2026-03-30.
+This data scientist position at Northrop Grumman was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

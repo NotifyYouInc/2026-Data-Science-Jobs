@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Data Scientist |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Applied-Data-Scientist_R0239173) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Applied-Data-Scientist_R0242372) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-05-01.
+This machine learning engineer position at Booz Allen was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

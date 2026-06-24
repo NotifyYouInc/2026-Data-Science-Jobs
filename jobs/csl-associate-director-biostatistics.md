@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSL](https://scoutify.ai/companies/csl?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | Waltham, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Glattbrugg-CSL-Behring/Associate-Director--Biostatistics_R-269601) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-MA-Waltham-CSL-Behring/Associate-Director--Biostatistics_R-269598) |
 
 ## About This Role
 
-This data scientist position at CSL was posted on 2026-06-04.
+This data scientist position at CSL was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

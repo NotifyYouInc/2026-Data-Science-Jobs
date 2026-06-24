@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Princeton, Florida, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Manager--Analytical-AI-Forecasting-and-Predictive-Solutions_R1603328) |
+| Category | Data Scientist |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Manager--Analytical-AI-Forecasting-and-Predictive-Solutions_R1603468) |
 
 ## About This Role
 
-This machine learning engineer position at Bristol-Myers Squibb was posted on 2026-06-11.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

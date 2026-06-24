@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada-Ethoca/Director--Data-Science_R-263574) |
+| Location | 2 locations |
+| Category | Leadership Development Program |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Director--Data-Science_R-280077) |
 
 ## About This Role
 
-This ai / ml research position at Mastercard was posted on 2026-06-01.
+This leadership development program position at Mastercard was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hello Heart](https://scoutify.ai/companies/hello-heart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.helloheart.com/about/careers?gh_jid=8454329002) |
+| Category | Data Scientist |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.helloheart.com/about/careers?gh_jid=8593776002) |
 
 ## About This Role
 
-This ai / llm engineer position at Hello Heart was posted on 2026-03-09.
+This data scientist position at Hello Heart was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

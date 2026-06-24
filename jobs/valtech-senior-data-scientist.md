@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ukraine |
+| Location | Kosovo |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4890555101) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4899761101) |
 
 ## About This Role
 
-This data scientist position at Valtech was posted on 2026-06-09.
+This data scientist position at Valtech was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

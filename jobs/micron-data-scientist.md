@@ -1,16 +1,16 @@
-# Data Scientist at Micron
+# DATA SCIENTIST at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Data-Scientist_JR103250) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/DATA-SCIENTIST_JR100232) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-05-31.
+This data scientist position at Micron was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

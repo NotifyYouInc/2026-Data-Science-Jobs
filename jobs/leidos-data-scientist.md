@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Herndon-VA/Data-Scientist_R-00185210) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Data-Scientist_R-00185330) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-06-11.
+This data scientist position at Leidos was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

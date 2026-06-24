@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Advanced-Analytics-Manager_REQ258568) |
+| Category | Data Scientist |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Advanced-Analytics-Manager_REQ260345) |
 
 ## About This Role
 
-This data analyst position at Cba was posted on 2026-05-13.
+This data scientist position at Cba was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

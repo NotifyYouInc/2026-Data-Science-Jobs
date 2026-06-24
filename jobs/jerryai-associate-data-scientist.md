@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/53c8643b-f440-40ff-8956-8a408ac19954) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/488c142a-7f78-44be-b358-6c2a91f4df73) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-06-11.
+This data scientist position at Jerry.ai was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

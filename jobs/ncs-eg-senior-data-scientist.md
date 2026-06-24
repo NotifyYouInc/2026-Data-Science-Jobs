@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001031622-eg-senior-data-scientist) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001160519-eg-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NCS was posted on 2026-04-28.
+This data scientist position at NCS was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

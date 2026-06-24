@@ -1,16 +1,16 @@
-# Sr Data Scientist at Gartner
+# Sr. Data Scientist at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
-| Category | Data Scientist |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/New-York-NY/Sr-Data-Scientist_109601) |
+| Location | Gurugram, Haryana, India |
+| Category | AI / ML Research |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Data-Scientist_110827) |
 
 ## About This Role
 
-This data scientist position at Gartner was posted on 2026-04-25.
+This ai / ml research position at Gartner was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
