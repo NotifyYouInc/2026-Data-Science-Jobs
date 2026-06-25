@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Columbia, South Carolina, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000131907109-data-science-manager) |
+| Category | Data Scientist |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000132630569-data-science-manager) |
 
 ## About This Role
 
-This engineering manager position at Blend360 was posted on 2026-06-12.
+This data scientist position at Blend360 was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

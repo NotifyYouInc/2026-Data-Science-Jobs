@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Columbia, South Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122515932-entry-level-scientist-trace-analysis-and-structural-chemistry) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132684917-entry-level-scientist-trace-analysis-and-structural-chemistry) |
 
 ## About This Role
 
-This data scientist position at Eurofins Scientific was posted on 2026-04-23.
+This data scientist position at Eurofins Scientific was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Maryland, US |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435024/data-scientist-aws-security) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411974/data-scientist-aws-security) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-05-29.
+This data scientist position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

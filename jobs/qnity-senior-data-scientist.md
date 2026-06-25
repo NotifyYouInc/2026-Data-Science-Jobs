@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Taiwan |
 | Category | Data Scientist |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Wimington-Delaware/Senior-Data-Scientist_251292W) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hsinchu-City-Hsinchu-County/Senior-Data-Scientist_251812W) |
 
 ## About This Role
 
-This data scientist position at Qnity was posted on 2026-05-18.
+This data scientist position at Qnity was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

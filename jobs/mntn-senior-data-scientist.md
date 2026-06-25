@@ -1,16 +1,16 @@
-# Senior Data Scientist at MNTN
+# Senior Data Scientist  at MNTN
 
 | Field | Details |
 |-------|---------|
 | Company | [MNTN](https://scoutify.ai/companies/mntn?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/7728322) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/8002118) |
 
 ## About This Role
 
-This data scientist position at MNTN was posted on 2026-03-17.
+This data scientist position at MNTN was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

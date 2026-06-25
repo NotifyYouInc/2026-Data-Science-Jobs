@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8454934002?gh_jid=8454934002) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8564045002?gh_jid=8564045002) |
 
 ## About This Role
 
-This data scientist position at VML was posted on 2026-04-23.
+This data scientist position at VML was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

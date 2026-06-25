@@ -1,16 +1,16 @@
-# Senior Scientist I at AbbVie
+# Senior Scientist, I at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Worcester, Massachusetts, United States |
+| Location | Waltham, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013580755-senior-scientist-i) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013669727-senior-scientist-i) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-06-11.
+This data scientist position at AbbVie was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

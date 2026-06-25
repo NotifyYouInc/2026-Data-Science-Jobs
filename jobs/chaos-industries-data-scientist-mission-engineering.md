@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | El Segundo, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5133527007) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5167241007) |
 
 ## About This Role
 
-This data scientist position at CHAOS Industries was posted on 2026-05-08.
+This data scientist position at CHAOS Industries was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

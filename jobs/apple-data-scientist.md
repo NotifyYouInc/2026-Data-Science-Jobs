@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200654193/data-scientist) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663649/data-scientist) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-03-30.
+This data scientist position at Apple was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

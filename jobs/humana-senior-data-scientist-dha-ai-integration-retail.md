@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kentucky, US |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Senior-Data-Scientist--DHA---AI-Integration-Retail_R-411896-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Data-Scientist--DHA---AI-Integration-Retail_R-419613) |
 
 ## About This Role
 
-This data scientist position at Humana was posted on 2026-04-21.
+This data scientist position at Humana was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

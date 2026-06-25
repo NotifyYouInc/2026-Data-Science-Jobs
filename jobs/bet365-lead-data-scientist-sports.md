@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | Data Scientist |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000126483578-lead-data-scientist-sports) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000132605528-lead-data-scientist-sports) |
 
 ## About This Role
 
-This data scientist position at bet365 was posted on 2026-05-14.
+This machine learning engineer position at bet365 was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

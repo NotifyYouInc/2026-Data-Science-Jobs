@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Colorado, US |
+| Location | Florida, US |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5154609007) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5164073007) |
 
 ## About This Role
 
-This data scientist position at Clarity Innovations was posted on 2026-06-04.
+This data scientist position at Clarity Innovations was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
