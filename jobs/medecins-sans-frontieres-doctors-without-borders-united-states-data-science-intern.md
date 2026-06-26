@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medecins Sans Frontieres (Doctors Without Borders) - United States](https://scoutify.ai/companies/medecins-sans-frontieres-doctors-without?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/msfcareers/jobs/4993728008) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/msfcareers/jobs/5271141008) |
 
 ## About This Role
 
-This data scientist position at Medecins Sans Frontieres (Doctors Without Borders) - United States was posted on 2026-03-25.
+This data scientist position at Medecins Sans Frontieres (Doctors Without Borders) - United States was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

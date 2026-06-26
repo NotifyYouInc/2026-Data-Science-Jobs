@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Main-Point-Pankrac/Senior-Data-Scientist_R-15983783) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | Data Scientist |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Senior-Data-Scientist_R-15988265-1) |
 
 ## About This Role
 
-This machine learning engineer position at Absa was posted on 2026-02-13.
+This data scientist position at Absa was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

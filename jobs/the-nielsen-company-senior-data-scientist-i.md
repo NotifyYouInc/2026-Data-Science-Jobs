@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013397585-senior-data-scientist-i) |
+| Location | United States |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013691966-senior-data-scientist-i) |
 
 ## About This Role
 
-This data scientist position at The Nielsen Company was posted on 2026-06-01.
+This data engineer position at The Nielsen Company was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

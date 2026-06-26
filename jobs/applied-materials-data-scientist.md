@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Reẖovot, Central District, Israel |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Data-Scientist_R2619817) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Data-Scientist_R2614853) |
 
 ## About This Role
 
-This data scientist position at Applied Materials was posted on 2026-06-02.
+This data scientist position at Applied Materials was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

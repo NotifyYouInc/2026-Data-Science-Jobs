@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sèvres, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000130256063-stage-innovation-ingenieur-modelisation) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132838619-stage-innovation-ingenieur-modelisation) |
 
 ## About This Role
 
-This data scientist position at ALTEN Canada was posted on 2026-06-04.
+This data scientist position at ALTEN Canada was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

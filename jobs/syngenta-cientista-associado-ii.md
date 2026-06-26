@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Uberlândia, Minas Gerais, Brazil |
+| Location | Lucas do Rio Verde, Mato Grosso, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000123533758-cientista-associado-ii) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000132948785-cientista-associado-ii) |
 
 ## About This Role
 
-This data scientist position at Syngenta was posted on 2026-04-28.
+This data scientist position at Syngenta was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

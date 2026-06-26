@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Data-Scientist-II_R-279476) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Data-Scientist-2_R-280657) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-06-10.
+This data scientist position at Mastercard was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

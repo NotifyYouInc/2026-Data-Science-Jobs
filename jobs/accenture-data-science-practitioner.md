@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nagpur/Data-Science-Practitioner_ATCI-5376835-S1969888-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur/Data-Science-Practitioner_13563590) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-06-10.
+This data scientist position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

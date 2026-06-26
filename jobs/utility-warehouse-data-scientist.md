@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000132229835-data-scientist) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000132878850-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Utility Warehouse was posted on 2026-06-15.
+This data scientist position at Utility Warehouse was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

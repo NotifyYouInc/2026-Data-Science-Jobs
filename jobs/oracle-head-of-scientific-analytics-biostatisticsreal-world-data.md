@@ -1,16 +1,16 @@
-# Head of Scientific Analytics-Biostatistics/Real World Data at Oracle
+# Head of Scientific Analytics – Biostatistics/Real World Data at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
-| Category | Leadership Development Program |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#327852) |
+| Location | United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#336906) |
 
 ## About This Role
 
-This leadership development program position at Oracle was posted on 2026-04-23.
+This data scientist position at Oracle was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

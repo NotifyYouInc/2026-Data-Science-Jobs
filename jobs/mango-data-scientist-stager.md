@@ -1,16 +1,16 @@
-# DATA SCIENTIST STAGER at Mango
+# Data Scientist Stager at Mango
 
 | Field | Details |
 |-------|---------|
 | Company | [Mango](https://scoutify.ai/companies/mango?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Catalonia, ES |
-| Category | Data Scientist |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/DATA-SCIENTIST-STAGER_JR136386) |
+| Category | Data Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/Data-Scientist-Stager_JR136559) |
 
 ## About This Role
 
-This data scientist position at Mango was posted on 2026-06-15.
+This data engineer position at Mango was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
