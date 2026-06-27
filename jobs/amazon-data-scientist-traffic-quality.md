@@ -1,16 +1,16 @@
-# (Senior) Data Scientist - Personalisation (m/f/n)  at INPOST
+# Data Scientist, Traffic Quality at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000133009029-senior-data-scientist-personalisation-mfn) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453787/data-scientist-traffic-quality) |
 
 ## About This Role
 
-This data scientist position at INPOST was posted on 2026-06-19.
+This data scientist position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

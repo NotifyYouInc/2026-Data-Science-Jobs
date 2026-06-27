@@ -1,16 +1,16 @@
-# AVP Fraud Analytics at Barclays
+# Especialista en Inteligencia de Datos at PPG Industries
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Mexico |
 | Category | Data Analyst |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/AVP-Fraud-Analytics_JR-0000118030-1) |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---KROMA-CFI-Office/Especialista-en-Inteligencia-de-Datos_JR267660) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-06-19.
+This data analyst position at PPG Industries was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

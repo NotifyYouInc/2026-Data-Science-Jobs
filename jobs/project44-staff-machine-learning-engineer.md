@@ -1,16 +1,16 @@
-# Senior Data Scientist - MTS (m/f/d) at Sportradar
+# Staff Machine Learning Engineer at project44
 
 | Field | Details |
 |-------|---------|
-| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ljubljana, Ljubljana, Slovenia |
+| Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000133054409-senior-data-scientist-mts-mfd) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8014962) |
 
 ## About This Role
 
-This machine learning engineer position at Sportradar was posted on 2026-06-19.
+This machine learning engineer position at project44 was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

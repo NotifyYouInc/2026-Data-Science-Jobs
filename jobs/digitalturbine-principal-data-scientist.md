@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Digitalturbine](https://scoutify.ai/companies/digitalturbine?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/United-States---New-York/Principal-Data-Scientist_JR100935) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/United-States---New-York/Principal-Data-Scientist_JR100984-1) |
 
 ## About This Role
 
-This data scientist position at Digitalturbine was posted on 2026-04-22.
+This data scientist position at Digitalturbine was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

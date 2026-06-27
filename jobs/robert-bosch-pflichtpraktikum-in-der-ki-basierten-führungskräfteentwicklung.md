@@ -1,16 +1,16 @@
-# Werkstudent in der Energieoptimierung & Automatisierung (w/m/div.) at Robert Bosch
+# Pflichtpraktikum in der KI-basierten Führungskräfteentwicklung  at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Abstatt, Baden-Wurttemberg, Germany |
-| Category | Machine Learning Engineer |
+| Location | Gerlingen, Baden-Wurttemberg, Germany |
+| Category | AI / ML Research |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133029639-werkstudent-in-der-energieoptimierung-automatisierung-wmdiv) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133026579-pflichtpraktikum-in-der-ki-basierten-fuhrungskrafteentwicklung) |
 
 ## About This Role
 
-This machine learning engineer position at Robert Bosch was posted on 2026-06-19.
+This ai / ml research position at Robert Bosch was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

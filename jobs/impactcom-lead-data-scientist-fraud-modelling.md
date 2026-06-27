@@ -1,16 +1,16 @@
-# (Senior) Data Scientist - Personalisation (m/f/n)  at INPOST
+# Lead Data Scientist, Fraud Modelling at Impact.com
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Impact.com](https://scoutify.ai/companies/impact-com?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Data Scientist |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000133009029-senior-data-scientist-personalisation-mfn) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/impact/jobs/8600586002) |
 
 ## About This Role
 
-This data scientist position at INPOST was posted on 2026-06-19.
+This data scientist position at Impact.com was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

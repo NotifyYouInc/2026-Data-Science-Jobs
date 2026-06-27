@@ -1,16 +1,16 @@
-# AI DATA SCIENTIST - INTERNSHIP at Santander
+# AI Data Scientist - Internship at Santander
 
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Italy |
 | Category | Data Scientist |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/TORINO/AI-DATA-SCIENTIST---INTERNSHIP_Req1547901) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/TORINO/AI-Data-Scientist---Internship_Req1588274) |
 
 ## About This Role
 
-This data scientist position at Santander was posted on 2026-02-26.
+This data scientist position at Santander was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

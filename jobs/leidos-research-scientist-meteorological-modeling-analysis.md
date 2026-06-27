@@ -1,16 +1,16 @@
-# Senior Data Scientist at Leidos
+# Research Scientist - Meteorological Modeling & Analysis at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Data-Scientist_R-00185589-1) |
+| Location | Fort Belvoir, Virginia, United States |
+| Category | AI / ML Research |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Research-Scientist---Meteorological-Modeling---Analysis_R-00185746-1) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-06-16.
+This ai / ml research position at Leidos was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

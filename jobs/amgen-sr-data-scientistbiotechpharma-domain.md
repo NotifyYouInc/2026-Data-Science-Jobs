@@ -1,16 +1,16 @@
-# (Senior) Data Scientist - Personalisation (m/f/n)  at INPOST
+# Sr Data Scientist(Biotech/Pharma Domain) at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000133009029-senior-data-scientist-personalisation-mfn) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Data-Scientist-Biotech-Pharma-Domain-_R-248201) |
 
 ## About This Role
 
-This data scientist position at INPOST was posted on 2026-06-19.
+This data scientist position at Amgen was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

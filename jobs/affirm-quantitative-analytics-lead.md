@@ -1,16 +1,16 @@
-# Senior Data Scientist - MTS (m/f/d) at Sportradar
+# Quantitative Analytics Lead at Affirm
 
 | Field | Details |
 |-------|---------|
-| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ljubljana, Ljubljana, Slovenia |
+| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Canada |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000133054409-senior-data-scientist-mts-mfd) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7775355003) |
 
 ## About This Role
 
-This machine learning engineer position at Sportradar was posted on 2026-06-19.
+This machine learning engineer position at Affirm was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

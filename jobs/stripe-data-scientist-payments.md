@@ -1,16 +1,16 @@
-# (Senior) Data Scientist - Personalisation (m/f/n)  at INPOST
+# Data Scientist, Payments at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Scientist |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000133009029-senior-data-scientist-personalisation-mfn) |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8018297) |
 
 ## About This Role
 
-This data scientist position at INPOST was posted on 2026-06-19.
+This data scientist position at Stripe was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

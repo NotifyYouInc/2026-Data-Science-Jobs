@@ -1,16 +1,16 @@
-# Senior Data Scientist - MTS (m/f/d) at Sportradar
+# ^AI ML Engineer - 6352113 at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ljubljana, Ljubljana, Slovenia |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Machine Learning Engineer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000133054409-senior-data-scientist-mts-mfd) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dallas-5205-N-OConnor-Las-Colinas-Corp/XMLNAME--AI-ML-Engineer---6352113_14476576) |
 
 ## About This Role
 
-This machine learning engineer position at Sportradar was posted on 2026-06-19.
+This machine learning engineer position at Accenture was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

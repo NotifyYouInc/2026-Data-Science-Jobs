@@ -1,16 +1,16 @@
-# (Senior) Data Scientist - Personalisation (m/f/n)  at INPOST
+# Data Scientist (Clearance Sponsorship) at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Chantilly, Virginia, United States |
 | Category | Data Scientist |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000133009029-senior-data-scientist-personalisation-mfn) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Data-Scientist--Clearance-Sponsorship-_327976) |
 
 ## About This Role
 
-This data scientist position at INPOST was posted on 2026-06-19.
+This data scientist position at CACI was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

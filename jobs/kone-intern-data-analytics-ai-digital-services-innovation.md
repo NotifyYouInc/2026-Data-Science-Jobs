@@ -1,16 +1,16 @@
-# AVP Fraud Analytics at Barclays
+# Intern -Data Analytics & AI (Digital Services Innovation) at Kone
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Analyst |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/AVP-Fraud-Analytics_JR-0000118030-1) |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Singapore/Intern--Data-Analytics---AI--Digital-Services-Innovation-_R0661765) |
 
 ## About This Role
 
-This data analyst position at Barclays was posted on 2026-06-19.
+This data analyst position at Kone was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
