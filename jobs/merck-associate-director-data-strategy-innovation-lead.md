@@ -1,16 +1,16 @@
-# Data Scientist, Predictive Modeling at Merck
+# Associate Director, Data Strategy Innovation Lead at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Data Scientist |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Data-Scientist--Predictive-Modeling_R398297-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Associate-Director--Data-Strategy-Innovation-Lead_R402100-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-06-21.
+This business analyst position at Merck was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

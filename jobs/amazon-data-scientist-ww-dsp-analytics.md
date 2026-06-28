@@ -1,16 +1,16 @@
-# Data Scientist, network planning optimization world wide, Supply Chain Optimization Technology at Amazon
+# Data Scientist, WW DSP Analytics at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451407/data-scientist-network-planning-optimization-world-wide-supply-chain-optimization-technology) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440593/data-scientist-ww-dsp-analytics) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-06-17.
+This data scientist position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

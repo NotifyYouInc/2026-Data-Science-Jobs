@@ -1,4 +1,4 @@
-# Data Scientist at CVS Health
+# Principal Data Scientist at CVS Health
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Woonsocket, Rhode Island, United States |
 | Category | Data Scientist |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Data-Scientist_R0942507) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Principal-Data-Scientist_R0942436) |
 
 ## About This Role
 

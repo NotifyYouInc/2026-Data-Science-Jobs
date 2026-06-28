@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Sr-Scientist--Analytical-R-D_R402834-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Analytical-R-D_R402816) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-06-16.
+This data scientist position at Merck was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

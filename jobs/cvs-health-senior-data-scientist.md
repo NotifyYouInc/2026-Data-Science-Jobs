@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Connecticut, US |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Senior-Data-Scientist_R0927601) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Senior-Data-Scientist_R0942525) |
 
 ## About This Role
 
-This data scientist position at CVS Health was posted on 2026-05-29.
+This data scientist position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

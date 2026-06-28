@@ -1,12 +1,12 @@
-# Data Scientist at CVS Health
+# Sr. Manager, Informatics at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Location | Hartford, Connecticut, United States |
 | Category | Data Scientist |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Data-Scientist_R0942507) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Sr-Manager--Informatics_R0942321) |
 
 ## About This Role
 
