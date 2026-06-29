@@ -1,16 +1,16 @@
-# Associate Scientist at Integrated Resources INC
+# Associate Director Biostatistics at Integrated Resources INC
 
 | Field | Details |
 |-------|---------|
 | Company | [Integrated Resources INC](https://scoutify.ai/companies/integrated-resources-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chesterfield, Missouri, United States |
+| Location | Woodcliff Lake, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2015-12-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/87793693-associate-scientist) |
+| Posted | 2017-01-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/integratedresourcesinc/106036840-associate-director-biostatistics) |
 
 ## About This Role
 
-This data scientist position at Integrated Resources INC was posted on 2015-12-10.
+This data scientist position at Integrated Resources INC was posted on 2017-01-18.
 
 ## Get Real-Time Alerts
 
