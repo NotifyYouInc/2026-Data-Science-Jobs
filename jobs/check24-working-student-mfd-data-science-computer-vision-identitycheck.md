@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Germany |
-| Category | Data Scientist |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000126280983-working-student-mfd-data-science-computer-vision-identitycheck) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133348450-working-student-mfd-data-science-computer-vision-identitycheck) |
 
 ## About This Role
 
-This data scientist position at CHECK24 was posted on 2026-05-13.
+This machine learning engineer position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Edgewood, Maryland, United States |
+| Location | Lexington Park, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Edgewood-MD/Data-Scientist--Senior_R0241997) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Data-Scientist--Senior_R0242729) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-15.
+This data scientist position at Booz Allen was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

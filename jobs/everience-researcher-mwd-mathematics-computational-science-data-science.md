@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000131665970-researcher-mwd-mathematics-computational-science-data-science) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000133319920-researcher-mwd-mathematics-computational-science-data-science) |
 
 ## About This Role
 
-This data scientist position at Everience was posted on 2026-06-11.
+This data scientist position at Everience was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

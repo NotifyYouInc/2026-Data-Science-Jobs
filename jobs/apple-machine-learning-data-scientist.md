@@ -1,16 +1,16 @@
-# Machine Learning Data Scientist at Apple
+# Machine Learning - Data Scientist at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200665429/machine-learning-data-scientist) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660358/machine-learning-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-05-27.
+This data scientist position at Apple was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

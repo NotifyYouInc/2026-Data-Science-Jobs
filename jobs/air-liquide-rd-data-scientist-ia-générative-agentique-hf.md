@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | France |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Les-Loges-en-Josas/R-D-Data-Scientist--IA-Gnrative---agentique-H-F_R10086515) |
+| Location | Les Loges-en-Josas, Île-de-France, France |
+| Category | Data Scientist |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Les-Loges-en-Josas/R-D-Data-Scientist--IA-Gnrative---agentique-H-F_R10093586) |
 
 ## About This Role
 
-This ai / llm engineer position at Air Liquide was posted on 2026-03-23.
+This data scientist position at Air Liquide was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

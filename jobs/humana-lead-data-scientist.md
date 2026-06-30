@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 6 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Lead-Data-Scientist_R-417657) |
+| Location | United States |
+| Category | Data Scientist |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead-Data-Scientist_R-415516) |
 
 ## About This Role
 
-This ai / ml research position at Humana was posted on 2026-05-29.
+This data scientist position at Humana was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

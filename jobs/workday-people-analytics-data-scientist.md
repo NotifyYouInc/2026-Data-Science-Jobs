@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pleasanton, California, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/People-Analytics-Data-Scientist_JR-0104261-1) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/People-Analytics-Data-Scientist_JR-0108258) |
 
 ## About This Role
 
-This human resources / people ops position at Workday was posted on 2026-03-16.
+This data scientist position at Workday was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

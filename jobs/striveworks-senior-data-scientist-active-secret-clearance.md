@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7712281003) |
+| Location | Virginia, US |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7778067003) |
 
 ## About This Role
 
-This data scientist position at Striveworks was posted on 2026-04-23.
+This machine learning engineer position at Striveworks was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

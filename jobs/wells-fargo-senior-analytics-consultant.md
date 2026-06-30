@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Analytics-Consultant_R-538398-1) |
+| Location | Makati City, National Capital Region, Philippines |
+| Category | Data Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Senior-Analytics-Consultant_R-554960) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-05-22.
+This data analyst position at Wells Fargo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

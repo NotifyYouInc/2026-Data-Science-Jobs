@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
-| Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200660649/aiml-sr-data-scientist-evaluation) |
+| Category | AI / ML Research |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200638769/aiml-sr-data-scientist-evaluation) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-04-28.
+This ai / ml research position at Apple was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

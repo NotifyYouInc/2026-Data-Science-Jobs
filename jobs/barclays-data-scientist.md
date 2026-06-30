@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/Data-Scientist_JR-0000097267) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Scientist_JR-0000112007-1) |
 
 ## About This Role
 
-This data scientist position at Barclays was posted on 2026-06-16.
+This data scientist position at Barclays was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

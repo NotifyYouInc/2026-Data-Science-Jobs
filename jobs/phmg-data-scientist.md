@@ -5,12 +5,12 @@
 | Company | [PHMG](https://scoutify.ai/companies/phmg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://careers.phmg.com/open-positions/?gh_jid=8580073002) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://careers.phmg.com/open-positions/?gh_jid=8602620002) |
 
 ## About This Role
 
-This data scientist position at PHMG was posted on 2026-06-05.
+This data scientist position at PHMG was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Data Scientist at LexisNexis Risk Solutions
+# Sr. Data Scientist at LexisNexis Risk Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Data Scientist |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Chennai/Sr-Data-Scientist_R110963) |
+| Location | 2 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Chennai/Sr-Data-Scientist_R113160) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-04-09.
+This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
