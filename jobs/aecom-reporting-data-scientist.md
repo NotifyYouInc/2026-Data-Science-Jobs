@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132692292-reporting-data-scientist) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133687009-reporting-data-scientist) |
 
 ## About This Role
 
-This data scientist position at AECOM was posted on 2026-06-17.
+This data scientist position at AECOM was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
-| Category | Data Scientist |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000118069733-lead-associate-analytics) |
+| Location | Gurugram, Haryana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000133580275-lead-associate-analytics) |
 
 ## About This Role
 
-This data scientist position at WNS was posted on 2026-04-01.
+This ai / llm engineer position at WNS was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

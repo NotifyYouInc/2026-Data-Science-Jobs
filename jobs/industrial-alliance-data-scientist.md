@@ -1,16 +1,16 @@
-# Data scientist at Industrial Alliance
+# Data Scientist at Industrial Alliance
 
 | Field | Details |
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Qubec-Qubec/Data-scientist_JR10025895) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Scientifique-de-donnes_JR10026880) |
 
 ## About This Role
 
-This data scientist position at Industrial Alliance was posted on 2026-03-18.
+This data scientist position at Industrial Alliance was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Senior Product Data Scientist, YouTube Shorts Creation at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Bruno, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY-Vup1bolQv_vAZRCESiI0VGhnXM34cUG2xpAGU1bCsEjsA1Ny_iwVC5jvy7vf9sasibxGGTbrebqzvwsGxZVI2-fmvhFLDHw-Zwe0-m1RfL0Q55b4kvxAE35zr_g%3D%3D_V2&loc=US&title=Senior+Product+Data+Scientist) |
+
+## About This Role
+
+This data scientist position at Google was posted on 2026-06-23.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

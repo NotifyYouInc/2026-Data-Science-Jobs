@@ -1,16 +1,16 @@
-# Applied AI/ML Senior Associate at JPMorgan Chase
+# Applied AI/ML - Senior Associate at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750782) |
+| Location | Chicago, Illinois, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731757) |
 
 ## About This Role
 
-This ai / ml research position at JPMorgan Chase was posted on 2026-05-28.
+This machine learning engineer position at JPMorgan Chase was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

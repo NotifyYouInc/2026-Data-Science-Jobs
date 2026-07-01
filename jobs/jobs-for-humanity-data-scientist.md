@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Beirut, Beyrouth, Lebanon |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000120987904-data-scientist) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000133677951-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Jobs for Humanity was posted on 2026-04-15.
+This data scientist position at Jobs for Humanity was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Technical Product Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Decision-Science_R0059560-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Director-Decision-Science_R0059575) |
 
 ## About This Role
 
-This technical product manager position at Empower was posted on 2026-06-18.
+This technical product manager position at Empower was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

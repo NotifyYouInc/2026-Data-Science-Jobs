@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/Data-Scientist--Junior_R0233003) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Data-Scientist--Junior_R0242774) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-02-27.
+This data scientist position at Booz Allen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

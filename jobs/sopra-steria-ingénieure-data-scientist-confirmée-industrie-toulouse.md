@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132811754-ingenieure-data-scientist-confirmee-industrie-toulouse) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133545459-ingenieure-data-scientist-confirmee-industrie-toulouse) |
 
 ## About This Role
 
-This data scientist position at Sopra Steria was posted on 2026-06-18.
+This data scientist position at Sopra Steria was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

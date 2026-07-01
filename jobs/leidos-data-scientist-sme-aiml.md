@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Odenton, Maryland, United States |
-| Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Data-Scientist-SME-AI-ML_R-00182859) |
+| Location | Fort Meade, Maryland, United States |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Data-Scientist-SME-AI-ML_R-00185617-1) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-05-08.
+This machine learning engineer position at Leidos was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

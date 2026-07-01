@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---Card-Intelligence_R244944) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---Card-Intelligence_R245082-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-06-18.
+This data scientist position at Capital One was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

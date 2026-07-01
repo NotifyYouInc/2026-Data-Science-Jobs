@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/1-Complexe-Desjardins-Montral/Conseiller-principal-ou-conseillre-principale-en-actuariat--Validation-des-modles_R2605543) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/1-Complexe-Desjardins-Montral/Conseiller-principal-ou-conseillre-principale-en-actuariat--Validation-des-modles_R2608377) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-05-25.
+This data scientist position at Desjardins was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Apprentice Data Science at NielsenIQ
+# Apprentice - Data Science at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Vadodara, Gujarat, India |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000130184028-apprentice-data-science) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133570569-apprentice-data-science) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-06-04.
+This data scientist position at NielsenIQ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

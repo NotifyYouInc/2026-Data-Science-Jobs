@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | Houston, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---NY-New-York/Data-Scientist_40546) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-Houston/Data-Scientist_40756) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-06-16.
+This data scientist position at Guidehouse was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

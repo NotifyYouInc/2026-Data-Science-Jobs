@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chesterfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125217089-scientist-analytical-assay) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000133664359-scientist-analytical-assay) |
 
 ## About This Role
 
-This data scientist position at Eurofins Scientific was posted on 2026-05-07.
+This data scientist position at Eurofins Scientific was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
