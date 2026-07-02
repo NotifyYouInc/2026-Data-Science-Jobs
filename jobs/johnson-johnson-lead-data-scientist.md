@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New Brunswick, New Jersey, United States |
-| Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Lead-Data-Scientist_R-068007) |
+| Location | 5 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bridgewater-New-Jersey-United-States-of-America/Lead-Data-Scientist_R-083373-1) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-04-07.
+This ai / ml research position at Johnson & Johnson was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

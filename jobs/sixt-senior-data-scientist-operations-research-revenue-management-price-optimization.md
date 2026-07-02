@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000129533290-senior-data-scientist-operations-research-revenue-management-price-optimization-mfd) |
+| Category | Data Scientist |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000133947156-senior-data-scientist-operations-research-revenue-management-price-optimization-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Sixt was posted on 2026-06-01.
+This data scientist position at Sixt was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

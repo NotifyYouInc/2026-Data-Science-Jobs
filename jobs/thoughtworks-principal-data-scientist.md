@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8018974?gh_jid=8018974) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8022577?gh_jid=8022577) |
 
 ## About This Role
 
-This data scientist position at Thoughtworks was posted on 2026-06-19.
+This data scientist position at Thoughtworks was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4956373) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4959825) |
 
 ## About This Role
 
-This data analyst position at Pfizer was posted on 2026-05-14.
+This machine learning engineer position at Pfizer was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

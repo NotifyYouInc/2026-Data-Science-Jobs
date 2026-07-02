@@ -1,16 +1,16 @@
-# Sr. Data Scientist at Amgen
+# Sr Data Scientist at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Juncos, Juncos, Puerto Rico |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Puerto-Rico---Juncos/Sr-Data-Scientist_R-241898) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Data-Scientist_R-246931) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-04-24.
+This data scientist position at Amgen was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

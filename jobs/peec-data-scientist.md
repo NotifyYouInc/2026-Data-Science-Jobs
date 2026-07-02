@@ -5,12 +5,12 @@
 | Company | [Peec](https://scoutify.ai/companies/peec?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
-| Posted | 2025-10-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/peec/e082b77a-1ecc-4de5-83f6-b751a6664147) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/peec/5bef8322-fdeb-4fe3-bf5f-9973fbbd27d0) |
 
 ## About This Role
 
-This data scientist position at Peec was posted on 2025-10-09.
+This data scientist position at Peec was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

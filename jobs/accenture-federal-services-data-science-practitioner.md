@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4684348006?gh_jid=4684348006) |
+| Location | Suitland, Maryland, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4691592006?gh_jid=4691592006) |
 
 ## About This Role
 
-This software engineer position at Accenture Federal Services was posted on 2026-06-04.
+This data scientist position at Accenture Federal Services was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Data-Scientist_JR0285063) |
 
 ## About This Role
 
-This data scientist position at Intel was posted on 2026-05-13.
+This data scientist position at Intel was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

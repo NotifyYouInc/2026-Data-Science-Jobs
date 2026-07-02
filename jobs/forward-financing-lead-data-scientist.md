@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Forward Financing](https://scoutify.ai/companies/forward-financing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/forward%20financing/89aec284-22e2-4104-aec7-a0c8088f64f3) |
+| Location | Canada |
+| Category | Data Scientist |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/forward%20financing/f423304a-b920-4343-8625-4be9c5cefcd9) |
 
 ## About This Role
 
-This machine learning engineer position at Forward Financing was posted on 2026-02-19.
+This data scientist position at Forward Financing was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

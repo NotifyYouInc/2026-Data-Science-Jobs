@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Lima, Lima Province, Peru |
 | Category | Data Scientist |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7916461?gh_jid=7916461) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7964086?gh_jid=7964086) |
 
 ## About This Role
 
-This data scientist position at Thoughtworks was posted on 2026-05-13.
+This data scientist position at Thoughtworks was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
