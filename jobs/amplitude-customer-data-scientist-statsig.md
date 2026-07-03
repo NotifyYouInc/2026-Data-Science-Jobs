@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amplitude](https://scoutify.ai/companies/amplitude?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8600045002) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amplitude/jobs/8607588002) |
 
 ## About This Role
 
-This data scientist position at Amplitude was posted on 2026-06-18.
+This data scientist position at Amplitude was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

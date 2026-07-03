@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7811923?gh_jid=7811923) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8008743?gh_jid=8008743) |
 
 ## About This Role
 
-This data scientist position at Ripple was posted on 2026-04-13.
+This data scientist position at Ripple was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

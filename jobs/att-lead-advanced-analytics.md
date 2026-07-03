@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | El Segundo, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Lead-Advanced-Analytics_R-96634-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/El-Segundo-California/Lead-Advanced-Analytics_R-110675) |
 
 ## About This Role
 
-This data scientist position at AT&T was posted on 2026-04-24.
+This data scientist position at AT&T was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Science-Lead-Analyst---HIH---Evernorth_26006588) |
+| Category | Data Scientist |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Science-Lead-Analyst---HIH---Evernorth_26006587) |
 
 ## About This Role
 
-This machine learning engineer position at Cigna was posted on 2026-06-01.
+This data scientist position at Cigna was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

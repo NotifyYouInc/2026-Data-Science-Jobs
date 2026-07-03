@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Belgium |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000117232779-consultant-in-data-science) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000134219519-consultant-in-data-science) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-03-27.
+This strategy / management consulting position at SIA was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

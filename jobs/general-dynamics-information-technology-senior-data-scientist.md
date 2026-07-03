@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Sterling, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Arlington/Senior-Data-Scientist_RQ222357-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/Senior-Data-Scientist_RQ222918) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-06-16.
+This data scientist position at General Dynamics Information Technology was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Engineer, Data Science at Nagarro
+# Principal Engineer,  Data Science at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113102047-principal-engineer-data-science) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Scientist |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134233452-principal-engineer-data-science) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-03-06.
+This data scientist position at Nagarro was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

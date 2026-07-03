@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/Associate-Statistical-Project-Leader_R2855137) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Associate-Statistical-Project-Leader_R2861197) |
 
 ## About This Role
 
-This strategy / management consulting position at Sanofi was posted on 2026-04-27.
+This data scientist position at Sanofi was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

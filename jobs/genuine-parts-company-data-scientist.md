@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New South Wales, AU |
+| Location | Birmingham, Alabama, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Chullora-New-South-Wales-Australia/Data-Scientist_R26_0000013236) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Data-Scientist_R26_0000021080) |
 
 ## About This Role
 
-This data scientist position at Genuine Parts Company was posted on 2026-05-11.
+This data scientist position at Genuine Parts Company was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Leadership Development Program |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001172415-senior-manager-data-science-cjki) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Data Scientist |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001175664-senior-manager-data-science-cjki) |
 
 ## About This Role
 
-This leadership development program position at Canva was posted on 2026-06-22.
+This data scientist position at Canva was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

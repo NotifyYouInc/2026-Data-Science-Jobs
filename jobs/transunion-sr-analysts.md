@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
-| Category | Data Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Remote---US/Sr-Analysts_19040537) |
+| Location | Chicago, Illinois, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Sr-Analysts_19041189) |
 
 ## About This Role
 
-This data analyst position at TransUnion was posted on 2026-05-08.
+This data scientist position at TransUnion was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

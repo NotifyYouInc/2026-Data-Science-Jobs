@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | San Diego, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Scientist--Molecular-Discovery_R397472) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---San-Diego-Science-Park-Road/Scientist--Molecular-Discovery_R404331-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-05-08.
+This data scientist position at Merck was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

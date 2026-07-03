@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124592369-lead-data-scientist-contact-automation) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000134297456-lead-data-scientist-contact-automation) |
 
 ## About This Role
 
-This data scientist position at WISE was posted on 2026-05-05.
+This data scientist position at WISE was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

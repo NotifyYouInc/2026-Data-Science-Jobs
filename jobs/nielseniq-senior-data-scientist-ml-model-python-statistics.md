@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133309391-senior-data-scientist-ml-model-python-statistics) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133967450-senior-data-scientist-ml-model-python-statistics) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-06-22.
+This data scientist position at NielsenIQ was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

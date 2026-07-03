@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Trust & Safety |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125361784-lead-data-scientist-fraud-prevention) |
+| Category | Data Scientist |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000134297279-lead-data-scientist-fraud-prevention) |
 
 ## About This Role
 
-This trust & safety position at WISE was posted on 2026-05-08.
+This data scientist position at WISE was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

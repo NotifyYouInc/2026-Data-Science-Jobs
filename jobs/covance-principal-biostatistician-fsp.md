@@ -1,16 +1,16 @@
-# Principal Biostatistician - FSP at Covance
+# Principal Biostatistician FSP at Covance
 
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Durham, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Durham/Principal-Biostatistician---FSP_262327) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Durham/Principal-Biostatistician-FSP_263509) |
 
 ## About This Role
 
-This data scientist position at Covance was posted on 2026-05-11.
+This data scientist position at Covance was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

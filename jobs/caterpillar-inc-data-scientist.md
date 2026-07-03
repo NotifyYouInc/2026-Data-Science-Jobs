@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Data-Scientist_R0000374074) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist_R0000376800) |
 
 ## About This Role
 
-This data scientist position at Caterpillar Inc. was posted on 2026-06-04.
+This data scientist position at Caterpillar Inc. was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

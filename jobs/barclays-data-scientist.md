@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Scientist_JR-0000112007-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Scientist_JR-0000097390) |
 
 ## About This Role
 
-This data scientist position at Barclays was posted on 2026-06-22.
+This data scientist position at Barclays was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

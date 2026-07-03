@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/PL1---820-Ramona-Street-Palo-Alto-San-Mateo/Associate--Modelling-Data-Scientist_R261613) |
+| Location | Atlanta, Georgia, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Associate--Modelling-Data-Scientist_R264834) |
 
 ## About This Role
 
-This ai / ml research position at Blackrock was posted on 2026-06-05.
+This data scientist position at Blackrock was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

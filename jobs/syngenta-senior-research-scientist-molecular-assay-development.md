@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133369831-senior-research-scientist-molecular-assay-development) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133952629-senior-research-scientist-molecular-assay-development) |
 
 ## About This Role
 
-This data scientist position at Syngenta was posted on 2026-06-22.
+This data scientist position at Syngenta was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

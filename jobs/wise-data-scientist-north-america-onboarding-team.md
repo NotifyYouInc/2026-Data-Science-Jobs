@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110030615-data-scientist-north-america-onboarding-team) |
+| Category | Data Scientist |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000134277992-data-scientist-north-america-onboarding-team) |
 
 ## About This Role
 
-This machine learning engineer position at WISE was posted on 2026-02-18.
+This data scientist position at WISE was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

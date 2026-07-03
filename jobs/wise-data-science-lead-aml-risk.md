@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
-| Category | Financial Crimes & AML |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000132846777-data-science-lead-aml-risk) |
+| Location | London, England, United Kingdom |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000134297388-data-science-lead-aml-risk) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-06-18.
+This machine learning engineer position at WISE was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
