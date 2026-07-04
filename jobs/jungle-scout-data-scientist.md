@@ -1,16 +1,16 @@
-# Data Scientist, Mid at Booz Allen
+# Data Scientist at Jungle Scout
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Jungle Scout](https://scoutify.ai/companies/jungle-scout?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Brazil |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/junglescout/jobs/6102824004) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-23.
+This data scientist position at Jungle Scout was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

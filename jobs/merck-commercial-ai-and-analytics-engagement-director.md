@@ -1,16 +1,16 @@
-# Senior Scientist, Biostatistics at Merck
+# Commercial AI and Analytics Engagement Director at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Senior-Scientist--Biostatistics_R404919-1) |
+| Category | Engineering Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Commercial-AI-and-Analytics-Engagement-Director_R403441-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-06-27.
+This engineering manager position at Merck was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

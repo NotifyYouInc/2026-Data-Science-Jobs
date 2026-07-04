@@ -1,16 +1,16 @@
-# Data Modeler II at Experian
+# Data Scientist (Various Levels at Agile Defense
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Agile Defense](https://scoutify.ai/companies/agile-defense?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Fort Meade, Maryland, United States |
 | Category | Data Scientist |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134442779-data-modeler-ii) |
+| Apply | [View on company site](https://jobs.lever.co/agile-defense/309774ff-506e-4ef9-a1a6-7e9c720ce1b1) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-06-26.
+This data scientist position at Agile Defense was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist, Mid at Booz Allen
+# Director, Epidemiology at Verantos
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Verantos](https://scoutify.ai/companies/verantos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027) |
+| Posted | 2025-11-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verantos/jobs/5699662004) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-23.
+This data scientist position at Verantos was posted on 2025-11-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Business Data Scientist, AI/ML, Google Cloud at Google
+# Staff Data Scientist, Search AI Overview at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | AI / LLM Engineer |
+| Location | Mountain View, California, United States |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdTm3OpMS9TPU38enzx8Rw1uAWvVSzP9qSrIe677IoT1EjsA1Ny_i0HEkcjThFS8otl2eLmRwWqAUewf-7H_Svw4iUVpWXenKHHGh_4tx75EkY7mvxdNurnLfp0p1w%3D%3D_V2&loc=US&title=Senior+Business+Data+Scientist) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUJ4v5EWNDXDMYD7Ny_88pKIsm1GRoSE-OV9RxrtYQkFEjsA1Ny_i3-UuNJoaQz9m7BS264G4j2o_WKPRBWRpVsdEVoL6Gs0R02oNVxajJ3YrSDTvl2-BR4duOkntw%3D%3D_V2&loc=US&title=Staff+Data+Scientist) |
 
 ## About This Role
 
-This ai / llm engineer position at Google was posted on 2026-06-26.
+This data scientist position at Google was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

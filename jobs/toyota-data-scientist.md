@@ -1,16 +1,16 @@
-# Data Scientist, Mid at Booz Allen
+# Data Scientist at Toyota
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Plano, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Data-Scientist_10330121) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-23.
+This data scientist position at Toyota was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

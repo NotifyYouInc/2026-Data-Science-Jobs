@@ -1,16 +1,16 @@
-# Data Scientist, Mid at Booz Allen
+# Staff Data Scientist at Lunar Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Lunar Energy](https://scoutify.ai/companies/lunarenergy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lunarenergy/jobs/6092441004) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-23.
+This data scientist position at Lunar Energy was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

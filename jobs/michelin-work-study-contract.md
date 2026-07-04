@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Clermont-Ferrand, Rhône-Alpes, France |
-| Category | Data Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Alternance---Prvision-de-vente-stratgiques-des-pneus-de-vhicule-de-tourisme--F-H-_R-2026013631) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Alternance---Exploration-IA---Solutions-Digitales-Motorsport--F-H-_R-2026024567) |
 
 ## About This Role
 
-This data engineer position at Michelin was posted on 2026-04-20.
+This machine learning engineer position at Michelin was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

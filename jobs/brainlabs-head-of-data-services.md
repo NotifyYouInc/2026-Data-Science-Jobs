@@ -1,16 +1,16 @@
-# Data Modeler II at Experian
+# Head of Data Services  at Brainlabs
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Data Scientist |
+| Company | [Brainlabs](https://scoutify.ai/companies/brainlabs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United Kingdom |
+| Category | Engineering Manager |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134442779-data-modeler-ii) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainlabs/jobs/4909335101) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-06-26.
+This engineering manager position at Brainlabs was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

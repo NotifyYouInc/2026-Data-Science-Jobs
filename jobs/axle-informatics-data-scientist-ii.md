@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axle Informatics](https://scoutify.ai/companies/axle-informatics?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axle/jobs/4991731007) |
+| Location | Rockville, Maryland, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axle/jobs/5175582007) |
 
 ## About This Role
 
-This machine learning engineer position at Axle Informatics was posted on 2026-04-02.
+This data scientist position at Axle Informatics was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

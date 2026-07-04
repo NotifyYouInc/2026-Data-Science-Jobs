@@ -1,16 +1,16 @@
-# Data Scientist, Mid at Booz Allen
+# Data Scientist at Transat
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Transat](https://scoutify.ai/companies/transat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000134549834-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-23.
+This data scientist position at Transat was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

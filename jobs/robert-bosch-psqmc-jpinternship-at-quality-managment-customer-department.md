@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Japan |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133504819-psqmc-jpinternship-at-quality-managment-customer-department) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000134405254-psqmc-jpinternship-at-quality-managment-customer-department) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-06-23.
+This data scientist position at Robert Bosch was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

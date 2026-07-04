@@ -1,16 +1,16 @@
-# Data Scientist, Mid at Booz Allen
+# Sr. Manager, Credit Risk Analytics at Prosper
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Company | [Prosper](https://scoutify.ai/companies/prosper?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243027) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/prosper/ac82f5f6-deb2-41ee-8eea-a26c7d34c53e) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-06-23.
+This data scientist position at Prosper was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

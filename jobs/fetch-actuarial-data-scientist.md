@@ -1,16 +1,16 @@
-# Data Modeler II at Experian
+# Actuarial Data Scientist at Fetch
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Data Scientist |
+| Company | [Fetch](https://scoutify.ai/companies/fetch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
+| Category | Corporate Finance |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134442779-data-modeler-ii) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fetch/jobs/4299553009) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-06-26.
+This corporate finance position at Fetch was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# AI/ML Data Scientist at Guidehouse
+# Consultant - AI & Data, Defense & Security - Campus 2026 at Guidehouse
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/AI-ML-Data-Scientist_41090) |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Consultant---AI---Data--Defense---Security---Campus-2026_41274) |
 
 ## About This Role
 

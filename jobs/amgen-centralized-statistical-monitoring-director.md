@@ -1,16 +1,16 @@
-# Data Modeler II at Experian
+# Centralized Statistical Monitoring, Director at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134442779-data-modeler-ii) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Centralized-Statistical-Monitoring--Director_R-248850) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-06-26.
+This data scientist position at Amgen was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

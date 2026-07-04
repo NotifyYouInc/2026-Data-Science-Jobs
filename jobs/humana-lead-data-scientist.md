@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Louisville, Kentucky, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead-Data-Scientist_R-415516) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Lead-Data-Scientist_R-419164) |
 
 ## About This Role
 
-This data scientist position at Humana was posted on 2026-06-22.
+This data scientist position at Humana was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

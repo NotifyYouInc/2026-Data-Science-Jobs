@@ -1,16 +1,16 @@
-# Data Modeler II at Experian
+# Data Scientist, Marketing Analytics at Sonar Source
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Sonar Source](https://scoutify.ai/companies/sonar-source?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134442779-data-modeler-ii) |
+| Apply | [View on company site](https://jobs.lever.co/sonarsource/94472351-8b4f-4f48-9f74-a72aab918d00) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-06-26.
+This data scientist position at Sonar Source was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
