@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Leadership Development Program |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2453497665131398) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/26574551102245840) |
 
 ## About This Role
 
-This leadership development program position at Meta was posted on 2026-06-23.
+This leadership development program position at Meta was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

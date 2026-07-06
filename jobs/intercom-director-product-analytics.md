@@ -1,16 +1,16 @@
-# Data Scientist Confirmé - H/F - CDI at Talan
+# Director, Product Analytics at Intercom
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | Data Scientist |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134761139-data-scientist-confirme-hf-cdi) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8030046) |
 
 ## About This Role
 
-This data scientist position at Talan was posted on 2026-06-29.
+This data scientist position at Intercom was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

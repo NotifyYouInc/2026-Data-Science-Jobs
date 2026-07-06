@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Lysaker, Akershus, Norway |
 | Category | Data Scientist |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123473679-data-scientist) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134762629-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-04-28.
+This data scientist position at Experian was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

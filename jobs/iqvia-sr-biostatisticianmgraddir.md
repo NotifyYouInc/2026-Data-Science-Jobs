@@ -1,16 +1,16 @@
-# Data Scientist Confirmé - H/F - CDI at Talan
+# Sr Biostatistician/Mgr/AD/Dir at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134761139-data-scientist-confirme-hf-cdi) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Shanghai-China/Sr-Biostatistician-Mgr-AD-Dir_R1554549) |
 
 ## About This Role
 
-This data scientist position at Talan was posted on 2026-06-29.
+This data scientist position at IQVIA was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

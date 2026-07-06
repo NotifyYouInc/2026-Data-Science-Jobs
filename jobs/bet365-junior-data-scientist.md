@@ -1,16 +1,16 @@
-# Data Scientist Confirmé - H/F - CDI at Talan
+# Junior Data Scientist at bet365
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Data Scientist |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134761139-data-scientist-confirme-hf-cdi) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000134761298-junior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Talan was posted on 2026-06-29.
+This data scientist position at bet365 was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

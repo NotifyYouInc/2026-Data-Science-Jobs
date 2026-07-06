@@ -1,16 +1,16 @@
-# Applied Scientist, Tallent Intellgience at Amazon
+# Economist II, JP Economics & Decision Sciences, JP Economics and Decision Sciences at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457222/applied-scientist-tallent-intellgience) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Data Scientist |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460646/economist-ii-jp-economics-decision-sciences-jp-economics-and-decision-sciences) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-06-23.
+This data scientist position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

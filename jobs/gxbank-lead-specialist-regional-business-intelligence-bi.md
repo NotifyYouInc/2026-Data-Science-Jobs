@@ -1,16 +1,16 @@
-# Lead, Data Scientist at NielsenIQ
+# Lead Specialist, Regional Business Intelligence (BI) at GXBank
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [GXBank](https://scoutify.ai/companies/gxbank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134736069-lead-data-scientist) |
+| Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Lead-Specialist--Regional-Business-Intelligence--BI-_R-2026-06-101882) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-06-29.
+This data analyst position at GXBank was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

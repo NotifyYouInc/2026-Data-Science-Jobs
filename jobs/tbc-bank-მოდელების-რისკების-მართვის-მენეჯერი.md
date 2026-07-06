@@ -1,16 +1,16 @@
-# Data Scientist Confirmé - H/F - CDI at Talan
+# მოდელების რისკების მართვის მენეჯერი at TBC Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Georgia |
 | Category | Data Scientist |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000134761139-data-scientist-confirme-hf-cdi) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000134724199-) |
 
 ## About This Role
 
-This data scientist position at Talan was posted on 2026-06-29.
+This data scientist position at TBC Bank was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

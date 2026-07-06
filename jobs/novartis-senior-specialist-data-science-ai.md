@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Data Scientist |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Specialist-Data-Science---AI_REQ-10069688-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Machine Learning Engineer |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Dublin-NOCC/Senior-Specialist-Data-Science---AI_REQ-10081379-1) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-02-24.
+This machine learning engineer position at Novartis was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
