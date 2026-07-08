@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Horizonmedia](https://scoutify.ai/companies/horizonmedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Associate-Director--Advanced-Analytics_R0017025) |
+| Category | Data Scientist |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Associate-Director--Advanced-Analytics_R0017207) |
 
 ## About This Role
 
-This business analyst position at Horizonmedia was posted on 2026-05-28.
+This data scientist position at Horizonmedia was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

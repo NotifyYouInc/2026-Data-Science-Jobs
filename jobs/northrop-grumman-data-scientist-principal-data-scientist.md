@@ -1,16 +1,16 @@
-# Data Scientist / Principal Data Scientist at Northrop Grumman
+# Data Scientist / Principal Data Scientist * at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Melbourne, Florida, United States |
-| Category | Venture Capital |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Scientist---Principal-Data-Scientist_R10218986) |
+| Location | Roy, Utah, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Data-Scientist---Principal-Data-Scientist--_R10235453) |
 
 ## About This Role
 
-This venture capital position at Northrop Grumman was posted on 2026-02-03.
+This data scientist position at Northrop Grumman was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 7 locations |
+| Location | Los Angeles, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist_R-149355-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USCALos-Angeles801-S-Grand-Avenue/Data-Scientist_R-158838) |
 
 ## About This Role
 
-This data scientist position at AtkinsRéalis was posted on 2026-03-05.
+This data scientist position at AtkinsRéalis was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

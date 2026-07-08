@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803649) |
+| Location | 3 locations |
+| Category | AI / ML Research |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556915309) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-02-25.
+This ai / ml research position at Microsoft was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

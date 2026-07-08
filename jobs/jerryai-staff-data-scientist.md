@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/dd614516-efef-48f6-8302-631e0697c279) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/8445c0e9-1e7e-4712-9fe1-3d655ad03c68) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-06-22.
+This data scientist position at Jerry.ai was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brainlabs](https://scoutify.ai/companies/brainlabs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United Kingdom |
-| Category | Engineering Manager |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainlabs/jobs/4909335101) |
 
 ## About This Role
 
-This engineering manager position at Brainlabs was posted on 2026-06-26.
+This data scientist position at Brainlabs was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

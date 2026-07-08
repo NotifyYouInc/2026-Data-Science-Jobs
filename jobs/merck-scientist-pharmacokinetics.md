@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | South San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Scientist--Pharmacokinetics_R394180-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/Scientist--Pharmacokinetics_R403653-2) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-04-22.
+This data scientist position at Merck was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

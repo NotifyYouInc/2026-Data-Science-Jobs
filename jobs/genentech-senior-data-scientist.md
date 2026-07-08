@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | South San Francisco, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Data-Scientist_202604-108637-1) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Data-Scientist_202606-116612-1) |
 
 ## About This Role
 
-This machine learning engineer position at Genentech was posted on 2026-04-02.
+This data scientist position at Genentech was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

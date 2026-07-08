@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/San-Francisco-Mission-St/Data-Science-Analyst---Customer---Product-Intelligence_R0026374-1) |
 
 ## About This Role
 
-This data analyst position at Nasdaq was posted on 2026-06-26.
+This data scientist position at Nasdaq was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

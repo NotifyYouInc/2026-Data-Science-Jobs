@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Richmond, Victoria, Australia |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001186779-postdoctoral-research-fellow-in-data-science-for-smart-horticulture-arc-tc-sash) |
 
 ## About This Role
 
-This machine learning engineer position at Western Sydney University was posted on 2026-06-26.
+This data scientist position at Western Sydney University was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

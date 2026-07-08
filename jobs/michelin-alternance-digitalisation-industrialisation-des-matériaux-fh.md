@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Clermont-Ferrand, Rhône-Alpes, France |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Alternance---Digitalisation---Industrialisation-des-matriaux--F-H-_R-2026025079) |
 
 ## About This Role
 
-This data analyst position at Michelin was posted on 2026-06-26.
+This data scientist position at Michelin was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

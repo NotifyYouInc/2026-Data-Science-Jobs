@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Engineering Manager |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Commercial-AI-and-Analytics-Engagement-Director_R403441-1) |
 
 ## About This Role
 
-This engineering manager position at Merck was posted on 2026-06-26.
+This data scientist position at Merck was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

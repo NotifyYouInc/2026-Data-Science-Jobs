@@ -1,16 +1,16 @@
-# Senior Scientist I - Analytical Development  at AbbVie
+# Senior Scientist I - Analytical Development at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Worcester, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013497147-senior-scientist-i-analytical-development) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013862696-senior-scientist-i-analytical-development) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-06-05.
+This data scientist position at AbbVie was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

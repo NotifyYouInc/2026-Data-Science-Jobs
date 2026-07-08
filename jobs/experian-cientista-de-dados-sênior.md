@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129834369-cientista-de-dados-senior) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135089219-cientista-de-dados-senior) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-06-02.
+This data scientist position at Experian was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

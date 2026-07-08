@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Crane, Texas, United States |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Crane-IN-US/Data-Scientist_328191) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/Data-Scientist_328342) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-06-24.
+This data scientist position at CACI was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

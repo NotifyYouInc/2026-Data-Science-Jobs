@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Resolve To Save Lives](https://scoutify.ai/companies/resolve-to-save-lives?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/resolvetosavelives/jobs/5284640008) |
 
 ## About This Role
 
-This data analyst position at Resolve To Save Lives was posted on 2026-06-26.
+This data scientist position at Resolve To Save Lives was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Dallas-Innovation-Center---Luna-Rd-TX270/Data-Scientist_R222018-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PNC-Center---Cleveland-OH001/Data-Scientist_R227703-1) |
 
 ## About This Role
 
-This data scientist position at PNC Financial was posted on 2026-05-06.
+This data scientist position at PNC Financial was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

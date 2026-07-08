@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2844133-2) |
+| Category | Data Scientist |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2862404) |
 
 ## About This Role
 
-This machine learning engineer position at Sanofi was posted on 2026-02-27.
+This data scientist position at Sanofi was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

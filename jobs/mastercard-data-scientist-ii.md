@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Data-Scientist-II_R-280656) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist-II_R-280057) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-06-19.
+This data scientist position at Mastercard was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GXBank](https://scoutify.ai/companies/gxbank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-29 |
 | Apply | [View on company site](https://gxs.wd3.myworkdayjobs.com/gx_bank/job/Petaling-Jaya-First-Avenue/Lead-Specialist--Regional-Business-Intelligence--BI-_R-2026-06-101882) |
 
 ## About This Role
 
-This data analyst position at GXBank was posted on 2026-06-29.
+This data scientist position at GXBank was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

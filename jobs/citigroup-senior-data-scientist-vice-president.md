@@ -1,16 +1,16 @@
-# Senior Data Scientist- Vice President at Citigroup
+# Senior Data Scientist Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 5 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Senior-Data-Scientist--Vice-President_26965946) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/San-Antonio-Texas-United-States/Senior-Data-Scientist-Vice-President_26974117) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-05-26.
+This data scientist position at Citigroup was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

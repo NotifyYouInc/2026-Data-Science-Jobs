@@ -1,16 +1,16 @@
-# Data Scientist at Equifax
+# Data scientist at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Data-Scientist_J00176004) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Data-scientist_J00177267) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-06-12.
+This data scientist position at Equifax was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

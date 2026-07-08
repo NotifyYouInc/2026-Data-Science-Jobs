@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/4945766007) |
 
 ## About This Role
 
-This machine learning engineer position at Conga was posted on 2026-06-25.
+This data scientist position at Conga was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

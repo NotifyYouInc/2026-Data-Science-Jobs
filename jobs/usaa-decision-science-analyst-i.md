@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-29 |
 | Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-I_R0118827) |
 
 ## About This Role
 
-This data analyst position at USAA was posted on 2026-06-29.
+This data scientist position at USAA was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

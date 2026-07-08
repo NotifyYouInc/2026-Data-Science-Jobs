@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Norco, California, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_323962) |
+| Category | Data Scientist |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_328426) |
 
 ## About This Role
 
-This data analyst position at CACI was posted on 2026-03-27.
+This data scientist position at CACI was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Conseiller(ère) principal(e) et statisticien(ne), recherche centrée sur le patient  -- Senior Consultant and Statistician, Patient Centered Research at IQVIA
+# Conseiller(ère) principal(e) et statisticien(ne), recherche centrée sur le patient -- Senior Consultant and Statistician, Patient Centered Solutions at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mississauga-Ontario-Canada/Conseiller-re--principal-e--et-statisticien-ne---recherche-centre-sur-le-patient-----Senior-Consultant-and-Statistician--Patient-Centered-Research_R1540088) |
+| Category | Data Scientist |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mississauga-Ontario-Canada/Conseiller-re--principal-e--et-statisticien-ne---recherche-centre-sur-le-patient----Senior-Consultant-and-Statistician--Patient-Centered-Solutions_R1536816) |
 
 ## About This Role
 
-This strategy / management consulting position at IQVIA was posted on 2026-04-28.
+This data scientist position at IQVIA was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

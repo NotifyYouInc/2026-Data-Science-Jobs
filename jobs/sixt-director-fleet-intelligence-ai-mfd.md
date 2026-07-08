@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000132637170-director-fleet-intelligence-ai-mfd) |
+| Category | Data Scientist |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000134945799-director-fleet-intelligence-ai-mfd) |
 
 ## About This Role
 
-This ai / ml research position at Sixt was posted on 2026-06-17.
+This data scientist position at Sixt was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

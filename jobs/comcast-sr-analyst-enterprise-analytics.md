@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Analyst--Enterprise-Analytics_R426345) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Sr-Analyst--Enterprise-Analytics_R439887) |
 
 ## About This Role
 
-This data scientist position at Comcast was posted on 2026-03-16.
+This data scientist position at Comcast was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

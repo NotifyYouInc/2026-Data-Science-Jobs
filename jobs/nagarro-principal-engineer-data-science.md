@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134233452-principal-engineer-data-science) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134435039-principal-engineer-data-science) |
 
 ## About This Role
 
-This data scientist position at Nagarro was posted on 2026-06-25.
+This data scientist position at Nagarro was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

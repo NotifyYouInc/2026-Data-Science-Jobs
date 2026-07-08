@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH-AND-36TH-FL/Data-Scientist-Senior_JR195100) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Scientist-Senior_JR195495) |
 
 ## About This Role
 
-This data scientist position at Elevance Health was posted on 2026-06-05.
+This data scientist position at Elevance Health was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

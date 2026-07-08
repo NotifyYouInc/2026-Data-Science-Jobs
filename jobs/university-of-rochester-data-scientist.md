@@ -5,12 +5,12 @@
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/135-Corporate-Woods/Data-Scientist_R271866) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/135-Corporate-Woods/Data-Scientist_R272548) |
 
 ## About This Role
 
-This data scientist position at University of Rochester was posted on 2026-06-01.
+This data scientist position at University of Rochester was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

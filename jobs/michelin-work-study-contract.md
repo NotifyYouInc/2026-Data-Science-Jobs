@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Clermont-Ferrand, Rhône-Alpes, France |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Alternance---Exploration-IA---Solutions-Digitales-Motorsport--F-H-_R-2026024567) |
 
 ## About This Role
 
-This machine learning engineer position at Michelin was posted on 2026-06-26.
+This data scientist position at Michelin was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

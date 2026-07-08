@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Science_26970796) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Science_26968762) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-06-16.
+This data scientist position at Citigroup was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

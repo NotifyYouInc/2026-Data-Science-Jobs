@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Data-Science-Consultant_R-548365) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Science-Consultant_R-552357-1) |
 
 ## About This Role
 
-This data scientist position at Wells Fargo was posted on 2026-06-05.
+This data scientist position at Wells Fargo was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

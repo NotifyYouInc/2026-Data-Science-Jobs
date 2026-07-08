@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Scientist_R-00184909) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Data-Scientist_R-00186287) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-06-16.
+This data scientist position at Leidos was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

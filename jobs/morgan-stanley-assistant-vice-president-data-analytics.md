@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Jersey-City-New-Jersey-United-States-of-America/Assistant-Vice-President--Data-Analytics_JR027325) |
 
 ## About This Role
 
-This data analyst position at Morgan Stanley was posted on 2026-06-26.
+This data scientist position at Morgan Stanley was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

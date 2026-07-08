@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Data-Scientist-II_R0000374012) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Data-Scientist-II_R0000380022) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-06-05.
+This data scientist position at Caterpillar was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

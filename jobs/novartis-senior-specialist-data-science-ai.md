@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-06-29 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Dublin-NOCC/Senior-Specialist-Data-Science---AI_REQ-10081379-1) |
 
 ## About This Role
 
-This machine learning engineer position at Novartis was posted on 2026-06-29.
+This data scientist position at Novartis was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

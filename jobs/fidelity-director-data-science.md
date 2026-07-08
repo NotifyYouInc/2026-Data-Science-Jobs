@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Chicago-IL/Director--Data-Science_2119329) |
+| Location | Boston, Massachusetts, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Director--Data-Science_2118230) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-02-19.
+This data scientist position at Fidelity was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Data Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000133506950-senior-consultant-data-science-analytics) |
+| Category | Data Scientist |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000134697769-senior-consultant-data-science-analytics) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-06-23.
+This data scientist position at SIA was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

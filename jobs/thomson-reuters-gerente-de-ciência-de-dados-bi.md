@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Gerente-de-Cincia-de-Dados---BI_JREQ201658) |
 
 ## About This Role
 
-This data analyst position at Thomson Reuters was posted on 2026-06-26.
+This data scientist position at Thomson Reuters was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

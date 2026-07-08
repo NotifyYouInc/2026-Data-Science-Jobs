@@ -5,12 +5,12 @@
 | Company | [Arena](https://scoutify.ai/companies/arena?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | California, US |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/arena/81faa42c-c9a3-433e-b6bc-9ad7eefb88af) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/arena/2331ece0-42fb-47ea-b627-d52e75daba3e) |
 
 ## About This Role
 
-This data scientist position at Arena was posted on 2026-03-19.
+This data scientist position at Arena was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

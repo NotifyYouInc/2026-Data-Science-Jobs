@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Irvine, California, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000133424768-senior-data-scientist-ai-solutions-idt-air-climate) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000134849422-senior-data-scientist-ai-solutions-idt-air-climate) |
 
 ## About This Role
 
-This data scientist position at Ramboll was posted on 2026-06-22.
+This data scientist position at Ramboll was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

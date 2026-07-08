@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Principal-Scientist-II-Senior-Principal-Scientist--PK-Sciences-Clinical-Pharmacology-Artificial-Intelligence--AI--Lead--dual-level-posting-_REQ-10081408-1) |
 
 ## About This Role
 
-This ai / ml research position at Novartis was posted on 2026-06-26.
+This data scientist position at Novartis was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

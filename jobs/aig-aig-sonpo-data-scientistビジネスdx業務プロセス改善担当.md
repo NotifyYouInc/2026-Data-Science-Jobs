@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tokyo, JP |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Minato-ku-Tokyo/XMLNAME--AIG-Sonpo--Data-Scientist-DX--_JR2602739-1) |
 
 ## About This Role
 
-This data analyst position at AIG was posted on 2026-06-26.
+This data scientist position at AIG was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

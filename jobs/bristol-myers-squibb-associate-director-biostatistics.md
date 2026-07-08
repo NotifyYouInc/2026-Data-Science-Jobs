@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Diego, California, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/San-Diego---RayzeBio---CA/Associate-Director--Biostatistics_R1601622) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Warsaw---PL/Associate-Director--Biostatistics_R1598665) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-04-29.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

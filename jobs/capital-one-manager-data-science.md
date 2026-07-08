@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Manager--Data-Science_R239798-1) |
+| Location | McLean, Virginia, United States |
+| Category | Data Scientist |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Science_R245672-1) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-04-03.
+This data scientist position at Capital One was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
