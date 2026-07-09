@@ -1,16 +1,16 @@
-# Data Scientist  (US Value & Access Insights) at Amgen
+# Senior Data Scientist at Trust Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Trust Bank](https://scoutify.ai/companies/trust-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore |
 | Category | Data Scientist |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-248901) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/trustbank/jobs/7792231003) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-02.
+This data scientist position at Trust Bank was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

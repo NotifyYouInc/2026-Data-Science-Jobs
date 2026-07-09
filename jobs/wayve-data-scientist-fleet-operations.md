@@ -1,16 +1,16 @@
-# DATA SCIENTIST III at Inter Carreiras
+# Data Scientist, Fleet Operations  at Wayve
 
 | Field | Details |
 |-------|---------|
-| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4709787005?gh_jid=4709787005) |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8615214002) |
 
 ## About This Role
 
-This data scientist position at Inter Carreiras was posted on 2026-07-01.
+This data scientist position at Wayve was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

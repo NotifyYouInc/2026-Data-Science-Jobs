@@ -1,4 +1,4 @@
-# Data Scientist  (US Value & Access Insights) at Amgen
+# Associate Data Science at Amgen
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-248901) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Science_R-248367) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# DATA SCIENTIST III at Inter Carreiras
+# Graph Data Scientist at Ardent
 
 | Field | Details |
 |-------|---------|
-| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Company | [Ardent](https://scoutify.ai/companies/ardentmc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Not specified |
 | Category | Data Scientist |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4709787005?gh_jid=4709787005) |
+| Apply | [View on company site](https://boards.greenhouse.io/ardentmc/jobs/8042651?gh_jid=8042651) |
 
 ## About This Role
 
-This data scientist position at Inter Carreiras was posted on 2026-07-01.
+This data scientist position at Ardent was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

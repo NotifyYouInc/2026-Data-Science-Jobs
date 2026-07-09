@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brigit](https://scoutify.ai/companies/brigit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/brigit/9338bd61-b892-474b-964b-6e5c22285c48) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/brigit/d81523c0-f4b2-468a-aecc-4f2642225c15) |
 
 ## About This Role
 
-This data scientist position at Brigit was posted on 2026-06-25.
+This data scientist position at Brigit was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

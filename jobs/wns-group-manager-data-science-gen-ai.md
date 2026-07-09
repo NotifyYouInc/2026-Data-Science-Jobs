@@ -1,16 +1,16 @@
-# Data Scientist  (US Value & Access Insights) at Amgen
+# Group Manager- Data Science + Gen AI at WNS
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-248901) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000135423269-group-manager-data-science-gen-ai) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-02.
+This data scientist position at WNS was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

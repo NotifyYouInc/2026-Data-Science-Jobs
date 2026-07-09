@@ -1,16 +1,16 @@
-# Data Scientist  (US Value & Access Insights) at Amgen
+# Data Scientist at AGL Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-248901) |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Data-Scientist_R-0023382) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-02.
+This data scientist position at AGL Energy was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

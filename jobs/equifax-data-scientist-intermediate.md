@@ -1,16 +1,16 @@
-# Data Scientist  (US Value & Access Insights) at Amgen
+# Data Scientist - Intermediate at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-248901) |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Scientist---Intermediate_J00177802) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-02.
+This data scientist position at Equifax was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
