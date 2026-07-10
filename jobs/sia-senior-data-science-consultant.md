@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000117234878-senior-data-science-consultant) |
+| Location | Rotterdam, South Holland, The Netherlands |
+| Category | Data Scientist |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135509159-senior-data-science-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at SIA was posted on 2026-03-27.
+This data scientist position at SIA was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

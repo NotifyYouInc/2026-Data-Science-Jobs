@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Data-Scientist_R2849451) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/Data-Scientist_R2839937-1) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-04-11.
+This data scientist position at Sanofi was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

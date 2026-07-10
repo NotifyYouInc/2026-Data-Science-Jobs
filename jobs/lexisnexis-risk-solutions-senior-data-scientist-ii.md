@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Senior-Data-Scientist-II_R112695-1) |
+| Location | Chicago, Illinois, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Illinois/Senior-Data-Scientist-II_R115314) |
 
 ## About This Role
 
-This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-06-23.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

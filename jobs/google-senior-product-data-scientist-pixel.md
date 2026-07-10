@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/88261462459327174-senior-product-data-scientist-pixel?sort_by=date&page=1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdJW7LLq8nX1JBvU2pReqIxyM9xHZ6fVS-RcDg32JPr8EjsA1Ny_i-yRetJCFXKd00tJ4ZolShA2Ghit-XWfd0SzmMaUFBCpUjQL5Z7Ydwgv1AjAj3spW7DL97HMXA%3D%3D_V2&loc=US&title=Senior+Product+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-02-03.
+This data scientist position at Google was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

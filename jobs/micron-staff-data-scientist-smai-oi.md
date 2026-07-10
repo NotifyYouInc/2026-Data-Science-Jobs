@@ -1,16 +1,16 @@
-# STAFF DATA SCIENTIST, SMAI OI at Micron
+# Staff Data Scientist, SMAI OI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/STAFF-DATA-SCIENTIST--SMAI-OI_JR99069) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Staff-Data-Scientist--SMAI-OI_JR103840) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-04-27.
+This data scientist position at Micron was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

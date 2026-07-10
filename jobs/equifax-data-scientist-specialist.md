@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Scientist---Specialist_J00177383) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Scientist---Specialist_J00177803-2) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-05-28.
+This data scientist position at Equifax was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
-| Category | Data Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000118503497-data-science-consultant) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Data Scientist |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000135508979-data-science-consultant) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-04-02.
+This data scientist position at SIA was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Scientist |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Data-Scientist_REQ-10113087) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Data-Scientist_REQ-10117286) |
 
 ## About This Role
 
-This data scientist position at ING was posted on 2026-05-14.
+This data scientist position at ING was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

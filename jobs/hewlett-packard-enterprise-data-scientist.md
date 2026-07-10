@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Spring, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Data-Scientist_1206985) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-3) |
 
 ## About This Role
 
-This data scientist position at Hewlett Packard Enterprise was posted on 2026-06-08.
+This data scientist position at Hewlett Packard Enterprise was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

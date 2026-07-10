@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | Luxembourg |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451407/data-scientist-network-planning-optimization-world-wide-supply-chain-optimization-technology) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462400/data-scientist-network-planning-optimization-world-wide-supply-chain-optimization-technology) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-06-17.
+This data scientist position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | 3 locations |
 | Category | Data Scientist |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-I_R0118827) |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Decision-Science-Analyst-I_R0118377-1) |
 
 ## About This Role
 

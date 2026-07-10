@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/Data-Scientist_R000152272) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Data-Scientist_R000154190-1) |
 
 ## About This Role
 
-This data scientist position at Procter & Gamble was posted on 2026-05-29.
+This data scientist position at Procter & Gamble was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

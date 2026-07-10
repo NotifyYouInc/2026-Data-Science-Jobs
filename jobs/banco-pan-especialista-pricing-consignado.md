@@ -1,16 +1,16 @@
-# Especialista Pricing – Consignado at Banco PAN
+# Especialista Pricing - Consignado at Banco PAN
 
 | Field | Details |
 |-------|---------|
 | Company | [Banco PAN](https://scoutify.ai/companies/banco-pan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bancopan/jobs/5833436004) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bancopan/jobs/6006274004) |
 
 ## About This Role
 
-This data scientist position at Banco PAN was posted on 2026-03-23.
+This data scientist position at Banco PAN was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
