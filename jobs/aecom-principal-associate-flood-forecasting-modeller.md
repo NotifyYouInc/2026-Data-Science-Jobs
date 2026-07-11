@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Basingstoke, England, United Kingdom |
+| Location | Cardiff, Wales, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134763960-principal-associate-flood-forecasting-modeller) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134819450-principal-associate-flood-forecasting-modeller) |
 
 ## About This Role
 

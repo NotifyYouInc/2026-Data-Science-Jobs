@@ -1,16 +1,16 @@
-# Sr Associate Data Scientist at Amgen
+# Snr Data Scientist, Computational Genomics/DNA Modelling at Relationrx
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Relationrx](https://scoutify.ai/companies/relationrx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Scientist_R-248506) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/relationrx/6510dcab-fe75-4a4e-acdc-9714a22e5c64) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-03.
+This data scientist position at Relationrx was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

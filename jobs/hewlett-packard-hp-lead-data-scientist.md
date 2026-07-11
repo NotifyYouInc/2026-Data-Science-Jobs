@@ -1,16 +1,16 @@
-# Sr Associate Data Scientist at Amgen
+# Lead Data Scientist at Hewlett Packard (HP)
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Scientist_R-248506) |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/Lead-Data-Scientist_3164894-2) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-03.
+This data scientist position at Hewlett Packard (HP) was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Associate Data Scientist at Amgen
+# Alternance - Data Science (F/H) at Michelin
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Clermont-Ferrand, Rhône-Alpes, France |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Scientist_R-248506) |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Alternance---Data-Science--F-H-_R-2026025648) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-03.
+This data scientist position at Michelin was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

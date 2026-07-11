@@ -1,16 +1,16 @@
-# Statistical Project Leader at Sanofi
+# Data Engineer-AI at Hewlett Packard (HP)
 
 | Field | Details |
 |-------|---------|
-| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Statistical-Project-Leader_R2862255-1) |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/Data-Engineer-AI_3164231-1) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-07-03.
+This data engineer position at Hewlett Packard (HP) was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

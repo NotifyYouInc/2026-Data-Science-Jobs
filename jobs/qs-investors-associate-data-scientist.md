@@ -1,16 +1,16 @@
-# Sr Associate Data Scientist at Amgen
+# Associate Data Scientist at QS Investors
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Scientist_R-248506) |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Associate-Data-Scientist_868648) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-03.
+This data scientist position at QS Investors was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Associate Data Scientist at Amgen
+# Data Scientist at Michelin
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Scientist_R-248506) |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Data-Scientist_R-2026026382-1) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-03.
+This data scientist position at Michelin was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

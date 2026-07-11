@@ -1,16 +1,16 @@
-# Sr Associate Data Scientist at Amgen
+# Sr Data Scientist, AI Products at Wealthsimple
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Canada |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Scientist_R-248506) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/ca658e54-6569-4081-84ac-a9b7541e7af8) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-03.
+This data scientist position at Wealthsimple was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Associate Data Scientist at Amgen
+# Data Scientist Junior at Max Mara
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Max Mara](https://scoutify.ai/companies/maxmara?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Italy |
 | Category | Data Scientist |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-Data-Scientist_R-248506) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MaxMaraFashionGroup/744000135751093-data-scientist-junior) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-03.
+This data scientist position at Max Mara was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
