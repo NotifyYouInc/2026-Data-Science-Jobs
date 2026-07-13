@@ -1,16 +1,16 @@
-# Scientist 2, Data Science at Western Digital
+# Pr Sci Biostatistics at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Thailand |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Telangana, IN |
 | Category | Data Scientist |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135907188-scientist-2-data-science) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/PENJERLA-Telangana-India/Pr-Sci-Biostatistics_R-086410-1) |
 
 ## About This Role
 
-This data scientist position at Western Digital was posted on 2026-07-06.
+This data scientist position at Johnson & Johnson was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

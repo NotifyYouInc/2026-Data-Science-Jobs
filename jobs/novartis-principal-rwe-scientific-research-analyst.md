@@ -1,16 +1,16 @@
-# Senior Data Scientist at Amgen
+# Principal RWE Scientific Research Analyst at Novartis
 
 | Field | Details |
 |-------|---------|
-| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-248178) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Principal-RWE-Scientific-Research-Analyst_REQ-10080942) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-06.
+This data scientist position at Novartis was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

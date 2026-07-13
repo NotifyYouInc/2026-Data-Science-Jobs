@@ -1,16 +1,16 @@
-# Senior Lead, Workforce Intelligence at Salesforce
+# Senior Lead - Workforce Intelligence at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 6 locations |
-| Category | Data Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Senior-Lead--Workforce-Intelligence_JR334972) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Data Scientist |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Senior-Lead---Workforce-Intelligence_JR350467) |
 
 ## About This Role
 
-This data analyst position at Salesforce was posted on 2026-03-27.
+This data scientist position at Salesforce was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

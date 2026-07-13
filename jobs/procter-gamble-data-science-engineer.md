@@ -1,16 +1,16 @@
-# Scientist 2, Data Science at Western Digital
+# Data Science Engineer at Procter & Gamble
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Thailand |
+| Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135907188-scientist-2-data-science) |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Engineer_R000154422) |
 
 ## About This Role
 
-This data scientist position at Western Digital was posted on 2026-07-06.
+This data scientist position at Procter & Gamble was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

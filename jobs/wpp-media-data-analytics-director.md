@@ -1,16 +1,16 @@
-# Scientist 2, Data Science at Western Digital
+# Data Analytics, Director at WPP Media
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Thailand |
+| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135907188-scientist-2-data-science) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5289750008) |
 
 ## About This Role
 
-This data scientist position at Western Digital was posted on 2026-07-06.
+This data scientist position at WPP Media was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

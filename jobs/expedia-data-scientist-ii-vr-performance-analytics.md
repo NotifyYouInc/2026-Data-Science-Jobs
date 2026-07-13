@@ -1,16 +1,16 @@
-# Scientist 2, Data Science at Western Digital
+# Data Scientist II - VR Performance Analytics at Expedia
 
 | Field | Details |
 |-------|---------|
-| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Thailand |
+| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000135907188-scientist-2-data-science) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Data-Scientist-II---VR-Performance-Analytics_R-107385) |
 
 ## About This Role
 
-This data scientist position at Western Digital was posted on 2026-07-06.
+This data scientist position at Expedia was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
