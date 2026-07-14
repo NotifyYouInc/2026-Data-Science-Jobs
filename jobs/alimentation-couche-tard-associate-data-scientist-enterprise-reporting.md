@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Associate-Data-Scientist---Enterprise---Reporting_R578366-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-India/Associate-Data-Scientist---Enterprise---Reporting_R602359-4) |
 
 ## About This Role
 
-This data scientist position at Alimentation Couche-Tard was posted on 2026-05-11.
+This data scientist position at Alimentation Couche-Tard was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

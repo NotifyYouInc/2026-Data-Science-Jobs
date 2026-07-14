@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Data-Scientist_26WD97276-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Senior-Data-Scientist_26WD98925-1) |
 
 ## About This Role
 
-This data scientist position at Autodesk was posted on 2026-04-17.
+This data scientist position at Autodesk was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

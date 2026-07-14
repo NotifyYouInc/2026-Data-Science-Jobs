@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrive Logistics](https://scoutify.ai/companies/arrivelogistics?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.lever.co/arrivelogistics/2765d8a2-0e24-4f3f-9d38-08cc4202275d) |
+| Posted | 2022-05-31 |
+| Apply | [View on company site](https://jobs.lever.co/arrivelogistics/c9e86c45-39d8-440d-affa-65665d6159aa) |
 
 ## About This Role
 
-This data scientist position at Arrive Logistics was posted on 2026-06-22.
+This data scientist position at Arrive Logistics was posted on 2022-05-31.
 
 ## Get Real-Time Alerts
 

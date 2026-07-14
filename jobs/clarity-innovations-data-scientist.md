@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | North Carolina, US |
 | Category | Data Scientist |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5102302007) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5178993007) |
 
 ## About This Role
 
-This data scientist position at Clarity Innovations was posted on 2026-04-08.
+This data scientist position at Clarity Innovations was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

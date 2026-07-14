@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Science-Consultant_R-551903-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Science-Consultant_R-556412) |
 
 ## About This Role
 
-This data scientist position at Wells Fargo was posted on 2026-06-17.
+This data scientist position at Wells Fargo was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

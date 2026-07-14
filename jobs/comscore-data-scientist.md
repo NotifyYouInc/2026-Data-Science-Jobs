@@ -5,12 +5,12 @@
 | Company | [Comscore](https://scoutify.ai/companies/comscore?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://comscore.wd5.myworkdayjobs.com/External/job/IND---Pune-India/Data-Scientist_REQ1586-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://comscore.wd5.myworkdayjobs.com/External/job/Remote---India/Data-Scientist_REQ1677-1) |
 
 ## About This Role
 
-This data scientist position at Comscore was posted on 2026-04-25.
+This data scientist position at Comscore was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

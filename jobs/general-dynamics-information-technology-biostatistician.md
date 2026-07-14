@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Biostatistician_RQ223337) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Biostatistician_RQ223567) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-06-29.
+This data scientist position at General Dynamics Information Technology was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

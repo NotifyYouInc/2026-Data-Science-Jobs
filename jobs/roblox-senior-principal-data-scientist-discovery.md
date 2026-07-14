@@ -5,12 +5,12 @@
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/7701054?gh_jid=7701054) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8037082?gh_jid=8037082) |
 
 ## About This Role
 
-This data scientist position at Roblox was posted on 2026-04-23.
+This data scientist position at Roblox was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

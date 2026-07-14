@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013859734-predoctoral-research-associate-economics-and-accounting) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013915526-predoctoral-research-associate-economics-and-accounting) |
 
 ## About This Role
 
-This data scientist position at Harvard University was posted on 2026-06-30.
+This data scientist position at Harvard University was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

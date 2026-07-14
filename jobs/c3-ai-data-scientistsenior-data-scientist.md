@@ -5,12 +5,12 @@
 | Company | [C3 AI](https://scoutify.ai/companies/c3-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Redwood City, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://c3.ai/job-description/8612889002?gh_jid=8612889002) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://c3.ai/job-description/8621803002?gh_jid=8621803002) |
 
 ## About This Role
 
-This data scientist position at C3 AI was posted on 2026-06-29.
+This data scientist position at C3 AI was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

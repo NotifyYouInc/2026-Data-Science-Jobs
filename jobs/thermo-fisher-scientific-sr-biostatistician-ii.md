@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bengaluru-India/Sr-Biostatistician-II_R-01354677) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Sr-Biostatistician-II_R-01357654) |
 
 ## About This Role
 
-This data scientist position at Thermo Fisher Scientific was posted on 2026-05-27.
+This data scientist position at Thermo Fisher Scientific was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

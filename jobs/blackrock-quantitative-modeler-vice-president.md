@@ -1,16 +1,16 @@
-# Quantitative Modeler , Vice President at Blackrock
+# Quantitative Modeler, Vice President at Blackrock
 
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Quantitative-Modeler---Vice-President_R263715) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/BU3-Budapest-GTC-White-House-Vaci-ut-47-District-XIII-Budapest/Quantitative-Modeler--Vice-President_R260402) |
 
 ## About This Role
 
-This data scientist position at Blackrock was posted on 2026-05-06.
+This data scientist position at Blackrock was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

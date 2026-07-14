@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121719) |
+| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Category | Data Scientist |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=123753) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-06-23.
+This data scientist position at IBM was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

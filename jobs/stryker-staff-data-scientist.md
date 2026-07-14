@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Staff-Data-Scientist_R564451-2) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Staff-Data-Scientist_R568694) |
 
 ## About This Role
 
-This data scientist position at Stryker was posted on 2026-05-21.
+This data scientist position at Stryker was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

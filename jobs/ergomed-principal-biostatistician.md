@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ERGOMED](https://scoutify.ai/companies/ergomed?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000135067696-principal-biostatistician) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000135282540-principal-biostatistician) |
 
 ## About This Role
 
-This data scientist position at ERGOMED was posted on 2026-06-30.
+This data scientist position at ERGOMED was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
