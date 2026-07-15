@@ -1,16 +1,16 @@
-# Data Science Advisor-HIH-Evernorth at Cigna
+# Data Science Advisor - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Science-Advisor-HIH-Evernorth_26006003) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Science-Advisor---HIH---Evernorth_26001158) |
 
 ## About This Role
 
-This data scientist position at Cigna was posted on 2026-05-19.
+This data scientist position at Cigna was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

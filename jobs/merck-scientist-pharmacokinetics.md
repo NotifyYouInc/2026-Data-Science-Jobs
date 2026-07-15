@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | South San Francisco, California, United States |
+| Location | West Point, Mississippi, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/Scientist--Pharmacokinetics_R403653-2) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Scientist--Pharmacokinetics_R405152-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-07-01.
+This data scientist position at Merck was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

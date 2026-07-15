@@ -1,16 +1,16 @@
-# Social Science/Humanities Research Associate I at University of Texas at Austin
+# Social Science/Humanities Research Associate I. at University of Texas at Austin
 
 | Field | Details |
 |-------|---------|
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/UT-MAIN-CAMPUS/Social-Science-Humanities-Research-Associate-I_R_00046578) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/UT-MAIN-CAMPUS/Social-Science-Humanities-Research-Associate-I_R_00046548) |
 
 ## About This Role
 
-This data scientist position at University of Texas at Austin was posted on 2026-07-01.
+This data scientist position at University of Texas at Austin was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

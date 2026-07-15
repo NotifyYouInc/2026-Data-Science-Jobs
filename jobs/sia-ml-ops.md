@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000130419169-ml-ops) |
+| Category | Data Scientist |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136393740-ml-ops) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-06-05.
+This data scientist position at SIA was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

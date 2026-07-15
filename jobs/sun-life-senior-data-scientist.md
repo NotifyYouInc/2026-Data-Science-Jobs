@@ -5,12 +5,12 @@
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Data-Scientist_JR00125593) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Senior-Data-Scientist_JR00125670) |
 
 ## About This Role
 
-This data scientist position at Sun Life was posted on 2026-06-30.
+This data scientist position at Sun Life was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

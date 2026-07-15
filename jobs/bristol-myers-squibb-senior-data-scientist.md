@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Senior-Data-Scientist_R1602674) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Tampa---FL---US/Senior-Data-Scientist_R1603790) |
 
 ## About This Role
 
-This machine learning engineer position at Bristol-Myers Squibb was posted on 2026-05-21.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

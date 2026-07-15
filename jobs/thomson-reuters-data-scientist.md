@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ201336) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ201792) |
 
 ## About This Role
 
-This data scientist position at Thomson Reuters was posted on 2026-06-10.
+This data scientist position at Thomson Reuters was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

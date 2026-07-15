@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Massachusetts, US |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Work-from-home/Lead-Data-Scientist_R0857453-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Lead-Data-Scientist_R0961519) |
 
 ## About This Role
 
-This data scientist position at CVS Health was posted on 2026-05-08.
+This data scientist position at CVS Health was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

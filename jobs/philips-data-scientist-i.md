@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Scientist-I_581374) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Scientist-I_584467-1) |
 
 ## About This Role
 
-This data scientist position at Philips was posted on 2026-05-29.
+This data scientist position at Philips was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

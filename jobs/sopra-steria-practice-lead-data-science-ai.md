@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Nieuwegein, Utrecht, The Netherlands |
-| Category | Leadership Development Program |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000119193123-practice-lead-data-science-ai) |
+| Category | Data Scientist |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136182558-practice-lead-data-science-ai) |
 
 ## About This Role
 
-This leadership development program position at Sopra Steria was posted on 2026-04-07.
+This data scientist position at Sopra Steria was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
