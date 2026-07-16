@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Uppsala, Uppsala, Sweden |
+| Location | Cortland, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Scientist_R1313078) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Cortland-New-York-United-States/Scientist_R1314256) |
 
 ## About This Role
 
-This data scientist position at Danaher was posted on 2026-06-17.
+This data scientist position at Danaher was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

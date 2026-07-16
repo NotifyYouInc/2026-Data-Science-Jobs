@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Poland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcfuwJcqYivuFGm5e1hMk8uq__VzMxBg2oHXXVsA3zpdEjsACxwdTKYeRDT3_uybmpL0uvradJOgtOdDxtB61BPo0mM3jp8u85rLP6AlQjjzpWs2uDD6TeqSXDrjsg%3D%3D_V2&loc=PL&title=Senior+Research+Data+Scientist) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZCT_s2JrCu6PQmp7DidSSn-3uJnATMjHHhroWK8HvKJEjsA1Ny_izsEs2x_NyB8nxIGyHrZxJz3U9ROExoeD22exOdaFkviIFmso7o2fXkIONnXUAA7U-Mv3akv6g%3D%3D_V2&loc=PL&title=Senior+Research+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-04-13.
+This data scientist position at Google was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000134406155-senior-data-scientist) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136402385-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-06-26.
+This data scientist position at Experian was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

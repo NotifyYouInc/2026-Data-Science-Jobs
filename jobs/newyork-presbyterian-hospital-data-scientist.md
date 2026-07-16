@@ -5,12 +5,12 @@
 | Company | [NewYork-Presbyterian Hospital](https://scoutify.ai/companies/newyork-presbyterian-hospital?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Data-Scientist_00880623-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Data-Scientist_00884077-1) |
 
 ## About This Role
 
-This data scientist position at NewYork-Presbyterian Hospital was posted on 2026-04-27.
+This data scientist position at NewYork-Presbyterian Hospital was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

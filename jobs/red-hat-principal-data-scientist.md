@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Data-Scientist_R-048286-1) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Principal-Data-Scientist_R-058399) |
 
 ## About This Role
 
-This ai / ml research position at Red Hat was posted on 2026-06-12.
+This data scientist position at Red Hat was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

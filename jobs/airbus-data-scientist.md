@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Scientist_JR10420661) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Lisbon-Airbus-Portugal/Data-Scientist_JR10424588-1) |
 
 ## About This Role
 
-This data scientist position at Airbus was posted on 2026-06-11.
+This data scientist position at Airbus was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

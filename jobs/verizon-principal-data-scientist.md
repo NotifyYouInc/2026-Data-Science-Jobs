@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Principal-Data-Scientist_R-1095420) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Principal-Data-Scientist_R-1095417-1) |
 
 ## About This Role
 
-This data scientist position at Verizon was posted on 2026-05-28.
+This data scientist position at Verizon was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Okinawa, Okinawa, Japan |
+| Location | Alexandria, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Okinawa/Data-Scientist--Senior_R0243494) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Senior_R0243946) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-07-02.
+This data scientist position at Booz Allen was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

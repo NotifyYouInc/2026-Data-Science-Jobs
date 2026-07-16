@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Twitch](https://scoutify.ai/companies/twitch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8401220002) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8625665002) |
 
 ## About This Role
 
-This data scientist position at Twitch was posted on 2026-02-03.
+This data scientist position at Twitch was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

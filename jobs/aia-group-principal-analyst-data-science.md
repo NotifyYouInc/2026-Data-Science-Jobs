@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | China |
-| Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Principal-Analyst--Data-Science_JR-67432-2) |
+| Location | Beijing, Beijing, China |
+| Category | Data Scientist |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Beijing-CN-AIA-Shared-Services-China/Principal-Analyst--Data-Science_JR-68252-1) |
 
 ## About This Role
 
-This product manager position at AIA Group was posted on 2026-06-16.
+This data scientist position at AIA Group was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

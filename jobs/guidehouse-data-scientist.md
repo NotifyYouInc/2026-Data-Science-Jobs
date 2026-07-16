@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Data-Scientist_40750) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Norfolk/Data-Scientist_41677) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-06-26.
+This data scientist position at Guidehouse was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

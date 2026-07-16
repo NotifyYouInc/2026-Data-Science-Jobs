@@ -5,12 +5,12 @@
 | Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Data-Scientist_R-0023382) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Data-Scientist_R-0023364-1) |
 
 ## About This Role
 
-This data scientist position at AGL Energy was posted on 2026-07-02.
+This data scientist position at AGL Energy was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# data Scientist at Jabil
+# Data Scientist at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Malaysia |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/data-Scientist_J2447390) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Scientist_J2456986) |
 
 ## About This Role
 
-This data scientist position at Jabil was posted on 2026-05-29.
+This data scientist position at Jabil was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

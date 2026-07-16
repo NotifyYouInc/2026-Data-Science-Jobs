@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Des Moines, Iowa, United States |
-| Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000129992389-data-science-associate) |
+| Category | Data Scientist |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000136511169-data-science-associate) |
 
 ## About This Role
 
-This data analyst position at Wellmark, Inc. was posted on 2026-06-03.
+This data scientist position at Wellmark, Inc. was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

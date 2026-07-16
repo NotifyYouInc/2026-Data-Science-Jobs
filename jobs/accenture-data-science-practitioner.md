@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Data-Science-Practitioner_ATCP-1442848-S425254) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data-Science-Practitioner_ATCI-5635090-S2057365) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-06-26.
+This data scientist position at Accenture was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

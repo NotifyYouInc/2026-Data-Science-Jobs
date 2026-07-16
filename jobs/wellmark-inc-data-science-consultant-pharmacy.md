@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Des Moines, Iowa, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000129990590-data-science-consultant-pharmacy) |
+| Category | Data Scientist |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000136511728-data-science-consultant-pharmacy) |
 
 ## About This Role
 
-This business analyst position at Wellmark, Inc. was posted on 2026-06-03.
+This data scientist position at Wellmark, Inc. was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

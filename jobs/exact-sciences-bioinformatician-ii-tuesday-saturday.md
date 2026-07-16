@@ -1,16 +1,16 @@
-# Bioinformatician II (Tuesday - Saturday) at Exact Sciences
+# Bioinformatician II: Tuesday - Saturday at Exact Sciences
 
 | Field | Details |
 |-------|---------|
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Bioinformatician-II--Tuesday---Saturday-_R26-13548) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Bioinformatician-II--Tuesday---Saturday_R26-13589) |
 
 ## About This Role
 
-This data scientist position at Exact Sciences was posted on 2026-06-22.
+This data scientist position at Exact Sciences was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
