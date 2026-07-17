@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131671749-data-modeling-fraud-analytics-consulting-remote) |
+| Category | Data Scientist |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136878069-data-modeling-fraud-analytics-consulting-remote) |
 
 ## About This Role
 
-This technology / it consulting position at Experian was posted on 2026-06-11.
+This data scientist position at Experian was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

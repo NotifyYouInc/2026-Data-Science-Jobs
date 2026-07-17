@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5841779004) |
+| Location | Arlington, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6112014004) |
 
 ## About This Role
 
-This ai / llm engineer position at Two Six Technologies was posted on 2026-04-01.
+This data scientist position at Two Six Technologies was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

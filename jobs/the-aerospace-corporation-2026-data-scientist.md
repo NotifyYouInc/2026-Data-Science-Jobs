@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Data-Scientist_R015536) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833) |
 
 ## About This Role
 
-This data scientist position at The Aerospace Corporation was posted on 2026-06-02.
+This data scientist position at The Aerospace Corporation was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

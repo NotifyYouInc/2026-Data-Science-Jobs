@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Data-Scientist_R0324117-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Scientist_R0333342) |
 
 ## About This Role
 
-This data scientist position at Thales was posted on 2026-04-17.
+This data scientist position at Thales was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

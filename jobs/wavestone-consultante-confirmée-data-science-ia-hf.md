@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000133553229-consultante-confirmee-data-science-ia-hf) |
+| Category | Data Scientist |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000136809134-consultante-confirmee-data-science-ia-hf) |
 
 ## About This Role
 
-This machine learning engineer position at Wavestone was posted on 2026-06-23.
+This data scientist position at Wavestone was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

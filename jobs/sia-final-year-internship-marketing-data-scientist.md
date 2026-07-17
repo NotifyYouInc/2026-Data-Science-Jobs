@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000130799669-final-year-internship-marketing-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137053649-final-year-internship-marketing-data-scientist) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-06-08.
+This data scientist position at SIA was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Data-Science-Analyst_26966046) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Scientist |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Data-Science-Analyst_26974221) |
 
 ## About This Role
 
-This data analyst position at Citigroup was posted on 2026-05-27.
+This data scientist position at Citigroup was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

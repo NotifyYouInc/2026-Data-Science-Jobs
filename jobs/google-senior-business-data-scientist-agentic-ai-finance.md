@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf5FYiecF_FxlVwYJeBQicXG62a6kIt3enbMp51t6fsCEjsACxwdTCu_XNmPJeOBI3Vo_DxxYF9cuxTz8wg8ZA5VZM6ckHu24uz06ZYYiKM-oJ_kCGZrtpo-Wu_ZGw%3D%3D_V2&loc=US&title=Senior+Business+Data+Scientist) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXjaeUzzWFpHmh9zYHG6CPvVISnRHIDjQ98dwDkK9a_2EjsA1Ny_i6HnHXECreoqlsmCktunDEDrZsmk36d32LGKmGf1jm28auaNmPawLV9hg8K5QWUWb7WE7mGpzA%3D%3D_V2&loc=US&title=Senior+Business+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-04-13.
+This data scientist position at Google was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

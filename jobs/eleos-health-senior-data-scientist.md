@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Eleos Health](https://scoutify.ai/companies/eleos-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Eleos Health](https://scoutify.ai/companies/eleoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-03-29 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/eleoshealth/jobs/4822157101) |
 
 ## About This Role
 
-This machine learning engineer position at Eleos Health was posted on 2026-03-29.
+This data scientist position at Eleos Health was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

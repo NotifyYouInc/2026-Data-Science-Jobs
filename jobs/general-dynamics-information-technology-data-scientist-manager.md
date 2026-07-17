@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Scientist-Manager_RQ222488) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Scientist-Manager_RQ223073) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-06-29.
+This data scientist position at General Dynamics Information Technology was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

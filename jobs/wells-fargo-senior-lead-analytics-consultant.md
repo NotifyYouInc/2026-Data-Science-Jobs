@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 5 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/141753-NC-Three-Wells-Fargo-Center-Charlotte/Senior-Lead-Analytics-Consultant_R-530219-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Analytics-Consultant_R-559566) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-04-21.
+This technology / it consulting position at Wells Fargo was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

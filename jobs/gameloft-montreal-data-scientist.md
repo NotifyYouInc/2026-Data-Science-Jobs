@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000127197854-data-scientist) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000136782589-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Gameloft Montreal was posted on 2026-05-19.
+This data scientist position at Gameloft Montreal was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
