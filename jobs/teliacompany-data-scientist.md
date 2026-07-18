@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Solna, Stockholm, Sweden |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Solna/Data-Scientist_60909-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Vilnius/Data-Scientist_62162) |
 
 ## About This Role
 
-This data scientist position at Teliacompany was posted on 2026-04-17.
+This data scientist position at Teliacompany was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

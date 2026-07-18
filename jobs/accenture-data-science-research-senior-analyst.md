@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Science-Research-Senior-Analyst_14220409-1) |
+| Category | Data Scientist |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Science-Research-Senior-Analyst_14183271-1) |
 
 ## About This Role
 
-This data engineer position at Accenture was posted on 2026-05-21.
+This data scientist position at Accenture was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

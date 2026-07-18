@@ -5,12 +5,12 @@
 | Company | [84.51°](https://scoutify.ai/companies/8451?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/8451/jobs/8497437002) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/8451/jobs/8618262002) |
 
 ## About This Role
 
-This data scientist position at 84.51° was posted on 2026-04-20.
+This data scientist position at 84.51° was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

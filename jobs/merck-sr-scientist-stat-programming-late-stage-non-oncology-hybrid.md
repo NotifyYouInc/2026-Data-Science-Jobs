@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Sr-Scientist--Stat-Programming---Late-Stage--Non-Oncology---Hybrid-_R390243) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Sr-Scientist--Stat-Programming---Late-Stage--Non-Oncology---Hybrid-_R406345-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-04-16.
+This data scientist position at Merck was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

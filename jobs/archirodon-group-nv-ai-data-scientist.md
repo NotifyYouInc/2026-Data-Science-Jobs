@@ -5,12 +5,12 @@
 | Company | [Archirodon Group N.V](https://scoutify.ai/companies/archirodon-group-nv?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Greece |
 | Category | Data Scientist |
-| Posted | 2025-10-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/archirodongroup/744000085535472-ai-data-scientist) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/archirodongroup/744000137093734-ai-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Archirodon Group N.V was posted on 2025-10-03.
+This data scientist position at Archirodon Group N.V was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

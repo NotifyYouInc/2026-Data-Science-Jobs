@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013366216-senior-data-scientist) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014025952-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at City of New York was posted on 2026-05-29.
+This data scientist position at City of New York was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

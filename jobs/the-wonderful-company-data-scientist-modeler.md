@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000136521620-data-scientist-modeler) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000136900139-data-scientist-modeler) |
 
 ## About This Role
 
-This data scientist position at The Wonderful Company was posted on 2026-07-08.
+This data scientist position at The Wonderful Company was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

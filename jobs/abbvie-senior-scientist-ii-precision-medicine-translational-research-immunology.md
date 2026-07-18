@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013154631-senior-scientist-ii-precision-medicine-translational-research-immunology) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014045186-senior-scientist-ii-precision-medicine-translational-research-immunology) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-05-15.
+This data scientist position at AbbVie was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

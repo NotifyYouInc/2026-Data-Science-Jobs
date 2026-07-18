@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Gurgaon/Senior-Data-Scientist-I_R112809-1) |
+| Location | United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/United-Kingdom/Senior-Data-Scientist-I_R114918) |
 
 ## About This Role
 
-This ai / ml research position at LexisNexis Risk Solutions was posted on 2026-05-20.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
