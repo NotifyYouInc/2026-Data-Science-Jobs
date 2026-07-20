@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Senior Specialist, Data Science & Artificial Intelligence II at Ma'aden
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Ma'aden](https://scoutify.ai/companies/ocs-cx-oj65712?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Apply | [View on company site](https://fa-epod-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#7431) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Ma'aden was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

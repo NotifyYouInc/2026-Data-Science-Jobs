@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Data Scientist at Chattermill
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Chattermill](https://scoutify.ai/companies/chattermill?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/chattermill/ee76441a-6929-406a-bd89-1b854ff7d4bc) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Chattermill was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

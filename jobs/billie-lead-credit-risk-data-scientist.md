@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Lead Credit Risk Data Scientist at Billie
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Billie](https://scoutify.ai/companies/billie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/billie/91765ca2-a722-4899-8018-3f56d414c191) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Billie was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

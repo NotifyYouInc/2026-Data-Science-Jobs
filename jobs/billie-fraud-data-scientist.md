@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Fraud Data Scientist at Billie
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Billie](https://scoutify.ai/companies/billie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/billie/071824a1-5908-465c-922d-47e663fbd656) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Billie was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

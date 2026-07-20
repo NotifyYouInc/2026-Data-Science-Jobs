@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Data Scientist (m/w/d) // Remote möglich at Breuninger
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Breuninger](https://scoutify.ai/companies/breuninger?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000137397262-data-scientist-mwd-remote-moglich) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Breuninger was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

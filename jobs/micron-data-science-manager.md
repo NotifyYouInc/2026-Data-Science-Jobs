@@ -1,16 +1,16 @@
-# DATA SCIENCE MANAGER at Micron
+# Data Science Manager at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Taoyuan, Taiwan, Taiwan |
-| Category | Engineering Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/DATA-SCIENCE-MANAGER_JR103303) |
+| Location | Taichung, Taiwan, Taiwan |
+| Category | Data Scientist |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---AATT-Taiwan/Data-Science-Manager_JR105326) |
 
 ## About This Role
 
-This engineering manager position at Micron was posted on 2026-06-03.
+This data scientist position at Micron was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

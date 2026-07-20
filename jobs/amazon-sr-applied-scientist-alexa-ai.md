@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Sr. Applied Scientist, Alexa AI at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10471911/sr-applied-scientist-alexa-ai) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Amazon was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

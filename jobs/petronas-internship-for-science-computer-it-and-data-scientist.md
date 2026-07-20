@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Internship for Science Computer, IT and Data Scientist at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#27952) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at PETRONAS was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Specialized Analytics Sr Anlst - C12 - WARSAW at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Specialized-Analytics-Sr-Anlst---C12---WARSAW_26977279) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Citigroup was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

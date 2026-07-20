@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Data Scientist at A3Data
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [A3Data](https://scoutify.ai/companies/a3data?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Prado, Bahia, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Posted | 2020-10-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/A3Data/743999722620603-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at A3Data was posted on 2020-10-22.
 
 ## Get Real-Time Alerts
 

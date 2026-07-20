@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Senior Manager - Data Sciences & AI at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Manager---Data-Sciences---AI_R-248437) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at Amgen was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

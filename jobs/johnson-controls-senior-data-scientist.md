@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Senior-Data-Scientist_WD30267654-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Senior-Data-Scientist_WD30274297) |
 
 ## About This Role
 
-This data scientist position at Johnson Controls was posted on 2026-05-05.
+This data scientist position at Johnson Controls was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

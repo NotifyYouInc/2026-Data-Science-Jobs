@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Manager, BI at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Chengdu, Sichuan, China |
 | Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137357859-data-scientist) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Manager--BI_JR-67848-1) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-13.
+This data scientist position at AIA Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
