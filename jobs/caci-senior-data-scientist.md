@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Springfield/Senior-Data-Scientist_326152) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Senior-Data-Scientist_328969) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-05-14.
+This data scientist position at CACI was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

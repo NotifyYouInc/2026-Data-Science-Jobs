@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSL](https://scoutify.ai/companies/csl?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Switzerland |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/EMEA-CH-Schlieren-CSL-Behring/Principal-Biostatistician_R-263586-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Principal-Statistician_R-282817) |
 
 ## About This Role
 
-This data scientist position at CSL was posted on 2026-03-19.
+This data scientist position at CSL was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

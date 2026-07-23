@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Eindhoven, North Brabant, The Netherlands |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Science---AI-Lead_581782-2) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Data-Science---AI-Lead_587110-1) |
 
 ## About This Role
 
-This data scientist position at Philips was posted on 2026-05-11.
+This data scientist position at Philips was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8016811?gh_jid=8016811) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8061938?gh_jid=8061938) |
 
 ## About This Role
 
-This data scientist position at Roku was posted on 2026-06-18.
+This data scientist position at Roku was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

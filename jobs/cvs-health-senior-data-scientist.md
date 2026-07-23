@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Florida, US |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Texas/Senior-Data-Scientist_R0965190) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Florida/Senior-Data-Scientist--Products_R0923029) |
 
 ## About This Role
 
-This data scientist position at CVS Health was posted on 2026-07-09.
+This data scientist position at CVS Health was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

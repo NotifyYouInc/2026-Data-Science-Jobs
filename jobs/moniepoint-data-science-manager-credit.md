@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Spain |
+| Location | Poland |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4737157101) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4928260101) |
 
 ## About This Role
 
-This data scientist position at Moniepoint was posted on 2026-06-04.
+This data scientist position at Moniepoint was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

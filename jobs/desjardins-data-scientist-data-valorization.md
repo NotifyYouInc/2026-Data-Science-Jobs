@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Scientifique-de-donnes--Assurance-de-personnes_R2607735) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Scientifique-de-donnes-Validation-des-modles--March-et-Liquidits_R2608982) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-06-09.
+This data scientist position at Desjardins was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

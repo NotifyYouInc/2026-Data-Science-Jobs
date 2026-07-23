@@ -1,16 +1,16 @@
-# Senior Data Scientist at Intuitive Surgical
+# Senior Data Scientist  at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Peachtree Corners, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126405240-senior-data-scientist) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000137750949-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Intuitive Surgical was posted on 2026-05-13.
+This data scientist position at Intuitive Surgical was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

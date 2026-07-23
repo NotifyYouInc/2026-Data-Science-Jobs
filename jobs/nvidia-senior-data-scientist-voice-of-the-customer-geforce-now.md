@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist--Voice-of-the-Customer---GeForce-NOW_JR2017673) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist--Voice-of-the-Customer---GeForce-NOW_JR2021250) |
 
 ## About This Role
 
-This data scientist position at Nvidia was posted on 2026-05-07.
+This data scientist position at Nvidia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

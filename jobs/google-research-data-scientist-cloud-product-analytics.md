@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckToBn8KVS8t-y0eBkx_tOEuqfrvlH0KyVyuq9qzStA_VEjsACxwdTMpoJB1jGnhRPAr4g1jchXqQvKyYHz7HSClJABn1F2AnECZwJZwIvDzLe22uN-L3UuCUM5XI3Q%3D%3D_V2&loc=US&title=Research+Data+Scientist) |
+| Category | Data Scientist |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbsPiVg7tPtRzRrrhH_c9XyJpLGJh-sQhOdSRvMW6PLzEjsA1Ny_iwc2flIsDs0xEmO3senPWJyDNBpdhrpjt_X2CD2xUrxQ7jWBZOdoui-hkVsnrgr_M1rNvV3w5g%3D%3D_V2&loc=US&title=Research+Data+Scientist) |
 
 ## About This Role
 
-This ux researcher position at Google was posted on 2026-05-29.
+This data scientist position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

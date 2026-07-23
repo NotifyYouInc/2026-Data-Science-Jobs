@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_178038) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Melbourne-Australia/Data-Scientist--Specialist_180435) |
 
 ## About This Role
 
-This data scientist position at Vanguard was posted on 2026-06-24.
+This data scientist position at Vanguard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

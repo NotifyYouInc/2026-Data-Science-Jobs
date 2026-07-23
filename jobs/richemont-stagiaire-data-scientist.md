@@ -5,12 +5,12 @@
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | La Chaux-de-Fonds, Neuchâtel, Switzerland |
 | Category | Data Scientist |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/LA-CHAUX-DE-FONDS/Stagiaire-Data-Scientist_JR125574-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/LA-CHAUX-DE-FONDS/Stagiaire-Data-Scientist_JR130357-1) |
 
 ## About This Role
 
-This data scientist position at Richemont was posted on 2026-02-23.
+This data scientist position at Richemont was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Beijing-China/-Data-Scientist---Beijing_R1531149) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Beijing-China/-Data-Scientist---Beijing_R1557330) |
 
 ## About This Role
 
-This data scientist position at IQVIA was posted on 2026-06-25.
+This data scientist position at IQVIA was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

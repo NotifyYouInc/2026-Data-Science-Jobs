@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / ML Research |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000129402836-senior-data-scientist-ai-consultant) |
+| Category | Data Scientist |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000137810999-senior-data-scientist-ai-consultant) |
 
 ## About This Role
 
-This ai / ml research position at SIA was posted on 2026-06-01.
+This data scientist position at SIA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

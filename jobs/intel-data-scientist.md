@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Malaysia |
+| Location | Hillsboro, Oregon, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Data-Scientist_JR0285063) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Scientist_JR0285516) |
 
 ## About This Role
 
-This data scientist position at Intel was posted on 2026-06-24.
+This data scientist position at Intel was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

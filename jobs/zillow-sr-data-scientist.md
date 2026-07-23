@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Sr-Data-Scientist_P749324) |
+| Category | Data Scientist |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Sr-Data-Scientist_P750864) |
 
 ## About This Role
 
-This machine learning engineer position at Zillow was posted on 2026-03-02.
+This data scientist position at Zillow was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

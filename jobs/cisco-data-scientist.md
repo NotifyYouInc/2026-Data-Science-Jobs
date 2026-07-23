@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Data-Scientist_2011311-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Data-Scientist_2019000) |
 
 ## About This Role
 
-This data scientist position at Cisco was posted on 2026-04-10.
+This data scientist position at Cisco was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

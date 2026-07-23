@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/Senior-Data-Scientist_3164233-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Senior-Data-Scientist_3164422-2) |
 
 ## About This Role
 
-This data scientist position at Hewlett Packard (HP) was posted on 2026-06-26.
+This data scientist position at Hewlett Packard (HP) was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

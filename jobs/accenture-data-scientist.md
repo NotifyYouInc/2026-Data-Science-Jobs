@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Data-Scientist_R00329065) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai-Tsidi-Building/Data-Scientist_14477300) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-05-05.
+This data scientist position at Accenture was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

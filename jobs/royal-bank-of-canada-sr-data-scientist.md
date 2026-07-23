@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Sr-Data-Scientist_R-0000171470-2) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/Sr-Data-Scientist_R-0000178185-2) |
 
 ## About This Role
 
-This data scientist position at Royal Bank of Canada was posted on 2026-06-03.
+This data scientist position at Royal Bank of Canada was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

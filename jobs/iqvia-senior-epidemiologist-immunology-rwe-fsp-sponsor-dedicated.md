@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Durham-North-Carolina-United-States-of-America/Senior-Epidemiologist--Immunology--RWE--FSP-Sponsor-Dedicated-_R1554540) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Senior-Epidemiologist--Immunology--RWE--FSP-Sponsor-Dedicated-_R1556830) |
 
 ## About This Role
 
-This data scientist position at IQVIA was posted on 2026-07-06.
+This data scientist position at IQVIA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

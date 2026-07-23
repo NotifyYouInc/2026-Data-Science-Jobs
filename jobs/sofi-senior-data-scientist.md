@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sofi.com/careers/job/7667953003?gh_jid=7667953003) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://sofi.com/careers/job/7805247003?gh_jid=7805247003) |
 
 ## About This Role
 
-This data scientist position at SoFi was posted on 2026-03-18.
+This data scientist position at SoFi was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist, Amazon Music - DISCO at Amazon
+# Data Scientist , Amazon Music - DISCO at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Scientist |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447525/data-scientist-amazon-music-disco) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10474937/data-scientist-amazon-music-disco) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-06-12.
+This data scientist position at Amazon was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

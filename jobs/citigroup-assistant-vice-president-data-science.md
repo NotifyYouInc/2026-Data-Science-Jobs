@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Assistant-Vice-President---Data-Science_26976601) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Assistant-Vice-President---Data-Science_26978022) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-07-06.
+This data scientist position at Citigroup was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

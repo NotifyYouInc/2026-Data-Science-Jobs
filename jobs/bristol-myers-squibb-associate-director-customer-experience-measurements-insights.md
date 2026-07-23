@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Princeton, Florida, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Director--Customer-Experience-Measurements---Insights_R1599373) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Director--Customer-Experience-Measurements---Insights_R1604428-1) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-02-25.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

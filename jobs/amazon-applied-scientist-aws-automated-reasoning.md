@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443582/applied-scientist-aws-automated-reasoning) |
+| Location | Seattle, Washington, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10475958/applied-scientist-aws-automated-reasoning) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-06-09.
+This data scientist position at Amazon was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

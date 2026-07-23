@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dublin, California, United States |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Data-Scientist_20180557) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Data-Scientist_20183734) |
 
 ## About This Role
 
-This data scientist position at Cardinal Health was posted on 2026-05-18.
+This data scientist position at Cardinal Health was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

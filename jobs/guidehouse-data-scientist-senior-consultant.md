@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Scientist---Senior-Consultant_40183-1) |
+| Category | Data Scientist |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Scientist---Senior-Consultant_42022) |
 
 ## About This Role
 
-This strategy / management consulting position at Guidehouse was posted on 2026-06-04.
+This data scientist position at Guidehouse was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

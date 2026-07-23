@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flatiron Health](https://scoutify.ai/companies/flatiron-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://flatiron.com/careers/open-positions/job?gh_jid=7967320) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | Data Scientist |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://flatiron.com/careers/open-positions/job?gh_jid=8041935) |
 
 ## About This Role
 
-This ai / ml research position at Flatiron Health was posted on 2026-05-29.
+This data scientist position at Flatiron Health was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

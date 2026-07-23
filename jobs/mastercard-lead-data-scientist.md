@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Budapest-Hungary/Lead-Data-Scientist_R-281253) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Lead-Data-Scientist_R-280922) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-07-07.
+This data scientist position at Mastercard was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

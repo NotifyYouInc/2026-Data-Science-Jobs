@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United Kingdom |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/United-Kingdom/Data-Scientist-III_R114916-2) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Gurgaon/Data-Scientist-III_R115980) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-07-10.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

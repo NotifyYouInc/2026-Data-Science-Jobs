@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Singapore-DUO-Tower-Singapore/Data-Scientist_R000071137-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Data-Scientist_R000072101-1) |
 
 ## About This Role
 
-This data scientist position at Chevron was posted on 2026-05-19.
+This data scientist position at Chevron was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

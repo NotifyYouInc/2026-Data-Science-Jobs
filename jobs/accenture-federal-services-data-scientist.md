@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Maryland, US |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4651049006?gh_jid=4651049006) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4689015006?gh_jid=4689015006) |
 
 ## About This Role
 
-This data scientist position at Accenture Federal Services was posted on 2026-05-19.
+This data scientist position at Accenture Federal Services was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Jose, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7649535980831820085/detail) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660315792506964229/detail) |
 
 ## About This Role
 
-This data scientist position at TikTok was posted on 2026-06-10.
+This data scientist position at TikTok was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
