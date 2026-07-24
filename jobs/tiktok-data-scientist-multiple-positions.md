@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Culver City, California, United States |
+| Location | San Jose, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7660649494686976309/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660310315746887941/detail) |
 
 ## About This Role
 

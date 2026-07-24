@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013588996-data-scientist) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014142825-data-scientist) |
 
 ## About This Role
 
-This data scientist position at The Nielsen Company was posted on 2026-06-11.
+This data scientist position at The Nielsen Company was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

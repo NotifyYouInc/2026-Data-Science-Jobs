@@ -5,12 +5,12 @@
 | Company | [Honeycomb Insurance](https://scoutify.ai/companies/honeycombinsurance?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Scientist |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/honeycombinsurance/jobs/4699070005) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/honeycombinsurance/jobs/4715073005) |
 
 ## About This Role
 
-This data scientist position at Honeycomb Insurance was posted on 2026-05-27.
+This data scientist position at Honeycomb Insurance was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

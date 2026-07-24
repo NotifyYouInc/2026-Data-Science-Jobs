@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | White Plains, New York, United States |
+| Location | Purchase, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Fraud-Rules-Data-Science-and-Testing-Specialist---Vice-President_PT-JR035219) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Fraud-Rules-Data-Science-and-Testing-Specialist---Vice-President_PT-JR040746-1) |
 
 ## About This Role
 
-This data scientist position at Morgan Stanley was posted on 2026-04-17.
+This data scientist position at Morgan Stanley was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

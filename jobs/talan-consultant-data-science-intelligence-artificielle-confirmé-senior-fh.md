@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120951875-consultant-data-science-intelligence-artificielle-confirme-senior-fh) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000138126151-consultant-data-science-intelligence-artificielle-confirme-senior-fh) |
 
 ## About This Role
 
-This data scientist position at Talan was posted on 2026-04-15.
+This data scientist position at Talan was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

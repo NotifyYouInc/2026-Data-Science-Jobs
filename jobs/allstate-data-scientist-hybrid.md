@@ -1,16 +1,16 @@
-# Data Scientist (Hybrid) at Allstate
+# Data Scientist- Hybrid at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/Data-Scientist--Hybrid-_R27758) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/Data-Scientist--Hybrid_R32799-1) |
 
 ## About This Role
 
-This data scientist position at Allstate was posted on 2026-03-26.
+This data scientist position at Allstate was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

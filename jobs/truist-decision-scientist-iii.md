@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-III_R0115247) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Decision-Scientist-III_R0116852) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-06-04.
+This data scientist position at Truist was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

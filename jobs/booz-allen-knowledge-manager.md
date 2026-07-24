@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Doral, Florida, United States |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Doral-FL/Knowledge-Manager_R0235054) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Knowledge-Manager_R0244379) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-03-03.
+This data scientist position at Booz Allen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Senior-Data-Scientist_R22618-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Senior-Data-Scientist_R22858) |
 
 ## About This Role
 
-This data scientist position at Nelnet was posted on 2026-05-11.
+This data scientist position at Nelnet was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
