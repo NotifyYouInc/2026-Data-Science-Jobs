@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0115272) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0116758) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-06-08.
+This data scientist position at Truist was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

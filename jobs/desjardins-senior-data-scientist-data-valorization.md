@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Stratgie-d-IA-et-cas-d-usage_R2601517-2) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Intgration-de-solutions-d-intelligence-artificielle_R2609222) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-02-03.
+This data scientist position at Desjardins was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

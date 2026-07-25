@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | Financial Crimes & AML |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000132848395-staff-data-scientist-aml) |
+| Category | Data Scientist |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138287909-staff-data-scientist-aml) |
 
 ## About This Role
 
-This financial crimes & aml position at WISE was posted on 2026-06-18.
+This data scientist position at WISE was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

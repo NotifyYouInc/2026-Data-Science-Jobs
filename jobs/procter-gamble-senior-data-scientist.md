@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/Senior-Data-Scientist_R000146424-1) |
+| Location | Switzerland |
+| Category | Data Scientist |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/GENEVA-BUSINESS-CENTER/Senior-Data-Scientist_R000155289) |
 
 ## About This Role
 
-This machine learning engineer position at Procter & Gamble was posted on 2026-04-03.
+This data scientist position at Procter & Gamble was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

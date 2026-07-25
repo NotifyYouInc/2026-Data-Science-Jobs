@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Principal-Data-Scientist_364545) |
+| Category | Data Scientist |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Principal-Data-Scientist_365326) |
 
 ## About This Role
 
-This ai / ml research position at Signify was posted on 2026-06-04.
+This data scientist position at Signify was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

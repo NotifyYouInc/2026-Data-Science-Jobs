@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mengeš, Mengeš, Slovenia |
 | Category | Data Scientist |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Menge/Specialist-za-podatkovno-znanost-in-UI--m-d-f----Specialist-Data-Science---AI--m-d-f-_REQ-10076835-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Menge/Specialist-za-podatkovno-znanost-in-UI--m-d-f----Specialist-Data-Science---AI--m-d-f-_REQ-10083900-1) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-05-14.
+This data scientist position at Novartis was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

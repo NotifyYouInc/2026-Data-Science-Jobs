@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Scientist--VP_R-00274245) |
+| Category | Data Scientist |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Scientist--VP_R-00282009) |
 
 ## About This Role
 
-This machine learning engineer position at NatWest Group was posted on 2026-03-02.
+This data scientist position at NatWest Group was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

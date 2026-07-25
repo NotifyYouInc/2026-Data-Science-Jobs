@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kemper](https://scoutify.ai/companies/kemper?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 7 locations |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Dallas-Texas/Data-Scientist_R-26-0035509) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Alpharetta-Georgia/Data-Scientist_R-26-0037400) |
 
 ## About This Role
 
-This data scientist position at Kemper was posted on 2026-04-07.
+This data scientist position at Kemper was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

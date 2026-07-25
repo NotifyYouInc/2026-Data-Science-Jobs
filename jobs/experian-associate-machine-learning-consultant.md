@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Learning & Development |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137373599-associate-machine-learning-consultant) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138298946-associate-machine-learning-consultant) |
 
 ## About This Role
 
-This learning & development position at Experian was posted on 2026-07-13.
+This learning & development position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

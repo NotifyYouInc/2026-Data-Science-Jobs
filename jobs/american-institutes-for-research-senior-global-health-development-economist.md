@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Institutes for Research](https://scoutify.ai/companies/americaninstitutesforresearch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Carolina, US |
+| Location | 5 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5289818008) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5363077008) |
 
 ## About This Role
 
-This data scientist position at American Institutes for Research was posted on 2026-07-06.
+This data scientist position at American Institutes for Research was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# DATA SCIENTIST SMART MFG & AI at Micron
+# DATA SCIENTIST, SMART MFG & AI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/DATA-SCIENTIST-SMART-MFG---AI_JR97659) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/DATA-SCIENTIST--SMART-MFG---AI_JR106488) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-04-15.
+This data scientist position at Micron was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Switzerland |
 | Category | Data Scientist |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Data-Scientist_R000154190-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/GENEVA-BUSINESS-CENTER/Data-Scientist_R000155037) |
 
 ## About This Role
 
-This data scientist position at Procter & Gamble was posted on 2026-07-03.
+This data scientist position at Procter & Gamble was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

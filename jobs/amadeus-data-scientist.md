@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Valencia, Carabobo, Venezuela |
 | Category | Data Scientist |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Pune/Data-Scientist_R34078) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Valencia-FWK/Data-Scientist_R36171) |
 
 ## About This Role
 
-This data scientist position at Amadeus was posted on 2026-03-11.
+This data scientist position at Amadeus was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

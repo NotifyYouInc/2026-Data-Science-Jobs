@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Data-Scientist--AVP_R-00277273) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Data-Scientist--AVP_R-00282006) |
 
 ## About This Role
 
-This data scientist position at NatWest Group was posted on 2026-04-27.
+This data scientist position at NatWest Group was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

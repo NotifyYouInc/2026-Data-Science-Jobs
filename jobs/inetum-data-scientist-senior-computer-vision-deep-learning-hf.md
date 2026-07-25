@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Ollioules, Provence-Alpes-Côte d'Azur, France |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122614770-data-scientist-senior-computer-vision-deep-learning-hf) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000138351722-data-scientist-senior-computer-vision-deep-learning-hf) |
 
 ## About This Role
 
-This data scientist position at Inetum was posted on 2026-04-24.
+This data scientist position at Inetum was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
