@@ -1,16 +1,16 @@
-# Sr Data Scientist at PayPal
+# Principal Data Scientist, SIP at Invesco
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Data-Scientist_R0137115) |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Principal-Data-Scientist--SIP_R-14471) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-07-17.
+This data scientist position at Invesco was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
