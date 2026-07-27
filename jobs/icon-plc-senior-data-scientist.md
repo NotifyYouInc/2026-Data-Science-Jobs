@@ -1,16 +1,16 @@
-# Advanced Data Scientist at Honeywell
+# Senior Data Scientist at ICON plc
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153628) |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Data-Scientist_JR155819) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-20.
+This data scientist position at ICON plc was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

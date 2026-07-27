@@ -1,16 +1,16 @@
-# Advanced Data Scientist at Honeywell
+# Senior Data Scientist at EchoTwin AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [EchoTwin AI](https://scoutify.ai/companies/echotwin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153628) |
+| Posted | 2025-09-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/echotwin/8d0a8ac3-1bf2-4766-b966-e88ce43e18c6) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-20.
+This data scientist position at EchoTwin AI was posted on 2025-09-06.
 
 ## Get Real-Time Alerts
 

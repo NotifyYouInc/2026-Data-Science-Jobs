@@ -1,16 +1,16 @@
-# Advanced Data Scientist at Honeywell
+# Manager I, Data Scientist at Kroll
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Kroll](https://scoutify.ai/companies/us2-cx-oj60987?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | India |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153628) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://hcxs.fa.us2.oraclecloud.com/jobs/#21014103) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-20.
+This data scientist position at Kroll was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

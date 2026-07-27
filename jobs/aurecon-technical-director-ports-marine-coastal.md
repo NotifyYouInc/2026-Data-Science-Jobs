@@ -1,16 +1,16 @@
-# Advanced Data Scientist at Honeywell
+# Technical Director, Ports, Marine & Coastal at Aurecon
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Aurecon](https://scoutify.ai/companies/aurecon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | Data Scientist |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153628) |
+| Apply | [View on company site](https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Perth/Technical-Director--Ports--Marine---Coastal_R33105-1) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-20.
+This data scientist position at Aurecon was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

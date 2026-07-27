@@ -1,16 +1,16 @@
-# Advanced Data Scientist at Honeywell
+# Sr Manager Customer Insights at Southwest Airlines
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Data Scientist |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153628) |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Manager-Customer-Insights_R-2026-70107) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-20.
+This data scientist position at Southwest Airlines was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

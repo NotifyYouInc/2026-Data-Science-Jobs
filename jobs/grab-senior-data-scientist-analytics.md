@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000135209926-senior-data-scientist-analytics) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138566499-senior-data-scientist-analytics) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-07-01.
+This data scientist position at Grab was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

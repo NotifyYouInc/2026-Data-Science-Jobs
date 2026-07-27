@@ -1,16 +1,16 @@
-# Advanced Data Scientist at Honeywell
+# Energy Transition Modeller Full-time position (40h/week) at AFRY
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Vienna, Vienna, Austria |
 | Category | Data Scientist |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153628) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000138572999-energy-transition-modeller-full-time-position-40hweek) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-20.
+This data scientist position at AFRY was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

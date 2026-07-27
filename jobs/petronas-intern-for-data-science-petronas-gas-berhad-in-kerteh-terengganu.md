@@ -1,16 +1,16 @@
-# Advanced Data Scientist at Honeywell
+# Intern for Data Science, PETRONAS Gas Berhad in Kerteh, Terengganu at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Terengganu, MY |
 | Category | Data Scientist |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#153628) |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#28942) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-20.
+This data scientist position at PETRONAS was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
