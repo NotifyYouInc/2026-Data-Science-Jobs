@@ -5,12 +5,12 @@
 | Company | [Neara](https://scoutify.ai/companies/neara?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/neara/fc27da5c-91fa-4315-9739-4e45922f1c59) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/neara/3c69f2d3-9bbc-4f88-8406-291276bdd3e1) |
 
 ## About This Role
 
-This data scientist position at Neara was posted on 2026-05-20.
+This data scientist position at Neara was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

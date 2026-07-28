@@ -5,12 +5,12 @@
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Senior-Data-Scientist_R0026164-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Associate-Consultant-Operations-US_R0026275-1) |
 
 ## About This Role
 
-This data scientist position at Elanco was posted on 2026-06-18.
+This data scientist position at Elanco was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

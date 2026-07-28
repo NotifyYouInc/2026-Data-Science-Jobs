@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Technology / IT Consulting |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137809279-analytics-consultant) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138283999-analytics-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Experian was posted on 2026-07-15.
+This technology / it consulting position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Data-Scientist--Level-4_R0045965) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Data-Scientist--Level-4_Q326DSA4) |
 
 ## About This Role
 
-This data scientist position at Snapchat was posted on 2026-06-25.
+This data scientist position at Snapchat was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

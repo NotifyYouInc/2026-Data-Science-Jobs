@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Valparaiso, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00186959-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Valparaiso-FL/Data-Scientist_R-00187688) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-07-09.
+This data scientist position at Leidos was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

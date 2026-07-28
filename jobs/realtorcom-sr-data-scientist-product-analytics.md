@@ -5,12 +5,12 @@
 | Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7800576003?gh_jid=7800576003) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7807919003?gh_jid=7807919003) |
 
 ## About This Role
 
-This data scientist position at Realtor.com was posted on 2026-07-09.
+This data scientist position at Realtor.com was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

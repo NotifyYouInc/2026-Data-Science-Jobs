@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/Statistical-Science-Director_R-252966) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Science-Director_R-244641-1) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-06-15.
+This data scientist position at AstraZeneca was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

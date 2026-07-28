@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Virginia, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fort-Eustis/Data-Scientist---Senior_R0161855) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Data-Scientist---Senior_R0166435) |
 
 ## About This Role
 
-This data scientist position at Amentum was posted on 2026-05-20.
+This data scientist position at Amentum was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
