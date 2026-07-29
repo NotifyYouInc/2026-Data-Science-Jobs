@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Scientist_R19158-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Data-Scientist_R19399-1) |
 
 ## About This Role
 
-This data scientist position at Zoom was posted on 2026-05-08.
+This data scientist position at Zoom was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

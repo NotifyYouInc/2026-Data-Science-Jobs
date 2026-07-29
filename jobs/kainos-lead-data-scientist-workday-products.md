@@ -1,0 +1,22 @@
+# Lead Data Scientist - Workday Products at Kainos
+
+| Field | Details |
+|-------|---------|
+| Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Lead-Data-Scientist---Workday-Products_JR_18098) |
+
+## About This Role
+
+This data scientist position at Kainos was posted on 2026-07-21.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

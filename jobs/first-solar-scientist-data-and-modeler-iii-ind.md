@@ -5,12 +5,12 @@
 | Company | [First Solar](https://scoutify.ai/companies/ocs-cx-oj39405?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tamil Nadu, IN |
 | Category | Data Scientist |
-| Posted | 2025-11-11 |
-| Apply | [View on company site](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1022931) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1025078) |
 
 ## About This Role
 
-This data scientist position at First Solar was posted on 2025-11-11.
+This data scientist position at First Solar was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Strategy & Operations |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Global-Lead--Medical-Intelligence-to-Strategy_R2863339) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Amsterdam/Global-Lead--Medical-Intelligence-to-Strategy_R2863453) |
 
 ## About This Role
 
-This strategy & operations position at Sanofi was posted on 2026-07-13.
+This strategy & operations position at Sanofi was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

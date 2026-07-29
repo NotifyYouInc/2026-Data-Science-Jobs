@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Software-Engineer---Data-Scientist_WD30271443) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Software-Engineer---Data-Scientist_WD30274515-1) |
 
 ## About This Role
 
-This software engineer position at Johnson Controls was posted on 2026-06-05.
+This software engineer position at Johnson Controls was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

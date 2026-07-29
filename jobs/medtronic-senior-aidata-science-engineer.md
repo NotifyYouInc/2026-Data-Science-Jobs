@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-AI-Data-Science-Engineer_R72019-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-AI-Data-Science-Engineer_R69815-1) |
 
 ## About This Role
 
-This data scientist position at Medtronic was posted on 2026-07-15.
+This data scientist position at Medtronic was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

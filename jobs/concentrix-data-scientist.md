@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Philippines |
+| Location | Thāne, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Muntinlupa-City/Data-Scientist_R1739633) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Thane---11th-Floor-G-Corp-Tech-Park-Ghodbunder-Road/Data-Scientist_R1741702) |
 
 ## About This Role
 
-This data scientist position at Concentrix was posted on 2026-06-18.
+This data scientist position at Concentrix was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

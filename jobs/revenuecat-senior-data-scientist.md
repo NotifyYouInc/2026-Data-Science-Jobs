@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/453cfb8c-0a21-4f67-abf1-9c0a9d2c15c0) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/22cccdd0-817d-460f-9f9d-a3d0ab3e6e2b) |
 
 ## About This Role
 
-This data scientist position at RevenueCat was posted on 2026-02-03.
+This data scientist position at RevenueCat was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

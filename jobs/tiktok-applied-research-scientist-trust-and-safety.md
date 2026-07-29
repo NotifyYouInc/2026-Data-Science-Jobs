@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Data Scientist |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7662452236483643701/detail) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7662454444147509557/detail) |
 
 ## About This Role
 

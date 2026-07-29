@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HeartFlow, Inc](https://scoutify.ai/companies/heartflow-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/5978358004) |
+| Category | Data Scientist |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/6122049004) |
 
 ## About This Role
 
-This ai / ml research position at HeartFlow, Inc was posted on 2026-04-30.
+This data scientist position at HeartFlow, Inc was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

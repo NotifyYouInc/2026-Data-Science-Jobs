@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | South Korea |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/0370e245-605e-47f4-9cf7-0a20d10d701c) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/eb47df2a-9b46-404b-9703-4ee5c37acf82) |
 
 ## About This Role
 
-This data scientist position at 42dot was posted on 2026-06-11.
+This data scientist position at 42dot was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
