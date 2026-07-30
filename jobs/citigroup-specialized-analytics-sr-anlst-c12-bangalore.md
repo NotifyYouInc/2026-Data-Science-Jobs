@@ -1,16 +1,16 @@
-# Specialized Analytics Sr Anlst - C12 - Bangalore at Citigroup
+# Specialized Analytics Sr Anlst - C12 - BANGALORE at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Specialized-Analytics-Sr-Anlst---C12---Bangalore_26944326) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Specialized-Analytics-Sr-Anlst---C12---BANGALORE_26980909) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-03-06.
+This data scientist position at Citigroup was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

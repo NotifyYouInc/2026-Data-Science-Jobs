@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Data-Scientist-I_R0113616-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-I_R0117092) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-04-24.
+This data scientist position at Truist was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

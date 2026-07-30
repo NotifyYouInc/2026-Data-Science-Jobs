@@ -5,12 +5,12 @@
 | Company | [The Predictive Index](https://scoutify.ai/companies/predictiveindex?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Westwood, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/predictiveindex/jobs/8534917002) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/predictiveindex/jobs/8644976002) |
 
 ## About This Role
 
-This data scientist position at The Predictive Index was posted on 2026-05-06.
+This data scientist position at The Predictive Index was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

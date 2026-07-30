@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000125115859-data-scientist) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139107299-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Inetum was posted on 2026-05-07.
+This data scientist position at Inetum was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 5 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7981841) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7978913) |
 
 ## About This Role
 
-This data scientist position at Capco was posted on 2026-06-04.
+This data scientist position at Capco was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

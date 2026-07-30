@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | National Capital Region, PH |
+| Location | Philippines |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754788) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765470) |
 
 ## About This Role
 
-This data scientist position at JPMorgan Chase was posted on 2026-06-04.
+This data scientist position at JPMorgan Chase was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

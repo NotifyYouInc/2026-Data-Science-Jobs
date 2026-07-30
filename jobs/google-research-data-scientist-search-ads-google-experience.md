@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York, US |
+| Location | Mountain View, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdGYbLAXebTGRCcg2xW_eNfMv6LcnL0gue-OAUzZR_HeEjsACxwdTMjdtrTXL6UD_pMBrCnYcv9vXeOP42jpy_gnFMoVNvtJooyzPSlRjL7NBwfdL8BSq0fvs8H3Jg%3D%3D_V2&loc=US&title=Research+Data+Scientist) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRkc9TqV2Mf45C13R5axd7nL-q3vODaGLTl_7k_D83GNEjsA1Ny_iy_AlEIMzj0BChbhOK_lDR8B9lWDsVApt93U_7MeY9a04bLOAPW4Ha1oSvWiB7H54vOraFd9KA%3D%3D_V2&loc=US&title=Research+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-04-07.
+This data scientist position at Google was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

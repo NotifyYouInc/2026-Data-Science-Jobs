@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Uxbridge, England, United Kingdom |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Uxbridge---GB/Senior-Manager--Statistical-Programming_R1602530) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Field---United-States---US/Senior-Manager--Statistical-Programming_R1603247) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-05-19.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

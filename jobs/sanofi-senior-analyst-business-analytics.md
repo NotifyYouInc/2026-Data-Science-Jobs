@@ -1,16 +1,16 @@
-# Senior Analyst – Business Analytics at Sanofi
+# Senior Analyst - Business Analytics at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2862404) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Business-Analytics_R2865255) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-06-29.
+This data scientist position at Sanofi was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

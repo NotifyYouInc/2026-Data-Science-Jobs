@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138083465-data-scientist) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138993258-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-07-16.
+This data scientist position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

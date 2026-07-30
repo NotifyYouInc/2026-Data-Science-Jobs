@@ -5,12 +5,12 @@
 | Company | [Unlearn](https://scoutify.ai/companies/unlearn?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-01-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/unlearn/030e1f93-629c-45f3-8fa3-6b0eaf2a3369) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/unlearn/1a748b69-3309-4385-b827-e3f3c2f1d423) |
 
 ## About This Role
 
-This data scientist position at Unlearn was posted on 2026-01-28.
+This data scientist position at Unlearn was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

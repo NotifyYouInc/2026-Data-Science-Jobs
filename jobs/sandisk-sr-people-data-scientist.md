@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Milpitas, California, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000120059827-sr-people-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000139196559-sr-people-data-scientist) |
 
 ## About This Role
 
-This human resources / people ops position at SanDisk was posted on 2026-04-10.
+This data scientist position at SanDisk was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

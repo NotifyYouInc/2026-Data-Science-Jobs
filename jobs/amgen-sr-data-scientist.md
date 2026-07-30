@@ -1,16 +1,16 @@
-# Sr. Data Scientist at Amgen
+# Sr Data Scientist at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Thousand Oaks, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-11 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Sr-Data-Scientist_R-249670) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-11.
+This data scientist position at Amgen was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
