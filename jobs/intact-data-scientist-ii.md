@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-II_R153836) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Data-Scientist-II_R154867) |
 
 ## About This Role
 
-This data scientist position at Intact was posted on 2026-05-25.
+This data scientist position at Intact was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Frederick, Maryland, United States |
+| Location | Denver, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Bolling-AFB-DC-US/Data-Scientist_329271) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Data-Scientist_329456) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-07-17.
+This data scientist position at CACI was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

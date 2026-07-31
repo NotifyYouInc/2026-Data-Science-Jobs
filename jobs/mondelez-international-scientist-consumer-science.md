@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | East Hanover, New Jersey, United States |
+| Location | Thāne, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/East-Hanover-New-Jersey-United-States/Scientist--Consumer-Science_R-173163) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/RD-Center---Thane-India/Scientist--Consumer-Science_R-173185-1) |
 
 ## About This Role
 
-This data scientist position at Mondelez International was posted on 2026-07-17.
+This data scientist position at Mondelez International was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

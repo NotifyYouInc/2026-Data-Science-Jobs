@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dahlgren, Virginia, United States |
+| Location | Beavercreek, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dahlgren-VA/Data-Scientist_HR102266) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Data-Scientist_HR102314) |
 
 ## About This Role
 
-This data scientist position at Radiance Technologies was posted on 2026-06-23.
+This data scientist position at Radiance Technologies was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

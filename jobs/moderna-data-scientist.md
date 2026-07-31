@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Data-Scientist_R19010-1) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19530) |
 
 ## About This Role
 
-This machine learning engineer position at Moderna was posted on 2026-04-01.
+This data scientist position at Moderna was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

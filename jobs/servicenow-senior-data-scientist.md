@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000137214359-senior-data-scientist) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139376204-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at ServiceNow was posted on 2026-07-10.
+This data scientist position at ServiceNow was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

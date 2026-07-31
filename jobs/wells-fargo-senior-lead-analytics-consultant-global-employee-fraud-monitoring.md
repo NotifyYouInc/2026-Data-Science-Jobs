@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Senior-Lead-Analytics-Consultant---Global-Employee-Fraud-Monitoring_R-528396) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Senior-Lead-Analytics-Consultant---Global-Employee-Fraud-Monitoring_R-563107) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-03-13.
+This technology / it consulting position at Wells Fargo was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
