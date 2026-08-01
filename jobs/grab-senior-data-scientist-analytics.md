@@ -1,16 +1,16 @@
-# Senior Data Scientist (Analytics) at Grab
+# Senior Data Scientist (Analytics)  at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000138566499-senior-data-scientist-analytics) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000139453527-senior-data-scientist-analytics) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-07-20.
+This data scientist position at Grab was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Karnataka, IN |
 | Category | Data Scientist |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Data-Scientist--ITC_R-87980) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Data-Scientist--ITC_R-88739) |
 
 ## About This Role
 
-This data scientist position at Nike was posted on 2026-07-15.
+This data scientist position at Nike was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

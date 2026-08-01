@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Ribeirão Bonito, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000138719154-cientista-dados-jr-sucos) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000139052070-cientista-dados-jr-sucos) |
 
 ## About This Role
 
-This data scientist position at Louis Dreyfus was posted on 2026-07-20.
+This data scientist position at Louis Dreyfus was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

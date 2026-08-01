@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Jose, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Data-Scientist_R0137115) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0137151) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-07-17.
+This data scientist position at PayPal was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

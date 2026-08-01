@@ -5,12 +5,12 @@
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7881815?gh_jid=7881815) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](http://www.hioscar.com/careers/8083703?gh_jid=8083703) |
 
 ## About This Role
 
-This data scientist position at Oscar Health was posted on 2026-05-06.
+This data scientist position at Oscar Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

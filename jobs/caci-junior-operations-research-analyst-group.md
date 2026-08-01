@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hawaii, US |
-| Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Junior-Operations-Research-Analyst-Group_328640) |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Junior-Operations-Research-Analyst-Group_329559) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-07-06.
+This data analyst position at CACI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

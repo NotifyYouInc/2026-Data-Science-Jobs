@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136407459-data-science-consultant) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000139555174-data-science-consultant) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-07-08.
+This data scientist position at SIA was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

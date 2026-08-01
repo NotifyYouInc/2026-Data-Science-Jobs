@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pendo](https://scoutify.ai/companies/pendo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Illinois, US |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pendo/jobs/8157118002) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pendo/jobs/8635152002) |
 
 ## About This Role
 
-This ai / llm engineer position at Pendo was posted on 2026-02-18.
+This data scientist position at Pendo was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
