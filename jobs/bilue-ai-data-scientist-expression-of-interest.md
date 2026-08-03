@@ -1,16 +1,16 @@
-# Senior Consultant.e - Data Scientist (H/F) at Wavestone
+# AI Data Scientist (expression of interest)  at Bilue
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [Bilue](https://scoutify.ai/companies/bilue?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139947470-senior-consultante-data-scientist-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bilue/744000139911089-ai-data-scientist-expression-of-interest) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-07-27.
+This data scientist position at Bilue was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

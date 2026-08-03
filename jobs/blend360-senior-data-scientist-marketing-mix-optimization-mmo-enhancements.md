@@ -1,16 +1,16 @@
-# Data Science Advisor - HIH - Evernorth at Cigna
+# Senior Data Scientist – Marketing Mix Optimization (MMO Enhancements) at Blend360
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Science-Advisor---HIH---Evernorth_26007800) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139925109-senior-data-scientist-marketing-mix-optimization-mmo-enhancements) |
 
 ## About This Role
 
-This data scientist position at Cigna was posted on 2026-07-27.
+This data scientist position at Blend360 was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

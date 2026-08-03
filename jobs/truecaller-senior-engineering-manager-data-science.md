@@ -1,16 +1,16 @@
-# Senior Staff Data Scientist at GE HealthCare
+# Senior Engineering Manager, Data Science at Truecaller
 
 | Field | Details |
 |-------|---------|
-| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Engineering Manager |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Staff-Data-Scientist_R4044150) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8088120) |
 
 ## About This Role
 
-This data scientist position at GE HealthCare was posted on 2026-07-27.
+This engineering manager position at Truecaller was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

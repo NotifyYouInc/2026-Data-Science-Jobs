@@ -6,7 +6,7 @@
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Data Scientist |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138772369-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138815399-data-scientist) |
 
 ## About This Role
 

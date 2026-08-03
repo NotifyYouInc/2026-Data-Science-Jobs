@@ -1,16 +1,16 @@
-# Data Scientist I at Honeywell
+# Data Scientist at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Data Scientist |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154260) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-27.
+This data scientist position at H&M Group was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

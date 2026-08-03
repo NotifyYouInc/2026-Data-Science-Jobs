@@ -1,16 +1,16 @@
-# Senior Consultant.e - Data Scientist (H/F) at Wavestone
+# Manager - Credit Modelling at SBI Card
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [SBI Card](https://scoutify.ai/companies/ap1-cx-oj95884?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139947470-senior-consultante-data-scientist-hf) |
+| Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#20686) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-07-27.
+This data scientist position at SBI Card was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

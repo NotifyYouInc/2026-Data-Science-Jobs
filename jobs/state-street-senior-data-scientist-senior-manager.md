@@ -1,16 +1,16 @@
-# Data Science Advisor - HIH - Evernorth at Cigna
+# Senior Data Scientist - Senior Manager at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Data-Science-Advisor---HIH---Evernorth_26007800) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Senior-Data-Scientist---Senior-Manager_R-795134) |
 
 ## About This Role
 
-This data scientist position at Cigna was posted on 2026-07-27.
+This data scientist position at State Street was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

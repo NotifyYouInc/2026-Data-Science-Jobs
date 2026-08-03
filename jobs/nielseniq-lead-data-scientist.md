@@ -1,16 +1,16 @@
-# Lead Data Scientist at NielsenIQ
+# Lead, Data Scientist at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000134853249-lead-data-scientist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000139916292-lead-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-06-29.
+This data scientist position at NielsenIQ was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

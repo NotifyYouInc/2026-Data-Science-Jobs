@@ -1,16 +1,16 @@
-# Data Scientist I at Honeywell
+# Staff Applied Scientist at Lyft
 
 | Field | Details |
 |-------|---------|
-| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154260) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8649343002?gh_jid=8649343002) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-27.
+This data scientist position at Lyft was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Consultant.e - Data Scientist (H/F) at Wavestone
+# Senior Mathematician at Zensar
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000139947470-senior-consultante-data-scientist-hf) |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#148255) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-07-27.
+This data scientist position at Zensar was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
