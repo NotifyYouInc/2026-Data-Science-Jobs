@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139053009-manager-data-analytics-logistics) |
 
 ## About This Role
 
-This data scientist position at Delivery Hero was posted on 2026-07-22.
+This data analyst position at Delivery Hero was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

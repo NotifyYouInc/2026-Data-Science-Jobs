@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gaithersburg, Maryland, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Senior-Statistician_R-255059) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-07-23.
+This bioinformatics / computational biology position at AstraZeneca was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

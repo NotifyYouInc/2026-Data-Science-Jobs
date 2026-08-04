@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hillsboro, Oregon, United States |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Scientist_JR0285516) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Data-Scientist_JR0285897-1) |
 
 ## About This Role
 
-This data scientist position at Intel was posted on 2026-07-13.
+This data scientist position at Intel was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# AI Data Science Analytics at GE Appliances
+
+| Field | Details |
+|-------|---------|
+| Company | [GE Appliances](https://scoutify.ai/companies/ge-appliances?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Louisville, Kentucky, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/AI-Data-Science-Analytics_REQ-26337) |
+
+## About This Role
+
+This data scientist position at GE Appliances was posted on 2026-07-27.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

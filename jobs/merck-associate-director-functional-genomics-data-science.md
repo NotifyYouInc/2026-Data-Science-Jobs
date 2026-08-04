@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Director--Functional-Genomics--Data-Science_R408704-2) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-07-24.
+This bioinformatics / computational biology position at Merck was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bremen, City state Bremen, Germany |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bremen-Germany/Senior-Data-Science-Research-Engineer--m-f-d----Instrument-Analytics_R-01357977) |
 
 ## About This Role
 
-This data scientist position at Thermo Fisher Scientific was posted on 2026-07-23.
+This machine learning engineer position at Thermo Fisher Scientific was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

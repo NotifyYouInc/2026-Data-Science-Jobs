@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | ESG / Sustainability |
+| Category | Data Scientist |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--Client-and-Climate-Analytics-Reporting_R-0000181028-1) |
 
 ## About This Role
 
-This esg / sustainability position at Royal Bank of Canada was posted on 2026-07-22.
+This data scientist position at Royal Bank of Canada was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

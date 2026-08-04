@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Aberdeen, South Dakota, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Springfield/Senior-Data-Scientist_R181231) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Aberdeen/Senior-Data-Scientist_R181629) |
 
 ## About This Role
 
-This data scientist position at Parsons was posted on 2026-05-22.
+This data scientist position at Parsons was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

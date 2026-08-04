@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jump Trading](https://scoutify.ai/companies/jump-trading?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.jumptrading.com/hr/job?gh_jid=6622233) |
 
 ## About This Role
 
-This data scientist position at Jump Trading was posted on 2026-07-24.
+This business analyst position at Jump Trading was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

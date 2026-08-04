@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [XP Inc.](https://scoutify.ai/companies/xpinc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/xpinc/jobs/8632684002) |
 
 ## About This Role
 
-This data scientist position at XP Inc. was posted on 2026-07-22.
+This machine learning engineer position at XP Inc. was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

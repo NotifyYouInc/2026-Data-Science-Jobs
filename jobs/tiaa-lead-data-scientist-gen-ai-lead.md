@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Lead-Data-Scientist---Gen-AI-Lead_R260700295-1) |
 
 ## About This Role
 
-This data scientist position at TIAA was posted on 2026-07-22.
+This machine learning engineer position at TIAA was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

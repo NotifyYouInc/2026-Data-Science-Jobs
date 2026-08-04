@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Bruno, California, United States |
+| Location | Mountain View, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYgFYZMh_EfXJ-GrXZnYuTsuogNQJjm9gQphNaGa7kU8EjsA1Ny_i-Fh7N8y3z9Z0xLMznH_AoEctJv-m4jX_x42TmHaHcdKdqlyVyuV9Vhbhg1BCqqpOQX25iLBRg%3D%3D_V2&loc=US&title=Business+and+Marketing+Data+Scientist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYYmSs9FDjGesu0F9i9bHVChPERyuKdP_57ODUU4ob1JEjsA1Ny_i_V64Mw_09rWaGZufCkcOfCvIyxfQjJlZ6oP0-KE8bjKRhC2bUVvgdZwlq4OoUXuqcMZafCcAQ%3D%3D_V2&loc=US&title=Business+and+Marketing+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-06-29.
+This data scientist position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

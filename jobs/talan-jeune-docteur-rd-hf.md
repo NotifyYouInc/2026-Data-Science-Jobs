@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000139214820-jeune-docteur-rd-hf) |
 
 ## About This Role
 
-This ai / ml research position at Talan was posted on 2026-07-23.
+This machine learning engineer position at Talan was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

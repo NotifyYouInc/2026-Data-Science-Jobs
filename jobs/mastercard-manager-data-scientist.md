@@ -1,16 +1,16 @@
-# Manager, Data Scientist at Mastercard
+# Manager - Data Scientist at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Data-Scientist_R-284573) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Manager---Data-Scientist_R-286801) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-07-17.
+This data scientist position at Mastercard was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-II_R_1501510) |
 
 ## About This Role
 
-This data scientist position at TD Bank was posted on 2026-07-22.
+This machine learning engineer position at TD Bank was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

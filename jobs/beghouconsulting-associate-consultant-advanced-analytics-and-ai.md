@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beghouconsulting](https://scoutify.ai/companies/beghouconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Strategy / Management Consulting |
+| Category | Data Scientist |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://jobs.lever.co/beghouconsulting/918e1bb9-bb33-41be-a0ad-77f8c99c18c1) |
 
 ## About This Role
 
-This strategy / management consulting position at Beghouconsulting was posted on 2026-07-22.
+This data scientist position at Beghouconsulting was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

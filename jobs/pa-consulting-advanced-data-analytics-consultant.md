@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Technology / IT Consulting |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000139303670-advanced-data-analytics-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at PA Consulting was posted on 2026-07-23.
+This data scientist position at PA Consulting was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

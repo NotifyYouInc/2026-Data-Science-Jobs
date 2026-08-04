@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-Data-Scientist_R0000370719) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Data-Scientist_R0000384507) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-05-21.
+This data scientist position at Caterpillar was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

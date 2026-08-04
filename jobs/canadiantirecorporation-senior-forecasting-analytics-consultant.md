@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Technology / IT Consulting |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Toronto-ON/Senior-Forecasting-Analytics-Consultant_JR163274) |
 
 ## About This Role
 
-This technology / it consulting position at Canadiantirecorporation was posted on 2026-07-23.
+This data scientist position at Canadiantirecorporation was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Taguig-City-National-Capital-Region-Manila/Head-of-Data-Analytics_JR00124586) |
 
 ## About This Role
 
-This data scientist position at Sun Life was posted on 2026-07-24.
+This data analyst position at Sun Life was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

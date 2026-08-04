@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New Jersey, US |
+| Location | Sunnyvale, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Data-Scientist_R-10381384) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Data-Scientist_R-10398942) |
 
 ## About This Role
 
-This data scientist position at Fiserv was posted on 2026-03-13.
+This data scientist position at Fiserv was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

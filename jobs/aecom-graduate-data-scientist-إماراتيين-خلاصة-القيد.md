@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Scientist |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129980802-graduate-data-scientist) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140186630-graduate-data-scientist) |
 
 ## About This Role
 
-This data scientist position at AECOM was posted on 2026-06-03.
+This data scientist position at AECOM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

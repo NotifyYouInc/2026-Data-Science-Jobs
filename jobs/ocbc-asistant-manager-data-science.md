@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chengdu, Sichuan, China |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-China-Chengdu/Asistant-Manager--Data-Science_JR00009727) |
 
 ## About This Role
 
-This data scientist position at OCBC was posted on 2026-07-23.
+This machine learning engineer position at OCBC was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

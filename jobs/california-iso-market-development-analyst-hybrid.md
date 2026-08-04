@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [California ISO](https://scoutify.ai/companies/california-iso?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Folsom, California, United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/californiaiso/744000139134149-market-development-analyst-hybrid) |
 
 ## About This Role
 
-This data scientist position at California ISO was posted on 2026-07-22.
+This data analyst position at California ISO was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

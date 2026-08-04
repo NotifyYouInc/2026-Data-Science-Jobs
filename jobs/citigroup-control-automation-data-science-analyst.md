@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Control-Automation-Data-Science-Analyst_26979480) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-07-22.
+This machine learning engineer position at Citigroup was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

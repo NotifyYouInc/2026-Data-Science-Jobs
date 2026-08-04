@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Maryland, US |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00187783-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Data-Scientist_R-00187846) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-07-21.
+This data scientist position at Leidos was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWFXFLcWhqk6Le8n-WF5tUTSiIwEwrlz-irGPJKhnlH_EjsACxwdTFHJCSfsAD2S16mSd-PWWDR70VqINo_LxRJBSK9fDJEyTuiD5-ZEssy8Zop7G2p3e3r2gjgiIw%3D%3D_V2&loc=IN&title=Marketing+Data+Scientist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQm2BMqAOwbEWgZ_BDGuaiIUWF7yW_hot_F9ab87HG3IEjsA1Ny_i0cbeSCSonT1-vIGye9arIRtAfhZ9TYpFCHImv06UhMgs-nnsKjpe8gF1QJ5lXkGDBG3AuGgew%3D%3D_V2&loc=IN&title=Marketing+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-06-10.
+This data scientist position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

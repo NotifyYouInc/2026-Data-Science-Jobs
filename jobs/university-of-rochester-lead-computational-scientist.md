@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Rochester, New York, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/Bausch--Lomb/Lead-Computational-Scientist_R272994) |
 
 ## About This Role
 
-This data scientist position at University of Rochester was posted on 2026-07-24.
+This bioinformatics / computational biology position at University of Rochester was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

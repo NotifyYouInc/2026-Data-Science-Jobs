@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Jackson Laboratory](https://scoutify.ai/companies/thejacksonlaboratory?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Farmington, New Mexico, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://thejacksonlaboratory.wd503.myworkdayjobs.com/external_jax/job/Farmington-Connecticut/Associate-Computational-Scientist_JR006087) |
 
 ## About This Role
 
-This data scientist position at The Jackson Laboratory was posted on 2026-07-23.
+This bioinformatics / computational biology position at The Jackson Laboratory was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Strategy & Operations |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist----Commercial-Bank-Strategy---Analytics_R247316-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-07-22.
+This strategy & operations position at Capital One was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

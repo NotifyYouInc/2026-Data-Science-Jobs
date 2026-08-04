@@ -1,16 +1,16 @@
-#  Data Scientist at Wabtec
+# Data Scientist at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014214856-data-scientist) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014262576-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Wabtec was posted on 2026-07-22.
+This data scientist position at Wabtec was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

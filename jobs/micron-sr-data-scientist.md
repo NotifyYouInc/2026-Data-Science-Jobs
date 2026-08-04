@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST at Micron
+# Sr Data Scientist at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Sānand, Gujarat, India |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/SR-DATA-SCIENTIST_JR94030) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Sr-Data-Scientist_JR106669) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-05-08.
+This data scientist position at Micron was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

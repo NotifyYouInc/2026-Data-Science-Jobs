@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Team-Leader-in-Data-Science--Disease-Area-X_REQ-10084255-1) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-07-22.
+This bioinformatics / computational biology position at Novartis was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

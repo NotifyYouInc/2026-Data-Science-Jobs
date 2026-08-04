@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | Business Analyst |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6106995004) |
 
 ## About This Role
 
-This data scientist position at Garner Health was posted on 2026-07-23.
+This business analyst position at Garner Health was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Honolulu, Hawaii, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/Data-Scientist--Mid_R0244946) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0245099) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-07-21.
+This data scientist position at Booz Allen was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

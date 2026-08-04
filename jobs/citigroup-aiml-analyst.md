@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | AI / LLM Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/AI-ML-Analyst_26978435) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-07-23.
+This machine learning engineer position at Citigroup was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

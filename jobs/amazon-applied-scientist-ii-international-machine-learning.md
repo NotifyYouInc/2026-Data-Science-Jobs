@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10482155/applied-scientist-ii-international-machine-learning) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-07-23.
+This machine learning engineer position at Amazon was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

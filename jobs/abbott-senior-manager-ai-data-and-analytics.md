@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Manager---AI--Data--and-Analytics_31157042-1) |
 
 ## About This Role
 
-This data scientist position at Abbott was posted on 2026-07-24.
+This data analyst position at Abbott was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

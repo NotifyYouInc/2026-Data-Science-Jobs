@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Eagan, Minnesota, United States |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Applied-Scientist--Search---Information-Retrieval_JREQ202343-6) |
 
 ## About This Role
 
-This data scientist position at Thomson Reuters was posted on 2026-07-22.
+This machine learning engineer position at Thomson Reuters was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

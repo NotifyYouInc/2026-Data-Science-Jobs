@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cengage](https://scoutify.ai/companies/cengage?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Forward Deployed Engineer |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/United-States/Forward-Deployed-Engineer---AI-ML-Data-Science_R2026-951) |
 
 ## About This Role
 
-This forward deployed engineer position at Cengage was posted on 2026-07-23.
+This machine learning engineer position at Cengage was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

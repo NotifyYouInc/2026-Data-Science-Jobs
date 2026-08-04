@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Lagos, Lagos, Nigeria |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4736464101) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4938471101) |
 
 ## About This Role
 
-This data scientist position at Moniepoint was posted on 2026-07-20.
+This data scientist position at Moniepoint was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

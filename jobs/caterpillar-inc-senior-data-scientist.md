@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Illinois, US |
 | Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Data-Scientist_R0000383625) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Data-Scientist_R0000382924) |
 
 ## About This Role
 
-This data scientist position at Caterpillar Inc. was posted on 2026-07-21.
+This data scientist position at Caterpillar Inc. was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

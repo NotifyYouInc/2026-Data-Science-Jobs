@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Business Analyst |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Director--Patient-Support-Services-Analytics---Rare--High-Touch-Brands_R2864735-1) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-07-23.
+This business analyst position at Sanofi was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

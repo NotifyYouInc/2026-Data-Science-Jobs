@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4327124009) |
 
 ## About This Role
 
-This data scientist position at Lila Sciences was posted on 2026-07-24.
+This machine learning engineer position at Lila Sciences was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Wiener Neudorf, Lower Austria, Austria |
-| Category | Data Scientist |
+| Category | Business Analyst |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Wiener-Neudorf/Data-Scientist---Business-Analyst--m-w-d-_JR109851) |
 
 ## About This Role
 
-This data scientist position at Cgm was posted on 2026-07-23.
+This business analyst position at Cgm was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

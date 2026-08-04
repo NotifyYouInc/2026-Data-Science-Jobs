@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Eindhoven, North Brabant, The Netherlands |
-| Category | AI / ML Research |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Physics---Materials-Science-internship--ai-driven-experimental-insights_J-00348041) |
 
 ## About This Role
 
-This ai / ml research position at ASML was posted on 2026-07-24.
+This machine learning engineer position at ASML was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

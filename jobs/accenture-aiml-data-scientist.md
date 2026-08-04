@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/AI-ML-Data-Scientist_R00339266) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-07-24.
+This machine learning engineer position at Accenture was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Alexion](https://scoutify.ai/companies/astrazeneca?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/India---Bangalore/Real-World-Data-Statistician-I-II_R-252435-3) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/India---Bangalore/Real-World-Data-Statistician-I-II_R-257194-3) |
 
 ## About This Role
 
-This data scientist position at Alexion was posted on 2026-05-15.
+This data scientist position at Alexion was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

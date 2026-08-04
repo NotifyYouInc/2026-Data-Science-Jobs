@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Dallas-Texas-United-States-of-America/Data-Scientist--NLP-and-GenAI-Specialist-_PT-JR028933) |
+| Category | Data Scientist |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Dallas-Texas-United-States-of-America/Data-Scientist--NLP-and-GenAI-Specialist-_JR040314) |
 
 ## About This Role
 
-This machine learning engineer position at Morgan Stanley was posted on 2026-01-30.
+This data scientist position at Morgan Stanley was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

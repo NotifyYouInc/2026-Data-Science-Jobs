@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000138179489-senior-data-scientist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140080789-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at LinkedIn was posted on 2026-07-16.
+This data scientist position at LinkedIn was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
