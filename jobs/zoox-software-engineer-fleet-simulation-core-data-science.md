@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zoox](https://scoutify.ai/companies/zoox?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Foster City, California, United States |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3) |
 
 ## About This Role
 
-This software engineer position at Zoox was posted on 2026-07-24.
+This data scientist position at Zoox was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

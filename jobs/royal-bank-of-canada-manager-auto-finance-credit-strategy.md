@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Strategy & Operations |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager--Auto-Finance-Credit-Strategy_R-0000180350-1) |
 
 ## About This Role
 
-This strategy & operations position at Royal Bank of Canada was posted on 2026-07-27.
+This data scientist position at Royal Bank of Canada was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

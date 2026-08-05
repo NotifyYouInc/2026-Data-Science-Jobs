@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Titusville, Florida, United States |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Data-Scientist--Application-Developer_R-090036-1) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-07-23.
+This data scientist position at Johnson & Johnson was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29289) |
 
 ## About This Role
 
-This data analyst position at PETRONAS was posted on 2026-07-24.
+This data scientist position at PETRONAS was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

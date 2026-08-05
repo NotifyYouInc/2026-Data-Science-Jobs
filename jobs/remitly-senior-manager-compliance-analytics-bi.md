@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Burnaby, British Columbia, Canada |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Senior-Manager-Compliance-Analytics---BI_R_106651-1) |
 
 ## About This Role
 
-This data engineer position at Remitly was posted on 2026-07-23.
+This data scientist position at Remitly was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

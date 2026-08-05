@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KRAFTON Americas](https://scoutify.ai/companies/krafton-americas?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/kraftonamericas/jobs/8645788002) |
 
 ## About This Role
 
-This machine learning engineer position at KRAFTON Americas was posted on 2026-07-24.
+This data scientist position at KRAFTON Americas was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8649548002?gh_jid=8649548002) |
 
 ## About This Role
 
-This machine learning engineer position at Faire was posted on 2026-07-24.
+This data scientist position at Faire was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

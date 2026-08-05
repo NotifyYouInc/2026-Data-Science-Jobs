@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Maisons du Monde](https://scoutify.ai/companies/maisons-du-monde?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://maisonsdumonde.wd3.myworkdayjobs.com/site_carriere/job/Paris-et-sa-rgion/Data-Scientist_R17784-1) |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://maisonsdumonde.wd3.myworkdayjobs.com/site_carriere/job/Paris/Data-Scientist_R18654) |
 
 ## About This Role
 
-This machine learning engineer position at Maisons du Monde was posted on 2026-03-10.
+This data scientist position at Maisons du Monde was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

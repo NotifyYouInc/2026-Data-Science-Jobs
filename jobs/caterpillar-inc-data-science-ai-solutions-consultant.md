@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Nashville, Tennessee, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Data-Science---AI-Solutions-Consultant_R0000383910) |
 
 ## About This Role
 
-This machine learning engineer position at Caterpillar Inc. was posted on 2026-07-23.
+This data scientist position at Caterpillar Inc. was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

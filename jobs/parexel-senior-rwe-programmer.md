@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Nunavut, CA |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/United-States---Remote/Senior-RWE-Programmer_R0000043561) |
 
 ## About This Role
 
-This software engineer position at Parexel was posted on 2026-07-24.
+This data scientist position at Parexel was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

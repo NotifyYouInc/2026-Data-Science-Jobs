@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139071459-master-thesis-multi-objective-optimization-for-tire-development-mfd-ref93540n) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000139247240-master-thesis-multi-objective-optimization-for-tire-development-mfd-ref93540n) |
 
 ## About This Role
 
-This data scientist position at Continental was posted on 2026-07-22.
+This data scientist position at Continental was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

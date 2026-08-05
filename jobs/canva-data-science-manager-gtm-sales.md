@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Sales Leadership |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001113764-data-science-manager-gtm-sales) |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001269626-data-science-manager-gtm-sales) |
 
 ## About This Role
 
-This sales leadership position at Canva was posted on 2026-05-28.
+This data scientist position at Canva was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

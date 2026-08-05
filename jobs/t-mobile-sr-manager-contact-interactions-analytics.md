@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Manager--Contact-Interactions-Analytics_REQ361807-2) |
 
 ## About This Role
 
-This data analyst position at T-Mobile was posted on 2026-07-27.
+This data scientist position at T-Mobile was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

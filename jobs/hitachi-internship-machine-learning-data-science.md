@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Machine-Learning---Data-Science_R0139066-1) |
 
 ## About This Role
 
-This machine learning engineer position at Hitachi was posted on 2026-07-24.
+This data scientist position at Hitachi was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

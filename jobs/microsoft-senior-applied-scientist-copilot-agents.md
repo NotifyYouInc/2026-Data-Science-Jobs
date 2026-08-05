@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556941360) |
 
 ## About This Role
 
-This machine learning engineer position at Microsoft was posted on 2026-07-24.
+This data scientist position at Microsoft was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

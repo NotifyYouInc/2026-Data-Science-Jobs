@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | FP&A / Strategic Finance |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Singapore-Singapore/Demand-Planning-Analyst_REQ-13605) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Entegris was posted on 2026-07-24.
+This data scientist position at Entegris was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Málaga, Andalusia, Spain |
-| Category | Data Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/ESP---Malaga/Data-Scientist_JR107945) |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/ESP---Malaga/Data-Scientist_JR108655) |
 
 ## About This Role
 
-This data engineer position at Dedalus CandG was posted on 2026-02-09.
+This data scientist position at Dedalus CandG was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

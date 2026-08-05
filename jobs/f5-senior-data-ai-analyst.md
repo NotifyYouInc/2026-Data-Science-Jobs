@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Warsaw/Senior-Data---AI-Analyst_RP1038302) |
 
 ## About This Role
 
-This machine learning engineer position at F5 was posted on 2026-07-23.
+This data scientist position at F5 was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

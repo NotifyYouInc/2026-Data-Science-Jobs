@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/VIC-CBD-Melbourne-Area/Advanced-Analytics-Analyst---AI-Delivery---Governance_REQ259587-2) |
 
 ## About This Role
 
-This data analyst position at Cba was posted on 2026-07-23.
+This data scientist position at Cba was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

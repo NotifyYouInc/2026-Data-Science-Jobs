@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Staff--Data-Science---Applied-AI_R000107158) |
 
 ## About This Role
 
-This machine learning engineer position at Warner Bros Discovery was posted on 2026-07-23.
+This data scientist position at Warner Bros Discovery was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

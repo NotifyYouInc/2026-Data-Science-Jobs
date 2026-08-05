@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Eindhoven, North Brabant, The Netherlands |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Eindhoven-Netherlands/Data-Science---AI-Internship--Reinforcement-Learning_J-00345364) |
 
 ## About This Role
 
-This machine learning engineer position at ASML was posted on 2026-07-24.
+This data scientist position at ASML was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

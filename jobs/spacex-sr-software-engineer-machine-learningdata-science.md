@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bastrop, Louisiana, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8647433002?gh_jid=8647433002) |
 
 ## About This Role
 
-This machine learning engineer position at SpaceX was posted on 2026-07-23.
+This data scientist position at SpaceX was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

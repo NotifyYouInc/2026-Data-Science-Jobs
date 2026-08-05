@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | San Mateo, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990014234236-data-scientist-ahl) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990014306446-data-scientist-ahl) |
 
 ## About This Role
 
-This data scientist position at Achieve was posted on 2026-07-22.
+This data scientist position at Achieve was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

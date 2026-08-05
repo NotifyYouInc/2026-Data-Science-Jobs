@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Geleen, Limburg, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Hyderabad/Data-Scientist_R75263) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/NL---Geleen/Data-Scientist_R77324) |
 
 ## About This Role
 
-This data scientist position at Lonza Group was posted on 2026-04-15.
+This data scientist position at Lonza Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

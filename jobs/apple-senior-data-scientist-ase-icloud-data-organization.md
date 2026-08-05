@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Scientist |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653217/senior-data-scientist-ase-icloud-data-organization) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674486/senior-data-scientist-ase-icloud-data-organization) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-03-25.
+This data scientist position at Apple was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

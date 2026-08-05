@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Data-Science-Engineer-3_R168516) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Science-Engineer-3_R170861-1) |
 
 ## About This Role
 
-This data engineer position at Adobe was posted on 2026-05-22.
+This data scientist position at Adobe was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

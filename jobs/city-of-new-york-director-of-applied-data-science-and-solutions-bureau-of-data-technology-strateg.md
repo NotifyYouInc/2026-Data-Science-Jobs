@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Long Island City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013873916-director-of-applied-data-science-and-solutions-bureau-of-data-technology-strategy) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014311891-director-of-applied-data-science-and-solutions-bureau-of-data-technology-strategy) |
 
 ## About This Role
 
-This data scientist position at City of New York was posted on 2026-07-01.
+This data scientist position at City of New York was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012971326-data-scientist-ii) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014334756-data-scientist-ii) |
 
 ## About This Role
 
-This data scientist position at The Nielsen Company was posted on 2026-05-05.
+This data scientist position at The Nielsen Company was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

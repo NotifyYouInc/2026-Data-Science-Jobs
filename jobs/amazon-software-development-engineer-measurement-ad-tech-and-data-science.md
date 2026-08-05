@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484131/software-development-engineer-measurement-ad-tech-and-data-science) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-26.
+This data scientist position at Amazon was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Illinois, US |
-| Category | Human Resources / People Ops |
+| Category | Data Scientist |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote---Illinois/Senior-Manager--Transformation---People-Insights_R-0012153-1) |
 
 ## About This Role
 
-This human resources / people ops position at Raymond James Financial was posted on 2026-07-22.
+This data scientist position at Raymond James Financial was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Scientist-II--Anti-Money-Laundering-Transaction-Monitoring_R260021357) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist-II--Anti-Money-Laundering-Transaction-Monitoring_R260022303) |
 
 ## About This Role
 
-This data scientist position at Bank of Montreal was posted on 2026-07-22.
+This data scientist position at Bank of Montreal was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

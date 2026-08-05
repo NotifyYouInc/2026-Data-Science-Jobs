@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Chicago-Hub/Senior-Analyst--Credit-Operations-Modeling_2602127) |
 
 ## About This Role
 
-This data analyst position at Synchrony Financial was posted on 2026-07-24.
+This data scientist position at Synchrony Financial was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

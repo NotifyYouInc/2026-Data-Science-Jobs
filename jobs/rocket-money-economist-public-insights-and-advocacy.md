@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rocket Money](https://scoutify.ai/companies/rocket-money?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Marketing |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/truebill/jobs/7817823003) |
 
 ## About This Role
 
-This marketing position at Rocket Money was posted on 2026-07-27.
+This data scientist position at Rocket Money was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

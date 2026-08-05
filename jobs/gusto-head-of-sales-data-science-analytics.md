@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gusto](https://scoutify.ai/companies/gusto?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Sales Leadership |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/7283301) |
 
 ## About This Role
 
-This sales leadership position at Gusto was posted on 2026-07-27.
+This data scientist position at Gusto was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

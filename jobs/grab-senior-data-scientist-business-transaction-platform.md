@@ -1,16 +1,16 @@
-# Senior Data Scientist (Business & Transaction Platform) at Grab
+# Senior Data Scientist (Business Transaction Platform) at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111304642-senior-data-scientist-business-transaction-platform) |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000140200559-senior-data-scientist-business-transaction-platform) |
 
 ## About This Role
 
-This ai / llm engineer position at Grab was posted on 2026-02-25.
+This data scientist position at Grab was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

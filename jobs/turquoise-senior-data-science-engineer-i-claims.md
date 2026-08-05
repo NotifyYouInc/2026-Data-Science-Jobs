@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turquoise](https://scoutify.ai/companies/turquoise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/turquoise-health/aa344f6e-9048-4c7b-b9d6-43fd192241d0) |
 
 ## About This Role
 
-This data engineer position at Turquoise was posted on 2026-07-24.
+This data scientist position at Turquoise was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist III at Thermo Fisher Scientific
+# Data Scientist III, at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Milan, Lombardy, Italy |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Milan-Italy/Data-Scientist-III_R-01351288) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Milan-Italy/Data-Scientist-III-_R-01361174) |
 
 ## About This Role
 
-This data scientist position at Thermo Fisher Scientific was posted on 2026-05-11.
+This data scientist position at Thermo Fisher Scientific was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

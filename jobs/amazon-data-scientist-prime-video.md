@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204874/data-scientist-prime-video) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10486917/data-scientist-prime-video) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-03-15.
+This data scientist position at Amazon was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

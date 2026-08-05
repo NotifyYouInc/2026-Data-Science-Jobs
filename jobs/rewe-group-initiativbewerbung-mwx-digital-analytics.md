@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [REWE Group](https://scoutify.ai/companies/reweinternationaldienstleistungsgesellschaftmbh?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Wiener Neudorf, Lower Austria, Austria |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/REWEInternationalDienstleistungsgesellschaftmbH/744000139231379-initiativbewerbung-mwx-digital-analytics) |
 
 ## About This Role
 
-This data analyst position at REWE Group was posted on 2026-07-23.
+This data scientist position at REWE Group was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 5 locations |
-| Category | Data Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Principal-Data-Science-Engineer_R-1092961) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Principal-Data-Science-Engineer_R-1098770-1) |
 
 ## About This Role
 
-This data analyst position at Verizon was posted on 2026-04-01.
+This data scientist position at Verizon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

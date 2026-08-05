@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cystems Logic](https://scoutify.ai/companies/cystemslogic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CystemsLogicInc1/744000139349624-sr-applied-scientist-allocation-optimization-remote) |
 
 ## About This Role
 
-This machine learning engineer position at Cystems Logic was posted on 2026-07-23.
+This data scientist position at Cystems Logic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

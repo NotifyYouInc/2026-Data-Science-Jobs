@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alimentiv](https://scoutify.ai/companies/alimentiv?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.lever.co/alimentiv-2/5b8832c8-4a29-4c5a-baf6-ef32e5bb2b51) |
+| Location | London, Ontario, Canada |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.lever.co/alimentiv-2/95956641-d6c9-4c10-9c6c-315061145f48) |
 
 ## About This Role
 
-This data scientist position at Alimentiv was posted on 2026-06-24.
+This bioinformatics / computational biology position at Alimentiv was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

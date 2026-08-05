@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Scrum-Lead_R0120899-1) |
 
 ## About This Role
 
-This machine learning engineer position at LSEG was posted on 2026-07-24.
+This data scientist position at LSEG was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

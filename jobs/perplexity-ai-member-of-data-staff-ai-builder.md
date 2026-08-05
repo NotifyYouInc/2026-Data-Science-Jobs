@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/a14c4626-ed07-4151-a923-3a710fb66de2) |
 
 ## About This Role
 
-This machine learning engineer position at Perplexity AI was posted on 2026-07-23.
+This data scientist position at Perplexity AI was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

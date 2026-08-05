@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mixpanel](https://scoutify.ai/companies/mixpanel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/8081974) |
 
 ## About This Role
 
-This data engineer position at Mixpanel was posted on 2026-07-23.
+This data scientist position at Mixpanel was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

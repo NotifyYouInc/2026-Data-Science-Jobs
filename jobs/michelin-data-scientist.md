@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Voluntari, Ilfov, Romania |
 | Category | Data Scientist |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Data-Scientist_R-2026026382-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Voluntari/Data-Scientist_R-2026029359-1) |
 
 ## About This Role
 
-This data scientist position at Michelin was posted on 2026-07-03.
+This data scientist position at Michelin was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

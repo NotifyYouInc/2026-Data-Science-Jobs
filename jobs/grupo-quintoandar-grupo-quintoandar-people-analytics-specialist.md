@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grupo QuintoAndar](https://scoutify.ai/companies/grupo-quintoandar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Human Resources / People Ops |
+| Category | Data Scientist |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/quintoandar/jobs/4328012009) |
 
 ## About This Role
 
-This human resources / people ops position at Grupo QuintoAndar was posted on 2026-07-24.
+This data scientist position at Grupo QuintoAndar was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

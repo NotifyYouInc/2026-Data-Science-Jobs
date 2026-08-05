@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8071670) |
 
 ## About This Role
 
-This machine learning engineer position at Pinterest was posted on 2026-07-23.
+This data scientist position at Pinterest was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

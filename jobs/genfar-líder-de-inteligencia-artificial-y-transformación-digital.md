@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genfar](https://scoutify.ai/companies/genfar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Genfar/744000139362699-lider-de-inteligencia-artificial-y-transformacion-digital) |
 
 ## About This Role
 
-This machine learning engineer position at Genfar was posted on 2026-07-23.
+This data scientist position at Genfar was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

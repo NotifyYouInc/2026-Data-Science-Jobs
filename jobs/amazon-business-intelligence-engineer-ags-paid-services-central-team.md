@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Shanghai, CN |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10484213/business-intelligence-engineer-ags-paid-services-central-team) |
 
 ## About This Role
 
-This data engineer position at Amazon was posted on 2026-07-27.
+This data scientist position at Amazon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
