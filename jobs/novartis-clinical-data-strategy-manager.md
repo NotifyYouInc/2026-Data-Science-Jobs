@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Strategy & Operations |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/London-The-Westworks/Clinical-Data-Strategy--Manager_REQ-10083660-1) |
+| Location | Basel, Basel-City, Switzerland |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Clinical-Data-Strategy--Manager_REQ-10080812-2) |
 
 ## About This Role
 
-This strategy & operations position at Novartis was posted on 2026-07-16.
+This data scientist position at Novartis was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

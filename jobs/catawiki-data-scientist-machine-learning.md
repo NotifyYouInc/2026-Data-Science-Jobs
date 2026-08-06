@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Catawiki](https://scoutify.ai/companies/catawiki?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/2338337) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8088238) |
 
 ## About This Role
 
-This data scientist position at Catawiki was posted on 2026-07-23.
+This data scientist position at Catawiki was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

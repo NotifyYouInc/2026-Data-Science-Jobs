@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Lead-Data-Scientist_R-142206-1) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/INGurgaonDLF-Cyber-City/Lead-Data-Scientist_R-160736) |
 
 ## About This Role
 
-This ai / ml research position at SNC-Lavalin was posted on 2026-04-27.
+This data scientist position at SNC-Lavalin was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Odenton, Maryland, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Operations-Research-Analyst_R-00175994) |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Operations-Research-Analyst_R-00188380) |
 
 ## About This Role
 
-This strategy & operations position at Leidos was posted on 2026-02-12.
+This data scientist position at Leidos was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

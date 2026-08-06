@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130878395-staff-engineer-data-scientist) |
+| Location | Grand Prairie, Texas, United States |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000140463292-staff-engineer-data-scientist) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-06-08.
+This data scientist position at Nagarro was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

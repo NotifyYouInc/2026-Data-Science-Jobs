@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hampton, Virginia, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Data-Scientist_R-00187890) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Data-Scientist_R-00188100) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-07-23.
+This data scientist position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

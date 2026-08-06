@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Naperville, Illinois, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Sr-Data-Scientist_R00288280) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Sr-Data-Scientist_R00298617) |
 
 ## About This Role
 
-This ai / llm engineer position at Ecolab was posted on 2026-04-02.
+This data scientist position at Ecolab was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

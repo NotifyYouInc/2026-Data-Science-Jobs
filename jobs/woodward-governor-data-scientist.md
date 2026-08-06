@@ -5,12 +5,12 @@
 | Company | [Woodward Governor](https://scoutify.ai/companies/woodward?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Fort Collins, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Drake-Campus/Data-Scientist_JR109474-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/Data-Scientist_JR111566-1) |
 
 ## About This Role
 
-This data scientist position at Woodward Governor was posted on 2026-03-04.
+This data scientist position at Woodward Governor was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

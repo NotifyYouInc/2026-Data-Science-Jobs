@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Data-Scientist_HR102314) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Colorado-Springs-CO/Data-Scientist_HR102318) |
 
 ## About This Role
 
-This data scientist position at Radiance Technologies was posted on 2026-07-23.
+This data scientist position at Radiance Technologies was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

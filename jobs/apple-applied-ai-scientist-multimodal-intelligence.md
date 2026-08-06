@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673989/applied-ai-scientist-multimodal-intelligence) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674440/applied-ai-scientist-multimodal-intelligence) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-07-23.
+This data scientist position at Apple was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

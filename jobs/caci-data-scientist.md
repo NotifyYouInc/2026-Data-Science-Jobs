@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Data-Scientist_329456) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Data-Scientist_329808) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-07-22.
+This data scientist position at CACI was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
