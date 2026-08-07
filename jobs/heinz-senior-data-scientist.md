@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Toronto---Queens-Quay---Headquarters/Senior-Data-Scientist_R-103096) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Senior-Data-Scientist_R-105238-1) |
 
 ## About This Role
 
-This data scientist position at Heinz was posted on 2026-05-21.
+This data scientist position at Heinz was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

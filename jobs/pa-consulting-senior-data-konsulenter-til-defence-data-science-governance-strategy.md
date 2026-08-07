@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000136189797-senior-data-konsulenter-til-defence-data-science-governance-strategy) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000140659289-senior-data-konsulenter-til-defence-data-science-governance-strategy) |
 
 ## About This Role
 
-This data scientist position at PA Consulting was posted on 2026-07-07.
+This data scientist position at PA Consulting was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/SHELL-CENTRE--CHENNAI/Senior-Data-Scientist_R200862) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/Senior-Data-Scientist_R206516-1) |
 
 ## About This Role
 
-This data scientist position at Shell was posted on 2026-04-07.
+This data scientist position at Shell was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

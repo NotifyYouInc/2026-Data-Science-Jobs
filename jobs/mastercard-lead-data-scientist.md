@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Lead-Data-Scientist_R-280922) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada-Ethoca/Lead-Data-Scientist_R-281295) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-07-13.
+This data scientist position at Mastercard was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

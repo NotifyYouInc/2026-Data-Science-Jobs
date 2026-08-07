@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1810437866597302) |
+| Location | 3 locations |
+| Category | Data Scientist |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063638336227808) |
 
 ## About This Role
 
-This machine learning engineer position at Meta was posted on 2026-03-02.
+This data scientist position at Meta was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

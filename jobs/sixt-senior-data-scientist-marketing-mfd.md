@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000138664599-senior-data-scientist-marketing-mfd) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000140690291-senior-data-scientist-marketing-mfd) |
 
 ## About This Role
 
-This data scientist position at Sixt was posted on 2026-07-20.
+This data scientist position at Sixt was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

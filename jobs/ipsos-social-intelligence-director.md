@@ -5,12 +5,12 @@
 | Company | [Ipsos](https://scoutify.ai/companies/em2-cx-oj54720?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ecqf.fa.em2.oraclecloud.com/jobs/#8348) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ecqf.fa.em2.oraclecloud.com/jobs/#8927) |
 
 ## About This Role
 
-This data scientist position at Ipsos was posted on 2026-04-27.
+This data scientist position at Ipsos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

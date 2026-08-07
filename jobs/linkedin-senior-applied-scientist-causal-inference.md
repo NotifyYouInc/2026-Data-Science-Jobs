@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115715437-senior-applied-scientist-causal-inference) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140777729-senior-applied-scientist-causal-inference) |
 
 ## About This Role
 
-This data scientist position at LinkedIn was posted on 2026-03-19.
+This data scientist position at LinkedIn was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

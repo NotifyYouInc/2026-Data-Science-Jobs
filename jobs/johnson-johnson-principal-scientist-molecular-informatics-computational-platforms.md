@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Diego, California, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Principal-Scientist---Molecular-Informatics---Computational-Platforms_R-089311-1) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Johnson & Johnson was posted on 2026-07-28.
+This data scientist position at Johnson & Johnson was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

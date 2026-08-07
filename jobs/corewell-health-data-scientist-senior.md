@@ -5,12 +5,12 @@
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Data-Scientist-Senior_R208887-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Data-Scientist-Senior_R220542) |
 
 ## About This Role
 
-This data scientist position at Corewell Health was posted on 2026-04-07.
+This data scientist position at Corewell Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
