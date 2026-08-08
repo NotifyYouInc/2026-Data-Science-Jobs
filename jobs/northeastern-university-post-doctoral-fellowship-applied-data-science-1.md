@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northeastern University](https://scoutify.ai/companies/northeastern?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Data Scientist |
+| Category | Leadership Development Program |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Post-Doctoral-Fellowship---Applied-Data-Science-1_R141084) |
 
 ## About This Role
 
-This data scientist position at Northeastern University was posted on 2026-07-28.
+This leadership development program position at Northeastern University was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/IT-Manager---Platform-Engineering---Data-Science_R-138931) |
 
 ## About This Role
 
-This data scientist position at Ferguson was posted on 2026-07-29.
+This it & systems administration position at Ferguson was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

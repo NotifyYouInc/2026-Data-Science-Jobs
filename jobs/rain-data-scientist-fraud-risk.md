@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rain](https://scoutify.ai/companies/rain?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Trust & Safety |
-| Posted | 2026-01-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/rain/5386a05e-0377-4cba-ad2f-9438c2caad67) |
+| Category | Data Scientist |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/rain/d801cb1d-0500-487f-8732-39a4afe3c741) |
 
 ## About This Role
 
-This trust & safety position at Rain was posted on 2026-01-09.
+This data scientist position at Rain was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

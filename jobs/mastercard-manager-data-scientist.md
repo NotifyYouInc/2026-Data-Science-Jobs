@@ -1,16 +1,16 @@
-# Manager - Data Scientist at Mastercard
+# Manager, Data Scientist at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
-| Category | Data Scientist |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Manager---Data-Scientist_R-286801) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Operations |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Data-Scientist_R-281354) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-07-27.
+This operations position at Mastercard was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

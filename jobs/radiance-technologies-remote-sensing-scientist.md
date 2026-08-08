@@ -5,12 +5,12 @@
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC/Remote-Sensing-Scientist_HR102271) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC/Remote-Sensing-Scientist_HR102334) |
 
 ## About This Role
 
-This data scientist position at Radiance Technologies was posted on 2026-06-24.
+This data scientist position at Radiance Technologies was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mountain View, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115714244-staff-data-scientist) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140958129-staff-data-scientist) |
 
 ## About This Role
 
-This data scientist position at LinkedIn was posted on 2026-03-19.
+This data scientist position at LinkedIn was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
