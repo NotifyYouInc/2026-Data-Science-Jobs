@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SECURA Insurance](https://scoutify.ai/companies/secura-insurance?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Neenah, Wisconsin, United States |
-| Category | Data Scientist |
+| Category | Actuary / Insurance Analytics |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://recruiting2.ultipro.com/sec1000si/JobBoard/0bde108f-f19c-43b1-a80a-cc4f277f5607/OpportunityDetail?opportunityId=d3b7bb37-b249-4c49-9185-2729939fdbee) |
 
 ## About This Role
 
-This data scientist position at SECURA Insurance was posted on 2026-07-28.
+This actuary / insurance analytics position at SECURA Insurance was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

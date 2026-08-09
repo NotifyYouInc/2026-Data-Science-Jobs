@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Business Analyst |
+| Category | Data Scientist |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Artificial-Intelligence---Machine-Learning--Off--US-Only-_R-792375) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-07-27.
+This data scientist position at State Street was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
