@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154626) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-07-30.
+This data engineer position at Honeywell was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

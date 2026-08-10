@@ -1,16 +1,16 @@
-# Data Science Consultant at SIA
+# Postdoc med erfaring indenfor epidemiologi at University of Southern Denmark
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [University of Southern Denmark](https://scoutify.ai/companies/ocs-cx-oj97709?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Denmark |
 | Category | Data Scientist |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000141174589-data-science-consultant) |
+| Apply | [View on company site](https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4172) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-08-03.
+This data scientist position at University of Southern Denmark was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist I at The Nielsen Company
+# Lead Decision Science Consultant, Credit Card at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | Data Scientist |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014400105-senior-data-scientist-i) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WILMINGTON-DE/Lead-Decision-Science-Consultant--Credit-Card_R-565408) |
 
 ## About This Role
 
-This data scientist position at The Nielsen Company was posted on 2026-08-02.
+This data scientist position at Wells Fargo was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

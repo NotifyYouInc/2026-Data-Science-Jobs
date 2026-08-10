@@ -1,16 +1,16 @@
-# Data Science Consultant at SIA
+# Applied Scientist (2026-27 Campus, International Technology Team), Beijing at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Beijing, CN |
 | Category | Data Scientist |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000141174589-data-science-consultant) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10489936/applied-scientist-2026-27-campus-international-technology-team-beijing) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-08-03.
+This data scientist position at Amazon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Social Media / Community |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Growth-Analyst--Social-Marketing_R170213) |
 
 ## About This Role
 
-This data scientist position at Adobe was posted on 2026-07-29.
+This social media / community position at Adobe was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

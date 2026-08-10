@@ -1,16 +1,16 @@
-# Data Science Consultant at SIA
+# Junior Data Scientist - Risk Analytics & Modelling at Cermati
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Scientist |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000141174589-data-science-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000141170989-junior-data-scientist-risk-analytics-modelling) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-08-03.
+This data scientist position at Cermati was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
