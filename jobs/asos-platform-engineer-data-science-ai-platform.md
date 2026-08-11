@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000140651255-platform-engineer-data-science-ai-platform) |
 
 ## About This Role
 
-This data engineer position at ASOS was posted on 2026-07-30.
+This data scientist position at ASOS was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8072076) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8103609) |
 
 ## About This Role
 
-This data scientist position at Reddit was posted on 2026-07-17.
+This data scientist position at Reddit was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

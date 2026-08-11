@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000138837069-data-scientist) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000141404319-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Ubisoft was posted on 2026-07-21.
+This data scientist position at Ubisoft was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

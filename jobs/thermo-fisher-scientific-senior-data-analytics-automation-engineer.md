@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Spain |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Lithuania/Senior-Data-Analytics---Automation-Engineer_R-01361465) |
 
 ## About This Role
 
-This data engineer position at Thermo Fisher Scientific was posted on 2026-07-30.
+This data scientist position at Thermo Fisher Scientific was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Guangzhou-CN-AIA-Shared-Services-China/Analyst--Data-Science_JR-68447-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Analyst--Data-Science_JR-68755-2) |
 
 ## About This Role
 
-This data scientist position at AIA Group was posted on 2026-07-20.
+This data scientist position at AIA Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

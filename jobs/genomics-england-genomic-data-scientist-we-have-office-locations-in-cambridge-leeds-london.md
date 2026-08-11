@@ -1,16 +1,16 @@
-# Genomic Data Scientist (we have office locations in Cambridge, Leeds & London) at Genomics England
+# Genomic Data Scientist - (we have office locations in Cambridge, Leeds & London)  at Genomics England
 
 | Field | Details |
 |-------|---------|
 | Company | [Genomics England](https://scoutify.ai/companies/genomicsengland?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GenomicsEngland/744000134301121-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GenomicsEngland/744000141281890-genomic-data-scientist-we-have-office-locations-in-cambridge-leeds-london) |
 
 ## About This Role
 
-This data scientist position at Genomics England was posted on 2026-06-25.
+This data scientist position at Genomics England was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

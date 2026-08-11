@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7985294) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8026607) |
 
 ## About This Role
 
-This data scientist position at Pinterest was posted on 2026-06-26.
+This data scientist position at Pinterest was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

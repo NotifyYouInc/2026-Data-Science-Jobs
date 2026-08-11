@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Shanghai---CN/Senior-Manager--Data-Scientist_R1604289) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Cambridge-Crossing/Senior-Manager--Data-Scientist_R1605021) |
 
 ## About This Role
 
-This data scientist position at Bristol-Myers Squibb was posted on 2026-07-09.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

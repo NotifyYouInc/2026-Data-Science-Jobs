@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Data-Scientist-II_R0115696) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Data-Scientist-II_R0117368-1) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-07-14.
+This data scientist position at Truist was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

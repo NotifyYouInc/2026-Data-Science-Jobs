@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shift Technology](https://scoutify.ai/companies/shift-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/shifttechnology/jobs/7652429003) |
 
 ## About This Role
 
-This data scientist position at Shift Technology was posted on 2026-07-06.
+This data scientist position at Shift Technology was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000136323099-data-scientist) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000141294003-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Cint was posted on 2026-07-07.
+This data scientist position at Cint was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
