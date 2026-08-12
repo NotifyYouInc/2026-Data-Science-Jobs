@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC Indonesia](https://scoutify.ai/companies/ap2-cx-oj77716?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Banten, ID |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Scientist |
-| Posted | 2024-03-01 |
-| Apply | [View on company site](https://empq.fa.ap2.oraclecloud.com/jobs/#3391) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://empq.fa.ap2.oraclecloud.com/jobs/#4657) |
 
 ## About This Role
 
-This data scientist position at OCBC Indonesia was posted on 2024-03-01.
+This data scientist position at OCBC Indonesia was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

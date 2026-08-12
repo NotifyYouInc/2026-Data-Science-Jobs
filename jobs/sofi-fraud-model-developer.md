@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Frisco, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://sofi.com/careers/job/7637251003?gh_jid=7637251003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://sofi.com/careers/job/7826869003?gh_jid=7826869003) |
 
 ## About This Role
 
-This data scientist position at SoFi was posted on 2026-02-19.
+This data scientist position at SoFi was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

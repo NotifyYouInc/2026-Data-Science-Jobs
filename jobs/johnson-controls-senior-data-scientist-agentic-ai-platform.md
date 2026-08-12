@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Prague, CZ |
 | Category | Data Scientist |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Senior-Data-Scientist--Agentic-AI-Platform-_WD30275464) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Prague-Czechia-Czechia/Senior-Data-Scientist--Agentic-AI-Platform-_WD30276186) |
 
 ## About This Role
 
-This data scientist position at Johnson Controls was posted on 2026-07-28.
+This data scientist position at Johnson Controls was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

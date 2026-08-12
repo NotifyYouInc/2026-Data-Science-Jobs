@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Wan Chai, Wan Chai, Hong Kong |
-| Category | Data Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000130377409-consultant-data-science-analytics) |
+| Location | Hong Kong, Hong Kong |
+| Category | Data Scientist |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000141630380-consultant-data-science-analytics) |
 
 ## About This Role
 
-This data analyst position at SIA was posted on 2026-06-05.
+This data scientist position at SIA was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

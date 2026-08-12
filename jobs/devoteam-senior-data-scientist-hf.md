@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000139296991-senior-data-scientist-hf) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141508435-senior-data-scientist-hf) |
 
 ## About This Role
 
-This data scientist position at Devoteam was posted on 2026-07-23.
+This data scientist position at Devoteam was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

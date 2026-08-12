@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-248178) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Senior-Data-Scientist_R-246933) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-06.
+This data scientist position at Amgen was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

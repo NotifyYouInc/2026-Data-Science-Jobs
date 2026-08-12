@@ -6,7 +6,7 @@
 | Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Data-Scientist--Senior_R0245549) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Data-Scientist--Senior_R0245571-1) |
 
 ## About This Role
 

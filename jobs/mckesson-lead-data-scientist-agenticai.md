@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Canada |
-| Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Remote/Lead-Data-Scientist---AgenticAI_JR0145670) |
+| Location | Mississauga, Ontario, Canada |
+| Category | Data Scientist |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Lead-Data-Scientist---AgenticAI_JR0151272) |
 
 ## About This Role
 
-This ai / ml research position at McKesson was posted on 2026-06-04.
+This data scientist position at McKesson was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

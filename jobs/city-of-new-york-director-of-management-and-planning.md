@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013922946-director-of-management-and-planning) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014421566-director-of-management-and-planning) |
 
 ## About This Role
 
-This data scientist position at City of New York was posted on 2026-07-03.
+This data scientist position at City of New York was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

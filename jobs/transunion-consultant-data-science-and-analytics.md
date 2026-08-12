@@ -1,16 +1,16 @@
-# Consultant- Data Science and Analytics at TransUnion
+# Consultant, Data Science and Analytics at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Consultant--Data-Science-and-Analytics_19039059-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Consultant--Data-Science-and-Analytics_19039736) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-02-03.
+This data scientist position at TransUnion was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

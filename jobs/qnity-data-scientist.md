@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chungcheongnam-do, KR |
+| Location | Taiwan |
 | Category | Data Scientist |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Cheonan-si-Chungcheongnam-do/Data-Scientist_252332W) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/AP-TW-Dayuan-EL/Data-Scientist_252290W) |
 
 ## About This Role
 
-This data scientist position at Qnity was posted on 2026-07-24.
+This data scientist position at Qnity was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

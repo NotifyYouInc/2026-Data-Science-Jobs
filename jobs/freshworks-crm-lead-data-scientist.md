@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000131379714-lead-data-scientist) |
+| Category | Data Scientist |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000141639389-lead-data-scientist) |
 
 ## About This Role
 
-This ai / ml research position at Freshworks CRM was posted on 2026-06-10.
+This data scientist position at Freshworks CRM was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
