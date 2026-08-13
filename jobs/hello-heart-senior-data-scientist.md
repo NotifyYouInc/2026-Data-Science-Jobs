@@ -5,12 +5,12 @@
 | Company | [Hello Heart](https://scoutify.ai/companies/hello-heart?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Data Scientist |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.helloheart.com/about/careers?gh_jid=8593776002) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.helloheart.com/about/careers?gh_jid=8675737002) |
 
 ## About This Role
 
-This data scientist position at Hello Heart was posted on 2026-06-16.
+This data scientist position at Hello Heart was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

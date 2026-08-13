@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Principal-II---Fraud-Analytics-Lead--Consulting-Manager-_42631-1) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-08-03.
+This data analyst position at Guidehouse was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

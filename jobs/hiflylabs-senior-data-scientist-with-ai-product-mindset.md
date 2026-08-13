@@ -5,12 +5,12 @@
 | Company | [Hiflylabs](https://scoutify.ai/companies/hiflylabs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000138290565-senior-data-scientist-with-ai-product-mindset) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Hiflylabs/744000141743364-senior-data-scientist-with-ai-product-mindset) |
 
 ## About This Role
 
-This data scientist position at Hiflylabs was posted on 2026-07-17.
+This data scientist position at Hiflylabs was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

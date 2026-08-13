@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Spec-Analytics-Analyst---C09_26983590) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-07-30.
+This data analyst position at Citigroup was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

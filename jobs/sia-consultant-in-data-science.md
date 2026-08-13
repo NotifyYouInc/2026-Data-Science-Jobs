@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Belgium |
 | Category | Data Scientist |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000136408349-consultant-in-data-science) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000141662719-consultant-in-data-science) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-07-08.
+This data scientist position at SIA was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

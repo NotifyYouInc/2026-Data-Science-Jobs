@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Data-Scientist_110303-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Data-Scientist---ML-NLP_105641) |
 
 ## About This Role
 
-This data scientist position at Gartner was posted on 2026-06-04.
+This data scientist position at Gartner was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

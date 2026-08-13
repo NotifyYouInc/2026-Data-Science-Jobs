@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Data Scientist |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Data-scientist_R0121912) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Data-Scientist_R0121819-1) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-07-30.
+This data scientist position at LSEG was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

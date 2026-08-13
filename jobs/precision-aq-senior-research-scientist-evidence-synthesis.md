@@ -5,12 +5,12 @@
 | Company | [Precision AQ](https://scoutify.ai/companies/precision-aq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/precisionaq/jobs/6008094004) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/precisionaq/jobs/6123727004) |
 
 ## About This Role
 
-This data scientist position at Precision AQ was posted on 2026-05-28.
+This data scientist position at Precision AQ was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-II---Fraud-Reporting_R0114416) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Scientist-II---Fraud-Reporting_R0115474-1) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-05-12.
+This data scientist position at Truist was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

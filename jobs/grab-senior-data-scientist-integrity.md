@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | AI / ML Research |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000131341161-senior-data-scientist-integrity) |
+| Category | Data Scientist |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000141860199-senior-data-scientist-integrity) |
 
 ## About This Role
 
-This ai / ml research position at Grab was posted on 2026-06-10.
+This data scientist position at Grab was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

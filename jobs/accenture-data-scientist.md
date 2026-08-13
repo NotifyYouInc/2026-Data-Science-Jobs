@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Shanghai-Tsidi-Building/Data-Scientist_14477300) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Data-Scientist_14578388) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-07-14.
+This data scientist position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

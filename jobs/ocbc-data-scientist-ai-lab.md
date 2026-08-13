@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Scientist--AI-Lab_JR00008882) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Scientist--AI-Lab_JR00010057) |
 
 ## About This Role
 
-This data scientist position at OCBC was posted on 2026-06-25.
+This data scientist position at OCBC was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

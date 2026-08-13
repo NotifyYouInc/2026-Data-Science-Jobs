@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Project Manager |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Residual-Value-Model-Delivery-Manager---12-Month-Secondment---FTC_161454) |
 
 ## About This Role
 
-This data scientist position at Lloyds Bank was posted on 2026-08-04.
+This project manager position at Lloyds Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

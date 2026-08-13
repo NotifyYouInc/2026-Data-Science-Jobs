@@ -5,12 +5,12 @@
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Advanced-Analytics_R-115600) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Principal-Advanced-Analytics_R-117554) |
 
 ## About This Role
 
-This data scientist position at AT&T was posted on 2026-07-23.
+This data scientist position at AT&T was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

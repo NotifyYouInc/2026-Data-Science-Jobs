@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Data-Scientist--Senior_R0245571-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Data-Scientist--Senior_R0246115-1) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-07-29.
+This data scientist position at Booz Allen was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

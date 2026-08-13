@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TripAdvisor](https://scoutify.ai/companies/tripadvisor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Poland |
 | Category | Data Scientist |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/8045006) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tripadvisor/jobs/8045008) |
 
 ## About This Role
 
-This data scientist position at TripAdvisor was posted on 2026-07-03.
+This data scientist position at TripAdvisor was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

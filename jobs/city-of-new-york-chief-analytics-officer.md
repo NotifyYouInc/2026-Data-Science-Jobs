@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014338626-chief-analytics-officer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014446136-chief-analytics-officer) |
 
 ## About This Role
 
-This data scientist position at City of New York was posted on 2026-07-29.
+This data scientist position at City of New York was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
