@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Senior-Data-Scientist---GenAI_JR26011314) |
+| Category | Data Scientist |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Senior-Data-Scientist---GenAI_JR26060509-3) |
 
 ## About This Role
 
-This machine learning engineer position at Manulife was posted on 2026-02-12.
+This data scientist position at Manulife was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

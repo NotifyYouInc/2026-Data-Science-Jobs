@@ -1,16 +1,16 @@
-# Intelligence System Integrator – MID at General Dynamics Information Technology
+# Intelligence System Integrator-MID at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
-| Category | Data Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Intelligence-System-Integrator---MID_RQ222239-1) |
+| Location | Tampa, Florida, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/IDST-Business-Intelligence--AI-Developer-Principal_RQ225741-1) |
 
 ## About This Role
 
-This data engineer position at General Dynamics Information Technology was posted on 2026-06-11.
+This data scientist position at General Dynamics Information Technology was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

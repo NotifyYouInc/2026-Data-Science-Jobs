@@ -5,12 +5,12 @@
 | Company | [Biohub](https://scoutify.ai/companies/biohub?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Redwood City, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/biohub/jobs/7685640) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/biohub/jobs/8112574) |
 
 ## About This Role
 
-This data scientist position at Biohub was posted on 2026-06-02.
+This data scientist position at Biohub was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

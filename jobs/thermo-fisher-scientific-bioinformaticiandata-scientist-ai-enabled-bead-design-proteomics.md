@@ -1,0 +1,22 @@
+# Bioinformatician/Data Scientist – AI-enabled Bead Design & Proteomics at Thermo Fisher Scientific
+
+| Field | Details |
+|-------|---------|
+| Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Oslo, Oslo, Norway |
+| Category | Data Scientist |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Oslo-Norway/Bioinformatician-Data-Scientist---AI-enabled-Bead-Design---Proteomics_R-01362619-1) |
+
+## About This Role
+
+This data scientist position at Thermo Fisher Scientific was posted on 2026-08-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

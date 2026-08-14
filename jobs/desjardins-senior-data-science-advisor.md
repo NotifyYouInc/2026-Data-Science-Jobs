@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Quebec, CA |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-principal-ou-conseillre-principale--Science-de-donnes_R2602811-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-principal-ou-conseillre-principale--Science-de-donnes_R2609523) |
 
 ## About This Role
 
-This data scientist position at Desjardins was posted on 2026-02-27.
+This data scientist position at Desjardins was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

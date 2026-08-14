@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140958129-staff-data-scientist) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000141807399-staff-data-scientist) |
 
 ## About This Role
 
-This data scientist position at LinkedIn was posted on 2026-07-31.
+This data scientist position at LinkedIn was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Data Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-024647-1) |
+| Category | Data Scientist |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-025820) |
 
 ## About This Role
 
-This data analyst position at WGU was posted on 2026-03-24.
+This data scientist position at WGU was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

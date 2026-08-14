@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Data-Scientist--Data-Scientist--Supply-Chain-Simulation-and-Fulfillment_Req182486) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Data-Scientist--Data-Scientist--Supply-Chain-Simulation-and-Fulfillment_Req188154) |
 
 ## About This Role
 
-This data scientist position at The Home Depot was posted on 2026-06-01.
+This data scientist position at The Home Depot was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

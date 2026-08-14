@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Framingham, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/Senior-Scientist---Process-Modelling_R2857355-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/Senior-Scientist---Process-Modelling_R2866985-1) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-05-22.
+This data scientist position at Sanofi was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

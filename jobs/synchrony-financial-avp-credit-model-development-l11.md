@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 5 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Credit-Model-Development--L11-_2602100) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/AVP--Credit-Model-Development--L11-_2602285) |
 
 ## About This Role
 
-This data scientist position at Synchrony Financial was posted on 2026-07-17.
+This data scientist position at Synchrony Financial was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

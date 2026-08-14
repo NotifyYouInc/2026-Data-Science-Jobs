@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
-| Category | Data Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Makati-City-Chevron-6750-Office/Data-Science-Analyst_R000064523) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Data-Scientist_R000072104-1) |
 
 ## About This Role
 
-This data engineer position at Chevron was posted on 2026-02-11.
+This data scientist position at Chevron was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

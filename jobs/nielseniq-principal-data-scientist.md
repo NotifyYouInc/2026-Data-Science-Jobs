@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Vadodara, Gujarat, India |
 | Category | Data Scientist |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000124588250-principal-data-scientist) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141894289-principal-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-05-05.
+This data scientist position at NielsenIQ was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

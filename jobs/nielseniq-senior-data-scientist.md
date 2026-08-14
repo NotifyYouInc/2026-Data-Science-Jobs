@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140885229-senior-data-scientist) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141692929-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-31.
+This data scientist position at NielsenIQ was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
