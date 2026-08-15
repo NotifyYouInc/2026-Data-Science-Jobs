@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://flix.careers/job/8645451002?gh_jid=8645451002) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://flix.careers/job/8687296002?gh_jid=8687296002) |
 
 ## About This Role
 
-This data scientist position at Flix was posted on 2026-07-22.
+This data scientist position at Flix was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

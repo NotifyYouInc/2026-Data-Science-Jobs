@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136108999-sr-data-scientist) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142136309-sr-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-07-06.
+This data scientist position at NielsenIQ was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

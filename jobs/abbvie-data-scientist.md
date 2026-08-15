@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Worcester, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012886256-data-scientist) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014501116-data-scientist) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-04-30.
+This data scientist position at AbbVie was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

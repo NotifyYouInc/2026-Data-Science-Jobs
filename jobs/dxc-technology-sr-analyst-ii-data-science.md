@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Rome, Lazio, Italy |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Sr-Analyst-II-Data-Science_51577955) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ITA---RM---ROME/Sr-Analyst-II-Data-Science_51586593) |
 
 ## About This Role
 
-This data scientist position at DXC Technology was posted on 2026-04-14.
+This data scientist position at DXC Technology was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

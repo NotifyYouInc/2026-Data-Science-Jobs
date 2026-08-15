@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Sr-Analyst_AIOC-S01601364-1) |
+| Category | Data Scientist |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Analyst_AIOC-S01660163-1) |
 
 ## About This Role
 
-This machine learning engineer position at Accenture was posted on 2026-06-16.
+This data scientist position at Accenture was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

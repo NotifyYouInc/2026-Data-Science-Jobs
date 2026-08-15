@@ -5,12 +5,12 @@
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Culiacán, Sinaloa, Mexico |
 | Category | Data Scientist |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#307391) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#312238) |
 
 ## About This Role
 
-This data scientist position at Coppel was posted on 2026-08-03.
+This data scientist position at Coppel was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

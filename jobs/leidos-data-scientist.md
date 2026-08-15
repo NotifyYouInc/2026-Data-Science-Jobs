@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00188591) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Data-Scientist_R-00188781) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-07-31.
+This data scientist position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

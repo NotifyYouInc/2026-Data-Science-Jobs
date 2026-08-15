@@ -5,12 +5,12 @@
 | Company | [Dojo](https://scoutify.ai/companies/dojo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.dojo.careers/jobs/4849667101/?gh_jid=4849667101) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.dojo.careers/jobs/4942363101/?gh_jid=4942363101) |
 
 ## About This Role
 
-This data scientist position at Dojo was posted on 2026-04-24.
+This data scientist position at Dojo was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

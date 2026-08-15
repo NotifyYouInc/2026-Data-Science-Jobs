@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-248901) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Scientist---US-Value---Access-Insights-_R-228721) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-02.
+This data scientist position at Amgen was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
