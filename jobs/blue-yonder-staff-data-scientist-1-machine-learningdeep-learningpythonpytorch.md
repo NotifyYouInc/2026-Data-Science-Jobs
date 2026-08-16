@@ -1,16 +1,16 @@
-# Data Scientist - Assistant Manager at State Street
+# Staff Data Scientist 1 - Machine Learning,Deep Learning,Python,,Pytorch at Blue Yonder
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Data-Scientist---Assistant-Manager_R-795839) |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Staff-Data-Scientist-1---Machine-Learning-Deep-Learning-Python--Pytorch_262641) |
 
 ## About This Role
 
-This data scientist position at State Street was posted on 2026-08-08.
+This data scientist position at Blue Yonder was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

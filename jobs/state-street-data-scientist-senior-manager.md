@@ -1,12 +1,12 @@
-# Data Scientist - Assistant Manager at State Street
+# Data Scientist - Senior Manager at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Data-Scientist---Assistant-Manager_R-795839) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Data-Scientist---Senior-Manager_R-795831) |
 
 ## About This Role
 

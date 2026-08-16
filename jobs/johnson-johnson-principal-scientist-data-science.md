@@ -1,16 +1,16 @@
-# Principal Scientist Data Science at Johnson & Johnson
+# Principal Scientist, Data Science at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 5 locations |
+| Location | New Brunswick, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Principal-Scientist-Data-Science_R-088990) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Principal-Scientist--Data-Science_R-091574) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-08-03.
+This data scientist position at Johnson & Johnson was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

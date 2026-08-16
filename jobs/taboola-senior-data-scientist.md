@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Taboola](https://scoutify.ai/companies/taboola?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Los Angeles, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://www.taboola.com/careers/job/8087797?gh_jid=8087797) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://www.taboola.com/careers/job/8116173?gh_jid=8116173) |
 
 ## About This Role
 
-This data scientist position at Taboola was posted on 2026-07-26.
+This data scientist position at Taboola was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

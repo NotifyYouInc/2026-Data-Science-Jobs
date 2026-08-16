@@ -1,16 +1,16 @@
-# Data Scientist - Assistant Manager at State Street
+# Quantitative Scientist, PhD New Grad at Sentilink
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Sentilink](https://scoutify.ai/companies/sentilink?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Data-Scientist---Assistant-Manager_R-795839) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sentilink/a4a5f890-4ecd-4e76-86db-e7b3e18eb6b2) |
 
 ## About This Role
 
-This data scientist position at State Street was posted on 2026-08-08.
+This data scientist position at Sentilink was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

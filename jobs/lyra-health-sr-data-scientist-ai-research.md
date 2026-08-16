@@ -1,16 +1,16 @@
-# Data Scientist - Assistant Manager at State Street
+# Sr. Data Scientist - AI Research at Lyra Health
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Lyra Health](https://scoutify.ai/companies/lyra-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | United States |
 | Category | Data Scientist |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Data-Scientist---Assistant-Manager_R-795839) |
+| Apply | [View on company site](https://jobs.lever.co/lyrahealth/eafbaf7e-3bd5-445d-b3e2-d5927db6bd9f) |
 
 ## About This Role
 
-This data scientist position at State Street was posted on 2026-08-08.
+This data scientist position at Lyra Health was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
