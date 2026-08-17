@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11000-Montevideo-Montevideo/RETAIL-DATA-ANALYTICS-TRANSFORMATION-ANALYST_JR00111067) |
 
 ## About This Role
 
-This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-03.
+This data engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Manager - Data Science & AI at Coherent
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [Coherent](https://scoutify.ai/companies/us2-cx-oj23809?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Data-Scientist_R0122056) |
+| Apply | [View on company site](https://hcwp.fa.us2.oraclecloud.com/jobs/#2013755) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-10.
+This data scientist position at Coherent was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/AI--Data-Analytics-Data-Management-Data-Science---Aladdin_R265427) |
 
 ## About This Role
 
-This data scientist position at Blackrock was posted on 2026-08-04.
+This ai / llm engineer position at Blackrock was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

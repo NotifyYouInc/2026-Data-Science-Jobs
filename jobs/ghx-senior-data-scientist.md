@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Senior Data Scientist at GHX
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [GHX](https://scoutify.ai/companies/ghx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Data-Scientist_R0122056) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4722158005) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-10.
+This data scientist position at GHX was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

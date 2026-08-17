@@ -1,16 +1,16 @@
-# Senior Audit Innovation and Enablement Lead at Monzo
+# Senior Data Scientist, People Science at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Monzo](https://scoutify.ai/companies/monzo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/8111546) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000142514669-senior-data-scientist-people-science) |
 
 ## About This Role
 
-This data scientist position at Monzo was posted on 2026-08-06.
+This data scientist position at Grab was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 
