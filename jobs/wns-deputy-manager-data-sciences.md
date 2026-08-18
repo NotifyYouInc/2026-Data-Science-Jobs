@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000141845980-deputy-manager-data-sciences) |
 
 ## About This Role
 
-This data engineer position at WNS was posted on 2026-08-06.
+This data scientist position at WNS was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

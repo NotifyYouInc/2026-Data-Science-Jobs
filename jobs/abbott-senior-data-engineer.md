@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Des Plaines, Illinois, United States |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Des-Plaines/Senior-Data-Engineer_31158223-1) |
 
 ## About This Role
 
-This data engineer position at Abbott was posted on 2026-08-07.
+This data scientist position at Abbott was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

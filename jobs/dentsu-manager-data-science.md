@@ -1,16 +1,16 @@
-# Manager - Data Science at Dentsu
+# Manager, Data Science at Dentsu
 
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Manager---Data-Science_R1114847-2) |
+| Location | New York City, New York, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York/Manager--Data-Science_R1129148-1) |
 
 ## About This Role
 
-This ai / ml research position at Dentsu was posted on 2026-06-16.
+This data scientist position at Dentsu was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

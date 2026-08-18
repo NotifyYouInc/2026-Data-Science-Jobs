@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7667074822035261749/detail) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7670832868019030277/detail) |
 
 ## About This Role
 
-This data scientist position at TikTok was posted on 2026-08-04.
+This data scientist position at TikTok was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

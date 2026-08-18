@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10405733/sr-applied-scientist-ai-velocity-team-applied-ai-acceleration-solutions-architecture) |
+| Category | Data Scientist |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10498135/sr-applied-scientist-ai-velocity-team-applied-ai-acceleration-solutions-architecture) |
 
 ## About This Role
 
-This machine learning engineer position at Amazon was posted on 2026-04-28.
+This data scientist position at Amazon was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

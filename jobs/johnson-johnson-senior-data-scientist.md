@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Santa Clara, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Senior-Data-Scientist_R-080985) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Data-Scientist_R-087473) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-06-09.
+This data scientist position at Johnson & Johnson was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

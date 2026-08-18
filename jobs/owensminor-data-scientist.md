@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Owensminor](https://scoutify.ai/companies/owensminor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Philadelphia-PA/Data-Scientist_REQ_26_31441) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---US/Data-Scientist_REQ_26_32998) |
 
 ## About This Role
 
-This data scientist position at Owensminor was posted on 2026-04-24.
+This data scientist position at Owensminor was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

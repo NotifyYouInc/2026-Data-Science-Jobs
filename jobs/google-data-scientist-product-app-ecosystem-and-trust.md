@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeVRnVr6yCciw2L9vGYM1cdsMI9UqbL7DoghJ-vRAG1GEjsACxwdTKbYB1pHZgvV6SJF5IAMXCfiZQvUwt4fJxlo9_C4hRVk1n6Kob0sRvt6UerHitZuNAwhKXVovw%3D%3D_V2&loc=SG&title=Data+Scientist) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQYmWi4jJUvR_1ckoDJ0s1JNq89eQj_KfyST5PjSyICgEjsA1Ny_i3HGThTVTyjJWWBFtRW0CH2panv8eO5z4VBhLtXJbzC8pzW-Ju0rGlJanCy-Z1nQXXoHPkpl9A%3D%3D_V2&loc=SG&title=Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-06-02.
+This data scientist position at Google was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

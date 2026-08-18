@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Data Scientist |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000138564209-senior-data-scientist-dynamic-promo-quick-commerce) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000142584351-senior-data-scientist-dynamic-promo-quick-commerce) |
 
 ## About This Role
 
-This data scientist position at Delivery Hero was posted on 2026-07-20.
+This data scientist position at Delivery Hero was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

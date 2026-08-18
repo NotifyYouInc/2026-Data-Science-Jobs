@@ -1,16 +1,16 @@
-# DATA SCIENTIST at Micron
+# Data Scientist at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/DATA-SCIENTIST_JR107801) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Data-Scientist_JR106408) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-08-04.
+This data scientist position at Micron was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

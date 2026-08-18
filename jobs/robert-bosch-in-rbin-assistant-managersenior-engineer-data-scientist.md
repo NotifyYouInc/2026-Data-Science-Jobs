@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Nashik, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137052729-in-rbin-assistant-managersenior-engineer-data-scientist) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142781949-in-rbin-assistant-managersenior-engineer-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-07-10.
+This data scientist position at Robert Bosch was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

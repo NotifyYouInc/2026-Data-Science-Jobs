@@ -5,12 +5,12 @@
 | Company | [Genomics England](https://scoutify.ai/companies/genomicsengland?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GenomicsEngland/744000136878439-lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GenomicsEngland/744000142697889-lead-genomic-data-scientist-cancer-we-have-office-locations-in-cambridge-leeds-london) |
 
 ## About This Role
 
-This data scientist position at Genomics England was posted on 2026-07-09.
+This data scientist position at Genomics England was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

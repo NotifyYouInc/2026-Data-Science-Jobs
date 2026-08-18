@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mozilla](https://scoutify.ai/companies/mozilla?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Canada |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8031046) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8120718) |
 
 ## About This Role
 
-This data scientist position at Mozilla was posted on 2026-07-09.
+This data scientist position at Mozilla was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Strategy & Operations |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R244226-2) |
+| Category | Data Scientist |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R248913-1) |
 
 ## About This Role
 
-This strategy & operations position at Capital One was posted on 2026-06-10.
+This data scientist position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

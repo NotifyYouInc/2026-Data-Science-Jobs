@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Principal-Data-Engineer---Financial-Analyst_R-058577-1) |
 
 ## About This Role
 
-This data engineer position at Red Hat was posted on 2026-08-06.
+This data scientist position at Red Hat was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

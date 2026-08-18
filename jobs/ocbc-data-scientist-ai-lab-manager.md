@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Scientist--AI-Lab--Manager-_JR00008557) |
+| Category | Data Scientist |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Scientist--AI-Lab--Manager-_JR00010101) |
 
 ## About This Role
 
-This machine learning engineer position at OCBC was posted on 2026-06-12.
+This data scientist position at OCBC was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

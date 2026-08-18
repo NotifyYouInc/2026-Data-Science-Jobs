@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | 41 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hong-Kong/Senior-Data-Scientist_14474497) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Senior-Data-Scientist_R00345344) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-06-24.
+This data scientist position at Accenture was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

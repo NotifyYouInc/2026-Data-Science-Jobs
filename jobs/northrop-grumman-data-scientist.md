@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Diego, California, United States |
+| Location | 7 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Scientist_R10235244) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Data-Scientist_R10244523) |
 
 ## About This Role
 
-This data scientist position at Northrop Grumman was posted on 2026-06-04.
+This data scientist position at Northrop Grumman was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

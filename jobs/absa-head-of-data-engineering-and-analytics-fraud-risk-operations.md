@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Head-of-Data-Engineering-and-Analytics--Fraud-Risk-Operations_R-15989799) |
 
 ## About This Role
 
-This data engineer position at Absa was posted on 2026-08-05.
+This data scientist position at Absa was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

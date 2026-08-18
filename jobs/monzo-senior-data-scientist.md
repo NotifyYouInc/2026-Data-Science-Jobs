@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monzo](https://scoutify.ai/companies/monzo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Cardiff, Wales, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/8064099) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/6180814) |
 
 ## About This Role
 
-This data scientist position at Monzo was posted on 2026-07-17.
+This data scientist position at Monzo was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

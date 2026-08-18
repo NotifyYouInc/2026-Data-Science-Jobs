@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Senior-Data-Scientist_R106331-2) |
+| Location | Singapore, Singapore |
+| Category | Data Scientist |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Data-Scientist_R107934) |
 
 ## About This Role
 
-This machine learning engineer position at Tencent was posted on 2026-03-04.
+This data scientist position at Tencent was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
