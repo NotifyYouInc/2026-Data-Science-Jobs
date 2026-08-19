@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000127916184-managing-consultant-eu-data-science) |
+| Category | Data Scientist |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000142904929-managing-consultant-eu-data-science) |
 
 ## About This Role
 
-This strategy / management consulting position at PA Consulting was posted on 2026-05-22.
+This data scientist position at PA Consulting was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

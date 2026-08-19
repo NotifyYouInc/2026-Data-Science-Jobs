@@ -1,16 +1,16 @@
-# Senior Lead Analytics Consultant - Auto Pricing at Wells Fargo
+# Senior Lead Analytics Consultant -- Auto Pricing at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Analytics-Consultant---Auto-Pricing_R-558635) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Analytics-Consultant----Auto-Pricing_R-567377) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-07-21.
+This data scientist position at Wells Fargo was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

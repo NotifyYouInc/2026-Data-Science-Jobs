@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Malmö, Skåne, Sweden |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Vilnius/Data-Scientist_62162) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Gteborg/Data-Scientist_62341-1) |
 
 ## About This Role
 
-This data scientist position at Teliacompany was posted on 2026-07-10.
+This data scientist position at Teliacompany was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

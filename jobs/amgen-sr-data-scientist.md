@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Data-Scientist_R-252666) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-07-22.
+This data scientist position at Amgen was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

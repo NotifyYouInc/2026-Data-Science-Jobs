@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7997383) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8048155) |
 
 ## About This Role
 
-This data scientist position at Coupang was posted on 2026-06-24.
+This data scientist position at Coupang was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

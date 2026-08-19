@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Beijing, Beijing, China |
 | Category | Data Scientist |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Data-Scientist_14578388) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Beijing/Data-Scientist_14477319) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-08-05.
+This data scientist position at Accenture was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

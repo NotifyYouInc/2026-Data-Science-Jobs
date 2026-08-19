@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Devops Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000106796414-working-student-data-science-mfd) |
+| Location | Germany |
+| Category | Data Scientist |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000142810760-working-student-data-science-mfd) |
 
 ## About This Role
 
-This devops engineer position at Sixt was posted on 2026-02-02.
+This data scientist position at Sixt was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

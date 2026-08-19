@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Durham, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000140751044-senior-statistician) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000142866599-senior-statistician) |
 
 ## About This Role
 
-This data scientist position at Psi Cro was posted on 2026-07-30.
+This data scientist position at Psi Cro was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

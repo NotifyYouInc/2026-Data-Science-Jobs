@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New Hampshire, US |
-| Category | Engineering Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556873462) |
+| Location | Chicago, Illinois, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556939554) |
 
 ## About This Role
 
-This engineering manager position at Microsoft was posted on 2026-06-05.
+This data scientist position at Microsoft was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

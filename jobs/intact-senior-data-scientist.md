@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Hong Kong, Hong Kong |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Senior-Data-Scientist_R154868) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/Senior-Data-Scientist_R155019) |
 
 ## About This Role
 
-This data scientist position at Intact was posted on 2026-07-23.
+This data scientist position at Intact was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

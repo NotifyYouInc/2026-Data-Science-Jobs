@@ -1,16 +1,16 @@
-# Senior  Data Scientist at Valtech
+# Senior Data Scientist at Valtech
 
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4717012101) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4945842101) |
 
 ## About This Role
 
-This data scientist position at Valtech was posted on 2026-08-07.
+This data scientist position at Valtech was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

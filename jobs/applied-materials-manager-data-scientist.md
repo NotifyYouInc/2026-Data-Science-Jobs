@@ -1,16 +1,16 @@
-# Manager, Data Scientist at Applied Materials
+# Manager - Data Scientist at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Manager--Data-Scientist_R2622927) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Manager---Data-Scientist_R2623345) |
 
 ## About This Role
 
-This data scientist position at Applied Materials was posted on 2026-07-10.
+This data scientist position at Applied Materials was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
