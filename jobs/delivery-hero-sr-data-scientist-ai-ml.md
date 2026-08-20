@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126079699-sr-data-scientist-ai-ml) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000143059274-sr-data-scientist-ai-ml) |
 
 ## About This Role
 
-This data scientist position at Delivery Hero was posted on 2026-05-12.
+This data scientist position at Delivery Hero was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

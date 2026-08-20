@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Scientist |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000141862641-data-scientist-analytics) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000142084940-data-scientist-analytics) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-08-06.
+This data scientist position at Grab was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

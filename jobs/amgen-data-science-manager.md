@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Digital-Analytics-Manager_R-228279) |
+| Category | Data Scientist |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Data-Science-Manager_R-251963) |
 
 ## About This Role
 
-This engineering manager position at Amgen was posted on 2026-06-17.
+This data scientist position at Amgen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

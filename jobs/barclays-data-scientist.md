@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Data-Scientist_JR-0000121145-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Data-Scientist_JR-0000124731) |
 
 ## About This Role
 
-This data scientist position at Barclays was posted on 2026-08-05.
+This data scientist position at Barclays was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Florida, US |
+| Location | New Jersey, US |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Florida/Senior-Data-Scientist--Products_R0923029) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Work-from-home/Senior-Data-Scientist_R1006559) |
 
 ## About This Role
 
-This data scientist position at CVS Health was posted on 2026-07-14.
+This data scientist position at CVS Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

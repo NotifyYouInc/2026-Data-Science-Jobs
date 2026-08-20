@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2612272) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2625997) |
 
 ## About This Role
 
-This data scientist position at Applied Materials was posted on 2026-02-12.
+This data scientist position at Applied Materials was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

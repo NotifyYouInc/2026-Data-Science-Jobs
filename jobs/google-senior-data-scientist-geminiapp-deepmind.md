@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc-vMuzoblCTgcckAyfKQ3_7jXgruIwvYvr6kaTw_uipEjsA1Ny_i5qCp3PwUKQJuDEFE14zXYE5O8uBFK2u1UTt5Wc-paBZAlofXHPZ_LL8rxSg3g5mNAyKSZkLSA%3D%3D_V2&loc=US&title=Senior+Data+Scientist) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQpjVWWf6rNpp8b8l54UwfyIfvsknsPcYPGtmIMNhGZ0EjsA1Ny_i_NyjbzB9uv2NS-qN9vidVJEQic9k35oVHnxAilWXdpe49VeQnAbeGx_YUoWLwfd9Ckt_IiRiw%3D%3D_V2&loc=US&title=Senior+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-07-08.
+This data scientist position at Google was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

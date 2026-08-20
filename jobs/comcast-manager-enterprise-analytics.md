@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Manager--Enterprise-Analytics_R438811) |
+| Location | Georgia, US |
+| Category | Data Scientist |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Manager--Enterprise-Analytics_R442333) |
 
 ## About This Role
 
-This business analyst position at Comcast was posted on 2026-06-10.
+This data scientist position at Comcast was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

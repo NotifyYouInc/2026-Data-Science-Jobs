@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Texas, US |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York/VP--Marketing-Effectiveness_R1128256) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA--Remote--Texas--Central-Time/VP--Marketing-Effectiveness_R1128564-1) |
 
 ## About This Role
 
-This data scientist position at Dentsu was posted on 2026-07-22.
+This data scientist position at Dentsu was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

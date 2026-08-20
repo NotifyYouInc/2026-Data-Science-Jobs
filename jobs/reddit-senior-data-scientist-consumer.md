@@ -1,16 +1,16 @@
-# Senior Data Scientist, Consumer at Reddit
+# Senior Data Scientist - Consumer at Reddit
 
 | Field | Details |
 |-------|---------|
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7931049) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/8126946) |
 
 ## About This Role
 
-This data scientist position at Reddit was posted on 2026-05-15.
+This data scientist position at Reddit was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

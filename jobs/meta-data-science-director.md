@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Leadership Development Program |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/26574551102245840) |
+| Location | Menlo Park, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2299119854163905) |
 
 ## About This Role
 
-This leadership development program position at Meta was posted on 2026-06-24.
+This data scientist position at Meta was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

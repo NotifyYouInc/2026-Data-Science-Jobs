@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Science_R243883-1) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Science_R243884-1) |
 
 ## About This Role
 

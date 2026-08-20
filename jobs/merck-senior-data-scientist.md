@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | South San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Senior-Data-Scientist_R400860-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/Senior-Data-Scientist_R410231-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-06-09.
+This data scientist position at Merck was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
