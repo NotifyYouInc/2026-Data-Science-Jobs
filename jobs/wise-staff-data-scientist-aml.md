@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138287909-staff-data-scientist-aml) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143313254-staff-data-scientist-aml) |
 
 ## About This Role
 
-This data scientist position at WISE was posted on 2026-07-17.
+This data scientist position at WISE was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

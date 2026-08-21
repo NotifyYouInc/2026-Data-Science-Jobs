@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Data Scientist |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141712494-senior-data-scientist-operations-research-revenue-management-fleet-optimization-mfd) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000143357189-senior-data-scientist-operations-research-revenue-management-fleet-optimization-mfd) |
 
 ## About This Role
 
-This data scientist position at Sixt was posted on 2026-08-05.
+This data scientist position at Sixt was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

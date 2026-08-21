@@ -1,16 +1,16 @@
-# Lead - Advanced Analytics, Gurgaon at Airbnb
+# Lead Advanced Analytics - Gurgaon at Airbnb
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/8009372?gh_jid=8009372) |
+| Category | Data Scientist |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/8052941?gh_jid=8052941) |
 
 ## About This Role
 
-This data analyst position at Airbnb was posted on 2026-06-16.
+This data scientist position at Airbnb was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

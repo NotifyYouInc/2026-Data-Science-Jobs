@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0246169) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist_R0246170) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-06.
+This data scientist position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

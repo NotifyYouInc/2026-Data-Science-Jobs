@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Warrenville, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000138387612-il0219-data-scientist) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000143354130-il0219-data-scientist) |
 
 ## About This Role
 
-This data scientist position at R R Donnelley & Sons was posted on 2026-07-17.
+This data scientist position at R R Donnelley & Sons was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

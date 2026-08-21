@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Digitalturbine](https://scoutify.ai/companies/digitalturbine?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | New York, US |
 | Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/Poland---Warsaw/Senior-Data-Scientist_JR100835) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://digitalturbine.wd501.myworkdayjobs.com/digital_turbine_external_careers/job/United-States---New-York/Senior-Data-Scientist_JR101031) |
 
 ## About This Role
 
-This data scientist position at Digitalturbine was posted on 2026-03-10.
+This data scientist position at Digitalturbine was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

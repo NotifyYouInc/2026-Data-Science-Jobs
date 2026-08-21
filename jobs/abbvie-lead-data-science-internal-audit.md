@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Plainfield, New Jersey, United States |
-| Category | Data Scientist |
+| Category | Accounting |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014543646-lead-data-science-internal-audit) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-08-11.
+This accounting position at AbbVie was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000140771299-consultant-marketing-data-science-ai) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143402358-consultant-marketing-data-science-ai) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-07-30.
+This data scientist position at SIA was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

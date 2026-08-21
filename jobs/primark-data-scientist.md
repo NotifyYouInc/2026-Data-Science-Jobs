@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Reading, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000141435879-data-scientist) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000143344584-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Primark was posted on 2026-08-04.
+This data scientist position at Primark was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

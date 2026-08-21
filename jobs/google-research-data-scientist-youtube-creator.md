@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Zürich, Zurich, Switzerland |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaVRi6JVZsEOuEzCW78n7v0C9HUkhbxLGLlghpVlKthyEjsACxwdTDpr3Om9yE0KQuhz9t5SEr4qzwX2A-YfqQFvEl3hzvSucl_LARlFmxVPpno1OFsrb2QxcvOVcA%3D%3D_V2&loc=US&title=Research+Data+Scientist) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ8xTdsSzH5aDQ9aRyP54jl8-nHml4fEFZttAoQ8wzjKEjsA1Ny_iz1RjUea6fJAwZ2cTQgRggdNICK_g8J-gV-dUKFqeoI0bNdcfdGjcg_Jla9u-9Eivov_CgFCog%3D%3D_V2&loc=CH&title=Research+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-04-15.
+This data scientist position at Google was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Great Gray](https://scoutify.ai/companies/great-gray?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.lever.co/great-gray-group/5f1164c5-06f7-43e5-b6b7-5e1a04fd9ba4) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.lever.co/great-gray-group/f4aeeab3-5a08-4959-b734-4aef7f2597ba) |
 
 ## About This Role
 
-This data scientist position at Great Gray was posted on 2026-07-24.
+This data scientist position at Great Gray was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
