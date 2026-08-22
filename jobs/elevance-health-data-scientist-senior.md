@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Scientist-Senior_JR195495) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Scientist-Senior_JR203197) |
 
 ## About This Role
 
-This data scientist position at Elevance Health was posted on 2026-07-01.
+This data scientist position at Elevance Health was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

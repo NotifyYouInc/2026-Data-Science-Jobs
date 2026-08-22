@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Skechers USA](https://scoutify.ai/companies/skechers-usa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Manhattan Beach, California, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Data-Scientist_JR125694) |
+| Category | Data Scientist |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Data-Scientist_JR131647) |
 
 ## About This Role
 
-This ai / llm engineer position at Skechers USA was posted on 2026-03-03.
+This data scientist position at Skechers USA was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

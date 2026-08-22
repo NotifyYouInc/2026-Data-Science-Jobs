@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Morton, Illinois, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Data-Scientist_R0000386297) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist_R0000386933) |
 
 ## About This Role
 
-This data scientist position at Caterpillar Inc. was posted on 2026-08-07.
+This data scientist position at Caterpillar Inc. was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Illinois, US |
+| Location | Florham Park, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014346356-principal-data-scientist) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014603806-principal-data-scientist) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-07-29.
+This data scientist position at AbbVie was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

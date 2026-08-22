@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Vadodara, Gujarat, India |
 | Category | Data Scientist |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142589849-senior-data-scientist) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142871160-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-08-10.
+This data scientist position at NielsenIQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

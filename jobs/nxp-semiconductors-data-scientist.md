@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur/Data-Scientist_R-10062857-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Data-Scientist_R-10066257) |
 
 ## About This Role
 
-This data scientist position at NXP Semiconductors was posted on 2026-04-21.
+This data scientist position at NXP Semiconductors was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

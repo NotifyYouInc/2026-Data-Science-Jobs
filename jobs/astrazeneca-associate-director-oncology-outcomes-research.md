@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gaithersburg, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Associate-Director--Oncology-Outcomes-Research_R-253812-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Associate-Director--Oncology-Outcomes-Research_R-258233) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-08-07.
+This data scientist position at AstraZeneca was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

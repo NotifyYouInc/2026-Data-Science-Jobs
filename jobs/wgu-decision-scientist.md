@@ -5,12 +5,12 @@
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Decision-Scientist_JR-025678) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Raleigh-NC/Decision-Scientist_JR-025897) |
 
 ## About This Role
 
-This data scientist position at WGU was posted on 2026-07-15.
+This data scientist position at WGU was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
