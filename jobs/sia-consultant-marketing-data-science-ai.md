@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Scientist |
+| Category | Marketing Operations |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143402358-consultant-marketing-data-science-ai) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-08-13.
+This marketing operations position at SIA was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

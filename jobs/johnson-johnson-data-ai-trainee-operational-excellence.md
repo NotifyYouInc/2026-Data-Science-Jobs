@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Schaffhausen, Schaffhausen, Switzerland |
-| Category | Data Scientist |
+| Category | Strategy & Operations |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Schaffhausen-Switzerland/Data---AI-Trainee-Operational-Excellence_R-093061) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-08-13.
+This strategy & operations position at Johnson & Johnson was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

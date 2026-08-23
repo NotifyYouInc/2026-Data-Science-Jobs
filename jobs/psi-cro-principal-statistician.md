@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000142866709-principal-statistician) |
 
 ## About This Role
 
-This data scientist position at Psi Cro was posted on 2026-08-11.
+This bioinformatics / computational biology position at Psi Cro was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

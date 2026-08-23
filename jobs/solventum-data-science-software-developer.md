@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Murray, Utah, United States |
-| Category | Data Scientist |
+| Category | Machine Learning Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-Utah-Murray/Data-science-software-developer_R01132638) |
 
 ## About This Role
 
-This data scientist position at Solventum was posted on 2026-08-10.
+This machine learning engineer position at Solventum was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

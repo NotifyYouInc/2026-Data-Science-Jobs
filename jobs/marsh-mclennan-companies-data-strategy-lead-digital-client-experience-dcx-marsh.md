@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Strategy & Operations |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Data-Strategy-Lead--Digital-Client-Experience--DCX-----Marsh--Open-_R_357969-1) |
 
 ## About This Role
 
-This data scientist position at Marsh & McLennan Companies was posted on 2026-08-14.
+This strategy & operations position at Marsh & McLennan Companies was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

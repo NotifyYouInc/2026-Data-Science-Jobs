@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Supercell](https://scoutify.ai/companies/supercell?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Helsinki, Uusimaa, Finland |
-| Category | Data Scientist |
+| Category | Marketing Operations |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/supercell/fdef9348-750d-4c8f-88b2-517ba4804672) |
 
 ## About This Role
 
-This data scientist position at Supercell was posted on 2026-08-13.
+This marketing operations position at Supercell was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

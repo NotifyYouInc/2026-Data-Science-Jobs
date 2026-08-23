@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Berlin/Senior-Principal-Applied-Scientist---Ranking-and-Recommendations--all-genders-_2724813-1) |
 
 ## About This Role
 
-This data scientist position at Zalando was posted on 2026-08-10.
+This ai / ml research position at Zalando was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

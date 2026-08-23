@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Scientist--Biomarker-Discovery-Automation---Engineering--Multiomics_R411459-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-08-10.
+This bioinformatics / computational biology position at Merck was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
