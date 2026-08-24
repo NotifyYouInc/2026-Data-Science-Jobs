@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Senior Manager, Data Science and AI at Pfizer
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143744255-data-scientist) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Senior-Manager--Data-Science-and-AI_4961751-1) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-08-17.
+This data scientist position at Pfizer was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

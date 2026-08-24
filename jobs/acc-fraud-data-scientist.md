@@ -1,16 +1,16 @@
-# Applied Scientist 5 at Adobe
+# Fraud Data Scientist at ACC
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [ACC](https://scoutify.ai/companies/ocs-cx-oj476?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Wellington, Wellington Region, New Zealand |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Applied-Scientist-5_R171066) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://fa-ernw-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1007198) |
 
 ## About This Role
 
-This data scientist position at Adobe was posted on 2026-08-12.
+This data scientist position at ACC was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Manager, Data Science and AI at Pfizer
+# Senior Manager, Data Science & Analytics (Media Mix Modelling) at Pfizer
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Manager--Data-Science-and-AI_4961853-1) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Senior-Manager--Data-Science---Analytics--Media-Mix-Modelling-_4961750-1) |
 
 ## About This Role
 

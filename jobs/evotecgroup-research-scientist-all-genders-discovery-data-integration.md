@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evotecgroup](https://scoutify.ai/companies/evotecgroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://evotecgroup.wd3.myworkdayjobs.com/evotec_career_site/job/Hamburg/Research-Scientist--all-genders--Discovery-Data-integration_JOBID-14764) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Evotecgroup was posted on 2026-08-12.
+This data scientist position at Evotecgroup was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Senior Analytics Manager at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
-| Category | Data Scientist |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
+| Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143744255-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143736209-senior-analytics-manager) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-08-17.
+This data analyst position at Grab was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

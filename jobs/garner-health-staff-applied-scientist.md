@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6141418004) |
 
 ## About This Role
 
-This ai / ml research position at Garner Health was posted on 2026-08-11.
+This data scientist position at Garner Health was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

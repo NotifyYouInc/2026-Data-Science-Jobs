@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Leiden, South Holland, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Leiden-area-Netherlands/Senior-Applied-Data-Scientist_2026-15798) |
+| Category | Data Scientist |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Leiden-area-Netherlands/Senior-Applied-Data-Scientist_2026-15746) |
 
 ## About This Role
 
-This machine learning engineer position at Swift was posted on 2026-04-24.
+This data scientist position at Swift was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

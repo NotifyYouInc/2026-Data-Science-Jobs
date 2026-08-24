@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Data-Scientist-II_R-282332) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Data-Scientist-II_R-286934) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-08-10.
+This data scientist position at Mastercard was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

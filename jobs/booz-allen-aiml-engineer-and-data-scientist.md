@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Fort Belvoir, Virginia, United States |
-| Category | Machine Learning Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0246671) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-08-12.
+This data scientist position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

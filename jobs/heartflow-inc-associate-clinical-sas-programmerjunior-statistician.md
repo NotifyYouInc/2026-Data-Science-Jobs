@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HeartFlow, Inc](https://scoutify.ai/companies/heartflow-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Software Engineer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/6140277004) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at HeartFlow, Inc was posted on 2026-08-10.
+This software engineer position at HeartFlow, Inc was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

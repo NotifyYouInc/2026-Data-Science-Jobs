@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClinChoice](https://scoutify.ai/companies/clinchoice?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Software Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/clinchoice/jobs/4948143101) |
 
 ## About This Role
 
-This data scientist position at ClinChoice was posted on 2026-08-11.
+This software engineer position at ClinChoice was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

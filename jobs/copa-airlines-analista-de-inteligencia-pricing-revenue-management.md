@@ -1,16 +1,16 @@
-# Applied Scientist 5 at Adobe
+# Analista de Inteligencia Pricing & Revenue Management at Copa Airlines
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [Copa Airlines](https://scoutify.ai/companies/us6-cx-oj24434?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Panama |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Applied-Scientist-5_R171066) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ejom.fa.us6.oraclecloud.com/jobs/#12561) |
 
 ## About This Role
 
-This data scientist position at Adobe was posted on 2026-08-12.
+This data scientist position at Copa Airlines was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

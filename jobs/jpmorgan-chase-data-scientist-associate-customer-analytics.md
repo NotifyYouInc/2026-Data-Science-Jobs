@@ -1,16 +1,16 @@
-# Data Scientist at NielsenIQ
+# Data Scientist Associate - Customer Analytics at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143744255-data-scientist) |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780571) |
 
 ## About This Role
 
-This data scientist position at NielsenIQ was posted on 2026-08-17.
+This data scientist position at JPMorgan Chase was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

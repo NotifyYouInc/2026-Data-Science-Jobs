@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shield AI](https://scoutify.ai/companies/shieldai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.lever.co/shieldai/9f71126e-081a-4747-a0ef-52fe01e0f085) |
 
 ## About This Role
 
-This data scientist position at Shield AI was posted on 2026-08-12.
+This software engineer position at Shield AI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

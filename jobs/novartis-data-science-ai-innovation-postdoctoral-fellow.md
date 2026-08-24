@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Diego, California, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/San-Diego/Data-Science---AI-Innovation-Postdoctoral-Fellow_REQ-10085085-1) |
 
 ## About This Role
 
-This ai / ml research position at Novartis was posted on 2026-08-10.
+This data scientist position at Novartis was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

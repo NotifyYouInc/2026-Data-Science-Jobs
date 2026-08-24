@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Software Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Bangalore/Data-Scientist-Software-Developer_R49117) |
 
 ## About This Role
 
-This data scientist position at Xylem was posted on 2026-08-11.
+This software engineer position at Xylem was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

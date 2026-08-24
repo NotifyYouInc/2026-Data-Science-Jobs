@@ -1,16 +1,16 @@
-# Senior Associate, Data Analytics and Machine Learning at Alcon
+# Senior Applied Data Scientist at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Tuas-Singapore/Senior-Associate--Data-Analytics-and-Machine-Learning_R-2026-48928-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Senior-Applied-Data-Scientist_JR00010276) |
 
 ## About This Role
 
-This data scientist position at Alcon was posted on 2026-08-15.
+This data scientist position at OCBC was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

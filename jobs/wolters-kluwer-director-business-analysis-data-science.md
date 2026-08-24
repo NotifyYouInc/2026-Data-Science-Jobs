@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Business Analyst |
+| Category | Data Scientist |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ESP---Madrid-Castellana/Director-Business-Analysis---Data-Science_R0059164-2) |
 
 ## About This Role
 
-This business analyst position at Wolters Kluwer was posted on 2026-08-12.
+This data scientist position at Wolters Kluwer was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
