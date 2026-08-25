@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | South Korea |
+| Location | Phoenix, Arizona, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4935495101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4942900101) |
 
 ## About This Role
 
-This data scientist position at ASM was posted on 2026-07-31.
+This data scientist position at ASM was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Beijing-Yizhuang/Senior-Principal-Statistician--BioPharma-_R-247996) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Beijing-Yizhuang/Senior-Principal-Statistician--BioPharma-_R-256436) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-07-07.
+This data scientist position at AstraZeneca was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

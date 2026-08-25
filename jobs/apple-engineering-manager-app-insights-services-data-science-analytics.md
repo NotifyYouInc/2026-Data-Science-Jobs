@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Engineering Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655609/engineering-manager-app-insights-services-data-science-analytics) |
+| Location | Cupertino, California, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678487/engineering-manager-app-insights-services-data-science-analytics) |
 
 ## About This Role
 
-This engineering manager position at Apple was posted on 2026-04-03.
+This data scientist position at Apple was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

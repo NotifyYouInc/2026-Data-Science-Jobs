@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1382374666997374) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1504594527630283) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-03-04.
+This data scientist position at Meta was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

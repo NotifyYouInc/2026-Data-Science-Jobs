@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000141807399-staff-data-scientist) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143885844-staff-data-scientist) |
 
 ## About This Role
 
-This data scientist position at LinkedIn was posted on 2026-08-05.
+This data scientist position at LinkedIn was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

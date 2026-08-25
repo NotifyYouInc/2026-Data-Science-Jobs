@@ -1,16 +1,16 @@
-# Principal, Data Scientist at Warner Bros Discovery
+# Principal Data Scientist at Warner Bros Discovery
 
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Principal--Data-Scientist_R000102318) |
+| Location | 4 locations |
+| Category | Data Scientist |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-San-Francisco-153-Kearny-Street/Principal-Data-Scientist_R000106748) |
 
 ## About This Role
 
-This machine learning engineer position at Warner Bros Discovery was posted on 2026-02-25.
+This data scientist position at Warner Bros Discovery was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

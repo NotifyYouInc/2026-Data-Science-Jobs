@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Data-Scientist_R2120643) |
+| Location | Chantilly, Virginia, United States |
+| Category | Data Scientist |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Scientist_R2128453) |
 
 ## About This Role
 
-This ai / llm engineer position at KBR was posted on 2026-03-18.
+This data scientist position at KBR was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

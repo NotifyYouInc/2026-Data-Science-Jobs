@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
-| Category | Leadership Development Program |
+| Category | Data Scientist |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Junior-Credit-Risk-Modeller_JR_00144677) |
 
 ## About This Role
 
-This leadership development program position at Rabobank was posted on 2026-08-14.
+This data scientist position at Rabobank was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

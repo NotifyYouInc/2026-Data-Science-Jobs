@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
-| Category | Data Scientist |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Remote/Data-Scientist_R1309411) |
+| Location | New Delhi, Delhi, India |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/New-Delhi-Delhi-India/Data-Scientist_R1316527) |
 
 ## About This Role
 
-This data scientist position at Danaher was posted on 2026-06-03.
+This data analyst position at Danaher was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

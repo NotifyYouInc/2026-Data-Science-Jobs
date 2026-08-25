@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0246463) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0246471) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-11.
+This data scientist position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

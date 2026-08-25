@@ -5,12 +5,12 @@
 | Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://sofi.com/careers/job/7741755003?gh_jid=7741755003) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://sofi.com/careers/job/7887211003?gh_jid=7887211003) |
 
 ## About This Role
 
-This data scientist position at SoFi was posted on 2026-05-20.
+This data scientist position at SoFi was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

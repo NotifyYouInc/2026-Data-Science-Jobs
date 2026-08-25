@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Poland |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014531506-advanced-lead-engineer) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014553616-advanced-lead-engineer) |
 
 ## About This Role
 
-This data scientist position at Wabtec was posted on 2026-08-11.
+This data scientist position at Wabtec was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
