@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Princeton, Florida, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Manager--Analytical-AI-Forecasting-and-Predictive-Solutions_R1603329-1) |
+| Category | Data Scientist |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Manager--Analytical-AI-Forecasting-and-Predictive-Solutions_R1605344-1) |
 
 ## About This Role
 
-This business analyst position at Bristol-Myers Squibb was posted on 2026-06-11.
+This data scientist position at Bristol-Myers Squibb was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

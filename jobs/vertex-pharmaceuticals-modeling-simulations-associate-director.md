@@ -5,12 +5,12 @@
 | Company | [Vertex Pharmaceuticals](https://scoutify.ai/companies/vrtx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Associate-Director_REQ-29425) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Modeling---Simulations-Associate-Director_REQ-29834) |
 
 ## About This Role
 
-This data scientist position at Vertex Pharmaceuticals was posted on 2026-07-07.
+This data scientist position at Vertex Pharmaceuticals was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

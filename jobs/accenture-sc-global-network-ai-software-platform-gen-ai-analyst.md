@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru-BDC7C/S-C-Global-Network---AI---Software---Platform---Gen-AI---Analyst_R00229007) |
+| Location | Hyderabad, Telangana, India |
+| Category | Data Scientist |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad-HDC5A/S-C-Global-Network---AI---Software---Platform---Gen-AI---Analyst_R00205698-1) |
 
 ## About This Role
 
-This ai / ml research position at Accenture was posted on 2026-06-05.
+This data scientist position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

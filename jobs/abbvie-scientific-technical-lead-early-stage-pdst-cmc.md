@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014609376-scientific-technical-lead-early-stage-pdst-cmc) |
 
 ## About This Role
 
-This software engineer position at AbbVie was posted on 2026-08-14.
+This data scientist position at AbbVie was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

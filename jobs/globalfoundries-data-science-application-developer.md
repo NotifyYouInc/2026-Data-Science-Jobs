@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Sofia/Data-Science-Application-Developer_JR-2603882) |
 
 ## About This Role
 
-This software engineer position at GlobalFoundries was posted on 2026-08-17.
+This data scientist position at GlobalFoundries was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

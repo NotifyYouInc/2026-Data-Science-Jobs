@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Carlos, São Paulo, Brazil |
-| Category | Data Scientist |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138175714-analista-de-engenharia-analitica-iii) |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144089195-analista-de-engenharia-analitica-iii) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-07-16.
+This data analyst position at Experian was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

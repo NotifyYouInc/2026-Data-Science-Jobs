@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
+| Category | Data Scientist |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Sr-Director--Data-Science-and-Analytics_JR115740) |
 
 ## About This Role
 
-This corporate finance position at ServiceTitan was posted on 2026-08-17.
+This data scientist position at ServiceTitan was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

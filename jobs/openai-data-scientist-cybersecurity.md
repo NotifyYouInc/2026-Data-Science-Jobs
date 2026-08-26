@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Cybersecurity Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9) |
 
 ## About This Role
 
-This cybersecurity engineer position at OpenAI was posted on 2026-08-17.
+This data scientist position at OpenAI was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Taiwan-Taipei/Clinical-Data-Science-Lead_JR153160) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Clinical-Data-Science-Lead_JR158284) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-07-14.
+This data scientist position at ICON plc was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

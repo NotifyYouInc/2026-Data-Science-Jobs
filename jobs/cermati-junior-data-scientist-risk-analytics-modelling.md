@@ -5,12 +5,12 @@
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Data Scientist |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000141170989-junior-data-scientist-risk-analytics-modelling) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000144227509-junior-data-scientist-risk-analytics-modelling) |
 
 ## About This Role
 
-This data scientist position at Cermati was posted on 2026-08-03.
+This data scientist position at Cermati was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

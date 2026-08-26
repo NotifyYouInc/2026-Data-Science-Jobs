@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Data Scientist |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143250659-eaf-senior-data-science-analytics) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143433309-eaf-senior-data-science-analytics) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-08-13.
+This data scientist position at Robert Bosch was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

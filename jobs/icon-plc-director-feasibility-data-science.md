@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Director--Data-Science--Feasibility-Site-Activation-_JR150669) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Director--Feasibility-Data-Science_JR157517) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-07-10.
+This data scientist position at ICON plc was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-Emma---Springdale-Arkansas/Lead-Data-Scientist_R0478734) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-Emma---Springdale-Arkansas/Lead-Data-Scientist_R0479101) |
 
 ## About This Role
 
-This data scientist position at Tyson Foods was posted on 2026-08-12.
+This data scientist position at Tyson Foods was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Data-Scientist_JR00008140) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Data-Scientist_JR00010288) |
 
 ## About This Role
 
-This data scientist position at OCBC was posted on 2026-05-22.
+This data scientist position at OCBC was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

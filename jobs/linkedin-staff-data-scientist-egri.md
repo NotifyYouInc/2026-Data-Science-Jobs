@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143179539-staff-data-scientist-egri) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143376665-staff-data-scientist-egri) |
 
 ## About This Role
 
-This data scientist position at LinkedIn was posted on 2026-08-12.
+This data scientist position at LinkedIn was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
