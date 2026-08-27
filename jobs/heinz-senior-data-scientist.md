@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Senior-Data-Scientist_R-105238-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Bengaluru---Brookfield-GCC/Senior-Data-Scientist_R-105842) |
 
 ## About This Role
 
-This data scientist position at Heinz was posted on 2026-07-30.
+This data scientist position at Heinz was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

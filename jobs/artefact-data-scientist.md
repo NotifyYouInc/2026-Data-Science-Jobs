@@ -1,16 +1,16 @@
-#  Data Scientist  at Artefact
+# Data Scientist at Artefact
 
 | Field | Details |
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Utrecht, Utrecht, The Netherlands |
+| Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8530912002) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8732707002) |
 
 ## About This Role
 
-This data scientist position at Artefact was posted on 2026-04-30.
+This data scientist position at Artefact was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

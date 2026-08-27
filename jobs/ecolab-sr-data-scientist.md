@@ -1,16 +1,16 @@
-# Sr Data Scientist at Ecolab
+# Sr. Data Scientist at Ecolab
 
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Sr-Data-Scientist_R00298617) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Sr-Data-Scientist_R00301593) |
 
 ## About This Role
 
-This data scientist position at Ecolab was posted on 2026-07-29.
+This data scientist position at Ecolab was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

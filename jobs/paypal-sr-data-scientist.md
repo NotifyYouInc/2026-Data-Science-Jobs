@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137224) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137246) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-08-12.
+This data scientist position at PayPal was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

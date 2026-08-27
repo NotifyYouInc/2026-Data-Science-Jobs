@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000134836519-senior-forward-deplodata-scientist-scientifique-des-donnees-principale-deployee-niveau-senior-forward-deployed) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144382759-senior-forward-deplodata-scientist-scientifique-des-donnees-principale-deployee-niveau-senior-forward-deployed) |
 
 ## About This Role
 
-This data scientist position at NBCUniversal was posted on 2026-06-29.
+This data scientist position at NBCUniversal was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

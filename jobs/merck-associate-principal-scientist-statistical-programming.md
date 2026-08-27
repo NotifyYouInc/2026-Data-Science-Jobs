@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Rahway, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Principal-Scientist--Statistical-Programming_R400595) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Principal-Scientist--Statistical-Programming_R412943) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-06-04.
+This data scientist position at Merck was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

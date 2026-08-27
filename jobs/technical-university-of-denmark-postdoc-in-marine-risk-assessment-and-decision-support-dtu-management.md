@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Technical University of Denmark](https://scoutify.ai/companies/em2-cx-oj32255?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Denmark |
-| Category | Data Scientist |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://efzu.fa.em2.oraclecloud.com/jobs/#7921) |
 
 ## About This Role
 
-This data scientist position at Technical University of Denmark was posted on 2026-08-19.
+This compliance & risk management position at Technical University of Denmark was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

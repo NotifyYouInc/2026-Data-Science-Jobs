@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2624867) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Data-Scientist_R2626656) |
 
 ## About This Role
 
-This data scientist position at Applied Materials was posted on 2026-07-29.
+This data scientist position at Applied Materials was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

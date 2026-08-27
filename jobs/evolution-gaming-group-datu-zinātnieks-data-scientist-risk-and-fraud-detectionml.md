@@ -5,12 +5,12 @@
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Riga, Riga, Latvia |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000135191080-datu-zinatnieks-data-scientist-risk-and-fraud-detectionml) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000144510313-datu-zinatnieks-data-scientist-risk-and-fraud-detectionml) |
 
 ## About This Role
 
-This data scientist position at Evolution Gaming Group was posted on 2026-07-01.
+This data scientist position at Evolution Gaming Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

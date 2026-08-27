@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Aurora, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0246983) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Computer-Scientist--Mid_R0247095) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-14.
+This data scientist position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

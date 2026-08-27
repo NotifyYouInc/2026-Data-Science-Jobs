@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-Practitioner_ATCI-5629453-S2057420-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Analytics-Practitioner_ATCI-5714230-S2065008-1) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-07-08.
+This data scientist position at Accenture was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

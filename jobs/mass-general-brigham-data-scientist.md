@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Scientist_RQ4064733) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Scientist--per-diem-_RQ4076837) |
 
 ## About This Role
 
-This data scientist position at Mass General Brigham was posted on 2026-05-14.
+This data scientist position at Mass General Brigham was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

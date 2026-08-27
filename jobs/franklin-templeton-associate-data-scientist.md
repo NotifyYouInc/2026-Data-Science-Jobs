@@ -5,12 +5,12 @@
 | Company | [Franklin Templeton](https://scoutify.ai/companies/franklintempleton?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Hyderabad-Telangana-India/Associate-Data-Scientist_866658) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Hyderabad-Telangana-India/Associate-Data-Scientist_868648-2) |
 
 ## About This Role
 
-This data scientist position at Franklin Templeton was posted on 2026-03-10.
+This data scientist position at Franklin Templeton was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Scientist |
+| Category | Industrial Automation |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---AMHS_JR106481) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-08-18.
+This industrial automation position at Micron was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Lead-Data-Scientist_R0120695-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Lead-Data-Scientist_R0120548-5) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-14.
+This data scientist position at LSEG was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

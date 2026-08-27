@@ -1,16 +1,16 @@
-# IN_Senior Associate_Data Scientist _D&A_Advisory_Hyderabad at PwC
+# IN_Senior Associate_ Data Scientist_D&A_Advisory_Hyderabad at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Data-Scientist--D-A-Advisory-Hyderabad_750414WD-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate--Data-Scientist-D-A-Advisory-Hyderabad_753892WD-1) |
 
 ## About This Role
 
-This data scientist position at PwC was posted on 2026-08-07.
+This data scientist position at PwC was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

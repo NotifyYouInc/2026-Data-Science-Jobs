@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | AI / LLM Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Lead-Data-Scientist_657555WD) |
+| Location | Gdańsk, Pomerania, Poland |
+| Category | Data Scientist |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Scientist_753895WD) |
 
 ## About This Role
 
-This ai / llm engineer position at PwC was posted on 2026-02-20.
+This data scientist position at PwC was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

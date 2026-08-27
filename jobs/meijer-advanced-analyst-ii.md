@@ -5,12 +5,12 @@
 | Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Advanced-Analyst-II_R000679151) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Advanced-Analyst-II_R000693548) |
 
 ## About This Role
 
-This data scientist position at Meijer was posted on 2026-07-08.
+This data scientist position at Meijer was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

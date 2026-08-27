@@ -5,12 +5,12 @@
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19530) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572) |
 
 ## About This Role
 
-This data scientist position at Moderna was posted on 2026-07-23.
+This data scientist position at Moderna was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

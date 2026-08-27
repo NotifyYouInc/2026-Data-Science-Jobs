@@ -1,16 +1,16 @@
-# Research Scientist - Product Development at Elanco
+# Research Scientist - Product development at Elanco
 
 | Field | Details |
 |-------|---------|
 | Company | [Elanco](https://scoutify.ai/companies/elanco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Research-Scientist---Product-Development_R0026709-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Research-Scientist---Product-development_R0026835-1) |
 
 ## About This Role
 
-This data scientist position at Elanco was posted on 2026-08-07.
+This data scientist position at Elanco was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

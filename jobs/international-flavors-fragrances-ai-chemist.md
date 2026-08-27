@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Shanghai-IBP-China/AI-Chemist_R20754) |
 
 ## About This Role
 
-This data scientist position at International Flavors & Fragrances was posted on 2026-08-18.
+This ai / ml research position at International Flavors & Fragrances was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

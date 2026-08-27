@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000134309919-senior-data-scientist) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144381637-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NBCUniversal was posted on 2026-06-25.
+This data scientist position at NBCUniversal was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

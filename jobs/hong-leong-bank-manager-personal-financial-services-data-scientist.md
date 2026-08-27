@@ -1,16 +1,16 @@
-# Manager, Personal Financial  Services (Data Scientist) at Hong Leong Bank
+# Manager - Personal Financial Services (Data Scientist) at Hong Leong Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager--Personal-Financial--Services--Data-Scientist-_JR0000024384) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Personal-Financial-Services--Data-Scientist-_JR0000026025) |
 
 ## About This Role
 
-This data scientist position at Hong Leong Bank was posted on 2026-04-23.
+This data scientist position at Hong Leong Bank was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

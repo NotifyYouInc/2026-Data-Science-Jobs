@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Ljubljana, Ljubljana, Slovenia |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000133054409-senior-data-scientist-mts-mfd) |
+| Category | Data Scientist |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000144554969-senior-data-scientist-mts-mfd) |
 
 ## About This Role
 
-This machine learning engineer position at Sportradar was posted on 2026-06-19.
+This data scientist position at Sportradar was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

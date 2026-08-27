@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Specialized-Analytics-Grp-Mgr---C14---BANGALORE_26950837) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Specialized-Analytics-Grp-Mgr---C14---BANGALORE_26987101) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-07.
+This data scientist position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

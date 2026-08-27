@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Wales, Pennsylvania, United States |
+| Location | Rahway, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-NW1/Senior-Scientist--Statistical-Programming_R404483) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Scientist--Statistical-Programming_R411657) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-07-01.
+This data scientist position at Merck was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Senior-Clinical-Data-Science-Lead_JR151329) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Senior-Clinical-Data-Science-Lead_JR156779) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-07-13.
+This data scientist position at ICON plc was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

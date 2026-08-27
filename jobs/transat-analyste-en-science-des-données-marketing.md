@@ -5,12 +5,12 @@
 | Company | [Transat](https://scoutify.ai/companies/transat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000134792175-analyste-en-science-des-donnees-marketing) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000144397470-analyste-en-science-des-donnees-marketing) |
 
 ## About This Role
 
-This data scientist position at Transat was posted on 2026-06-29.
+This data scientist position at Transat was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
