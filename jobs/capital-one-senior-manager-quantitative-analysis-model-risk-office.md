@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Quantitative-Analysis---Model-Risk-Office_R244430-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Quantitative-Analysis---Model-Risk-Office_R249476-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-06-12.
+This data scientist position at Capital One was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

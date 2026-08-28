@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131386520-data-scientist-for-e-mobility-cloud-solutions) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144766249-data-scientist-for-e-mobility-cloud-solutions) |
 
 ## About This Role
 
-This data scientist position at Robert Bosch was posted on 2026-06-10.
+This data scientist position at Robert Bosch was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

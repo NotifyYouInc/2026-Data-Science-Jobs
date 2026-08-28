@@ -5,12 +5,12 @@
 | Company | [Freddie Mac](https://scoutify.ai/companies/freddiemac?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | McLean, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17323) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Quantitative-Analytics-Professional_JR17529) |
 
 ## About This Role
 
-This data scientist position at Freddie Mac was posted on 2026-06-22.
+This data scientist position at Freddie Mac was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

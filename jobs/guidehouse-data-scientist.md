@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Data-Scientist_43635) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Scientist_43790) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-08-17.
+This data scientist position at Guidehouse was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

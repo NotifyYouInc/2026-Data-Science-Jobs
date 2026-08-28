@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Growth Marketing |
+| Category | Data Scientist |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000144226639-senior-data-scientist-analytics) |
 
 ## About This Role
 
-This growth marketing position at Grab was posted on 2026-08-19.
+This data scientist position at Grab was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Robotics Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000144167459-staff-data-scientist-simulation-motion-ai) |
 
 ## About This Role
 
-This robotics engineer position at Intuitive Surgical was posted on 2026-08-18.
+This data scientist position at Intuitive Surgical was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

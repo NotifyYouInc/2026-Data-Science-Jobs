@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134430379-data-scientist-senior-hf) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000144698490-data-scientist-senior-hf) |
 
 ## About This Role
 
-This data scientist position at Nexton was posted on 2026-06-26.
+This data scientist position at Nexton was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

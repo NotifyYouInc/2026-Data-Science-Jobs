@@ -5,12 +5,12 @@
 | Company | [Paraform](https://scoutify.ai/companies/paraform?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/paraform/9814a8cf-97ef-46e2-85eb-54475f250269) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/paraform/6c965457-f5bf-4a21-af96-1ab940c47335) |
 
 ## About This Role
 
-This data scientist position at Paraform was posted on 2026-04-30.
+This data scientist position at Paraform was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

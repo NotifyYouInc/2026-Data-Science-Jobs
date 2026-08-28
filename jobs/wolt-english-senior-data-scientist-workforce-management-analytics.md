@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolt - English](https://scoutify.ai/companies/wolt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Data Scientist |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/wolt/jobs/8136189) |
 
 ## About This Role
 
-This data scientist position at Wolt - English was posted on 2026-08-18.
+This human resources / people ops position at Wolt - English was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

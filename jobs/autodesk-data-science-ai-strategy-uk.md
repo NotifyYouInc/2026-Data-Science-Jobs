@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 6 locations |
-| Category | Strategy & Operations |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/London-GBR/Data-Science-AI-Strategy--UK_26WD100685) |
 
 ## About This Role
 
-This strategy & operations position at Autodesk was posted on 2026-08-20.
+This fp&a / strategic finance position at Autodesk was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

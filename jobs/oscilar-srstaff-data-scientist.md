@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscilar](https://scoutify.ai/companies/oscilar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/oscilar/696de7af-d814-4f2a-b395-443ed2a380bf) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/oscilar/a83cfe5b-5a34-4aa7-9e4d-52ca6428efc6) |
 
 ## About This Role
 
-This data scientist position at Oscilar was posted on 2026-05-12.
+This data scientist position at Oscilar was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

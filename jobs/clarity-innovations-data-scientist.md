@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Kadena, Okinawa, Japan |
+| Location | Florida, US |
 | Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5165048007) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5216077007) |
 
 ## About This Role
 
-This data scientist position at Clarity Innovations was posted on 2026-07-21.
+This data scientist position at Clarity Innovations was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

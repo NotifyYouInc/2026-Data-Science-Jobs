@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | Florida, US |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5167161007) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5215983007) |
 
 ## About This Role
 
-This data scientist position at Clarity Innovations was posted on 2026-06-18.
+This data scientist position at Clarity Innovations was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7852264003) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7919992003) |
 
 ## About This Role
 
-This data scientist position at dunnhumby was posted on 2026-08-11.
+This data scientist position at dunnhumby was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

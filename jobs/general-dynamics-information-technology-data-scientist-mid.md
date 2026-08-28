@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Florida, US |
 | Category | Data Scientist |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist-Mid_RQ225731-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Data-Scientist-Mid_RQ226747-1) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-08-10.
+This data scientist position at General Dynamics Information Technology was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
