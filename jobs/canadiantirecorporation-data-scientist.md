@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Data Scientist |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Oakville-ON/Data-Scientist_JR163234) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Calgary-AB/Data-Scientist_JR163497) |
 
 ## About This Role
 
-This data scientist position at Canadiantirecorporation was posted on 2026-08-08.
+This data scientist position at Canadiantirecorporation was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

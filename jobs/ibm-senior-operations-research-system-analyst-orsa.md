@@ -1,16 +1,16 @@
-# Data Scientist-Artificial Intelligence at IBM
+# Senior Operations Research/ System Analyst (ORSA) at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129392) |
+| Location | Maryland, US |
+| Category | Data Analyst |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129449) |
 
 ## About This Role
 
-This ai / llm engineer position at IBM was posted on 2026-08-19.
+This data analyst position at IBM was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

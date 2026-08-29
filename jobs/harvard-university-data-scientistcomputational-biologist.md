@@ -1,16 +1,16 @@
-# Associate Director, Data Science at Merck
+# Data Scientist/Computational Biologist at Harvard University
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Associate-Director--Data-Science_R413640-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014766326-data-scientistcomputational-biologist) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-08-22.
+This data scientist position at Harvard University was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

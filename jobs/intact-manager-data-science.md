@@ -1,16 +1,16 @@
-# Data Scientist at Wolters Kluwer
+# Manager, Data Science at Intact
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Data-Scientist_R0059235) |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Directeur-trice---Science-de-donnes_R155011-1) |
 
 ## About This Role
 
-This data scientist position at Wolters Kluwer was posted on 2026-08-21.
+This data scientist position at Intact was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

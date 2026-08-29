@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad-HDC5A/S-C-Global-Network---AI---CDI---Data-Science-Consultant_R00286208-30) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-08-18.
+This ai / llm engineer position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

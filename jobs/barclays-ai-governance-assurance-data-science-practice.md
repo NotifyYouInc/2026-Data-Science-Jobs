@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Data Scientist |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/AI-Governance-Assurance---Data-Science-Practice_JR-0000125240) |
 
 ## About This Role
 
-This data scientist position at Barclays was posted on 2026-08-21.
+This cybersecurity engineer position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

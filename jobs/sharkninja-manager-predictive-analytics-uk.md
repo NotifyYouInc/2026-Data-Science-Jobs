@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Marketing |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701427006) |
 
 ## About This Role
 
-This data scientist position at SharkNinja was posted on 2026-08-19.
+This marketing position at SharkNinja was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

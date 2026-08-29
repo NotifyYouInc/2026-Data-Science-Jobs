@@ -1,16 +1,16 @@
-# Senior Data Scientist at Zillow
+# Manager, Data & Advanced Analytics at Cardinal Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1) |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Manager--Data---Advanced-Analytics_20185891) |
 
 ## About This Role
 
-This data scientist position at Zillow was posted on 2026-08-22.
+This data analyst position at Cardinal Health was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

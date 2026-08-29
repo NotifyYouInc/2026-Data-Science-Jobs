@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696) |
 
 ## About This Role
 
-This data scientist position at Royal Bank of Canada was posted on 2026-08-18.
+This ai / llm engineer position at Royal Bank of Canada was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

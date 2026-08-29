@@ -1,16 +1,16 @@
-# Data Scientist at Wolters Kluwer
+# Computational Agronomy Scientist at Syngenta
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | India |
+| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Durham, North Carolina, United States |
 | Category | Data Scientist |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Data-Scientist_R0059235) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000144823759-computational-agronomy-scientist) |
 
 ## About This Role
 
-This data scientist position at Wolters Kluwer was posted on 2026-08-21.
+This data scientist position at Syngenta was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

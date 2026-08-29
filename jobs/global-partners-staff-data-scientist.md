@@ -1,16 +1,16 @@
-# Senior Data Scientist at Zillow
+# Staff Data Scientist at Global Partners
 
 | Field | Details |
 |-------|---------|
-| Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Company | [Global Partners](https://scoutify.ai/companies/global?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Newton, Massachusetts, United States |
 | Category | Data Scientist |
 | Posted | 2026-08-22 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Data-Scientist_P751133-1) |
+| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/Staff-Data-Scientist_R0031823-1) |
 
 ## About This Role
 
-This data scientist position at Zillow was posted on 2026-08-22.
+This data scientist position at Global Partners was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 
