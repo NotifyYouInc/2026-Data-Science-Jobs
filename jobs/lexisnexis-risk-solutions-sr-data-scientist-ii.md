@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Sr-Data-Scientist-II_R116947) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Toronto/Sr-Data-Scientist-II_R117284) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-08-07.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
