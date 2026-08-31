@@ -1,4 +1,4 @@
-# Data Scientist at Standard Bank
+# Data Scientist ( Finance and Value Management ) at Standard Bank
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mbabane, Hhohho Region, Eswatini |
 | Category | Data Scientist |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000145241255-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000145245320-data-scientist-finance-and-value-management) |
 
 ## About This Role
 

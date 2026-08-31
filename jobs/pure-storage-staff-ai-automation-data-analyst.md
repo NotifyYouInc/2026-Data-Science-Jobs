@@ -1,16 +1,16 @@
-# Head of Data at AbbVie
+# Staff AI & Automation Data Analyst at Pure Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mascot, New South Wales, Australia |
-| Category | Data Scientist |
+| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Analyst |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014793856-head-of-data) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8129785) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-08-24.
+This data analyst position at Pure Storage was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

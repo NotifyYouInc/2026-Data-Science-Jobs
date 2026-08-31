@@ -1,16 +1,16 @@
-# Senior Consultant.e - Data Scientist (H/F) at Wavestone
+# Medior Model Developer at Ayvens
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145232299-senior-consultante-data-scientist-hf) |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Amsterdam/Medior-Model-Developer_JR_10040963-2) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-08-24.
+This data scientist position at Ayvens was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

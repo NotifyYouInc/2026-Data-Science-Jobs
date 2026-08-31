@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gdańsk, Pomerania, Poland |
-| Category | Data Scientist |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8533046002) |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8632740002) |
 
 ## About This Role
 
-This data scientist position at Graphcore was posted on 2026-05-01.
+This data analyst position at Graphcore was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

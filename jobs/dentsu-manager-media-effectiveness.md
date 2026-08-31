@@ -1,16 +1,16 @@
-# Senior Analyst, Data Scientist at Inizio Ignite | Putnam
+# Manager - Media Effectiveness at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [Inizio Ignite | Putnam](https://scoutify.ai/companies/inizio-ignite-putnam?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Analyst |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/putnamassociatesllc/jobs/8141030) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/India---Haryana---Gurugram---WOCO-1---Level-4/Manager---Media-Effectiveness_R1130014) |
 
 ## About This Role
 
-This data analyst position at Inizio Ignite | Putnam was posted on 2026-08-24.
+This data analyst position at Dentsu was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

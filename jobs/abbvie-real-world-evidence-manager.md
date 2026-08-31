@@ -1,16 +1,16 @@
-# Senior Consultant.e - Data Scientist (H/F) at Wavestone
+# Real World Evidence Manager at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145232299-senior-consultante-data-scientist-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014796496-real-world-evidence-manager) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-08-24.
+This data scientist position at AbbVie was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

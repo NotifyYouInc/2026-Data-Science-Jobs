@@ -1,16 +1,16 @@
-# Senior Analyst, Data Scientist at Inizio Ignite | Putnam
+# Sr. Business Intelligence Engineer, WorldWide Global Selling -AIT at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Inizio Ignite | Putnam](https://scoutify.ai/companies/inizio-ignite-putnam?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Shanghai, CN |
 | Category | Data Analyst |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/putnamassociatesllc/jobs/8141030) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10511647/sr-business-intelligence-engineer-worldwide-global-selling-ait) |
 
 ## About This Role
 
-This data analyst position at Inizio Ignite | Putnam was posted on 2026-08-24.
+This data analyst position at Amazon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Consultant.e - Data Scientist (H/F) at Wavestone
+# CDC II at ICON plc
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145232299-senior-consultante-data-scientist-hf) |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/CDC-II_JR150695-1) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-08-24.
+This data scientist position at ICON plc was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

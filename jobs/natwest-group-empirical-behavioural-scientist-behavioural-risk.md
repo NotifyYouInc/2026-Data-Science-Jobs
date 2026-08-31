@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | UX Researcher |
+| Category | Data Scientist |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Empirical-Behavioural-Scientist--Behavioural-Risk_R-00283590-2) |
 
 ## About This Role
 
-This ux researcher position at NatWest Group was posted on 2026-08-20.
+This data scientist position at NatWest Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

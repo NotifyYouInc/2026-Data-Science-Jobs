@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Milton Keynes, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Unity-Place---Milton-Keynes/Senior-Data-Scientist---S4---Chief-Data---AI-Office---Milton-Keynes_Req1536771-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Milton-Keynes/Senior-Data-Scientist---S4---Chief-Data---AI-Office---Milton-Keynes_Req1606815-1) |
 
 ## About This Role
 
-This data scientist position at Santander was posted on 2026-07-15.
+This data scientist position at Santander was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

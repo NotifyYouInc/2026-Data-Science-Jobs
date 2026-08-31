@@ -1,16 +1,16 @@
-# Senior Consultant.e - Data Scientist (H/F) at Wavestone
+# Data Scientist Lab Automation VIE Contract at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Puteaux, Île-de-France, France |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Frankfurt am Main, Hesse, Germany |
 | Category | Data Scientist |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145232299-senior-consultante-data-scientist-hf) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Data-Scientist-Lab-Automation-VIE-Contract_R2867131) |
 
 ## About This Role
 
-This data scientist position at Wavestone was posted on 2026-08-24.
+This data scientist position at Sanofi was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

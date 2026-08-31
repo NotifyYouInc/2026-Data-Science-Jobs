@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Data-Scientist_330691) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Tampa-FL-US/Data-Scientist_330984) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-08-17.
+This data scientist position at CACI was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
