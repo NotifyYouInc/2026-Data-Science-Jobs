@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mexico |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-09 |
+| Location | Cuauhtémoc, Mexico City, Mexico |
+| Category | Data Scientist |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist---AML---Compliance-Analytics--Ciudad-de-Mxico--Cuauhtmoc-_JR00099732) |
 
 ## About This Role
 
-This financial crimes & aml position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-09.
+This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Consultant, Data Science & Analytics at TransUnion
+# Sr. Consultant, Data Science & Analytics at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Sr-Consultant--Data-Science---Analytics_19040928) |
+| Location | Burlington, Ontario, Canada |
+| Category | Data Scientist |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Burlington-Canada/Sr-Consultant--Data-Science---Analytics_19041497) |
 
 ## About This Role
 
-This machine learning engineer position at TransUnion was posted on 2026-06-15.
+This data scientist position at TransUnion was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

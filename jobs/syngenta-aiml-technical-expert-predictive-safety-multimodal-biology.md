@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bracknell, England, United Kingdom |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000144299779-aiml-technical-expert-predictive-safety-multimodal-biology) |
 
 ## About This Role
 
-This ai / ml research position at Syngenta was posted on 2026-08-19.
+This data scientist position at Syngenta was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

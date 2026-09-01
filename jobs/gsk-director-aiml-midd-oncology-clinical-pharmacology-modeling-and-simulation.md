@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 5 locations |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/USA---Massachusetts---Waltham/Director--AI-ML-MIDD-Oncology-Clinical-Pharmacology--Modeling-and-Simulation_446353) |
 
 ## About This Role
 
-This ai / ml research position at GSK was posted on 2026-08-20.
+This data scientist position at GSK was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

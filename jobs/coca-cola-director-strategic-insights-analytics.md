@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Strategy & Operations |
+| Category | Data Scientist |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Director--Strategic-Insights---Analytics_R-145231) |
 
 ## About This Role
 
-This strategy & operations position at Coca-Cola was posted on 2026-08-19.
+This data scientist position at Coca-Cola was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

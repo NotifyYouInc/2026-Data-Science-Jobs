@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Psu](https://scoutify.ai/companies/psu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | University, Florida, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://psu.wd1.myworkdayjobs.com/psu_academic/job/Penn-State-University-Park/Postdoctoral-Scholar-in-the-Department-of-Mechanical-Engineering_REQ_0000081524-1) |
 
 ## About This Role
 
-This ai / ml research position at Psu was posted on 2026-08-20.
+This data scientist position at Psu was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

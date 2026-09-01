@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10509774/applied-scientist-manager-marketplace-intelligence) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-08-21.
+This data scientist position at Amazon was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

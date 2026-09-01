@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | Argentina |
 | Category | Data Scientist |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4954177101) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4957195101) |
 
 ## About This Role
 
-This data scientist position at Valtech was posted on 2026-08-18.
+This data scientist position at Valtech was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

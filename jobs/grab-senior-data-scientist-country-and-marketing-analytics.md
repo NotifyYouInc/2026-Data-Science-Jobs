@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Data Scientist |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000142046259-senior-data-scientist-country-and-marketing-analytics) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000145412609-senior-data-scientist-country-and-marketing-analytics) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-08-07.
+This data scientist position at Grab was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

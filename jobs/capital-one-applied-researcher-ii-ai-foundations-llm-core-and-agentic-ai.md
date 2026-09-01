@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 5 locations |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations--LLM-Core-and-Agentic-AI-_R249452-1) |
 
 ## About This Role
 
-This ai / ml research position at Capital One was posted on 2026-08-21.
+This data scientist position at Capital One was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

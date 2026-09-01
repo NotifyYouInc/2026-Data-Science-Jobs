@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Data-Scientist_R107934) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/WXG---Data-Scientist_R107475-1) |
 
 ## About This Role
 
-This data scientist position at Tencent was posted on 2026-08-11.
+This data scientist position at Tencent was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

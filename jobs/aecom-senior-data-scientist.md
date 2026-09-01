@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143464509-senior-data-scientist) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000145483049-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at AECOM was posted on 2026-08-14.
+This data scientist position at AECOM was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

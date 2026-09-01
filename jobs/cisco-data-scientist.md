@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Data Scientist |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Data-Scientist_2018975) |
+| Location | San Jose, California, United States |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Scientist_2023096) |
 
 ## About This Role
 
-This data scientist position at Cisco was posted on 2026-07-24.
+This ai / llm engineer position at Cisco was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

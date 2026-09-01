@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Principal-AI-Data-Scientist---Scientific-AI---Physics-Informed-Machine-Learning_R2624925) |
 
 ## About This Role
 
-This ai / ml research position at Applied Materials was posted on 2026-08-20.
+This data scientist position at Applied Materials was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

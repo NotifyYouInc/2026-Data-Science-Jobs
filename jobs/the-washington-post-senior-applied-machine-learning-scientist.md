@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Washington Post](https://scoutify.ai/companies/washpost?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Senior-Applied-Machine-Learning-Scientist_JR-90275858) |
 
 ## About This Role
 
-This ai / ml research position at The Washington Post was posted on 2026-08-19.
+This data scientist position at The Washington Post was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

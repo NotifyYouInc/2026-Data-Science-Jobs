@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5182605008) |
 
 ## About This Role
 
-This data scientist position at Anthropic was posted on 2026-05-07.
+This data scientist position at Anthropic was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

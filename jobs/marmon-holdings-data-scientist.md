@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Carol Stream, Illinois, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Carol-Stream-IL/Data-Scientist_JR0000041964) |
+| Category | Data Scientist |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Carol-Stream-IL/Data-Scientist_JR0000044708) |
 
 ## About This Role
 
-This machine learning engineer position at Marmon Holdings was posted on 2026-03-24.
+This data scientist position at Marmon Holdings was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

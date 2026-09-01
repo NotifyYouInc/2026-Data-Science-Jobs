@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/2045172806126214) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-08-20.
+This data scientist position at Meta was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IPT Global](https://scoutify.ai/companies/iptglobal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IPTGlobal/744000143916709-data-scientist) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IPTGlobal/744000145362860-data-scientist) |
 
 ## About This Role
 
-This data scientist position at IPT Global was posted on 2026-08-17.
+This data scientist position at IPT Global was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

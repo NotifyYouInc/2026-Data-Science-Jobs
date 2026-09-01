@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144130700-senior-data-scientist) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144807030-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at LinkedIn was posted on 2026-08-18.
+This data scientist position at LinkedIn was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
