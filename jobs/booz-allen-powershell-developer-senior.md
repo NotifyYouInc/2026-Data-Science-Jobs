@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Data Scientist |
+| Category | Software Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/PowerShell-Developer--Senior_R0247742-1) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-24.
+This software engineer position at Booz Allen was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

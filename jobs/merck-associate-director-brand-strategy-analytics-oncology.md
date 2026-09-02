@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Strategy & Operations |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Director---Brand-Strategy-Analytics-Oncology_R406655-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-08-24.
+This strategy & operations position at Merck was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

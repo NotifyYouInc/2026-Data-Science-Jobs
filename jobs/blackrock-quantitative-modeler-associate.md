@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/BU3-Budapest-GTC-White-House-Vaci-ut-47-District-XIII-Budapest/Quantitative-Modeler--Associate_R264631) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Mumbai-India/Quantitative-Modeler--Associate_R266236) |
 
 ## About This Role
 
-This data scientist position at Blackrock was posted on 2026-06-12.
+This data scientist position at Blackrock was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

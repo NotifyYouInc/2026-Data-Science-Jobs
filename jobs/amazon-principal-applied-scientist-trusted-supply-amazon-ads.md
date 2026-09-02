@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10511727/principal-applied-scientist-trusted-supply-amazon-ads) |
 
 ## About This Role
 
-This data scientist position at Amazon was posted on 2026-08-24.
+This ai / ml research position at Amazon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

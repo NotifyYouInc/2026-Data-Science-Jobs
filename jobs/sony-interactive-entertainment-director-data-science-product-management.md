@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Data Scientist |
+| Category | Product Manager |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985221004) |
 
 ## About This Role
 
-This data scientist position at Sony Interactive Entertainment was posted on 2026-08-24.
+This product manager position at Sony Interactive Entertainment was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Arizona, US |
 | Category | Data Scientist |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Data-Scientist-I_R4444104) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Data-Scientist-I_R4452434) |
 
 ## About This Role
 
-This data scientist position at Banner Health was posted on 2026-06-15.
+This data scientist position at Banner Health was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Argentina |
-| Category | Data Scientist |
-| Posted | 2026-04-06 |
+| Category | Data Engineer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Thames-Argentina/Data-Scientist-Specialist--SoCo_R-163744) |
 
 ## About This Role
 
-This data scientist position at Mondelez International was posted on 2026-04-06.
+This data engineer position at Mondelez International was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

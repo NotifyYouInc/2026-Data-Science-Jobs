@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vercel](https://scoutify.ai/companies/vercel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vercel/jobs/5973206004) |
 
 ## About This Role
 
-This data scientist position at Vercel was posted on 2026-08-25.
+This fp&a / strategic finance position at Vercel was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

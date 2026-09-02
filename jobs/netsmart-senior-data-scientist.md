@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-04-24 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Senior-Data-Scientist_R015344) |
 
 ## About This Role
 
-This data scientist position at Netsmart was posted on 2026-04-24.
+This ai / llm engineer position at Netsmart was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

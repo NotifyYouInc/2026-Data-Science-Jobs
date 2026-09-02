@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Albany, New York, United States |
+| Location | Menands, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Research-Scientist-II_JR-0002028) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Menands-NY/Research-Scientist-II_JR-0002279) |
 
 ## About This Role
 
-This data scientist position at Health Research was posted on 2026-03-03.
+This data scientist position at Health Research was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

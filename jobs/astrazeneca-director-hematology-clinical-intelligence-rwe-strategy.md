@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Scientist |
+| Category | Strategy & Operations |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Director--Hematology-Clinical-Intelligence---RWE-Strategy_R-258645) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-08-24.
+This strategy & operations position at AstraZeneca was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

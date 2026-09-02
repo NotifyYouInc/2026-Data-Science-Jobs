@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Siena, Tuscany, Italy |
+| Location | Akasaka, Tokyo, Japan |
 | Category | Data Scientist |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Italy---Siena/Principal-Statistician_445807-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Japan---Tokyo---Akasaka/Principal-Statistician_446919) |
 
 ## About This Role
 
-This data scientist position at GSK was posted on 2026-08-06.
+This data scientist position at GSK was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

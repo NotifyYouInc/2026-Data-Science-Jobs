@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Data Scientist |
+| Category | Software Engineer |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/PICKLE-RESEARCH-CAMPUS/GNSS-Data-Scientist-Associate_R_00048065) |
 
 ## About This Role
 
-This data scientist position at University of Texas at Austin was posted on 2026-08-22.
+This software engineer position at University of Texas at Austin was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

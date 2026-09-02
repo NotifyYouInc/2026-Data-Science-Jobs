@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
+| Category | AI / LLM Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8129785) |
 
 ## About This Role
 
-This data analyst position at Pure Storage was posted on 2026-08-24.
+This ai / llm engineer position at Pure Storage was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

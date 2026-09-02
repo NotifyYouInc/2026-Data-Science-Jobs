@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Beijing, Beijing, China |
 | Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Lead-Data-Scientist_R0120548-5) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Lead-Data-Scientist_R0120893-1) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-20.
+This data scientist position at LSEG was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

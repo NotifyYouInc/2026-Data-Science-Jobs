@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Scientist |
+| Category | Strategy & Operations |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/SF---2-Folsom/Senior-Analyst--Data-Science-Enablement_R217064-1) |
 
 ## About This Role
 
-This data scientist position at Gap Inc. was posted on 2026-08-24.
+This strategy & operations position at Gap Inc. was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

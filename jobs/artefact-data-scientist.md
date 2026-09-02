@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8732707002) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.artefact.com/careers/8360412002?gh_jid=8360412002) |
 
 ## About This Role
 
-This data scientist position at Artefact was posted on 2026-08-20.
+This data scientist position at Artefact was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

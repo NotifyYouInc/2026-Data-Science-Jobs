@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Florida, US |
-| Category | Data Scientist |
+| Category | Learning & Development |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Scientist---Course-Developer-Instructor_10142558) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-08-21.
+This learning & development position at Disney was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

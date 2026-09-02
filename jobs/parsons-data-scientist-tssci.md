@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Florida, US |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---FL-MacDill-Air-Force-Base/Data-Scientist---TS-SCI_R185103) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Arlington/Data-Scientist---TS-SCI_R185025) |
 
 ## About This Role
 
-This data scientist position at Parsons was posted on 2026-08-20.
+This data scientist position at Parsons was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7704105003) |
 
 ## About This Role
 
-This data scientist position at G-P was posted on 2026-08-21.
+This data engineer position at G-P was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

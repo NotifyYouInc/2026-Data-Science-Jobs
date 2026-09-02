@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Thāne, Maharashtra, India |
+| Location | Overland Park, Kansas, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Statistical-Scientist_R1533390) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Overland-Park-KS-United-States-of-America/Statistical-Scientist_R1563459) |
 
 ## About This Role
 
-This data scientist position at IQVIA was posted on 2026-05-15.
+This data scientist position at IQVIA was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

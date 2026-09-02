@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Scientist_R1011940) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Chicago-525-West-Monroe/Data-Scientist_R0986596) |
 
 ## About This Role
 
-This data scientist position at CVS Health was posted on 2026-08-17.
+This data scientist position at CVS Health was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
