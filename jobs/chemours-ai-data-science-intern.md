@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chemours](https://scoutify.ai/companies/chemours?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR14004) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013) |
 
 ## About This Role
 
-This data scientist position at Chemours was posted on 2026-04-14.
+This data scientist position at Chemours was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

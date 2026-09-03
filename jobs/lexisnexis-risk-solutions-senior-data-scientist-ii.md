@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Illinois/Senior-Data-Scientist-II_R115314) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Boca-Raton-FL/Senior-Data-Scientist-II_R117327) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-07-02.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Associate--Model-Development_Req1586742) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Austin/Associate--Model-Development_Req1607771) |
 
 ## About This Role
 
-This data scientist position at Santander was posted on 2026-06-10.
+This data scientist position at Santander was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

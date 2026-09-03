@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axsome Therapeutics](https://scoutify.ai/companies/axsometherapeutics?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6147381004) |
 
 ## About This Role
 
-This data scientist position at Axsome Therapeutics was posted on 2026-08-21.
+This bioinformatics / computational biology position at Axsome Therapeutics was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

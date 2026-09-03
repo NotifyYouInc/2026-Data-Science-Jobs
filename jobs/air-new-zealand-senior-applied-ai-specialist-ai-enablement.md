@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Auckland, Auckland, New Zealand |
-| Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001247284-senior-applied-ai-specialist-ai-enablement) |
+| Location | Christchurch, Canterbury, New Zealand |
+| Category | Data Analyst |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001356174-senior-applied-ai-specialist-ai-enablement) |
 
 ## About This Role
 
-This data scientist position at Air New Zealand was posted on 2026-07-21.
+This data analyst position at Air New Zealand was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

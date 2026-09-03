@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Bangalore/Machine-Learning-Scientist-II_R-104220) |
+| Location | Switzerland |
+| Category | Data Scientist |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Switzerland---Geneva/Machine-Learning-Scientist-II_R-108939-2) |
 
 ## About This Role
 
-This machine learning engineer position at Expedia was posted on 2026-05-13.
+This data scientist position at Expedia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

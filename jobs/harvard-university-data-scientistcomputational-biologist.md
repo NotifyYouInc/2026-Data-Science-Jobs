@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014766326-data-scientistcomputational-biologist) |
 
 ## About This Role
 
-This data scientist position at Harvard University was posted on 2026-08-21.
+This bioinformatics / computational biology position at Harvard University was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

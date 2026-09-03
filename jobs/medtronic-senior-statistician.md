@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mounds View, Minnesota, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Statistician_R71845) |
 
 ## About This Role
 
-This data scientist position at Medtronic was posted on 2026-08-25.
+This bioinformatics / computational biology position at Medtronic was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

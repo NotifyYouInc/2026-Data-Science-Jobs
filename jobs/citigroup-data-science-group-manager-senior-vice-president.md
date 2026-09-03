@@ -1,16 +1,16 @@
-# Data Science Group Manager - Senior Vice President at Citigroup
+# Data Science Group Manager, Senior Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Data-Science-Group-Manager---Senior-Vice-President_26956689) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Science-Group-Manager--Senior-Vice-President_26982823) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-04-24.
+This data scientist position at Citigroup was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | South Africa |
-| Category | Corporate Finance |
+| Category | Strategy & Operations |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Absa-House---ABT/Collections---Recoveries-Strategy-Manager_R-15990374) |
 
 ## About This Role
 
-This corporate finance position at Absa was posted on 2026-08-26.
+This strategy & operations position at Absa was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

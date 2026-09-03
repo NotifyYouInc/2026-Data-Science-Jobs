@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | Alabama, US |
 | Category | Data Scientist |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Data-Scientist_R26_0000021080) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-AL---Remote/Data-Scientist_R26_0000028237) |
 
 ## About This Role
 
-This data scientist position at Genuine Parts Company was posted on 2026-06-25.
+This data scientist position at Genuine Parts Company was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# SR DATA SCIENTIST SMART MFG & AI at Micron
+# SR. DATA SCIENTIST, SMART MFG & AI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SR-DATA-SCIENTIST-SMART-MFG---AI_JR97665) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SR-DATA-SCIENTIST--SMART-MFG---AI_JR109524) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-05-08.
+This data scientist position at Micron was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | São Caetano do Sul, São Paulo, Brazil |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sao-Caetano-do-Sul-Sao-Paulo-Brazil/Data-Scientist_JR-202610501) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Scientist_JR-202616534) |
 
 ## About This Role
 
-This data scientist position at General Motors was posted on 2026-06-24.
+This data scientist position at General Motors was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

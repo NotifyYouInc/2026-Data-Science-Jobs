@@ -5,12 +5,12 @@
 | Company | [enercity](https://scoutify.ai/companies/enercity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Data-Scientist--m-w-d-_J2025282-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Data-Scientist--m-w-d-_J2026401) |
 
 ## About This Role
 
-This data scientist position at enercity was posted on 2026-03-04.
+This data scientist position at enercity was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

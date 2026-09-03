@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Diego, California, United States |
+| Location | Reston, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Mid_R0247322) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0247936) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-18.
+This data scientist position at Booz Allen was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

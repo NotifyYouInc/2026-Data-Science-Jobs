@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Jose, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-17 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Scientist--Hardware-Quality--Hybrid-_2005431) |
 
 ## About This Role
 
-This data scientist position at Cisco was posted on 2026-04-17.
+This data scientist position at Cisco was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

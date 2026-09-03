@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Carolina, US |
+| Location | Missouri, US |
 | Category | Data Scientist |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NC/Data-Scientist-II_1630013) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Scientist-II_1651706-1) |
 
 ## About This Role
 
-This data scientist position at Centene was posted on 2026-02-10.
+This data scientist position at Centene was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

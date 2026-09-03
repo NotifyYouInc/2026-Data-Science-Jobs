@@ -5,12 +5,12 @@
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Data Scientist |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000132125969-senior-data-scientist-mfd) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000145936429-senior-data-scientist-mfd) |
 
 ## About This Role
 
-This data scientist position at StepStone was posted on 2026-06-15.
+This data scientist position at StepStone was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [iFood](https://scoutify.ai/companies/ifood?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Brazil |
 | Category | Data Scientist |
-| Posted | 2026-05-14 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ifoodcarreiras/jobs/8500840002) |
 
 ## About This Role
 
-This data scientist position at iFood was posted on 2026-05-14.
+This data scientist position at iFood was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Decision-Science-Lead_R0117100-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Decision-Science-Lead_R0118094) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-08-14.
+This data scientist position at Truist was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

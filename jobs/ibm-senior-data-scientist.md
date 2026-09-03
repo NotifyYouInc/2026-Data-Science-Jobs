@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United Kingdom |
-| Category | AI / ML Research |
-| Posted | 2026-06-03 |
+| Category | Data Scientist |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118683) |
 
 ## About This Role
 
-This ai / ml research position at IBM was posted on 2026-06-03.
+This data scientist position at IBM was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

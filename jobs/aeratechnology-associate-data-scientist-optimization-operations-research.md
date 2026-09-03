@@ -5,12 +5,12 @@
 | Company | [Aeratechnology](https://scoutify.ai/companies/aeratechnology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.lever.co/aeratechnology/b08a8321-4d2d-4869-adc2-8431c3bd5977) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
 
 ## About This Role
 
-This data scientist position at Aeratechnology was posted on 2026-03-30.
+This data scientist position at Aeratechnology was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Belgium |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/GBR-Remote/Principal-Statistician---EMEA--Many-Locations----Sponsor-dedicated_25111889) |
 
 ## About This Role
 
-This data scientist position at Syneoshealth was posted on 2026-08-25.
+This bioinformatics / computational biology position at Syneoshealth was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

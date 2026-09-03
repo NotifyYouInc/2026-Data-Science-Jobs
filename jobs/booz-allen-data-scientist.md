@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0247486) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Data-Scientist_R0246868-1) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-20.
+This data scientist position at Booz Allen was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

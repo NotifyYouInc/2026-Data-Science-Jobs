@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gerlingen, Baden-Wurttemberg, Germany |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145479984-pflichtpraktikum-ki-digitalisierung-im-finanzwesen-wmdiv) |
 
 ## About This Role
 
-This corporate finance position at Robert Bosch was posted on 2026-08-25.
+This fp&a / strategic finance position at Robert Bosch was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Data Scientist at Roku
+# Senior Data Scientist  at Roku
 
 | Field | Details |
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Jose, California, United States |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/8079861?gh_jid=8079861) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8159440?gh_jid=8159440) |
 
 ## About This Role
 
-This data scientist position at Roku was posted on 2026-07-23.
+This data scientist position at Roku was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
