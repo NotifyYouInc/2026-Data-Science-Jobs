@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Puteaux, Île-de-France, France |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000145232299-senior-consultante-data-scientist-hf) |
 
 ## About This Role
 
-This data engineer position at Wavestone was posted on 2026-08-24.
+This data scientist position at Wavestone was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

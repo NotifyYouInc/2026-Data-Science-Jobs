@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Sr-Analyst-DSA--MMM_19041141) |
+| Category | Data Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Sr-Analyst-DSA--MMM_19042028) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-06-29.
+This data analyst position at TransUnion was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

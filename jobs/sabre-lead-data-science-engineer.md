@@ -1,16 +1,16 @@
-# Lead Data Science Engineer at Sabre
+# Lead data Science Engineer at Sabre
 
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Data-Science-Engineer_JR107641-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-data-Science-Engineer_JR108610) |
 
 ## About This Role
 
-This data engineer position at Sabre was posted on 2026-04-27.
+This ai / llm engineer position at Sabre was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

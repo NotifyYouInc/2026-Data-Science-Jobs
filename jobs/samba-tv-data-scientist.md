@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samba TV](https://scoutify.ai/companies/sambatv?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.lever.co/sambatv/28229b75-520b-4280-b114-39709691c976) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.lever.co/sambatv/3a1e7fbc-81e7-44ca-961e-95d9c46a29dc) |
 
 ## About This Role
 
-This data scientist position at Samba TV was posted on 2026-08-21.
+This data scientist position at Samba TV was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

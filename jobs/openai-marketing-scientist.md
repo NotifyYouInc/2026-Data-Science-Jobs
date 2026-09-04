@@ -5,12 +5,12 @@
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/68eafaec-446d-4872-b570-8ec337c838ca) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/6c21e5e0-a41c-4936-a278-dd7d2c88f25c) |
 
 ## About This Role
 
-This data scientist position at OpenAI was posted on 2026-07-15.
+This data scientist position at OpenAI was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

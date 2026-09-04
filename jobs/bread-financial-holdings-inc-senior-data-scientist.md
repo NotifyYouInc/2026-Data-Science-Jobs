@@ -1,16 +1,16 @@
-# Senior Data Scientist at Bread Financial Holdings, Inc.
+# Senior - Data Scientist at Bread Financial Holdings, Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Senior-Data-Scientist_R1012433) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Senior---Data-Scientist_R1013089) |
 
 ## About This Role
 
-This data scientist position at Bread Financial Holdings, Inc. was posted on 2026-07-09.
+This data scientist position at Bread Financial Holdings, Inc. was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

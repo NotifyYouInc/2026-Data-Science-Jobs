@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Lead-Data-Scientist_19039634) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Lead-Data-Scientist_19042125) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-04-02.
+This data scientist position at TransUnion was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

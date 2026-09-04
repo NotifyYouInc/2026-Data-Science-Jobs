@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | France |
 | Category | Data Scientist |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145669008-data-scientist-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000146126949-data-scientist-hf) |
 
 ## About This Role
 
-This data scientist position at Meritis was posted on 2026-08-26.
+This data scientist position at Meritis was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

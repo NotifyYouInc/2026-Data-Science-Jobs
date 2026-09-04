@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Sr-Engr-Cslt-Data-Science_R-1099897) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Sr-Engr-Cslt-Data-Science_R-1099937) |
 
 ## About This Role
 
-This data scientist position at Verizon was posted on 2026-08-21.
+This data scientist position at Verizon was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

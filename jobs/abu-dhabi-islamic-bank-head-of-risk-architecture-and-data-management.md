@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abu Dhabi Islamic Bank](https://scoutify.ai/companies/em2-cx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United Arab Emirates |
-| Category | Project Manager |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://hciq.fa.em2.oraclecloud.com/jobs/#4568) |
 
 ## About This Role
 
-This project manager position at Abu Dhabi Islamic Bank was posted on 2026-08-27.
+This data scientist position at Abu Dhabi Islamic Bank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

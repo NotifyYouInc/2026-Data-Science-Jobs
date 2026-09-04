@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Scientist_JR-0106120) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Data-Scientist_JR-0108262) |
 
 ## About This Role
 
-This data scientist position at Workday was posted on 2026-04-13.
+This data scientist position at Workday was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Manager--Data-Science---Pricing-Algorithms_JR-182434) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Manager--Data-Science---Pricing-Algorithms_JR-185036) |
 
 ## About This Role
 
-This data scientist position at CarMax was posted on 2026-07-24.
+This data scientist position at CarMax was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

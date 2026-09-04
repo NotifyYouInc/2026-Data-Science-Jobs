@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | AI / ML Research |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Sr-Data-Scientist---AI-ML_R000147966) |
+| Category | Data Scientist |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Sr-Data-Scientist---AI-ML_R000157901) |
 
 ## About This Role
 
-This ai / ml research position at Procter & Gamble was posted on 2026-04-13.
+This data scientist position at Procter & Gamble was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

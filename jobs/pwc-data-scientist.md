@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Prague, Prague, Czechia |
 | Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Scientist_753895WD) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Prague/Data-Scientist_755554WD-3) |
 
 ## About This Role
 
-This data scientist position at PwC was posted on 2026-08-20.
+This data scientist position at PwC was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

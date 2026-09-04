@@ -5,12 +5,12 @@
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/Data-Scientist-I_R-175645-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/Data-Scientist-I_R-181844) |
 
 ## About This Role
 
-This data scientist position at Republic Services was posted on 2026-05-26.
+This data scientist position at Republic Services was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

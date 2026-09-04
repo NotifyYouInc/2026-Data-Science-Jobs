@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145042569-coordenador-de-dados-customer-intelligence) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145983438-coordenador-de-dados-customer-intelligence) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-08-23.
+This data scientist position at Experian was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
