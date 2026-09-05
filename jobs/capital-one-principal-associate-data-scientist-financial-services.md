@@ -1,16 +1,16 @@
-# Principal Associate, Data Scientist - Financial Services at Capital One
+# Principal Associate, Data Scientist -Financial Services at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Principal-Associate--Data-Scientist---Financial-Services_R237932-1) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Principal-Associate--Data-Scientist--Financial-Services_R999444-1) |
 
 ## About This Role
 
-This machine learning engineer position at Capital One was posted on 2026-03-12.
+This data scientist position at Capital One was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

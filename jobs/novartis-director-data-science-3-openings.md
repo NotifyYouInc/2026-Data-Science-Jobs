@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | East Hanover, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/Director--Data-Science--3-openings-_REQ-10086112-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/Director--Data-Science--3-openings-_REQ-10086525) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-08-24.
+This data scientist position at Novartis was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

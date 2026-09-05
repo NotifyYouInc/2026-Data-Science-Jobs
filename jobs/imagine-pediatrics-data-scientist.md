@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Imagine Pediatrics](https://scoutify.ai/companies/imagine-pediatrics?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4675845005) |
+| Category | Data Scientist |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4531170005) |
 
 ## About This Role
 
-This machine learning engineer position at Imagine Pediatrics was posted on 2026-03-20.
+This data scientist position at Imagine Pediatrics was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

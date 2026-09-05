@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Sunnyvale, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656155/applied-data-scientist-and-visualization-specialist-hardware-engineering-product-design) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680059/applied-data-scientist-and-visualization-specialist-hardware-engineering-product-design) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-04-07.
+This data scientist position at Apple was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

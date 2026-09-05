@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Senior-Specialist--Quantitative-Pharmacology-and-Pharmacometrics---Cardiometabolic-and-Ophthalmic-Diseases_R411690-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Senior-Specialist--Quantitative-Pharmacology-and-Pharmacometrics---Cardiometabolic-and-Ophthalmic-Diseases_R415118-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-08-14.
+This data scientist position at Merck was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

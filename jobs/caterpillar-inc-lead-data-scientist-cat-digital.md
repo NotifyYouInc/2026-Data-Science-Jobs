@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Data-Scientist--Cat-Digital_R0000386675) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Lead-Data-Scientist--Cat-Digital_R0000390579) |
 
 ## About This Role
 
-This data scientist position at Caterpillar Inc. was posted on 2026-08-11.
+This data scientist position at Caterpillar Inc. was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

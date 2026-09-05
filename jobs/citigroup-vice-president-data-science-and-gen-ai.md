@@ -1,16 +1,16 @@
-# Vice President - Data Science And Gen AI at Citigroup
+# Vice President - Data Science and GEN AI at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Vice-President---Data-Science-And-Gen-AI_26986288) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Vice-President---Data-Science-and-GEN-AI_26985873) |
 
 ## About This Role
 
-This ai / llm engineer position at Citigroup was posted on 2026-08-24.
+This data scientist position at Citigroup was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

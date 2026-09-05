@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Cleveland, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hsinchu-City-Hsinchu-County/Senior-Data-Scientist_252863W-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Cleveland-Ohio/Senior-Data-Scientist_252858W) |
 
 ## About This Role
 
-This data scientist position at Qnity was posted on 2026-08-20.
+This data scientist position at Qnity was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

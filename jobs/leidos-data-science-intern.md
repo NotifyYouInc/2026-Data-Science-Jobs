@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Diego, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00188405) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-07-29.
+This data scientist position at Leidos was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

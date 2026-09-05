@@ -1,16 +1,16 @@
-# Senior Data Scientist at Faculty
+# Senior Data Scientist  at Faculty
 
 | Field | Details |
 |-------|---------|
 | Company | [Faculty](https://scoutify.ai/companies/faculty?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/3f8f7226-1162-43f8-98f1-177624433c74) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/b33d0939-ba49-4b52-9580-c089c45d1556) |
 
 ## About This Role
 
-This data scientist position at Faculty was posted on 2026-02-18.
+This data scientist position at Faculty was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

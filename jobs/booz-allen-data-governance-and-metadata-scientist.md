@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Doral, Florida, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Doral-FL/Data-Governance-and-Metadata-Scientist_R0245985) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Doral-FL/Data-Governance-and-Metadata-Scientist_R0248208) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-04.
+This data scientist position at Booz Allen was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

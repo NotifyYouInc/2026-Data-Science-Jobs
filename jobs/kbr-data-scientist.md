@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/McLean-Virginia/Data-Scientist_R2128686) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Scientist_R2128876-1) |
 
 ## About This Role
 
-This data scientist position at KBR was posted on 2026-08-24.
+This data scientist position at KBR was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
