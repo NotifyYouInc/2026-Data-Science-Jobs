@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Group 1001](https://scoutify.ai/companies/group1001wd?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Remote-Location/Data-Strategy---Insights-Lead_R26_0464-1) |
 
 ## About This Role
 
-This strategy & operations position at Group 1001 was posted on 2026-08-26.
+This operations position at Group 1001 was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Program Manager |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000146038139-technical-program-manager) |
 
 ## About This Role
 
-This data scientist position at Endava was posted on 2026-08-27.
+This program manager position at Endava was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

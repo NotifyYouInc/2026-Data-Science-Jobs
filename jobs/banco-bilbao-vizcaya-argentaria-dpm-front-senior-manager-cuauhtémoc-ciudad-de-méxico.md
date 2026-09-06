@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
-| Category | Data Scientist |
+| Category | Program Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/DPM-Front-Senior-Manager--Cuauhtmoc--Ciudad-de-Mxico-_JR00112964) |
 
 ## About This Role
 
-This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-25.
+This program manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

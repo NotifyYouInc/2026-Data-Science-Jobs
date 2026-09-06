@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Paytm](https://scoutify.ai/companies/paytm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Data Scientist |
+| Category | Program Manager |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.lever.co/paytm/154763a7-3661-41cf-b1d1-3e7c1e12fcc6) |
 
 ## About This Role
 
-This data scientist position at Paytm was posted on 2026-08-27.
+This program manager position at Paytm was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
