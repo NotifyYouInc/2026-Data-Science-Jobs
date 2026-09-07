@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Manager - Analytics & Data Science at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120546-1) |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Bengaluru---Manyata-N1-Block/Manager---Analytics---Data-Science_R1130404-1) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-31.
+This data scientist position at Dentsu was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

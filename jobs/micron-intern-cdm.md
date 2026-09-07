@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Intern - CDM at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120546-1) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CDM_JR109768) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-31.
+This data scientist position at Micron was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

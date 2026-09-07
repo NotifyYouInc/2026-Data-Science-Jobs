@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Senior Data Scientist - Trust & Fraud at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120546-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000146439429-senior-data-scientist-trust-fraud) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-31.
+This data scientist position at Grab was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

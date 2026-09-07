@@ -1,16 +1,16 @@
-# Product Placement Scientist at Syngenta
+# Senior Director, Quantitative Pharmacology and Pharmacometrics at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000146430400-product-placement-scientist) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/GBR---London---London-Moorgate-WeWork/Senior-Director--Quantitative-Pharmacology-and-Pharmacometrics_R410689) |
 
 ## About This Role
 
-This data scientist position at Syngenta was posted on 2026-08-31.
+This data scientist position at Merck was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001196305-senior-data-scientist-product-features-growth) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001363079-senior-data-scientist-product-features-growth) |
 
 ## About This Role
 
-This data scientist position at Canva was posted on 2026-06-30.
+This data scientist position at Canva was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

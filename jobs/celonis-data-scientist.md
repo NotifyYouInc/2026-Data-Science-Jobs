@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Data Scientist at Celonis
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120546-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7886062003?gh_jid=7886062003) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-31.
+This data scientist position at Celonis was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

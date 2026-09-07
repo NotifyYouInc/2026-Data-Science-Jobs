@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Senior Data Scientist - Product Insights at Catawiki
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Catawiki](https://scoutify.ai/companies/catawiki?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120546-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8158595) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-31.
+This data scientist position at Catawiki was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000140486499-data-scientist-supply-chain-focus) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000146448619-data-scientist-supply-chain-focus) |
 
 ## About This Role
 
-This data scientist position at Red Bull was posted on 2026-07-29.
+This data scientist position at Red Bull was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

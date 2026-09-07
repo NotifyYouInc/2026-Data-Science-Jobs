@@ -1,12 +1,12 @@
-# [DS] Data Scientist [MedTech] at Johnson & Johnson
+# Sr. Scientist, Spectroscopy Lifecycle Support at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chiyoda, Tokyo, Japan |
+| Location | Latina, Lazio, Italy |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--DS--Data-Scientist--MedTech-_R-071585) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Latina-Italy/Sr-Scientist--Spectroscopy-Lifecycle-Support_R-094919) |
 
 ## About This Role
 

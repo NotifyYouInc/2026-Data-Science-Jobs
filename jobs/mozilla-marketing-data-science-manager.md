@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mozilla](https://scoutify.ai/companies/mozilla?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Canada |
-| Category | Data Scientist |
+| Category | Marketing Operations |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8157047) |
 
 ## About This Role
 
-This data scientist position at Mozilla was posted on 2026-08-25.
+This marketing operations position at Mozilla was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

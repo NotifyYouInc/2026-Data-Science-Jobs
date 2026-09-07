@@ -1,16 +1,16 @@
-# Senior Data Scientist at LSEG
+# Sr.Director, Data Science & Data Engineering at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Mountain View, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120546-1) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8155448) |
 
 ## About This Role
 
-This data scientist position at LSEG was posted on 2026-08-31.
+This data scientist position at Coupang was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
