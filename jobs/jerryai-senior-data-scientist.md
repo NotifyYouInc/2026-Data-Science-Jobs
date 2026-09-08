@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ontario, CA |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/f0a81bca-9826-4cdd-a276-666240f4ff3d) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/f485faec-f89e-496f-8e3f-a69957140eea) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-08-21.
+This data scientist position at Jerry.ai was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

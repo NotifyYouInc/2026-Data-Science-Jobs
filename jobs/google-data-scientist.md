@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Bruno, California, United States |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUClgJWR9jNoPRuxQeWN4GMieXUCLA4cfujIdxW-EpOLEjsA1Ny_i_J4bZtDY7qrzfpXJ4cQklQtQjExtwA4hXAqWkOVR_4IQvQ5mdAhrZqbAU6jOmricL6WxBgRCg%3D%3D_V2&loc=US&title=Data+Scientist) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSKHYC22aPGKgagg8gIjYq4ovXKANNf4IlytHuk2tms2EjsA1Ny_ixJtcxuNZhO7FoCsxvnptbsL4H3UgTkxxPvlsI_pzahgyBq9nJB2rPNBNEUfKM77YuAdThJ_0A%3D%3D_V2&loc=US&title=Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-07-27.
+This data scientist position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

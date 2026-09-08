@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Switzerland |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/GENEVA-BUSINESS-CENTER/Senior-Data-Scientist_R000155289) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-DOWNTOWN-OFFICE/Senior-Data-Scientist_R000157718) |
 
 ## About This Role
 
-This data scientist position at Procter & Gamble was posted on 2026-07-17.
+This data scientist position at Procter & Gamble was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

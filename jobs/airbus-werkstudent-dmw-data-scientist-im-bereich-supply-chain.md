@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Germany |
+| Location | Manching, Bavaria, Germany |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--d-m-w---Data-Scientist-im-Bereich-Supply-Chain_JR10402849) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--d-m-w---Data-Scientist-im-Bereich-Supply-Chain_JR10436980) |
 
 ## About This Role
 
-This data scientist position at Airbus was posted on 2026-04-15.
+This data scientist position at Airbus was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

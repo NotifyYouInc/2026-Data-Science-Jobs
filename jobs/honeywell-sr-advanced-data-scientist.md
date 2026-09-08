@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Scientist |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#150414) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156605) |
 
 ## About This Role
 
-This data scientist position at Honeywell was posted on 2026-06-11.
+This data scientist position at Honeywell was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

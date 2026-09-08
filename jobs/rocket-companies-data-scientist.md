@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rocket Companies](https://scoutify.ai/companies/quickenloans?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Michigan, US |
+| Location | Windsor, Ontario, Canada |
 | Category | Data Scientist |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Data-Scientist_R-084227) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Windsor-ON/Data-Scientist_R-084226) |
 
 ## About This Role
 
-This data scientist position at Rocket Companies was posted on 2026-08-25.
+This data scientist position at Rocket Companies was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

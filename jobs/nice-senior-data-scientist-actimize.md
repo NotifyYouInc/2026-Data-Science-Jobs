@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4871419101?gh_jid=4871419101) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4964073101?gh_jid=4964073101) |
 
 ## About This Role
 
-This data scientist position at NiCE was posted on 2026-05-22.
+This data scientist position at NiCE was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

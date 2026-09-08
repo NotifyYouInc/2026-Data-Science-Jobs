@@ -5,12 +5,12 @@
 | Company | [Integra FEC](https://scoutify.ai/companies/integrainterns?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/integrainterns/jobs/4896460008) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/integrainterns/jobs/5406095008) |
 
 ## About This Role
 
-This data scientist position at Integra FEC was posted on 2026-04-24.
+This data scientist position at Integra FEC was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

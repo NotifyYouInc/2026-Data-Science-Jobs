@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Data Scientist |
+| Category | Sales Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Mumbai---One-World-Center/Manager---Data-Science---Analytics_19041833) |
 
 ## About This Role
 
-This data scientist position at TransUnion was posted on 2026-08-27.
+This sales engineer position at TransUnion was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

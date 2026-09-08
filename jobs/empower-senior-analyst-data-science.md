@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Analyst |
-| Posted | 2026-04-24 |
+| Category | Data Scientist |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Analyst-Data-Science_R0057410) |
 
 ## About This Role
 
-This data analyst position at Empower was posted on 2026-04-24.
+This data scientist position at Empower was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

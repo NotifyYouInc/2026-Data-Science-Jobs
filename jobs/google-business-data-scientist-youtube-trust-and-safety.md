@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Trust & Safety |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQNOfjbORm4H-yVi3ZtwV6HzGKecZazeJXgCq7WbmeagEjsACxwdTKDUDfLD-akwoBdCImpc0Wytfa7gXjrv8XObFZeIKerhjQoJv_lo6UW0CwZ-2kFeT0EZtxBrxw%3D%3D_V2&loc=IN&title=Business+Data+Scientist) |
+| Category | Data Scientist |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfOtdo3fplzc6lEJRdNPtHAlt_H9ju7ieBt8F5udcGtoEjsA1Ny_iz7wM14eC-e15s2SZQJWGV5jA7qiEdIF6j9FjksuMD_qfyPJ81rE98aMbmdAdKei844QWsEWcg%3D%3D_V2&loc=IN&title=Business+Data+Scientist) |
 
 ## About This Role
 
-This trust & safety position at Google was posted on 2026-05-12.
+This data scientist position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

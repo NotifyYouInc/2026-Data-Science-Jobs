@@ -1,16 +1,16 @@
-# Analytics Consultant at Experian
+# ANALYTICS CONSULTANT at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138283999-analytics-consultant) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Data Scientist |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146550839-analytics-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Experian was posted on 2026-07-17.
+This data scientist position at Experian was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Owensminor](https://scoutify.ai/companies/owensminor?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---US/Data-Scientist_REQ_26_32998) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/3609-OM-Halyard-India/Data-Scientist_REQ_26_33217-1) |
 
 ## About This Role
 
-This data scientist position at Owensminor was posted on 2026-08-11.
+This data scientist position at Owensminor was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

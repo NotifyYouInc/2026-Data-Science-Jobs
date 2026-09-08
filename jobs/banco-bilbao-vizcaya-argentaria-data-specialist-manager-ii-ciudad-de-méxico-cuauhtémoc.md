@@ -1,16 +1,16 @@
-# Data Specialist Manager II (Ciudad de México, Cuauhtémoc) at Banco Bilbao Vizcaya Argentaria
+# DATA SPECIALIST MANAGER II (Ciudad de México, Cuauhtémoc) at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mexico |
+| Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Data Scientist |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Specialist-Manager-II--Ciudad-de-Mxico--Cuauhtmoc-_JR00101106) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/DATA-SPECIALIST-MANAGER-II--Ciudad-de-Mxico--Cuauhtmoc-_JR00113444) |
 
 ## About This Role
 
-This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-14.
+This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

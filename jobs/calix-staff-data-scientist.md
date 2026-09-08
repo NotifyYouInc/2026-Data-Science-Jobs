@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Calix](https://scoutify.ai/companies/calix?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Canada |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-11 |
+| Category | Data Scientist |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://calix.wd1.myworkdayjobs.com/External/job/Remote---USA/Staff-Data-Scientist_R-11384) |
 
 ## About This Role
 
-This machine learning engineer position at Calix was posted on 2026-02-11.
+This data scientist position at Calix was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

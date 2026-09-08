@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Operations |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Data-Scientist_R-281354) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Data-Scientist_R-280720) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-07-30.
+This data scientist position at Mastercard was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

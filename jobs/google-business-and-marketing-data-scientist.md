@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYYmSs9FDjGesu0F9i9bHVChPERyuKdP_57ODUU4ob1JEjsA1Ny_i_V64Mw_09rWaGZufCkcOfCvIyxfQjJlZ6oP0-KE8bjKRhC2bUVvgdZwlq4OoUXuqcMZafCcAQ%3D%3D_V2&loc=US&title=Business+and+Marketing+Data+Scientist) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSRk5eWACQFynbw68f5KOpfYu7y91WAalUcj9x3U2YJlEjsA1Ny_i_Uj9BTprbSxRvytA4W8_eMVKPHuVyOPZsz2fP6OxEzj4tAZ1wPj1V_2AjClNJgkr_fI6Is64Q%3D%3D_V2&loc=US&title=Business+and+Marketing+Data+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-07-27.
+This data scientist position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

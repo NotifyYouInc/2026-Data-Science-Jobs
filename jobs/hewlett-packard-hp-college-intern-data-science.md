@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI2743-1) |
+| Category | Data Scientist |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4035-1) |
 
 ## About This Role
 
-This data analyst position at Hewlett Packard (HP) was posted on 2026-03-04.
+This data scientist position at Hewlett Packard (HP) was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6103257004) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6174686004) |
 
 ## About This Role
 
-This data scientist position at BTG Pactual was posted on 2026-06-30.
+This data scientist position at BTG Pactual was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

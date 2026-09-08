@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Cincinnati, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Data-Scientist_R000157855) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist_R000158052) |
 
 ## About This Role
 
-This data scientist position at Procter & Gamble was posted on 2026-08-25.
+This data scientist position at Procter & Gamble was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

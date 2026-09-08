@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Life360](https://scoutify.ai/companies/life360?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Canada |
-| Category | Data Scientist |
+| Category | Growth Marketing |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/life360/jobs/8750960002) |
 
 ## About This Role
 
-This data scientist position at Life360 was posted on 2026-08-26.
+This growth marketing position at Life360 was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

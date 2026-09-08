@@ -5,12 +5,12 @@
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Data-Scientist_10330121) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Data-Scientist_10334425) |
 
 ## About This Role
 
-This data scientist position at Toyota was posted on 2026-06-26.
+This data scientist position at Toyota was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

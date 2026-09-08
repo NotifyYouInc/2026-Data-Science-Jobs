@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | India |
-| Category | Data Scientist |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/6163441004) |
 
 ## About This Role
 
-This data scientist position at 66degrees was posted on 2026-08-26.
+This technical & solutions architect position at 66degrees was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000123867849-senior-principal-data-scientist-fulfilment) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000146514470-senior-principal-data-scientist-fulfilment) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-04-30.
+This data scientist position at Grab was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
