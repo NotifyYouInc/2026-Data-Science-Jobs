@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Hyderabad/Scientist--Precision-Medicine-Quantitative-Biomarker-Sciences_R49653) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Regeneron was posted on 2026-08-31.
+This data scientist position at Regeneron was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

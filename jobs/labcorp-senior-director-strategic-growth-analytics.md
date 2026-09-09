@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Strategy & Operations |
+| Category | Growth Marketing |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Senior-Director--Strategic-Growth-Analytics_2629280) |
 
 ## About This Role
 
-This strategy & operations position at Labcorp was posted on 2026-08-31.
+This growth marketing position at Labcorp was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

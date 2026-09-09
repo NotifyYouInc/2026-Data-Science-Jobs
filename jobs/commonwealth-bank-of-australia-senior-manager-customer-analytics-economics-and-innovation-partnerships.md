@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Manager---Customer-Analytics--Economics-and-Innovation-Partnerships_REQ263819) |
 
 ## About This Role
 
-This strategy & operations position at Commonwealth Bank of Australia was posted on 2026-08-27.
+This operations position at Commonwealth Bank of Australia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

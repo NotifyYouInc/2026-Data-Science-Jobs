@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/France-Paris/Study-Lead-Statistician_JR157524) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at ICON plc was posted on 2026-09-01.
+This data scientist position at ICON plc was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

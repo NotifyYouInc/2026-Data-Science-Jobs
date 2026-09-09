@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Business-Management-Analyst--AS_R0448262) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-09-01.
+This data scientist position at Deutsche Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

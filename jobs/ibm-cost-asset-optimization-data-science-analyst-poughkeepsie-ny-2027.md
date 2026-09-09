@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Poughkeepsie, New York, United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130062) |
 
 ## About This Role
 
-This data analyst position at IBM was posted on 2026-08-27.
+This data scientist position at IBM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

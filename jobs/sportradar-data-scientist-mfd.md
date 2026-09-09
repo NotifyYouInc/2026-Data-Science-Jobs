@@ -1,16 +1,16 @@
-# Data Scientist [m/f/d] at Sportradar
+# Data Scientist (m/f/d) at Sportradar
 
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Vienna, Vienna, Austria |
-| Category | Data Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000129918769-data-scientist-mfd) |
+| Location | London, England, United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000146728711-data-scientist-mfd) |
 
 ## About This Role
 
-This data analyst position at Sportradar was posted on 2026-06-03.
+This data scientist position at Sportradar was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

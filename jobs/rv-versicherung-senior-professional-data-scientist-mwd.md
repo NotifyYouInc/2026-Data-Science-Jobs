@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [R+V Versicherung](https://scoutify.ai/companies/rvallgemeineversicherungenag?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000146168409-senior-professional-data-scientist-mwd) |
 
 ## About This Role
 
-This software engineer position at R+V Versicherung was posted on 2026-08-28.
+This data scientist position at R+V Versicherung was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

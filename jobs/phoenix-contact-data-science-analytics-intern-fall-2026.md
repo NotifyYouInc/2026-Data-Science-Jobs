@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Phoenix Contact](https://scoutify.ai/companies/phoenix-contact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Middletown, New Jersey, United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003) |
 
 ## About This Role
 
-This data analyst position at Phoenix Contact was posted on 2026-08-27.
+This data scientist position at Phoenix Contact was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

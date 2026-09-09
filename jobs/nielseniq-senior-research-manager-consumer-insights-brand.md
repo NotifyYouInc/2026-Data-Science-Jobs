@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
-| Category | Brand Marketing |
+| Category | Data Scientist |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000146452179-senior-research-manager-consumer-insights-brand) |
 
 ## About This Role
 
-This brand marketing position at NielsenIQ was posted on 2026-08-31.
+This data scientist position at NielsenIQ was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

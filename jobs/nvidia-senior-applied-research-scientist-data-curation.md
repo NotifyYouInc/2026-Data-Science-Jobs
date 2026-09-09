@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist--Data-Curation_JR2024365) |
 
 ## About This Role
 
-This ai / ml research position at Nvidia was posted on 2026-08-27.
+This data scientist position at Nvidia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

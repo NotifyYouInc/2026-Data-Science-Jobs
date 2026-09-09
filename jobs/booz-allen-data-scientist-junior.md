@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | McLean, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Data-Scientist--Junior_R0247418) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist--Junior_R0248402) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-19.
+This data scientist position at Booz Allen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

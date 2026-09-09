@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Miguel Hidalgo, Mexico City, Mexico |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Data-de-Inteligencia-y-Reporting-de-Garantas--Miguel-Hidalgo--Ciudad-de-Mxico-_JR00112859) |
 
 ## About This Role
 
-This data analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-28.
+This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

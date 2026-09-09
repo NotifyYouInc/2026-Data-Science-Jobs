@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0248011-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Data-Scientist_R0247943) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-26.
+This data scientist position at Booz Allen was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

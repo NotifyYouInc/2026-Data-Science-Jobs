@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138400320-analista-sr-de-modelagem) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146803619-analista-sr-de-modelagem) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-07-17.
+This data scientist position at Experian was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

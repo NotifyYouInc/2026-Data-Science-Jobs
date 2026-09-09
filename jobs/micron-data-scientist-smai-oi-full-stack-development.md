@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/DATA-SCIENTIST--SMAI-OI--Full-Stack-development-_JR109718-1) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-08-27.
+This data scientist position at Micron was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

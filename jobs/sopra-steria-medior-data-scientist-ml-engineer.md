@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Groningen, Groningen, The Netherlands |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000109655896-medior-data-scientist-ml-engineer) |
+| Category | Data Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146701229-medior-data-scientist-ml-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Sopra Steria was posted on 2026-02-17.
+This data engineer position at Sopra Steria was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

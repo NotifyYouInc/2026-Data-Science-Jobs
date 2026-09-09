@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Principal-AI-ML-Computational-Scientist_202605-111974-1) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Genentech was posted on 2026-08-27.
+This data scientist position at Genentech was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

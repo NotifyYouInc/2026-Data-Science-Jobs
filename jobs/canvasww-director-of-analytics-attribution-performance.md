@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canvasww](https://scoutify.ai/companies/canvasww?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.lever.co/canvasww/b680c5ab-b7b7-4952-8471-5bf97235c45e) |
 
 ## About This Role
 
-This data analyst position at Canvasww was posted on 2026-08-27.
+This data scientist position at Canvasww was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

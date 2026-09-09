@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Business Analyst |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5066897007?gh_jid=5066897007) |
 
 ## About This Role
 
-This business analyst position at Anduril was posted on 2026-08-27.
+This data scientist position at Anduril was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

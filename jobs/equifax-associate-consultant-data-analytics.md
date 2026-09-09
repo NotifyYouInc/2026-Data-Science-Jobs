@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/GBR---London/Associate-Consultant---Data---Analytics_J00178068) |
+| Category | Data Scientist |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/GBR---London/Associate-Consultant---Data---Analytics_J00178623) |
 
 ## About This Role
 
-This strategy / management consulting position at Equifax was posted on 2026-07-16.
+This data scientist position at Equifax was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

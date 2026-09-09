@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Kansas Medical Center](https://scoutify.ai/companies/university-of-kansas-medical-center?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Statistician-I---Biostatistics---Data-Science_JR010422) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at University of Kansas Medical Center was posted on 2026-08-31.
+This data scientist position at University of Kansas Medical Center was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10521394/applied-scientist-computer-vision-international-machine-learning-australia) |
 
 ## About This Role
 
-This ai / ml research position at Amazon was posted on 2026-08-31.
+This data scientist position at Amazon was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

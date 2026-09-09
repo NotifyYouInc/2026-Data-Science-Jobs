@@ -5,12 +5,12 @@
 | Company | [fundingcircle](https://scoutify.ai/companies/fundingcircle?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fundingcircle/d0c854c2-5b2f-42a2-bbf9-2f1e2ec1367d) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fundingcircle/e97e0bd0-0c97-42cc-98a7-e74ce6a544d9) |
 
 ## About This Role
 
-This data scientist position at fundingcircle was posted on 2026-07-30.
+This data scientist position at fundingcircle was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

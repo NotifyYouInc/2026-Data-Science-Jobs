@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26) |
 
 ## About This Role
 
-This software engineer position at Wealthsimple was posted on 2026-08-31.
+This data scientist position at Wealthsimple was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

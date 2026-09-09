@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alexion](https://scoutify.ai/companies/astrazeneca?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Business Analyst |
-| Posted | 2026-06-01 |
+| Category | Data Scientist |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Spain---Barcelona/Associate-Director--Global-Health-Economics-and-Outcomes-Research-Analytics_R-253220) |
 
 ## About This Role
 
-This business analyst position at Alexion was posted on 2026-06-01.
+This data scientist position at Alexion was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

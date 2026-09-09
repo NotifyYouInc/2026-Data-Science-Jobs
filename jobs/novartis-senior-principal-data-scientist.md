@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Dublin-NOCC/Senior-Principal-Data-Scientist_REQ-10086779) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/London-The-Westworks/Senior-Principal-Data-Scientist_REQ-10086578) |
 
 ## About This Role
 

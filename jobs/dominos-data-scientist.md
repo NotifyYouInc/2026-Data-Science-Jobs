@@ -6,7 +6,7 @@
 | Location | Ann Arbor, Michigan, United States |
 | Category | Data Scientist |
 | Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000145858949-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000146054874-data-scientist) |
 
 ## About This Role
 

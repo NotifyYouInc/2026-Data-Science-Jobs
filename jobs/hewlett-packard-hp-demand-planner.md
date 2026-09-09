@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Czechia |
-| Category | Business Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Praha-Praha-Czechia/Demand-Planner_3167701-1) |
 
 ## About This Role
 
-This business analyst position at Hewlett Packard (HP) was posted on 2026-09-01.
+This data scientist position at Hewlett Packard (HP) was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

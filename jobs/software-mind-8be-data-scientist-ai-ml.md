@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Data Scientist |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000144783205-8be-data-scientist-ai-ml) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000146825089-8be-data-scientist-ai-ml) |
 
 ## About This Role
 
-This data scientist position at Software Mind was posted on 2026-08-21.
+This data scientist position at Software Mind was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

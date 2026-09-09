@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Raleigh, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune---Tower-6/Data-Scientist_R-057686-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Data-Scientist_R-059044) |
 
 ## About This Role
 
-This data scientist position at Red Hat was posted on 2026-07-02.
+This data scientist position at Red Hat was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClinChoice](https://scoutify.ai/companies/clinchoice?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United Kingdom |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/clinchoice/jobs/4962495101) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at ClinChoice was posted on 2026-08-27.
+This data scientist position at ClinChoice was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Data-Scientist-II_R-286934) |
+| Location | Gurugram, Haryana, India |
+| Category | Data Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist-II_R-288488-2) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-08-12.
+This data engineer position at Mastercard was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

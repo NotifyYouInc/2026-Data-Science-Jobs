@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / ML Research |
+| Category | Data Scientist |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779168) |
 
 ## About This Role
 
-This ai / ml research position at JPMorgan Chase was posted on 2026-08-28.
+This data scientist position at JPMorgan Chase was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

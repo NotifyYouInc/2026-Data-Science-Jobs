@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClearScore](https://scoutify.ai/companies/clearscoretechnologylimited?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/clearscoretechnologylimited/jobs/4962201101) |
 
 ## About This Role
 
-This software engineer position at ClearScore was posted on 2026-08-27.
+This data scientist position at ClearScore was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

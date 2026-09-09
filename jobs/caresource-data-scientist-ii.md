@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Scientist-II_R13108) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Scientist-II_R13599) |
 
 ## About This Role
 
-This data scientist position at CareSource was posted on 2026-07-14.
+This data scientist position at CareSource was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
