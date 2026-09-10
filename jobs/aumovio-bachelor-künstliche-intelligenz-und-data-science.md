@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Regensburg, Bavaria, Germany |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000146657259-bachelor-kunstliche-intelligenz-und-data-science) |
 
 ## About This Role
 
-This ai / llm engineer position at Aumovio was posted on 2026-09-01.
+This data scientist position at Aumovio was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

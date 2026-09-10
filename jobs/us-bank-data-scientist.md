@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Missouri, US |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Data-Scientist_2026-0018812) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Data-Scientist_2026-0026449) |
 
 ## About This Role
 
-This data scientist position at U.S. Bank was posted on 2026-07-13.
+This data scientist position at U.S. Bank was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

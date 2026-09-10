@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-ML-Data-Scientist--GPSSC-_JR-202608411-1) |
+| Category | Data Scientist |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-ML-Data-Scientist--GPSSC-_JR-202619401) |
 
 ## About This Role
 
-This machine learning engineer position at General Motors was posted on 2026-04-28.
+This data scientist position at General Motors was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

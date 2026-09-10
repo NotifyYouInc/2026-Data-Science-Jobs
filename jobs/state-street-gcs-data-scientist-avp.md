@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Quincy, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/GCS--Data-Scientist--AVP_R-794430) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/GCS--Data-Scientist--AVP_R-794433) |
 
 ## About This Role
 
-This data scientist position at State Street was posted on 2026-07-29.
+This data scientist position at State Street was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

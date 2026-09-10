@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/CDR-Amsterdam---Cedar/Internship---Non-Financial-Risk-AI-Agent-Developer_REQ-10120768) |
 
 ## About This Role
 
-This ai / llm engineer position at ING was posted on 2026-08-31.
+This data scientist position at ING was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

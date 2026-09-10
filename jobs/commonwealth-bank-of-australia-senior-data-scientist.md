@@ -5,12 +5,12 @@
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Data-Scientist_REQ264083) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Data-Scientist_REQ264975-1) |
 
 ## About This Role
 
-This data scientist position at Commonwealth Bank of Australia was posted on 2026-08-17.
+This data scientist position at Commonwealth Bank of Australia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

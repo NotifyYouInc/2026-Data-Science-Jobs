@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Curitiba, Paraná, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Data Scientist |
-| Posted | 2026-04-02 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/So-Paulo-Brazil/Data-Science-Manager_R-163743-1) |
 
 ## About This Role
 
-This data scientist position at Mondelez International was posted on 2026-04-02.
+This data scientist position at Mondelez International was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

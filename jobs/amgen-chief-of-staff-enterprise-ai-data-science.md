@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Chief-of-Staff--Enterprise-AI---Data-Science_R-252765) |
 
 ## About This Role
 
-This operations position at Amgen was posted on 2026-08-31.
+This strategy & operations position at Amgen was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Data-Scientist_JR-02559553) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Data-Scientist_JR-02622175) |
 
 ## About This Role
 
-This data scientist position at Lowe's was posted on 2026-06-22.
+This data scientist position at Lowe's was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

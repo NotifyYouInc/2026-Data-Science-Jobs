@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Dublin, Leinster, Ireland |
 | Category | Data Scientist |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7678175169820395781/detail) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7680938116995238197/detail) |
 
 ## About This Role
 
-This data scientist position at TikTok was posted on 2026-08-27.
+This data scientist position at TikTok was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Data Scientist |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000127583809-senior-data-scientist) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000147097749-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Lendi Group was posted on 2026-05-21.
+This data scientist position at Lendi Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

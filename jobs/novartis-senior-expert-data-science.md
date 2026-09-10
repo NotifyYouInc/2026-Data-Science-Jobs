@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Machine Learning Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Barcelona-Gran-Va/Senior-Expert-Data-Science_REQ-10078364-2) |
+| Location | East Hanover, New Jersey, United States |
+| Category | Data Scientist |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/Senior-Expert-Data-Science_REQ-10086795-1) |
 
 ## About This Role
 
-This machine learning engineer position at Novartis was posted on 2026-05-25.
+This data scientist position at Novartis was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

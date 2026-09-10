@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Las Vegas, Nevada, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Barcelona-Spain/Data-Scientist_R0022043) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Las-Vegas-NV-US/Data-Scientist_R0022411) |
 
 ## About This Role
 
-This data scientist position at Aristocrat Leisure was posted on 2026-07-31.
+This data scientist position at Aristocrat Leisure was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

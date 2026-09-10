@@ -1,16 +1,16 @@
-# DATA SCIENTIST - SUPPLY CHAIN at The Home Depot
+# Data Scientist - Supply Chain at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/DATA-SCIENTIST---SUPPLY-CHAIN_Req167935) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Scientist---Supply-Chain_Req191610) |
 
 ## About This Role
 
-This data scientist position at The Home Depot was posted on 2026-02-20.
+This data scientist position at The Home Depot was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

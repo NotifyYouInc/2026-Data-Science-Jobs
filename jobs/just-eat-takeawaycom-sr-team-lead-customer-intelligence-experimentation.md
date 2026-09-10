@@ -5,12 +5,12 @@
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Data Scientist |
-| Posted | 2026-04-02 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/Sr-Team-Lead-Customer-Intelligence---Experimentation_R_050934) |
 
 ## About This Role
 
-This data scientist position at Just Eat Takeaway.com was posted on 2026-04-02.
+This data scientist position at Just Eat Takeaway.com was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

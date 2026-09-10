@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Clinical-Data-Science-Programmer_JR159024) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Clinical-Data-Science-Programmer_JR159344) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-08-28.
+This data scientist position at ICON plc was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

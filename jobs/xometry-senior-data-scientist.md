@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5220374007) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5228591007) |
 
 ## About This Role
 
-This data scientist position at Xometry was posted on 2026-08-24.
+This data scientist position at Xometry was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

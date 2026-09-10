@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Senior-Marketing-Scientist_R0045405-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Singapore-Singapore/Senior-Marketing-Scientist_R0046683) |
 
 ## About This Role
 
-This data scientist position at Snapchat was posted on 2026-05-08.
+This data scientist position at Snapchat was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
