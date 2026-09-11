@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | 8 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Data-Scientist_2026-0003968-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/Senior-Data-Scientist_2026-0027351) |
 
 ## About This Role
 
-This data scientist position at U.S. Bank was posted on 2026-02-25.
+This data scientist position at U.S. Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

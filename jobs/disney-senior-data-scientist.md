@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Senior-Data-Scientist_10145720) |
+| Category | Data Scientist |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Data-Scientist_10158432) |
 
 ## About This Role
 
-This machine learning engineer position at Disney was posted on 2026-03-17.
+This data scientist position at Disney was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist---Marketing---Customer-Analytics_R231035-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist---Marketing---Customer-Analytics_R233750-2) |
 
 ## About This Role
 
-This data scientist position at PNC Financial was posted on 2026-08-06.
+This data scientist position at PNC Financial was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

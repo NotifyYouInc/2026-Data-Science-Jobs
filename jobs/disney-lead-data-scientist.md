@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Glendale, Arizona, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Lead-Data-Scientist_10146109) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Lead-Data-Scientist_10158431) |
 
 ## About This Role
 
-This data scientist position at Disney was posted on 2026-03-31.
+This data scientist position at Disney was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

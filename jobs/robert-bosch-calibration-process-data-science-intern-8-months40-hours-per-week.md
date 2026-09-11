@@ -6,7 +6,7 @@
 | Location | Farmington Hills, Michigan, United States |
 | Category | Data Scientist |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146524429-calibration-process-data-science-intern-8-months40-hours-per-week) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146546699-calibration-process-data-science-intern-8-months40-hours-per-week) |
 
 ## About This Role
 

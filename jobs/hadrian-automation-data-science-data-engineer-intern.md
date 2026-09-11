@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hadrian Automation](https://scoutify.ai/companies/hadrian-automation?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813) |
 
 ## About This Role
 
-This data engineer position at Hadrian Automation was posted on 2026-09-02.
+This data scientist position at Hadrian Automation was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

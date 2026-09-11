@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 7 locations |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Lead-Graph-Data-Scientist---Identity-Analytics_R0118883) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Lead-Graph-Data-Scientist---Identity-Analytics_R0120536) |
 
 ## About This Role
 
-This data scientist position at USAA was posted on 2026-07-06.
+This data scientist position at USAA was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

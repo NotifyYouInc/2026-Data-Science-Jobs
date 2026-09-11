@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Premier](https://scoutify.ai/companies/premierinc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Remote/Data-Science-Intern_R0008057) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Data Scientist |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Charlotte-NC/Data-Science-Intern_R0008481) |
 
 ## About This Role
 
-This machine learning engineer position at Premier was posted on 2026-03-12.
+This data scientist position at Premier was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

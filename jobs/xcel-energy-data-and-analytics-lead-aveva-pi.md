@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-and-Analytics-Lead--Aveva-PI-_JR115987-1) |
 
 ## About This Role
 
-This data engineer position at Xcel Energy was posted on 2026-09-01.
+This data scientist position at Xcel Energy was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

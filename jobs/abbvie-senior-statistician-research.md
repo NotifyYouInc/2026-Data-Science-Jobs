@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Data Scientist |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011954286-senior-statistician-research) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015070306-senior-statistician-research) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-03-03.
+This data scientist position at AbbVie was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

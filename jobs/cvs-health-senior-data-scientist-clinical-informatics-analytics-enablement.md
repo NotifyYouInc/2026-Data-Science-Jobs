@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | District of Columbia, US |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Scientist---Clinical-Informatics--Analytics-Enablement-_R0860715) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Scientist---Clinical-Informatics--Analytics-Enablement-_R1024308-1) |
 
 ## About This Role
 
-This data scientist position at CVS Health was posted on 2026-04-13.
+This data scientist position at CVS Health was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

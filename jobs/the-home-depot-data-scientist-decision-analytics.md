@@ -1,16 +1,16 @@
-# Data Scientist - Decision Analytics at The Home Depot
+# Data Scientist, Decision Analytics at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Scientist---Decision-Analytics_Req190553) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Scientist--Decision-Analytics_Req192435) |
 
 ## About This Role
 
-This data scientist position at The Home Depot was posted on 2026-08-28.
+This data scientist position at The Home Depot was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

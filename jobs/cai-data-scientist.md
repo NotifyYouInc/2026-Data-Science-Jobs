@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Data Scientist |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/Data-Scientist_R7743) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Data-Scientist_R8478) |
 
 ## About This Role
 
-This data scientist position at CAI was posted on 2026-05-18.
+This data scientist position at CAI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

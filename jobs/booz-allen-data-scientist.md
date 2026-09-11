@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
+| Location | Arlington, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Data-Scientist_R0248196) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0248351) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-08-28.
+This data scientist position at Booz Allen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

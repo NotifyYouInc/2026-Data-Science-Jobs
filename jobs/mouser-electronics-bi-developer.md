@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mouser Electronics](https://scoutify.ai/companies/us2-cx-oj71627?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://eabw.fa.us2.oraclecloud.com/jobs/#31249) |
 
 ## About This Role
 
-This data engineer position at Mouser Electronics was posted on 2026-09-02.
+This data scientist position at Mouser Electronics was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
