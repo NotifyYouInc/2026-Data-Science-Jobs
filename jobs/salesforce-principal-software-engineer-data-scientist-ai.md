@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Software-Engineer---Data-Scientist--AI_JR357716) |
 
 ## About This Role
 
-This data scientist position at Salesforce was posted on 2026-09-02.
+This ai / llm engineer position at Salesforce was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

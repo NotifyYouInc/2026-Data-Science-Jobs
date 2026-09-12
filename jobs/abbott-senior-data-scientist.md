@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Sligo, Connacht, Ireland |
 | Category | Data Scientist |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Austin--8701-Bee-Caves-Rd/Senior-Data-Scientist_31147505-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Sligo/Senior-Data-Scientist_31158582) |
 
 ## About This Role
 
-This data scientist position at Abbott was posted on 2026-04-16.
+This data scientist position at Abbott was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

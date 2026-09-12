@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | Data Scientist |
+| Category | AI / LLM Engineer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146935059-stage-devdataia-outillage-ia-fhn) |
 
 ## About This Role
 
-This data scientist position at OCTO Technology was posted on 2026-09-02.
+This ai / llm engineer position at OCTO Technology was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

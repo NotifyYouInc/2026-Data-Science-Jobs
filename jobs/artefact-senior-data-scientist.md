@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://www.artefact.com/careers/4127339002?gh_jid=4127339002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefact/jobs/8422392002) |
 
 ## About This Role
 
-This data scientist position at Artefact was posted on 2026-08-21.
+This data scientist position at Artefact was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2299119854163905) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/3489873754638185) |
 
 ## About This Role
 
-This data scientist position at Meta was posted on 2026-08-12.
+This data scientist position at Meta was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

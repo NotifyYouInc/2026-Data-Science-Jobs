@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645796/data-scientist-strategic-data-solutions) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681260/data-scientist-strategic-data-solutions) |
 
 ## About This Role
 
-This data scientist position at Apple was posted on 2026-02-12.
+This data scientist position at Apple was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

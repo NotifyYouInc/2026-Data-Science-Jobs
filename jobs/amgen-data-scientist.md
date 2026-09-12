@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Thousand Oaks, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Massachusetts---Cambridge/Data-Scientist_R-248084) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Data-Scientist_R-254531) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-09-01.
+This data scientist position at Amgen was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

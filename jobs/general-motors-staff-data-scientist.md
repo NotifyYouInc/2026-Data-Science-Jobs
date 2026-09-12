@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Data-Scientist_JR-202617746-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Data-Scientist_JR-202616172-1) |
 
 ## About This Role
 
-This data scientist position at General Motors was posted on 2026-08-14.
+This data scientist position at General Motors was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

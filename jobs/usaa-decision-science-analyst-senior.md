@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 4 locations |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Colorado-Springs-Campus/Decision-Science-Analyst-Senior_R0118595) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Decision-Science-Analyst-Senior_R0120324) |
 
 ## About This Role
 
-This data scientist position at USAA was posted on 2026-07-07.
+This data scientist position at USAA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
