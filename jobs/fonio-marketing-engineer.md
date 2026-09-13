@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [fonio](https://scoutify.ai/companies/fonio?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Digital / Performance Marketing |
+| Category | Data Scientist |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/fonio/38f9b87f-319a-4a3d-ac02-5fd16aad318d) |
 
 ## About This Role
 
-This digital / performance marketing position at fonio was posted on 2026-09-01.
+This data scientist position at fonio was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

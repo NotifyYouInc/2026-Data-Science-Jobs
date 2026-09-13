@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Digital / Performance Marketing |
+| Category | Data Scientist |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000147409069-manager-growth-data-science-digital-marketing) |
 
 ## About This Role
 
-This digital / performance marketing position at Grab was posted on 2026-09-04.
+This data scientist position at Grab was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

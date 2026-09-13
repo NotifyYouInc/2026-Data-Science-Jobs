@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200681501/senior-machine-learning-engineer-senior-applied-scientist-search-ai) |
 
 ## About This Role
 
-This ai / llm engineer position at Apple was posted on 2026-09-02.
+This data scientist position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
