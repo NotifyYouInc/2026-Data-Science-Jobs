@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/RWE-Scientist_R2870193) |
 
 ## About This Role
 
-This data scientist position at Sanofi was posted on 2026-09-04.
+This bioinformatics / computational biology position at Sanofi was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

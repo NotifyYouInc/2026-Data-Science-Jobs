@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000139972640-data-scientist) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000147886493-data-scientist) |
 
 ## About This Role
 
-This data scientist position at bet365 was posted on 2026-07-27.
+This data scientist position at bet365 was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

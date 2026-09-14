@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caris Life Sciences](https://scoutify.ai/companies/carislifesciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Tempe-AZ---85281/Manager---Data-Science_JR105414) |
 
 ## About This Role
 
-This data scientist position at Caris Life Sciences was posted on 2026-09-01.
+This bioinformatics / computational biology position at Caris Life Sciences was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Data Scientist |
+| Category | Corporate Finance |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Data-Scientist--FP-A-Solutions_26WD100824-1) |
 
 ## About This Role
 
-This data scientist position at Autodesk was posted on 2026-09-01.
+This corporate finance position at Autodesk was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

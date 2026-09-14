@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Illinois, US |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Data-Scientist--Computational-Biophysicist-_31160920-1) |
 
 ## About This Role
 
-This data scientist position at Abbott was posted on 2026-09-03.
+This bioinformatics / computational biology position at Abbott was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Johannesburg-South-Africa/Director--Senior-Economist_R-289885) |
 
 ## About This Role
 
-This strategy & operations position at Mastercard was posted on 2026-09-04.
+This operations position at Mastercard was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

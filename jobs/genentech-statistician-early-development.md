@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Statistician--Early-Development_202609-122797-1) |
 
 ## About This Role
 
-This data scientist position at Genentech was posted on 2026-09-04.
+This bioinformatics / computational biology position at Genentech was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

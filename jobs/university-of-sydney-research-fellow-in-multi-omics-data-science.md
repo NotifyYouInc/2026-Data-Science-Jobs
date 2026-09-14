@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University of Sydney](https://scoutify.ai/companies/university-of-sydney?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Camperdown, New South Wales, Australia |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Camperdown-Campus/Research-Fellow-in-Multi-Omics-Data-Science_0152856-1) |
 
 ## About This Role
 
-This data scientist position at University of Sydney was posted on 2026-09-03.
+This bioinformatics / computational biology position at University of Sydney was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

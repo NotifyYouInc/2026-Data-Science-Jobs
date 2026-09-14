@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Twist Bioscience](https://scoutify.ai/companies/twist-bioscience?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/twistbioscience/jobs/8167799) |
 
 ## About This Role
 
-This data scientist position at Twist Bioscience was posted on 2026-09-02.
+This bioinformatics / computational biology position at Twist Bioscience was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

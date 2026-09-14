@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lila Sciences](https://scoutify.ai/companies/lilasciences?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Data Scientist |
+| Category | Bioinformatics / Computational Biology |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lilasciences/jobs/4378388009) |
 
 ## About This Role
 
-This data scientist position at Lila Sciences was posted on 2026-09-02.
+This bioinformatics / computational biology position at Lila Sciences was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 
