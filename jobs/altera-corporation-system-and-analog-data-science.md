@@ -1,16 +1,16 @@
-# Senior Data Scientist, Retail Media (m/f/d) at Redcare Pharmacy
+# System and Analog Data Science at Altera Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Germany |
+| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Haifa, Haifa, Israel |
 | Category | Data Scientist |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148178162-senior-data-scientist-retail-media-mfd) |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Haifa-Israel/System-and-Analog-Data-Science_R03093-1) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-09-08.
+This data scientist position at Altera Corporation was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

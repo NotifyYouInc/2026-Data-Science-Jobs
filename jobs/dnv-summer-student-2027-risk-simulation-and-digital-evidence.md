@@ -1,16 +1,16 @@
-# Decision Scientist II at Truist
+# Summer Student 2027 - Risk, Simulation and Digital Evidence at DNV
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [DNV](https://scoutify.ai/companies/em2-cx-oj30289?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0118892) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ecyq.fa.em2.oraclecloud.com/jobs/#7503) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-09-04.
+This data scientist position at DNV was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

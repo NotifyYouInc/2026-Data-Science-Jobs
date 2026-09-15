@@ -1,16 +1,16 @@
-# Data Scientist at Applied Materials
+# Customer Engineer - Data Science / ML DevOps Internship at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Data Scientist |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2627532-1) |
+| Location | Singapore, Singapore |
+| Category | DevOps Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447) |
 
 ## About This Role
 
-This data scientist position at Applied Materials was posted on 2026-09-07.
+This devops engineer position at Applied Materials was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Scientist - AI - Senior Managing Consultant at IBM
+# Associate Director, Clinical Operations Decision Analytics at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115496) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK--London--New-Oxford-Street/Associate-Director--Clinical-Operations-Decision-Analytics_447219-2) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-09-07.
+This data scientist position at GSK was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

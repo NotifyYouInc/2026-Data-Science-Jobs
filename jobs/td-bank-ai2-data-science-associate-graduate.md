@@ -1,16 +1,16 @@
-# Senior Data Scientist, Retail Media (m/f/d) at Redcare Pharmacy
+# AI2 Data Science Associate (Graduate) at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Germany |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Data Scientist |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148178162-senior-data-scientist-retail-media-mfd) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-09-08.
+This data scientist position at TD Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

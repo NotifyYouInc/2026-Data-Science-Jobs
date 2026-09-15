@@ -1,16 +1,16 @@
-# Decision Scientist II at Truist
+# Data Scientist (Mid-Level) at USAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0118892) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Scientist--Mid-Level-_R0120387) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-09-04.
+This data scientist position at USAA was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

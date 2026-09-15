@@ -5,12 +5,12 @@
 | Company | [Ingredion](https://scoutify.ai/companies/ingredion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Westchester, Florida, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220) |
 
 ## About This Role
 
-This data scientist position at Ingredion was posted on 2026-09-01.
+This data scientist position at Ingredion was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

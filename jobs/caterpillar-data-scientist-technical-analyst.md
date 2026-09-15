@@ -1,16 +1,16 @@
-# Senior Data Scientist, Retail Media (m/f/d) at Redcare Pharmacy
+# Data Scientist / Technical Analyst at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Germany |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 3 locations |
 | Category | Data Scientist |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148178162-senior-data-scientist-retail-media-mfd) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-09-08.
+This data scientist position at Caterpillar was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

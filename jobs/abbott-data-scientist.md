@@ -1,16 +1,16 @@
-# Decision Scientist II at Truist
+# Data Scientist at Abbott
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0118892) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/Data-Scientist_31160385) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-09-04.
+This data scientist position at Abbott was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Decision Scientist II at Truist
+# Lead Data Scientist - Causal Inference at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0118892) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147966645-lead-data-scientist-causal-inference) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-09-04.
+This data scientist position at WISE was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

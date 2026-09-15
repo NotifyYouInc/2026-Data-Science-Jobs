@@ -1,16 +1,16 @@
-# Senior Data Scientist, Retail Media (m/f/d) at Redcare Pharmacy
+# Principal Applied Scientist, CX Science at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Germany |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148178162-senior-data-scientist-retail-media-mfd) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10531329/principal-applied-scientist-cx-science) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-09-08.
+This data scientist position at Amazon was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

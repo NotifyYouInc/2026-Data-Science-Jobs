@@ -1,16 +1,16 @@
-# Decision Scientist II at Truist
+# Senior Operations Research Analyst at Spektrum
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Norfolk, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0118892) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4970201101) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-09-04.
+This data scientist position at Spektrum was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

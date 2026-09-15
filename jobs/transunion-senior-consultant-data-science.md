@@ -1,16 +1,16 @@
-# Associate Director - Cloud-Based Data Science Program at WNS
+# Senior Consultant, Data Science at TransUnion
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Costa Rica |
 | Category | Data Scientist |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000147937909-associate-director-cloud-based-data-science-program) |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Senior-Consultant--Data-Science_19042162) |
 
 ## About This Role
 
-This data scientist position at WNS was posted on 2026-09-07.
+This data scientist position at TransUnion was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

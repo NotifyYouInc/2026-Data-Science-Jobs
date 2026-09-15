@@ -1,16 +1,16 @@
-# Senior Data Scientist at Thomson Reuters
+# Lead Operations Research Scientist at Target
 
 | Field | Details |
 |-------|---------|
-| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Scientist |
+| Category | Marketing Operations |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Data-Scientist_JREQ200302) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Operations-Research-Scientist_R0000445474) |
 
 ## About This Role
 
-This data scientist position at Thomson Reuters was posted on 2026-09-08.
+This marketing operations position at Target was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

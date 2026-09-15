@@ -1,16 +1,16 @@
-# Associate Director - Cloud-Based Data Science Program at WNS
+# AI, Python engineer at T-Systems ICT India Pvt. Ltd.
 
 | Field | Details |
 |-------|---------|
-| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Company | [T-Systems ICT India Pvt. Ltd.](https://scoutify.ai/companies/t-systems-ict-india-pvt-ltd?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000147937909-associate-director-cloud-based-data-science-program) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000148139459-ai-python-engineer) |
 
 ## About This Role
 
-This data scientist position at WNS was posted on 2026-09-07.
+This data scientist position at T-Systems ICT India Pvt. Ltd. was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

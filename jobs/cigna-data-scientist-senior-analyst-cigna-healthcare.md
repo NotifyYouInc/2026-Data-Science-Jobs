@@ -1,16 +1,16 @@
-# Senior Data Scientist, Retail Media (m/f/d) at Redcare Pharmacy
+# Data Scientist Senior Analyst - Cigna Healthcare at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Germany |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Data Scientist |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148178162-senior-data-scientist-retail-media-mfd) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Madrid-Spain/Data-Scientist-Senior-Analyst---Cigna-Healthcare_26010726) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-09-08.
+This data scientist position at Cigna was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

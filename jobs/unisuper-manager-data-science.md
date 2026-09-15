@@ -1,16 +1,16 @@
-# Decision Scientist II at Truist
+# Manager, Data Science at UniSuper
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [UniSuper](https://scoutify.ai/companies/ocs-cx-oj112115?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0118892) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fa-eugn-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1002056) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-09-04.
+This data scientist position at UniSuper was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

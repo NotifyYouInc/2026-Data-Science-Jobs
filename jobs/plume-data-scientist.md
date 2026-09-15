@@ -1,16 +1,16 @@
-# Decision Scientist II at Truist
+# Data Scientist at Plume
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [Plume](https://scoutify.ai/companies/plume?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Decision-Scientist-II_R0118892) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.plume.com/career-opportunities/?gh_jid=8777884002) |
 
 ## About This Role
 
-This data scientist position at Truist was posted on 2026-09-04.
+This data scientist position at Plume was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

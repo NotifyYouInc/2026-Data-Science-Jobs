@@ -1,16 +1,16 @@
-# Senior Data Scientist, Retail Media (m/f/d) at Redcare Pharmacy
+# Stage Data Scientist - Paris (H/F/X) at Welcome to the Jungle
 
 | Field | Details |
 |-------|---------|
-| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Germany |
+| Company | [Welcome to the Jungle](https://scoutify.ai/companies/welcome-to-the-jungle?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148178162-senior-data-scientist-retail-media-mfd) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/artefactjobs/jobs/8785637002) |
 
 ## About This Role
 
-This data scientist position at Redcare Pharmacy was posted on 2026-09-08.
+This data scientist position at Welcome to the Jungle was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
