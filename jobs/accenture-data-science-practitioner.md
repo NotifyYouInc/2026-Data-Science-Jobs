@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Hong Kong, Hong Kong |
 | Category | Data Scientist |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Data-Science-Practitioner_ATCI-5748853-S2066938-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hong-Kong/Data-Science-Practitioner_14696577) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-09-02.
+This data scientist position at Accenture was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

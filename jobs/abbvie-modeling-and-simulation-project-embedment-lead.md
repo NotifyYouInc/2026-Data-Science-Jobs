@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | South San Francisco, California, United States |
+| Location | North Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013676056-modeling-and-simulation-project-embedment-lead) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015127876-modeling-and-simulation-project-embedment-lead) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-06-17.
+This data scientist position at AbbVie was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

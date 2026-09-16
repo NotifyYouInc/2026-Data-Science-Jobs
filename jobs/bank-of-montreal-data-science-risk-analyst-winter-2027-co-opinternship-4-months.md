@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Compliance & Risk Management |
+| Category | Data Scientist |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735-1) |
 
 ## About This Role
 
-This compliance & risk management position at Bank of Montreal was posted on 2026-09-07.
+This data scientist position at Bank of Montreal was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

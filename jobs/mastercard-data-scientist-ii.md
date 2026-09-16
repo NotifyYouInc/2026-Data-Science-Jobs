@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist-II_R-288488-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist-II_R-290348) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-09-02.
+This data scientist position at Mastercard was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

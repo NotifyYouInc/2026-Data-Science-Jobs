@@ -5,12 +5,12 @@
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Data-Scientist_R-30026) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Data-Scientist_R-33237) |
 
 ## About This Role
 
-This data scientist position at Iberdrola Group was posted on 2026-06-10.
+This data scientist position at Iberdrola Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

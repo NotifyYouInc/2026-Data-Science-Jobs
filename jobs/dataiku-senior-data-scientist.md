@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/5660879004) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6181950004) |
 
 ## About This Role
 
-This data scientist position at Dataiku was posted on 2026-03-26.
+This data scientist position at Dataiku was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

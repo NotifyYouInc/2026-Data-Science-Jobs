@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AW Rostamani Group](https://scoutify.ai/companies/ocs-cx-oj9176?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Compliance & Risk Management |
+| Category | Data Scientist |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://iacpey.fa.ocs.oraclecloud.com/jobs/#1001258) |
 
 ## About This Role
 
-This compliance & risk management position at AW Rostamani Group was posted on 2026-09-04.
+This data scientist position at AW Rostamani Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, England, United Kingdom |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Senior-Scientist--Research-Informatics---Data-Science_R-259590-1) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at AstraZeneca was posted on 2026-09-07.
+This data scientist position at AstraZeneca was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

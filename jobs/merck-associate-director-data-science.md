@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | West Point, Mississippi, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Associate-Director--Data-Science_R413640-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Director--Data-Science_R415718-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-08-22.
+This data scientist position at Merck was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

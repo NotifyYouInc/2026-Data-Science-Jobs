@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Tarrytown, New York, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Senior-Research-Specialist---TPK-PD_R50265) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Regeneron was posted on 2026-09-04.
+This data scientist position at Regeneron was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

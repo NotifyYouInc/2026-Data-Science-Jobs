@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014532171-lead-data-scientist-justice-processes) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015132666-lead-data-scientist-justice-processes) |
 
 ## About This Role
 
-This data scientist position at City of New York was posted on 2026-08-11.
+This data scientist position at City of New York was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

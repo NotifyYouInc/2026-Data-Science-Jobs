@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000147598457-vice-president-global-insights-analytics) |
 
 ## About This Role
 
-This operations position at Mattel was posted on 2026-09-04.
+This strategy & operations position at Mattel was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

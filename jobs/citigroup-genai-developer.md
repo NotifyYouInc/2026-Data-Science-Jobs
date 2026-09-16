@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/GenAI-Developer_26987783) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/GenAI-Developer_26987785) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-09-01.
+This ai / llm engineer position at Citigroup was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

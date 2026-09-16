@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Compliance & Risk Management |
+| Category | Data Scientist |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Model-Risk-Specialist_REQ-10117958-2) |
 
 ## About This Role
 
-This compliance & risk management position at ING was posted on 2026-09-04.
+This data scientist position at ING was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015070306-senior-statistician-research) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at AbbVie was posted on 2026-09-04.
+This data scientist position at AbbVie was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

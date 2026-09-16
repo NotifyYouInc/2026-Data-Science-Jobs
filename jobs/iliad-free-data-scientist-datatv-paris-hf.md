@@ -1,16 +1,16 @@
-# Data Scientist - dataTV - Paris H/F at Iliad-Free
+# Data Scientist - dataTV - Paris - H/F at Iliad-Free
 
 | Field | Details |
 |-------|---------|
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Scientist |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000145748094-data-scientist-datatv-paris-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000148449539-data-scientist-datatv-paris-hf) |
 
 ## About This Role
 
-This data scientist position at Iliad-Free was posted on 2026-08-26.
+This data scientist position at Iliad-Free was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

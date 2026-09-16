@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Data Scientist |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist--Ciudad-de-Mxico--Cuauhtmoc-_JR00109909) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Data-Scientist--Ciudad-de-Mxico--Cuauhtmoc-_JR00114327-1) |
 
 ## About This Role
 
-This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-21.
+This data scientist position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

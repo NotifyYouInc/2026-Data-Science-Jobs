@@ -5,12 +5,12 @@
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-02-26 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Senior-Specialist---Data-Science_R160403) |
 
 ## About This Role
 
-This data scientist position at Baker Hughes was posted on 2026-02-26.
+This data scientist position at Baker Hughes was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Bioinformatics / Computational Biology |
+| Category | Data Scientist |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885) |
 
 ## About This Role
 
-This bioinformatics / computational biology position at Merck was posted on 2026-09-08.
+This data scientist position at Merck was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

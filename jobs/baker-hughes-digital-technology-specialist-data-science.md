@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Sales Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-MUMBAI-HIRANANDANI-BUSINESS-PARK-POWAI/Digital-Technology-Specialist---Data-Science_R168274) |
 
 ## About This Role
 
-This data scientist position at Baker Hughes was posted on 2026-09-04.
+This sales engineer position at Baker Hughes was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Science-Engineer_R171428) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Data-Science-Engineer_R171567) |
 
 ## About This Role
 
-This data scientist position at Adobe was posted on 2026-09-01.
+This data scientist position at Adobe was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

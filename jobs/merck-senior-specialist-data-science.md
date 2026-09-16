@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | West Point, Mississippi, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Specialist--Data-Science_R399865) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Senior-Specialist--Data-Science_R415876-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-06-08.
+This data scientist position at Merck was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

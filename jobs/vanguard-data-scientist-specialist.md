@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | 5 locations |
 | Category | Data Scientist |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_180828) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_180853) |
 
 ## About This Role
 
-This data scientist position at Vanguard was posted on 2026-08-11.
+This data scientist position at Vanguard was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

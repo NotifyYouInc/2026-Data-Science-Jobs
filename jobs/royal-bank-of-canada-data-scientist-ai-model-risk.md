@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | AI / ML Research |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Data-Scientist--AI-Model-Risk_R-0000178055-1) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Data Scientist |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/885-GEORGIA-ST-WVANCOUVER/Data-Scientist--AI-Model-Risk_R-0000178056-2) |
 
 ## About This Role
 
-This ai / ml research position at Royal Bank of Canada was posted on 2026-06-24.
+This data scientist position at Royal Bank of Canada was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

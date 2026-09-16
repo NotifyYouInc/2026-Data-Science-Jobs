@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2605-50999) |
+| Location | Wilmington, North Carolina, United States |
+| Category | Data Scientist |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405) |
 
 ## About This Role
 
-This data analyst position at OneMain Financial was posted on 2026-05-27.
+This data scientist position at OneMain Financial was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
