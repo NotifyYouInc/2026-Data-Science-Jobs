@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Data Scientist |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000148704169-data-scientist) |
 
 ## About This Role
 
-This data scientist position at H&M Group was posted on 2026-07-26.
+This data scientist position at H&M Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-04-29 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/SFA---NCFS/Scientist---Senior-Scientist--Food-Safety-Analytics---Epidemiology-_JR-10000050293) |
 
 ## About This Role
 
-This data scientist position at Economic Development Board was posted on 2026-04-29.
+This data scientist position at Economic Development Board was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

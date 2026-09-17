@@ -5,12 +5,12 @@
 | Company | [Zoox](https://scoutify.ai/companies/zoox?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.lever.co/zoox/44256995-b7d1-4c4a-b83b-3c55b69dedf7) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/zoox/87877cf4-3ac8-45d5-90fb-2ef7f223c068) |
 
 ## About This Role
 
-This data scientist position at Zoox was posted on 2026-08-18.
+This data scientist position at Zoox was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

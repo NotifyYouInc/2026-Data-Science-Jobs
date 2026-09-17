@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000147980819-senior-staff-engineer-data-science) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-09-07.
+This data scientist position at Nagarro was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

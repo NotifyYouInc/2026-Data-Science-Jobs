@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Leeds, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000130769640-data-science-manager) |
+| Location | London, England, United Kingdom |
+| Category | Data Scientist |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000148485469-data-science-manager) |
 
 ## About This Role
 
-This engineering manager position at Entain was posted on 2026-06-08.
+This data scientist position at Entain was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

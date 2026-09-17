@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Virginia, US |
+| Location | Crystal City, Texas, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Crystal-City/Senior-Principal-Data-Scientist_RQ215818-2) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Crystal-City/Senior-Principal-Data-Scientist_RQ228100-1) |
 
 ## About This Role
 
-This data scientist position at General Dynamics Information Technology was posted on 2026-03-04.
+This data scientist position at General Dynamics Information Technology was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

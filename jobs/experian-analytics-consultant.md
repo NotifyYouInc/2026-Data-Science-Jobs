@@ -1,16 +1,16 @@
-# ANALYTICS CONSULTANT at Experian
+# Analytics Consultant at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146550839-analytics-consultant) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000148679959-analytics-consultant) |
 
 ## About This Role
 
-This data scientist position at Experian was posted on 2026-08-31.
+This data scientist position at Experian was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

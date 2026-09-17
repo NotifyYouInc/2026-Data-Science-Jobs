@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Senior-Statistician-II_R-255563) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistician-II_R-256066-2) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-06-30.
+This data scientist position at AstraZeneca was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

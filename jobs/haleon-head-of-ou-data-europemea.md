@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Leadership Development Program |
-| Posted | 2026-05-22 |
+| Location | 4 locations |
+| Category | Data Scientist |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/UK---London/Head-of-OU-Data---Europe-MEA_542382-1) |
 
 ## About This Role
 
-This leadership development program position at Haleon was posted on 2026-05-22.
+This data scientist position at Haleon was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

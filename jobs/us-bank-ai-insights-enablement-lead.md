@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | Data Scientist |
+| Category | Learning & Development |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/AI-Insights---Enablement-Lead_2026-0027383) |
 
 ## About This Role
 
-This data scientist position at U.S. Bank was posted on 2026-09-04.
+This learning & development position at U.S. Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | New York City, New York, United States |
+| Location | Canada |
 | Category | Data Scientist |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York/Manager--Data-Science_R1129148-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Canada---International--Remote/Manager--Data-Science_R1130755) |
 
 ## About This Role
 
-This data scientist position at Dentsu was posted on 2026-08-10.
+This data scientist position at Dentsu was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

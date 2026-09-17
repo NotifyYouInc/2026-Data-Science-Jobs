@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shift Technology](https://scoutify.ai/companies/shift-technology?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/shifttechnology/jobs/7987030003) |
 
 ## About This Role
 
-This data scientist position at Shift Technology was posted on 2026-09-04.
+This data engineer position at Shift Technology was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

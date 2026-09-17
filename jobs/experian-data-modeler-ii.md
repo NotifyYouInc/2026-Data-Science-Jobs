@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000145992169-data-modeler-ii) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000148684069-data-modeler-ii) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-08-27.
+This data engineer position at Experian was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

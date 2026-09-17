@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Texas, US |
-| Category | Data Scientist |
+| Category | UX Researcher |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://jobs.lever.co/extremenetworks/45040012-f78c-4050-95d2-e053430b77d8) |
 
 ## About This Role
 
-This data scientist position at Extreme Networks was posted on 2026-09-08.
+This ux researcher position at Extreme Networks was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

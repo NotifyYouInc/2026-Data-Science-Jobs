@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Scientist_R-00191410) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-09-04.
+This data engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

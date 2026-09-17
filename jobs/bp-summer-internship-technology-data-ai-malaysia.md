@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-06 |
 | Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2) |
 
 ## About This Role
 
-This data scientist position at BP was posted on 2026-09-06.
+This data engineer position at BP was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

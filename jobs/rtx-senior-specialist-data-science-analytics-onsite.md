@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Springdale, Arkansas, United States |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AR-SPRINGDALE-BLDG-4--275-E-Robinson-Ave--BLDG-4/Senior-Specialist--Data-Science---Analytics--Onsite-_01872170-1) |
 
 ## About This Role
 
-This data scientist position at RTX was posted on 2026-09-07.
+This data engineer position at RTX was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

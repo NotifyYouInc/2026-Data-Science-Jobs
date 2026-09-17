@@ -1,16 +1,16 @@
-# Cientifico de Datos Sr at Coppel
+# CIENTIFICO DE DATOS SR at Coppel
 
 | Field | Details |
 |-------|---------|
 | Company | [Coppel](https://scoutify.ai/companies/ocs-cx-oj24460?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mexico |
 | Category | Data Scientist |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#286651) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#321856) |
 
 ## About This Role
 
-This data scientist position at Coppel was posted on 2026-08-03.
+This data scientist position at Coppel was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

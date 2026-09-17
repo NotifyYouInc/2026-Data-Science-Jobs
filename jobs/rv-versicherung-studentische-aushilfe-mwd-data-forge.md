@@ -5,12 +5,12 @@
 | Company | [R+V Versicherung](https://scoutify.ai/companies/rvallgemeineversicherungenag?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000143025498-studentische-aushilfe-mwd-data-forge) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000148705584-studentische-aushilfe-mwd-data-forge) |
 
 ## About This Role
 
-This data scientist position at R+V Versicherung was posted on 2026-08-12.
+This data scientist position at R+V Versicherung was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

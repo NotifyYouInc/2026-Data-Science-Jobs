@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | AI / LLM Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Data-Science---Insights-Engineer_R171688) |
 
 ## About This Role
 
-This ai / llm engineer position at Adobe was posted on 2026-09-08.
+This data scientist position at Adobe was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CanadaVisa](https://scoutify.ai/companies/canadavisa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Scientist |
+| Category | UX Researcher |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/canadavisa/b35ef556-0f8f-40c5-904b-ab0bb42aa691) |
 
 ## About This Role
 
-This data scientist position at CanadaVisa was posted on 2026-09-04.
+This ux researcher position at CanadaVisa was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
