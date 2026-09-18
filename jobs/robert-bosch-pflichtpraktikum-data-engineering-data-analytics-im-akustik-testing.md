@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bühlertal, Baden-Wurttemberg, Germany |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148680064-pflichtpraktikum-data-engineering-data-analytics-im-akustik-testing) |
 
 ## About This Role
 
-This data engineer position at Robert Bosch was posted on 2026-09-10.
+This data scientist position at Robert Bosch was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

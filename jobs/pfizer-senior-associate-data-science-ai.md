@@ -5,12 +5,12 @@
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Senior-Associate--Data-Science---AI_4959567-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Senior-Associate--Data-Science---AI_4962931-1) |
 
 ## About This Role
 
-This data scientist position at Pfizer was posted on 2026-07-01.
+This data scientist position at Pfizer was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

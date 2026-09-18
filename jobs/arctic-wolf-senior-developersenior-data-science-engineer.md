@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Developer-Senior-Data-Science-Engineer-_R26_292) |
 
 ## About This Role
 
-This data engineer position at Arctic Wolf was posted on 2026-09-09.
+This data scientist position at Arctic Wolf was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

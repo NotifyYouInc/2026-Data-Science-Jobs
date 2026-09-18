@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Austria |
+| Location | Elsbethen, Salzburg, Austria |
 | Category | Data Scientist |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000109649365-internship-data-science) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000148756269-internship-data-science) |
 
 ## About This Role
 
-This data scientist position at Red Bull was posted on 2026-02-17.
+This data scientist position at Red Bull was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

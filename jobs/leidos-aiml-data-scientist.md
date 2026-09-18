@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/AI-ML-Data-Scientist_R-00175039) |
+| Location | United States |
+| Category | Data Scientist |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Data-Scientist_R-00191932) |
 
 ## About This Role
 
-This machine learning engineer position at Leidos was posted on 2026-02-02.
+This data scientist position at Leidos was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

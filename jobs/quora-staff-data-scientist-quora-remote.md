@@ -5,12 +5,12 @@
 | Company | [Quora](https://scoutify.ai/companies/quora?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/quora/f130d417-a9ac-479d-ae63-3dca17c260f9) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/quora/4e1a22dc-7417-42b2-b4d1-93cb4e723187) |
 
 ## About This Role
 
-This data scientist position at Quora was posted on 2026-06-01.
+This data scientist position at Quora was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

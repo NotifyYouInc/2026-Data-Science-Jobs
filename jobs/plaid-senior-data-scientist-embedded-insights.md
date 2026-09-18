@@ -5,12 +5,12 @@
 | Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/9d60d913-8a99-4d52-9960-dbeb7e65cfa3) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/c85370cf-7391-4307-9757-42f2ee25b98a) |
 
 ## About This Role
 
-This data scientist position at Plaid was posted on 2026-06-18.
+This data scientist position at Plaid was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

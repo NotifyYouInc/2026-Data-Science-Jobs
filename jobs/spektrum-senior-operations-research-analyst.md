@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Norfolk, Virginia, United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4970201101) |
 
 ## About This Role
 
-This data scientist position at Spektrum was posted on 2026-09-08.
+This data analyst position at Spektrum was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

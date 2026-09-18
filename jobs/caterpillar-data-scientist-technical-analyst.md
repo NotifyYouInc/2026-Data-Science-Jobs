@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-09-08.
+This data analyst position at Caterpillar was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

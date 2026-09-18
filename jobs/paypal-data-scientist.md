@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137282) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Data-Scientist_R0137264) |
 
 ## About This Role
 
-This data scientist position at PayPal was posted on 2026-09-04.
+This data scientist position at PayPal was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

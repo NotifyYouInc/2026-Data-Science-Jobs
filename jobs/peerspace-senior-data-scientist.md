@@ -5,12 +5,12 @@
 | Company | [Peerspace](https://scoutify.ai/companies/peerspace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.lever.co/peerspace/c1962fb6-6916-47a5-a531-0223461c239b) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.lever.co/peerspace/4c7d254a-fa4c-4375-b4c7-100b7994a1d0) |
 
 ## About This Role
 
-This data scientist position at Peerspace was posted on 2026-04-22.
+This data scientist position at Peerspace was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Warren CAT](https://scoutify.ai/companies/recruiting2-ultipro-com-oj116558?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Not specified |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/war1007/JobBoard/c797a398-9b95-4930-bf05-5a0dd78b6bca/OpportunityDetail?opportunityId=33bf8b1c-a519-41b6-8257-5707de96c217) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/war1007/JobBoard/c797a398-9b95-4930-bf05-5a0dd78b6bca/OpportunityDetail?opportunityId=fa31483b-2901-49ca-8185-1a9c3e6c3fca) |
 
 ## About This Role
 
-This data scientist position at Warren CAT was posted on 2026-07-06.
+This data scientist position at Warren CAT was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

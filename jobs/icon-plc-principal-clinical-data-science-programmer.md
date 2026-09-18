@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Mexico-Mexico-City/Principal-Clinical-Data-Science-Programmer_JR154005) |
 
 ## About This Role
 
-This data engineer position at ICON plc was posted on 2026-09-09.
+This data scientist position at ICON plc was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

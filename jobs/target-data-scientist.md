@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Data-Scientist_R0000436750) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Data-Scientist_R0000450904) |
 
 ## About This Role
 
-This data scientist position at Target was posted on 2026-06-09.
+This data scientist position at Target was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

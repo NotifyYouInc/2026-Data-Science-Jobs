@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Chennai-India/Principal-Data-Analyst_R-115474) |
 
 ## About This Role
 
-This data scientist position at Ingram Micro was posted on 2026-09-10.
+This data analyst position at Ingram Micro was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

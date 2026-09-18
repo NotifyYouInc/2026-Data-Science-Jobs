@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) |
 
 ## About This Role
 
-This data scientist position at NXP Semiconductors was posted on 2026-09-07.
+This data analyst position at NXP Semiconductors was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

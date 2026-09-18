@@ -1,16 +1,16 @@
-# Sr. Data Scientist at GE Aerospace
+# Sr Data Scientist at GE Aerospace
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Sr-Data-Scientist_R5024966-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bengaluru/Sr-Data-Scientist_R5039981-1) |
 
 ## About This Role
 
-This data scientist position at GE Aerospace was posted on 2026-03-02.
+This data scientist position at GE Aerospace was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

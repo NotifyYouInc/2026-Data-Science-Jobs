@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unum Group](https://scoutify.ai/companies/unum-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Portland-Maine-USA/Director--Data-Analytics_836291) |
 
 ## About This Role
 
-This data engineer position at Unum Group was posted on 2026-09-09.
+This data scientist position at Unum Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

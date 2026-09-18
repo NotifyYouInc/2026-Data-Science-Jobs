@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist-Statistician_JR0283881) |
 
 ## About This Role
 
-This data scientist position at Intel was posted on 2026-05-11.
+This data scientist position at Intel was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

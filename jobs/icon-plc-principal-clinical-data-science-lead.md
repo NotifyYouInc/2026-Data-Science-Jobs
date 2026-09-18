@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | 8 locations |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Colombia-Bogota/Principal-Clinical-Data-Science-Lead_JR150135) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Reading/Principal-Clinical-Data-Science-Lead_JR159215) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-09-04.
+This data scientist position at ICON plc was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

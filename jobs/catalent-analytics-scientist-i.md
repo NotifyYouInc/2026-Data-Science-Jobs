@@ -5,12 +5,12 @@
 | Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Kansas-City-MO/Analytics-Scientist-I_0096319) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Kansas-City-MO/Analytics-Scientist-I_0096597) |
 
 ## About This Role
 
-This data scientist position at Catalent was posted on 2026-08-12.
+This data scientist position at Catalent was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

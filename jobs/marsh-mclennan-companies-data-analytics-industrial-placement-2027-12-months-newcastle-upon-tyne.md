@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Newcastle upon Tyne, England, United Kingdom |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Newcastle---Bank/Data---Analytics-Industrial-Placement-2027--12-months----Newcastle-upon-Tyne_R_364970-1) |
 
 ## About This Role
 
-This data scientist position at Marsh & McLennan Companies was posted on 2026-09-07.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

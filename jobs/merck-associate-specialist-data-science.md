@@ -1,16 +1,16 @@
-# Associate Specialist Data Science at Merck
+# Associate Specialist, Data Science at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Pune-Wework/Associate-Specialist-Data-Science_R406801) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-07-14.
+This data scientist position at Merck was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Canada |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office/Data-Scientist_R30290) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office/Data-Scientist_R34152) |
 
 ## About This Role
 
-This data scientist position at Allstate was posted on 2026-05-19.
+This data scientist position at Allstate was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
