@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Service-Delivery-Engineer-III_JR108687-1) |
 
 ## About This Role
 
-This devops engineer position at Sabre was posted on 2026-09-09.
+This data scientist position at Sabre was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

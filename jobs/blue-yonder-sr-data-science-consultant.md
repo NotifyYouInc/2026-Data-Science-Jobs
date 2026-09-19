@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Machine Learning Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Data-Science-Consultant_261108) |
+| Category | Data Scientist |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Sr-Data-Science-Consultant_262366-1) |
 
 ## About This Role
 
-This machine learning engineer position at Blue Yonder was posted on 2026-06-03.
+This data scientist position at Blue Yonder was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | AI / LLM Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2125314) |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Scientist_2135229) |
 
 ## About This Role
 
-This ai / llm engineer position at Fidelity was posted on 2026-03-02.
+This data scientist position at Fidelity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

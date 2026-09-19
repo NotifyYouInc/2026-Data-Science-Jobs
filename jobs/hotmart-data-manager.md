@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hotmart](https://scoutify.ai/companies/hotmartcareersbr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/hotmartcareersbr/jobs/4965319101) |
 
 ## About This Role
 
-This data analyst position at Hotmart was posted on 2026-09-09.
+This data scientist position at Hotmart was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bogota, New Jersey, United States |
 | Category | Data Scientist |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-OTHER-UNITED-KINGDOM/Senior-Data-Scientist_R161971-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CO-BOGOTA-CARRERA-7-NO-123-35/Senior-Data-Scientist_R168679) |
 
 ## About This Role
 
-This data scientist position at Baker Hughes was posted on 2026-04-20.
+This data scientist position at Baker Hughes was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

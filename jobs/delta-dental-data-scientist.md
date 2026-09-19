@@ -5,12 +5,12 @@
 | Company | [Delta Dental](https://scoutify.ai/companies/rhsc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Okemos, Michigan, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Data-Scientist_JR101327-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Data-Scientist_JR101450) |
 
 ## About This Role
 
-This data scientist position at Delta Dental was posted on 2026-05-22.
+This data scientist position at Delta Dental was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

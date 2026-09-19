@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Senior-Sales-Analyst_R76098-1) |
 
 ## About This Role
 
-This data analyst position at Medtronic was posted on 2026-09-10.
+This data scientist position at Medtronic was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

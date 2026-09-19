@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hims And Hers](https://scoutify.ai/companies/hims-and-hers?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hims-and-hers/3553e8ba-98dc-4e9e-a627-15077b612fc7) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hims-and-hers/03e3a815-465e-4dab-9efe-f6d14f336fea) |
 
 ## About This Role
 
-This data scientist position at Hims And Hers was posted on 2026-04-13.
+This data scientist position at Hims And Hers was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

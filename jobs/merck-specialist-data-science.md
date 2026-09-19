@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Scientist |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Pune-Wework/Spclst---Data-Science_R396393-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Pune-Wework/Specialist--Data-Science_R416828-2) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-09-07.
+This data scientist position at Merck was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

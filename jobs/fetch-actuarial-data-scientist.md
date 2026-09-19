@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fetch](https://scoutify.ai/companies/fetch?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
-| Category | Actuary / Insurance Analytics |
-| Posted | 2026-06-26 |
+| Location | United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/fetch/jobs/4299553009) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Fetch was posted on 2026-06-26.
+This corporate finance position at Fetch was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

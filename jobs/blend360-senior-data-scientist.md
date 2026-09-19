@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000132680309-senior-data-scientist) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000149022415-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at Blend360 was posted on 2026-06-17.
+This data scientist position at Blend360 was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

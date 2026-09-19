@@ -5,12 +5,12 @@
 | Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Indianapolis-Indiana-United-States/Senior-Data-Scientist_248097W-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Indianapolis-Indiana-United-States/Senior-Data-Scientist_248192W-1) |
 
 ## About This Role
 
-This data scientist position at Corteva was posted on 2026-09-01.
+This data scientist position at Corteva was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Advanced-Analytics-Manager---Retail-Banking_REQ264121) |
 
 ## About This Role
 
-This data analyst position at Commonwealth Bank of Australia was posted on 2026-09-10.
+This data scientist position at Commonwealth Bank of Australia was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

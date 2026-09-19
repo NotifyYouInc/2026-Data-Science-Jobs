@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Sr-Analyst--Statistical-Inference-and-Data-Science--IKC-_R0473287) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analytics-and-Reporting-Sr-Analytics--IKC-_R0450869) |
 
 ## About This Role
 
-This data scientist position at DaVita was posted on 2026-08-15.
+This data scientist position at DaVita was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

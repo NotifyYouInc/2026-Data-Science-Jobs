@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Data Analyst |
+| Category | Data Scientist |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Canada---Mississauga/Advanced-Analytics-Manager_R-259800) |
 
 ## About This Role
 
-This data analyst position at AstraZeneca was posted on 2026-09-10.
+This data scientist position at AstraZeneca was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

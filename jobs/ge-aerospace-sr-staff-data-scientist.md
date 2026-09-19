@@ -5,12 +5,12 @@
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gloucester, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Gloucester/Sr-Staff-Data-Scientist_R5037523-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Gloucester/Sr-Staff-Data-Scientist_R5040038-1) |
 
 ## About This Role
 
-This data scientist position at GE Aerospace was posted on 2026-07-23.
+This data scientist position at GE Aerospace was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
