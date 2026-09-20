@@ -1,16 +1,16 @@
-# Data Scientist at McKesson
+# Manager, Clinical Pharmacology at Pfizer
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | San Diego, California, United States |
 | Category | Data Scientist |
 | Posted | 2026-09-13 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-Remote/Data-Scientist_JR0152158) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---California---San-Diego/Manager--Clinical-Pharmacology_4963124-1) |
 
 ## About This Role
 
-This data scientist position at McKesson was posted on 2026-09-13.
+This data scientist position at Pfizer was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 
