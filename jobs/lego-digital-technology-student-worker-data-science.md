@@ -1,16 +1,16 @@
-# Final year internship - Marketing Data Scientist at SIA
+# Digital Technology Student Worker - Data Science at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Billund, South Denmark, Denmark |
 | Category | Data Scientist |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149280940-final-year-internship-marketing-data-scientist) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Student-Worker--Data-Science_0000037813) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-09-14.
+This data scientist position at LEGO was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

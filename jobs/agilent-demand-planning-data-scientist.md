@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Malaysia |
 | Category | Data Scientist |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Malaysia-Penang/Demand-Planning-Data-Scientist_4039135-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Malaysia-Penang/Demand-Planning-Data-Scientist_4039136) |
 
 ## About This Role
 
-This data scientist position at Agilent was posted on 2026-07-24.
+This data scientist position at Agilent was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

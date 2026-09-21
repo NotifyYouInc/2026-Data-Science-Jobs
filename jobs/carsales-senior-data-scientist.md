@@ -1,16 +1,16 @@
-# Final year internship - Marketing Data Scientist at SIA
+# Senior Data Scientist at carsales
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Data Scientist |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149280940-final-year-internship-marketing-data-scientist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149244749-senior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-09-14.
+This data scientist position at carsales was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

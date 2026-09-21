@@ -1,16 +1,16 @@
-# Final year internship - Marketing Data Scientist at SIA
+# Senior manager- Advanced Analytics  at WPP Media
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149280940-final-year-internship-marketing-data-scientist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5399352008) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-09-14.
+This data scientist position at WPP Media was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

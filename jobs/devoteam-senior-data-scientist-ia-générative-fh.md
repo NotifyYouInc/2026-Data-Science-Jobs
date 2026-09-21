@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146637420-senior-data-scientist-ia-generative-fh) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149260819-senior-data-scientist-ia-generative-fh) |
 
 ## About This Role
 
-This data scientist position at Devoteam was posted on 2026-09-01.
+This data scientist position at Devoteam was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

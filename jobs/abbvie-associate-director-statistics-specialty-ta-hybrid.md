@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Data Scientist |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015151936-associate-director-statistics-specialty-ta-hybrid) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-09-09.
+This talent acquisition / recruiting position at AbbVie was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

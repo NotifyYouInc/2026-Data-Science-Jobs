@@ -1,16 +1,16 @@
-# Final year internship - Marketing Data Scientist at SIA
+# Staff Data Scientist (Catalog) at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Data Scientist |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000149280940-final-year-internship-marketing-data-scientist) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8200033) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-09-14.
+This data scientist position at Coupang was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
