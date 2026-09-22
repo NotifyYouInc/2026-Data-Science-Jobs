@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bağcılar, Istanbul, Turkey |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000149238238-analytical-marketing-senior-executive-temporary) |
 
 ## About This Role
 
-This data scientist position at METRO/MAKRO was posted on 2026-09-14.
+This data analyst position at METRO/MAKRO was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

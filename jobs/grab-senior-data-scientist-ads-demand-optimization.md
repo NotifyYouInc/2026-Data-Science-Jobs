@@ -1,16 +1,16 @@
-# Senior Data Scientist, Ads & Demand Optimization at Grab
+# Senior Data Scientist (Ads & Demand Optimization) at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000133998534-senior-data-scientist-ads-demand-optimization) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000149388244-senior-data-scientist-ads-demand-optimization) |
 
 ## About This Role
 
-This data scientist position at Grab was posted on 2026-06-24.
+This data scientist position at Grab was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

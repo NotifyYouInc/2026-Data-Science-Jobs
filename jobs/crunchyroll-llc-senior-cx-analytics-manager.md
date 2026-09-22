@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crunchyroll, LLC](https://scoutify.ai/companies/crunchyroll-llc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://boards.greenhouse.io/crunchyroll/jobs/8171662?gh_jid=8171662) |
 
 ## About This Role
 
-This data scientist position at Crunchyroll, LLC was posted on 2026-09-11.
+This data analyst position at Crunchyroll, LLC was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

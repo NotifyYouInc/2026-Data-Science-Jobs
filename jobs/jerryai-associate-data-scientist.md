@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/4d1942ff-e7e8-4811-a887-8e4ee9e63758) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/ef73c464-30b3-45b9-ac2c-23749561d685) |
 
 ## About This Role
 
-This data scientist position at Jerry.ai was posted on 2026-08-31.
+This data scientist position at Jerry.ai was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

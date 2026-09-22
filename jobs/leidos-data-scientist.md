@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Fort Meade, Maryland, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Data-Scientist_R-00191629) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Meade-MD/Data-Scientist_R-00191935-1) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-09-08.
+This data scientist position at Leidos was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Scientist at Thermo Fisher Scientific
+# Associate scientist at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Suzhou, Jiangsu, China |
 | Category | Data Scientist |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Associate-Scientist_R-01347563-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Suzhou-China/Associate-scientist_R-01365978) |
 
 ## About This Role
 
-This data scientist position at Thermo Fisher Scientific was posted on 2026-04-15.
+This data scientist position at Thermo Fisher Scientific was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

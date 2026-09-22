@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Riverdale, Georgia, United States |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Riverdale-MD/AI-ML-Engineer-and-Data-Scientist_R0248874) |
 
 ## About This Role
 
-This data scientist position at Booz Allen was posted on 2026-09-10.
+This data engineer position at Booz Allen was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

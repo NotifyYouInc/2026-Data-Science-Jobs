@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Kolkata, West Bengal, India |
 | Category | Data Scientist |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hong-Kong/Data-Science-Practitioner_14696577) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Data-Science-Practitioner_ATCI-5730987-S2068268-1) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-09-09.
+This data scientist position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

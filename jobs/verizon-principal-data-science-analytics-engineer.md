@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Data Engineer |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Principal-Data-Science---Analytics-Engineer_R-1100611-1) |
 
 ## About This Role
 
-This data scientist position at Verizon was posted on 2026-09-09.
+This data engineer position at Verizon was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

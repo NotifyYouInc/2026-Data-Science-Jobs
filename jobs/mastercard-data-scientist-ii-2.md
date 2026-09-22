@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Data-Scientist-II-2_R-288137) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist-II-2_R-290202) |
 
 ## About This Role
 
-This data scientist position at Mastercard was posted on 2026-09-01.
+This data scientist position at Mastercard was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

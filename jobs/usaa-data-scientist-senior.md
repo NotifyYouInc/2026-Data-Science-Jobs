@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Scientist-Senior_R0118568) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Scientist_R0117504) |
 
 ## About This Role
 
-This data scientist position at USAA was posted on 2026-07-06.
+This data scientist position at USAA was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

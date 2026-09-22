@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
-| Category | Data Scientist |
+| Category | Data Analyst |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-Op--Data-Analyst_2135233) |
 
 ## About This Role
 
-This data scientist position at Fidelity was posted on 2026-09-11.
+This data analyst position at Fidelity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

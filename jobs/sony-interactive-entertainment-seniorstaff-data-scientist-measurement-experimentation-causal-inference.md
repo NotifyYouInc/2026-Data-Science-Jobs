@@ -5,12 +5,12 @@
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6115736004) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6192774004) |
 
 ## About This Role
 
-This data scientist position at Sony Interactive Entertainment was posted on 2026-07-28.
+This data scientist position at Sony Interactive Entertainment was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

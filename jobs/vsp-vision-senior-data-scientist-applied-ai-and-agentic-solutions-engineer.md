@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VSP Vision](https://scoutify.ai/companies/vsp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Sales Engineer |
+| Category | Data Scientist |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Senior-Data-Scientist--Applied-AI-and-Agentic-Solutions-Engineer_R-9933) |
 
 ## About This Role
 
-This sales engineer position at VSP Vision was posted on 2026-09-09.
+This data scientist position at VSP Vision was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

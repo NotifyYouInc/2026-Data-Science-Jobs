@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015113936-research-associate-general) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015177996-research-associate-general) |
 
 ## About This Role
 
-This data scientist position at Harvard University was posted on 2026-09-08.
+This data scientist position at Harvard University was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

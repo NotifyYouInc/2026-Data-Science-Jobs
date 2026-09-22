@@ -5,12 +5,12 @@
 | Company | [Axle Energy](https://scoutify.ai/companies/axle-careers?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/axle-careers/c5ade6c9-22e5-4c32-8267-e4d62487c13d) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/axle-careers/14c9c220-89be-4c38-aab4-152239b5e618) |
 
 ## About This Role
 
-This data scientist position at Axle Energy was posted on 2026-07-07.
+This data scientist position at Axle Energy was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

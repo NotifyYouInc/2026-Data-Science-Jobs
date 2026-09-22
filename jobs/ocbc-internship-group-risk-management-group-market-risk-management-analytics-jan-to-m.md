@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Scientist |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Market-Risk-Management--Analytics--Jan-to-May-2027-_JR00010966) |
 
 ## About This Role
 
-This data scientist position at OCBC was posted on 2026-09-14.
+This compliance & risk management position at OCBC was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

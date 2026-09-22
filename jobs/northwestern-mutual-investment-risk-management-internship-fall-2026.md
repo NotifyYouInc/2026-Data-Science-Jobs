@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Data Scientist |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Risk-Management-Internship--Fall-2026_JR-46002) |
 
 ## About This Role
 
-This data scientist position at Northwestern Mutual was posted on 2026-09-09.
+This compliance & risk management position at Northwestern Mutual was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

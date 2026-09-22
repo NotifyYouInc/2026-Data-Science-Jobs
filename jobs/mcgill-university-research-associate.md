@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McGill University](https://scoutify.ai/companies/mcgill?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Quebec, CA |
+| Location | Montréal, Quebec, Canada |
 | Category | Data Scientist |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Lyman-Museum/Research-Associate_JR0000076019) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Stewart-Biology-Bldg/Research-Associate_JR0000079847) |
 
 ## About This Role
 
-This data scientist position at McGill University was posted on 2026-05-12.
+This data scientist position at McGill University was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

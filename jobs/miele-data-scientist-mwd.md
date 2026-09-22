@@ -5,12 +5,12 @@
 | Company | [Miele](https://scoutify.ai/companies/miele?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Gütersloh, North Rhine-Westphalia, Germany |
 | Category | Data Scientist |
-| Posted | 2026-05-11 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://miele.wd3.myworkdayjobs.com/miele-jobs/job/Gtersloh/Data-Scientist-m-w-d_R1414) |
 
 ## About This Role
 
-This data scientist position at Miele was posted on 2026-05-11.
+This data scientist position at Miele was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

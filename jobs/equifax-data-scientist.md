@@ -1,16 +1,16 @@
-# Data scientist at Equifax
+# Data Scientist at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Kerala, IN |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Data-scientist_J00177267) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Data-Scientist_J00178022) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-06-30.
+This data scientist position at Equifax was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

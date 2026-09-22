@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Data Scientist |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Scientist---Investment-Analytics_R-241381) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Scientist---Investment-Analytics_R-228276) |
 
 ## About This Role
 
-This data scientist position at Amgen was posted on 2026-04-01.
+This data scientist position at Amgen was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
