@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Compliance & Risk Management |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Internship--Group-Risk-Management--Group-Risk-Portfolio-Management--Credit-Risk-Modelling--Jan-to-May-2027-_JR00010974) |
 
 ## About This Role
 
-This compliance & risk management position at OCBC was posted on 2026-09-14.
+This asset management / portfolio management position at OCBC was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

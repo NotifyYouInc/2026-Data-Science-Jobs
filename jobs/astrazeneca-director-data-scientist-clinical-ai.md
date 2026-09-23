@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Cambridge, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Director--Data-Scientist---Clinical-AI_R-259736) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Cambridge/Director--Data-Scientist---Clinical-AI_R-259788) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-09-09.
+This data scientist position at AstraZeneca was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistician-II_R-256066-2) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistician-II_R-260078-1) |
 
 ## About This Role
 
-This data scientist position at AstraZeneca was posted on 2026-09-09.
+This data scientist position at AstraZeneca was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

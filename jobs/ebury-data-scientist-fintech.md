@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Data Scientist |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4970454101) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4977276101) |
 
 ## About This Role
 
-This data scientist position at Ebury was posted on 2026-09-08.
+This data scientist position at Ebury was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

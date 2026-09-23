@@ -1,16 +1,16 @@
-# Senior Scientist, II at AbbVie
+# Senior Scientist II at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Irvine, California, United States |
+| Location | Worcester, Massachusetts, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013203126-senior-scientist-ii) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015263726-senior-scientist-ii) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-05-19.
+This data scientist position at AbbVie was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

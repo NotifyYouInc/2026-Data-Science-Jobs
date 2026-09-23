@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Data-Scientist_26978443) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Data-Scientist_26989267) |
 
 ## About This Role
 
-This data scientist position at Citigroup was posted on 2026-07-22.
+This data scientist position at Citigroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

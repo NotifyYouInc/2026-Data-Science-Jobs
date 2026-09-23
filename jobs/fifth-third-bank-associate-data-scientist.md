@@ -5,12 +5,12 @@
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Data-Scientist_R66349) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Data-Scientist_R72860) |
 
 ## About This Role
 
-This data scientist position at Fifth Third Bank was posted on 2026-03-17.
+This data scientist position at Fifth Third Bank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

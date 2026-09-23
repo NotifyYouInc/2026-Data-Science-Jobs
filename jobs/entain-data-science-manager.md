@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000148485469-data-science-manager) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000148702714-data-science-manager) |
 
 ## About This Role
 
-This data scientist position at Entain was posted on 2026-09-09.
+This data scientist position at Entain was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Research Scientist II- Statistician at Boystown
+# Research Scientist II (Statistician) at Boystown
 
 | Field | Details |
 |-------|---------|
 | Company | [Boystown](https://scoutify.ai/companies/boystown?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Scientist-II--Statistician_REQ-2026-9329-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Scientist-II--Statistician-_REQ-2026-9330-1) |
 
 ## About This Role
 
-This data scientist position at Boystown was posted on 2026-09-04.
+This data scientist position at Boystown was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

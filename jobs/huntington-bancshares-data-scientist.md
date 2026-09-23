@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Data Scientist |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Scientist_R0070340-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Scientist_R0075782-1) |
 
 ## About This Role
 
-This data scientist position at Huntington Bancshares was posted on 2026-03-19.
+This data scientist position at Huntington Bancshares was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

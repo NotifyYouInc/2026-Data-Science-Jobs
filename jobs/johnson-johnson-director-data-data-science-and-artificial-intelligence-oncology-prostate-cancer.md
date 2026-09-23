@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 6 locations |
 | Category | Data Scientist |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Director--Data--Data-Science-and-Artificial-Intelligence---Oncology---Prostate-Cancer_R-084696-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Director--Data--Data-Science-and-Artificial-Intelligence---Oncology---Prostate-Cancer_R-099559) |
 
 ## About This Role
 
-This data scientist position at Johnson & Johnson was posted on 2026-06-26.
+This data scientist position at Johnson & Johnson was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

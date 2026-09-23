@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Miami, Florida, United States |
-| Category | Data Scientist |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Miami-FL-33178/Director--Asset-Management-Center-of-Excellence_R183347) |
 
 ## About This Role
 
-This data scientist position at Ryder System was posted on 2026-09-11.
+This asset management / portfolio management position at Ryder System was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

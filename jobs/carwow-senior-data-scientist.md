@@ -5,12 +5,12 @@
 | Company | [Carwow](https://scoutify.ai/companies/carwow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/carwow/573152da-05cd-4998-9fb2-b20a49aee2d4) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/carwow/06c4d36a-c237-4226-a11f-1ee2aa69adba) |
 
 ## About This Role
 
-This data scientist position at Carwow was posted on 2026-09-06.
+This data scientist position at Carwow was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

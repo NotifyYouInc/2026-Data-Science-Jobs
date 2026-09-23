@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Feedzai](https://scoutify.ai/companies/feedzai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Brazil |
+| Location | Atlanta, Georgia, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://careers.feedzai.com/job_description?gh_jid=8011825) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://careers.feedzai.com/job_description?gh_jid=8179773) |
 
 ## About This Role
 
-This data scientist position at Feedzai was posted on 2026-06-17.
+This data scientist position at Feedzai was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
