@@ -1,16 +1,16 @@
-# Senior Data Scientist - Product at Coinbase
+# Senior Data Scientist, Product  at Coinbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Data Scientist |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7565815?gh_jid=7565815) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668) |
 
 ## About This Role
 
-This data scientist position at Coinbase was posted on 2026-01-30.
+This data scientist position at Coinbase was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

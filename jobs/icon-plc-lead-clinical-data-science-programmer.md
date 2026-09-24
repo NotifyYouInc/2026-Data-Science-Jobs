@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 2 locations |
 | Category | Data Scientist |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Lead-Clinical-Data-Science-Programmer_JR155999) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Lead-Clinical-Data-Science-Programmer_JR160000) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-09-09.
+This data scientist position at ICON plc was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

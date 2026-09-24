@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore |
+| Location | Singapore, Singapore |
 | Category | Accounting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-274340-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075) |
 
 ## About This Role
 
-This accounting position at Mastercard was posted on 2026-03-30.
+This accounting position at Mastercard was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

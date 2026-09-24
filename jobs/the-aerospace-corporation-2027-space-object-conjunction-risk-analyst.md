@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Financial Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Space-Object-Conjunction-Risk-Analyst_R016553) |
 
 ## About This Role
 
-This financial analyst position at The Aerospace Corporation was posted on 2026-09-14.
+This compliance & risk management position at The Aerospace Corporation was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

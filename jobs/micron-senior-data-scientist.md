@@ -1,16 +1,16 @@
-# Senior Data Scientist at Micron
+# SENIOR DATA SCIENTIST at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Singapore, Singapore |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Data Scientist |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Data-Scientist_JR88945) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/SENIOR-DATA-SCIENTIST_JR111519) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-07-16.
+This data scientist position at Micron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

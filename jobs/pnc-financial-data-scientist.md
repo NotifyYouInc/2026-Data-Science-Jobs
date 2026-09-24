@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PNC-Center---Cleveland-OH001/Data-Scientist_R227703-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist_R234750-1) |
 
 ## About This Role
 
-This data scientist position at PNC Financial was posted on 2026-06-30.
+This data scientist position at PNC Financial was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

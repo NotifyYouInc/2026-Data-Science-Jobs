@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 3 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Scientist_JR183375) |
+| Location | 4 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Data-Scientist_JR207356) |
 
 ## About This Role
 
-This machine learning engineer position at Elevance Health was posted on 2026-02-23.
+This cybersecurity engineer position at Elevance Health was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

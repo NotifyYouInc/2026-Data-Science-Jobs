@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-16 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Econometric-Forecasting-Lead_R38942) |
 
 ## About This Role
 
-This data scientist position at CoStar Group was posted on 2026-05-16.
+This data scientist position at CoStar Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

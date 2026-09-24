@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132641537-consulting-consultant-confirme-senior-strategie-data-ia-generative-paris-hf) |
+| Category | Data Scientist |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149867080-consulting-consultant-confirme-senior-strategie-data-ia-generative-paris-hf) |
 
 ## About This Role
 
-This technology / it consulting position at Talan was posted on 2026-06-17.
+This data scientist position at Talan was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Long Island City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013826621-research-scientist-for-disaster-epidemiology-world-trade-center-health-registry) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015335166-research-scientist-for-disaster-epidemiology-world-trade-center-health-registry) |
 
 ## About This Role
 
-This data scientist position at City of New York was posted on 2026-06-27.
+This data scientist position at City of New York was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

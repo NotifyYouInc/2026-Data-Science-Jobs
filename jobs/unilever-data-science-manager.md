@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Hoboken, New Jersey, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
+| Location | 2 locations |
+| Category | Data Scientist |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Hoboken-US-HQ/Data-Science-Manager_R-1182609) |
 
 ## About This Role
 
-This engineering manager position at Unilever was posted on 2026-06-12.
+This data scientist position at Unilever was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sigmoid](https://scoutify.ai/companies/sigmoid?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-03-31 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sigmoid/jobs/4985961002) |
 
 ## About This Role
 
-This data scientist position at Sigmoid was posted on 2026-03-31.
+This data scientist position at Sigmoid was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
 | Category | Data Scientist |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129923) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=132703) |
 
 ## About This Role
 
-This data scientist position at IBM was posted on 2026-08-24.
+This data scientist position at IBM was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

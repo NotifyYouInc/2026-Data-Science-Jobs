@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
 | Category | Data Scientist |
-| Posted | 2026-07-09 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Livingston/Senior-Data-Scientist_JR153460) |
 
 ## About This Role
 
-This data scientist position at ICON plc was posted on 2026-07-09.
+This data scientist position at ICON plc was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

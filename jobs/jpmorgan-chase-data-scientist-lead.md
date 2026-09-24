@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743172) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771384) |
 
 ## About This Role
 
-This data scientist position at JPMorgan Chase was posted on 2026-05-07.
+This data scientist position at JPMorgan Chase was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

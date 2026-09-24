@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | 4 locations |
 | Category | Data Scientist |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Data-Scientist---Level-4_R10233119) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Oxnard/Data-Scientist---Level-4_R10251111) |
 
 ## About This Role
 
-This data scientist position at Northrop Grumman was posted on 2026-05-18.
+This data scientist position at Northrop Grumman was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

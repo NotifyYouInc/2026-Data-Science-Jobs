@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Financial Crimes & AML |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Data-Scientist---KYC--ING-Hubs-Romania_REQ-10114733) |
+| Category | Data Scientist |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Data-Scientist---KYC--ING-Hubs-Romania_REQ-10121570) |
 
 ## About This Role
 
-This financial crimes & aml position at ING was posted on 2026-05-12.
+This data scientist position at ING was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

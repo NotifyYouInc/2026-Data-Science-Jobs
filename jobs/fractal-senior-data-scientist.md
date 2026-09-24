@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 7 locations |
+| Location | New York City, New York, United States |
 | Category | Data Scientist |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Data-Scientist_SR-42046-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Data-Scientist_SR-45474) |
 
 ## About This Role
 
-This data scientist position at Fractal was posted on 2026-05-14.
+This data scientist position at Fractal was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

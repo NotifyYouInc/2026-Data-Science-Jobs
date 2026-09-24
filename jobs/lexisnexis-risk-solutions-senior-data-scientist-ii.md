@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | North Carolina, US |
 | Category | Data Scientist |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Senior-Data-Scientist-II_R111798-2) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/California/Senior-Data-Scientist-II_R111795-2) |
 
 ## About This Role
 
-This data scientist position at LexisNexis Risk Solutions was posted on 2026-09-01.
+This data scientist position at LexisNexis Risk Solutions was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
