@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Karnataka, IN |
-| Category | Machine Learning Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Data-Science---AI-Specialist_JR00032330) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Data Scientist |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Data-Science---AI-Specialist_JR00045473) |
 
 ## About This Role
 
-This machine learning engineer position at ABB was posted on 2026-04-20.
+This data scientist position at ABB was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

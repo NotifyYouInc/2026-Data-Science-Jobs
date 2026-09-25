@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Parker, Colorado, United States |
-| Category | Data Scientist |
+| Category | Legal |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Parker-CO-US/Asymmetric-Legal-Advisor---Data-Scientist_332112) |
 
 ## About This Role
 
-This data scientist position at CACI was posted on 2026-09-15.
+This legal position at CACI was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

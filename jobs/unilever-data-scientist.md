@@ -1,16 +1,16 @@
-# Data scientist at Unilever
+# Data Scientist at Unilever
 
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Not specified |
+| Location | Bengaluru, Karnataka, India |
 | Category | Data Scientist |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/AIR-Office/Data-scientist_R-1174395-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Unilever-RD-Bangalore/Data-Scientist_R-1187992) |
 
 ## About This Role
 
-This data scientist position at Unilever was posted on 2026-06-10.
+This data scientist position at Unilever was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

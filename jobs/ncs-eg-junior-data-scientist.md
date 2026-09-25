@@ -1,16 +1,16 @@
-# #EG Junior Data Scientist  at NCS
+# #EG Junior Data Scientist at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
 | Category | Data Scientist |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001242822-eg-junior-data-scientist) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001418925-eg-junior-data-scientist) |
 
 ## About This Role
 
-This data scientist position at NCS was posted on 2026-07-17.
+This data scientist position at NCS was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

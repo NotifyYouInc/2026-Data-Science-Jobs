@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5152127007) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5240967007) |
 
 ## About This Role
 
-This data scientist position at Xometry was posted on 2026-06-01.
+This data scientist position at Xometry was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

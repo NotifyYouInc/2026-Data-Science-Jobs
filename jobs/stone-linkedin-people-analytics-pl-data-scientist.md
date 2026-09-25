@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stone - Linkedin](https://scoutify.ai/companies/stone?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Brazil |
-| Category | Data Scientist |
+| Category | Human Resources / People Ops |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/stone/jobs/7991509003) |
 
 ## About This Role
 
-This data scientist position at Stone - Linkedin was posted on 2026-09-15.
+This human resources / people ops position at Stone - Linkedin was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

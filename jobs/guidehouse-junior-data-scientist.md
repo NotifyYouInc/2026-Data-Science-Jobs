@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | 2 locations |
+| Location | Norfolk, Virginia, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Junior-Data-Scientist_44323) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Norfolk/Junior-Data-Scientist_44340) |
 
 ## About This Role
 
-This data scientist position at Guidehouse was posted on 2026-09-11.
+This data scientist position at Guidehouse was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Analytics Consultant - at Wells Fargo
+# Lead Analytics Consultant at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Philippines |
 | Category | Data Scientist |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Analytics-Consultant--_R-570561) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Lead-Analytics-Consultant_R-576257) |
 
 ## About This Role
 
-This data scientist position at Wells Fargo was posted on 2026-08-30.
+This data scientist position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

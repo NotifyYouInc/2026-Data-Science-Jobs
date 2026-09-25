@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013862016-associate-data-sciences-ii) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015355021-associate-data-sciences-ii) |
 
 ## About This Role
 
-This data scientist position at AbbVie was posted on 2026-06-30.
+This data scientist position at AbbVie was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

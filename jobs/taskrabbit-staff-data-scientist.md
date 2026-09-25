@@ -5,12 +5,12 @@
 | Company | [Taskrabbit](https://scoutify.ai/companies/taskrabbit?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/taskrabbit/jobs/7651557) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/taskrabbit/jobs/8212036) |
 
 ## About This Role
 
-This data scientist position at Taskrabbit was posted on 2026-02-28.
+This data scientist position at Taskrabbit was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

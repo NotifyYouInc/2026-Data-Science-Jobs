@@ -1,16 +1,16 @@
-# Data scientist at Caterpillar
+# Data Scientist at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Ciénega de Flores, Nuevo León, Mexico |
+| Location | East Peoria, Illinois, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cienega-de-Flores-Facility-6/Data-scientist_R0000392164) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Data-Scientist_R0000394837) |
 
 ## About This Role
 
-This data scientist position at Caterpillar was posted on 2026-09-02.
+This data scientist position at Caterpillar was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

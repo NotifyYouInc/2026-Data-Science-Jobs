@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Data Scientist |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Data-Scientist---Mid-Level-active-TS-SCI_R-00187262-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Data-Scientist---Mid-Level-active-TS-SCI_R-00192357) |
 
 ## About This Role
 
-This data scientist position at Leidos was posted on 2026-07-14.
+This data scientist position at Leidos was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
