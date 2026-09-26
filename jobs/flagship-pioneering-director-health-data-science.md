@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flagship Pioneering](https://scoutify.ai/companies/flagshippioneeringinc?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8790786002?gh_jid=8790786002) |
 
 ## About This Role
 
-This data scientist position at Flagship Pioneering was posted on 2026-09-15.
+This ai / ml research position at Flagship Pioneering was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

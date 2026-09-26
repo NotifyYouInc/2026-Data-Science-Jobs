@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Singapore, Singapore |
-| Category | Data Scientist |
+| Category | QA Engineer |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Manufacturing-Test-Engineer_JR111417) |
 
 ## About This Role
 
-This data scientist position at Micron was posted on 2026-09-16.
+This qa engineer position at Micron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Israel |
 | Category | Data Scientist |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000149262489-staff-data-scientist) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000150106419-staff-data-scientist) |
 
 ## About This Role
 
-This data scientist position at ServiceNow was posted on 2026-09-14.
+This data scientist position at ServiceNow was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

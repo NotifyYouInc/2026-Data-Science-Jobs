@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Data Scientist |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Data-Scientist_R8478) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Data-Scientist_R8577) |
 
 ## About This Role
 
-This data scientist position at CAI was posted on 2026-09-04.
+This cybersecurity engineer position at CAI was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

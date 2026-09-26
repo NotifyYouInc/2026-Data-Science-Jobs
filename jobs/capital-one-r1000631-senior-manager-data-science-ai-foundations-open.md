@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 4 locations |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/R1000631-Senior-Manager--Data-Science---AI-Foundations--Open-_R1000648-1) |
 
 ## About This Role
 
-This data scientist position at Capital One was posted on 2026-09-14.
+This ai / ml research position at Capital One was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

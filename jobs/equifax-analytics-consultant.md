@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Data Scientist |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Costanera-Piso-31/Analytics-Consultant_J00178972) |
 
 ## About This Role
 
-This data scientist position at Equifax was posted on 2026-09-16.
+This technology / it consulting position at Equifax was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

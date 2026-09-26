@@ -5,12 +5,12 @@
 | Company | [Verana Health](https://scoutify.ai/companies/verana-health?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Data Scientist |
-| Posted | 2026-08-12 |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/veranahealth/jobs/8635416002) |
 
 ## About This Role
 
-This data scientist position at Verana Health was posted on 2026-08-12.
+This data scientist position at Verana Health was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Basel, Basel-City, Switzerland |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Basel-City/Data-Science---AI-Innovation-Postdoctoral-Fellow-in-Machine-Learning-for-Chemical-Synthesis-and-Reactivity-Prediction_REQ-10082641) |
 
 ## About This Role
 
-This data scientist position at Novartis was posted on 2026-09-16.
+This ai / ml research position at Novartis was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

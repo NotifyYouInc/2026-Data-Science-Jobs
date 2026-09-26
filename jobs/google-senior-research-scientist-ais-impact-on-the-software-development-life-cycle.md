@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | 3 locations |
-| Category | Data Scientist |
+| Category | AI / ML Research |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUzIGqcZ09WPjzFWcoU4DqV1hiswCn6GwV-_A0_jh8FdEjoA9yzvgkNDwij54RD15hfeQZcnN4ZwEQ2hS5q3cUC11D60Sags1vlbNm6Ig8cUPQ8IUGMKEvsr6T5Y_V2&loc=US&title=Senior+Research+Scientist) |
 
 ## About This Role
 
-This data scientist position at Google was posted on 2026-09-16.
+This ai / ml research position at Google was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

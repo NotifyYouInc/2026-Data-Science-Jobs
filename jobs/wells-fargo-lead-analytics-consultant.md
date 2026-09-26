@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Philippines |
-| Category | Data Scientist |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Taguig-City-Philippines/Lead-Analytics-Consultant_R-576257) |
 
 ## About This Role
 
-This data scientist position at Wells Fargo was posted on 2026-09-18.
+This technology / it consulting position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

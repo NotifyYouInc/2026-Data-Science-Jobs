@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | North Wales, Pennsylvania, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-18 |
+| Category | Data Analyst |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director---Business-Insights---Analytics--US-Oncology--Digital-Human-Health_R400982) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-06-18.
+This data analyst position at Merck was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

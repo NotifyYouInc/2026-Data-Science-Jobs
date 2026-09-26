@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Data Scientist |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000145687959-operations-research-consultant) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000150363359-operations-research-consultant) |
 
 ## About This Role
 
-This data scientist position at SIA was posted on 2026-08-26.
+This technology / it consulting position at SIA was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | United States |
-| Category | Data Scientist |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000150208179-principal-data-ai-consultant) |
 
 ## About This Role
 
-This data scientist position at Endava was posted on 2026-09-17.
+This technology / it consulting position at Endava was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Data Scientist |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Madrid/Supply-Chain-Data-Manager_R00297271) |
 
 ## About This Role
 
-This data scientist position at Accenture was posted on 2026-09-15.
+This technology / it consulting position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

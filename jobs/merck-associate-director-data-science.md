@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=data-science-jobs) |
-| Location | West Point, Mississippi, United States |
+| Location | North Wales, Pennsylvania, United States |
 | Category | Data Scientist |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Associate-Director--Data-Science_R417031-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director--Data-Science_R417898) |
 
 ## About This Role
 
-This data scientist position at Merck was posted on 2026-09-10.
+This data scientist position at Merck was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
